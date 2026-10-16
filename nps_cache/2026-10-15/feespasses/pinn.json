@@ -1,0 +1,280 @@
+{
+ "_meta": {
+  "endpoint": "feespasses",
+  "park_code": "pinn",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 1,
+  "fetched_at": "2026-10-15T18:18:32"
+ },
+ "data": [
+  {
+   "parkCode": "pinn",
+   "isFeeFreePark": false,
+   "isInteragencyPassAccepted": true,
+   "cashless": "Yes",
+   "feesAtWorkUrl": "https://www.nps.gov/pinn/learn/management/yourdollarsatwork.htm",
+   "entranceFeeDescription": "A park entrance pass is required year-round at Pinnacles National Park. Visitors entering the park have multiple pass and entrance fee options available depending on how they arrive to the park. We accept major credit cards and mobile payment services (we do not accept cash) when you arrive. If you are arriving in a private vehicle, you only need to pay the vehicle fee (not the per-person fee). If the entrance station is unstaffed when you arrive, you can pay on the way out or digitally. America the Beautiful\u2014National Parks and Federal Recreational Lands Annual Passes do cover park entrance fees. Display federal lands passes, such as annual and military passes, on your dashboard with the signature and expiration date facing up. Passes are non-transferable and passholder must be present.",
+   "entrancePassDescription": "",
+   "isParkingFeePossible": false,
+   "parkingDetailsUrl": "",
+   "timedEntryHeading": "",
+   "timedEntryDescription": "",
+   "isParkingOrTransportationFeePossible": false,
+   "paidParkingHeading": "",
+   "paidParkingDescription": "",
+   "customFeeHeading": "",
+   "customFeeDescription": "",
+   "customFeeLinkUrl": "",
+   "customFeeLinkText": "",
+   "contentOrderOrdinals": {
+    "entranceFee": 1,
+    "timedEntry": 2,
+    "paidParking": 3,
+    "customFee": 4
+   },
+   "relatedMultiSitePasses": [],
+   "fees": [
+    {
+     "entranceFeeType": "Entrance - Private Vehicle",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/73983",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "30.00",
+     "timedEntryShortDescription": "",
+     "description": "This pass is valid for 1-7 days and includes everyone traveling in a single, private (non-commercial) vehicle up to 15 passengers to Pinnacles East Entrance and West Entrance.",
+     "informationUrl": "",
+     "id": "5FD4A1F4-7430-48B3-B89B-33855587BBB9",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Entrance - Motorcycle",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/73983",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "25.00",
+     "timedEntryShortDescription": "",
+     "description": "Valid for 7 days. Admits up to 2 private, non-commercial motorcycles, scooters, or similar motorized vehicles with up to 4 total passengers to Pinnacles East Entrance and West Entrance.",
+     "informationUrl": "",
+     "id": "48BBDD79-8D4F-49A2-BA86-A9D73E26A06A",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Entrance - Per Person",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/73983",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "15.00",
+     "timedEntryShortDescription": "",
+     "description": "This entry fee is for a single person traveling on foot or by bicycle.  It is valid for 1-7 days to Pinnacles East Entrance and West Entrance.",
+     "informationUrl": "",
+     "id": "213B9B62-4C1F-4FC8-9393-552E8FCDAC13",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Entrance - Non-commercial Groups",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "15.00",
+     "timedEntryShortDescription": "",
+     "description": "Non-commercial groups traveling in vehicles that have a capacity of 16 passengers or more pay $15 per person up to the maximums listed for commercial groups with comparable passenger capacity ($40 or $100). People 15 years old or younger, anyone with a pass that may be used for park entry, and drivers hired for transportation only are exempt from the per person fee.",
+     "informationUrl": "",
+     "id": "F7B31AAB-CC17-4B84-BE4E-119CB4C76D6F",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Commercial Entrance - Sedan",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "30.00",
+     "timedEntryShortDescription": "",
+     "description": "The charge for vehicles with a seating capacity of 1-6 passengers is $30. This entrance fee is for commercial tours of one or more people traveling on an itinerary that has been packaged, priced, or sold for leisure or recreational purposes by an organization that realizes financial gain through the provision of the service. Passenger ages or entrance passes do not affect the price.",
+     "informationUrl": "",
+     "id": "4BFBB2A3-7932-4A9A-96E8-685A5788A053",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Commercial Entrance - Van",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "40.00",
+     "timedEntryShortDescription": "",
+     "description": "This entrance fee is for commercial tours of vehicles with a seating capacity of 7-15 people that has been packaged, priced, or sold for leisure or recreational puposes by an organization that realizes financial gain through the provision of the service. This fee is based on the seating capacity of the vehicle and not the actual number of passengers. Passengers ages or entrance passes do not affect the price.",
+     "informationUrl": "",
+     "id": "DAD4C961-89BF-4B27-B138-D4F803454D5B",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Commercial Entrance - Mini-bus",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "40.00",
+     "timedEntryShortDescription": "",
+     "description": "This entrance fee is for commercial trous of vehicles with a seating capacity of 16-25 people that has been packaged, priced, or sold for leisure or recreational purposes by an organization that realizes financial gain through the provision of the sevice. This fee is based on the seating capacity of the vehicle and not the actual number of passengers. Passengers ages or entrance passes do not affect the price.",
+     "informationUrl": "",
+     "id": "07DD8FF3-B640-4A44-9E06-B3F4C6BC928E",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Commercial Entrance - Motor Coach",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "100.00",
+     "timedEntryShortDescription": "",
+     "description": "This entrance fee is for commercial tours of vehicles with a seating capacity of 26 or more people that has been packaged, priced, or sold for leisure or recreational purposes by an organization that realizes financial gain through the provision of the service. This fee is based on the seating capacity of the vehicle and not the actual number of passengers. Passenger ages or entrance passes do not affect the price.",
+     "informationUrl": "",
+     "id": "D9DBE99B-A2E2-4E86-90E8-DBAD807C1EF8",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Entrance - Education/Academic Groups",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "0.00",
+     "timedEntryShortDescription": "",
+     "description": "School groups and other academic institutions may qualify for an Educational Fee Waiver. If not qualified, please check fees for large or commercial groups.",
+     "informationUrl": "",
+     "id": "42E3907C-21CC-4B1C-9D32-4E4116516EEA",
+     "npsGovPurchaseUrl": ""
+    }
+   ],
+   "passes": [
+    {
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "55.00",
+     "image": [
+      {
+       "credit": "NPS Photo",
+       "title": "Pinnacles Annual Pass",
+       "altText": "Pinnacles Annual Pass",
+       "caption": "Westside at sunset",
+       "url": "https://www.nps.gov/common/uploads/entrance_pass/294D1CEE-B793-25B4-170FF12C0765F0A5.jpg"
+      }
+     ],
+     "description": "The Pinnacles Annual Pass is available to U.S citizens and residents only. It is valid only at Pinnacles and may be purchased online or in person. It is valid for 12 months from purchase month. This pass admits up to two motorcycles (including passengers), or up to 15 passengers of a single, private (non-commercial) vehicle to Pinnacles National Park.",
+     "paymentDescription": "",
+     "category": "Annual Entrance - Park",
+     "informationUrl": "",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/73983",
+     "id": "7C30CDF6-4056-459B-86EB-E9CCB601A544",
+     "npsGovPurchaseUrl": ""
+    }
+   ]
+  }
+ ]
+}

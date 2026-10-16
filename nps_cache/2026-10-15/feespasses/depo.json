@@ -1,0 +1,41 @@
+{
+ "_meta": {
+  "endpoint": "feespasses",
+  "park_code": "depo",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 1,
+  "fetched_at": "2026-10-15T18:18:51"
+ },
+ "data": [
+  {
+   "parkCode": "depo",
+   "isFeeFreePark": true,
+   "isInteragencyPassAccepted": false,
+   "cashless": "",
+   "feesAtWorkUrl": "",
+   "entranceFeeDescription": "Nearly all visitors must use a shuttle bus (with fee) to visit Devils Postpile. For those excepted from the shuttle requirement, Inyo National Forest charges an entrance fee to Reds Meadow Valley, which you must pay in order to drive to Devils Postpile.",
+   "entrancePassDescription": "",
+   "isParkingFeePossible": true,
+   "parkingDetailsUrl": "https://www.nps.gov/depo/planyourvisit/reds-meadow-and-devils-postpile-shuttle-information.htm",
+   "timedEntryHeading": "",
+   "timedEntryDescription": "",
+   "isParkingOrTransportationFeePossible": true,
+   "paidParkingHeading": "",
+   "paidParkingDescription": "",
+   "customFeeHeading": "",
+   "customFeeDescription": "",
+   "customFeeLinkUrl": "",
+   "customFeeLinkText": "",
+   "contentOrderOrdinals": {
+    "entranceFee": 1,
+    "timedEntry": 1,
+    "paidParking": 1,
+    "customFee": 4
+   },
+   "relatedMultiSitePasses": [],
+   "fees": [],
+   "passes": []
+  }
+ ]
+}

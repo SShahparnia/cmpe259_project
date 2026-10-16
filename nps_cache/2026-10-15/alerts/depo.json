@@ -1,0 +1,22 @@
+{
+ "_meta": {
+  "endpoint": "alerts",
+  "park_code": "depo",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 1,
+  "fetched_at": "2026-10-15T18:18:50"
+ },
+ "data": [
+  {
+   "id": "8C034D7D-22D4-4B44-892A-C4E016ED4457",
+   "url": "https://www.fs.usda.gov/r05/inyo/projects/reds-meadow-road-reconstruction",
+   "title": "Reds Meadow Road Access Restrictions in 2026",
+   "parkCode": "depo",
+   "description": "Reds Meadow Road remains under construction in 2026 and will be closed Monday through Friday through November 1 (closed for the season starting November 2).",
+   "category": "Park Closure",
+   "relatedRoadEvents": [],
+   "lastIndexedDate": "2026-09-18 00:00:00.0"
+  }
+ ]
+}

@@ -1,0 +1,1848 @@
+{
+ "_meta": {
+  "endpoint": "campgrounds",
+  "park_code": "jotr",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 9,
+  "fetched_at": "2026-10-15T18:18:43"
+ },
+ "data": [
+  {
+   "id": "6742B85D-65DA-447C-95C2-80E110AA5E6A",
+   "url": "https://www.nps.gov/jotr/planyourvisit/jumbo-rocks-campground.htm",
+   "name": "Jumbo Rocks Campground",
+   "parkCode": "jotr",
+   "description": "There are 124 individual/family sites in Jumbo Rocks Campground. Reservations are required. The campground is centrally located and offers great views of rock formations. This campground is very popular, and sites book up quickly. Campsite fees will increase to $30 per site starting January 1, 2025.",
+   "latitude": "33.9907564453",
+   "longitude": "-116.059251838",
+   "latLong": "{lat:33.9907564453, lng:-116.059251838}",
+   "audioDescription": "Jumbo Rocks Campground is a desert campground nestled among large rock formations. The campground is made up of paved roads with several loops with camping spots to accommodate tents and RVs. Each camping spot has a parking area, picnic table, fire pit, and campsite marker. The ground is hard and rocky. Throughout the campground there are many Joshua trees, small trees, and shrubs. Scattered around the campground you can find trash and recycling cans, bathrooms, and a couple of trailheads.",
+   "isPassportStampLocation": "0",
+   "passportStampLocationDescription": "",
+   "passportStampImages": [],
+   "geometryPoiId": "FBD6CDA7-3AE4-4D5B-96D9-3C2891230C93",
+   "reservationInfo": "Reservations are required year-round and can be made up to six months in advance. Book a site at www.recreation.gov or by calling 877-444-6777.",
+   "reservationUrl": "https://www.recreation.gov/camping/campgrounds/272300",
+   "regulationsurl": "https://www.nps.gov/jotr/planyourvisit/camping-regulations.htm",
+   "regulationsOverview": "Each site is varied on size and parking. Ensure you know the specifications of your campsite on recreation.gov before purchasing your permit. A vehicle towing a trailer, popup, tent trailer, or fifth wheel, or a motorhome towing a vehicle, is considered two vehicles. Camping fees must be paid within one hour of selecting a campsite. Check in and check out are at noon. There is a 30-day camping limit each year. Only 14 of these nights may take place from October-May. All tents, tarps, and other camping equipment must be set up within 25 feet (7.6 m) of the picnic table or fire grate. Food must be stored securely where wildlife cannot get to it. Any scented or odorous items, including sunscreen and toiletries, must be secured as if they were food. Campsites left vacant for 24 hours will be treated as vacant. Holding or reserving campsites for persons not present is not allowed. Pets must remain on leash at all times and may not be left unattended. No slacklines in campgrounds.",
+   "amenities": {
+    "trashRecyclingCollection": "Yes - year round",
+    "toilets": [
+     "Vault Toilets - year round"
+    ],
+    "internetConnectivity": "No",
+    "showers": [
+     "None"
+    ],
+    "cellPhoneReception": "No",
+    "laundry": "No",
+    "amphitheater": "Yes - year round",
+    "dumpStation": "No",
+    "campStore": "No",
+    "staffOrVolunteerHostOnsite": "No",
+    "potableWater": [
+     "No water"
+    ],
+    "iceAvailableForSale": "No",
+    "firewoodForSale": "No",
+    "foodStorageLockers": "No"
+   },
+   "contacts": {
+    "phoneNumbers": [
+     {
+      "phoneNumber": "760-367-3001",
+      "description": "",
+      "extension": "",
+      "type": "Voice"
+     }
+    ],
+    "emailAddresses": [
+     {
+      "description": "",
+      "emailAddress": "jotr_info@nps.gov"
+     }
+    ]
+   },
+   "fees": [
+    {
+     "cost": "30.00",
+     "description": "A maximum of six people, three tents, and two cars may occupy an individual campsite, only if there is space available. Some sites only have enough parking for one vehicle.",
+     "title": "Jumbo Rocks Campsite"
+    },
+    {
+     "cost": "15.00",
+     "description": "Nightly camping fee for one site for a camper with a Senior or Access pass. A maximum of six people, three tents, and two cars may occupy an individual campsite, only if there is space available. Some sites only have enough parking for one vehicle.",
+     "title": "Senior/Access Pass Jumbo Rocks Campsite"
+    }
+   ],
+   "directionsOverview": "Jumbo Rocks Campground is centrally located along Park Boulevard. The campground is approximately 12 miles from Twentynine Palms and 21 miles from the town of Joshua Tree.",
+   "directionsUrl": "http://www.nps.gov/jotr/planyourvisit/directions.htm",
+   "operatingHours": [
+    {
+     "exceptions": [],
+     "description": "Campgrounds are open 24 hours a day. Check in and check out are at noon. Quiet hours are from 10:00 pm to 6:00 am.",
+     "standardHours": {
+      "wednesday": "All Day",
+      "monday": "All Day",
+      "thursday": "All Day",
+      "sunday": "All Day",
+      "tuesday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day"
+     },
+     "name": "Jumbo Rocks Campground"
+    }
+   ],
+   "addresses": [
+    {
+     "postalCode": "92277",
+     "city": "Twentynine Palms",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Jumbo Rocks Campground",
+     "type": "Physical",
+     "line3": "",
+     "line2": "Park Boulevard"
+    },
+    {
+     "postalCode": "92277",
+     "city": "Twentynine Palms",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Joshua Tree National Park",
+     "type": "Mailing",
+     "line3": "",
+     "line2": "74485 National Park Drive"
+    }
+   ],
+   "images": [
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Jumbo Rocks Information Board",
+     "altText": "An RV drives past an campground information board.",
+     "caption": "Jumbo Rocks accommodates both RVs and tent camping. There are 124 individual/family sites in this campground. All are first come, first served.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C87710B-1DD8-B71B-0B5B4148F563B496.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Jumbo Rocks Campsite",
+     "altText": "A picnic table and fire pit are in a campsite surrounded by boulders and some vegetation.",
+     "caption": "There are 124 individual/family sites in this campground. All are first come, first served.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C8772C3-1DD8-B71B-0B56BE1C2A101822.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "View from Jumbo Rocks Campground",
+     "altText": "A landscape photograph of rocky outcrops and vegetation.",
+     "caption": "Jumbo Rocks Campground is located in a large boulder field. Skull Rock Nature Trail loops near the campground, leading visitors among the rock features and native plants.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C87744A-1DD8-B71B-0B315E5E4CD7B8BA.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Jumbo Rocks Amphitheater",
+     "altText": "Rows of seats are in front of a stage. Behind the stage are large rock formations.",
+     "caption": "Jumbo Rocks Campground has an amphitheater for ranger programs.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C877628-1DD8-B71B-0BF50F037702F089.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Jumbo Rocks Campsite and Facilities",
+     "altText": "A campsite with a parking space in front is next to a restroom.",
+     "caption": "Site 122 in Jumbo Rocks Campground is wheelchair accessible.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C8777F9-1DD8-B71B-0B2E45A90C58C161.jpg"
+    },
+    {
+     "credit": "NPS Photo/Samantha Laarman",
+     "crops": [],
+     "title": "Jumbo Rocks Accessible Site",
+     "altText": "A picnic table, grill, and fire pit sit in a sandy area between large rock formations.",
+     "caption": "Jumbo Rocks Accessible Site",
+     "url": "https://www.nps.gov/common/uploads/structured_data/957FCAF8-F104-DF7E-1DEB26A67F8614CB.jpg"
+    }
+   ],
+   "weatherOverview": "Days are typically clear with less than 25% humidity. Temperatures are most comfortable in the spring and fall, with an average high/low of 85 and 50\u00b0F (29 and 10\u00b0C) respectively. Winter brings cooler days, around 60\u00b0F (15\u00b0C), and freezing nights. It occasionally snows at higher elevations. Summers are hot, over 100\u00b0F (38\u00b0C) during the day and may cool to around 75\u00b0F (24\u00b0C) at night. Weather can change quickly. Check a weather forecast before camping.",
+   "numberOfSitesReservable": "124",
+   "numberOfSitesFirstComeFirstServe": "0",
+   "campsites": {
+    "totalSites": "124",
+    "group": "0",
+    "horse": "0",
+    "tentOnly": "0",
+    "electricalHookups": "0",
+    "rvOnly": "0",
+    "walkBoatTo": "0",
+    "other": "0"
+   },
+   "accessibility": {
+    "wheelchairAccess": "Campsite 122 is wheelchair accessible and has space for one small tent, and an RV and up to 24 feet in length. Trailers are not permitted at site 122. Many campsites have flat but unpaved terrain.",
+    "internetInfo": "",
+    "cellPhoneInfo": "",
+    "fireStovePolicy": "Because of the park's very dry climate, fire danger in Joshua Tree is almost always very high. Be cautious. Campfires are allowed only in designated fire rings or grills that are found in park campgrounds or picnic areas. Keep fires small. Bring your own firewood. You may not gather park vegetation, whether living or dead, to fuel your campfire. If you plan to have a campfire, bring extra water to douse it thoroughly.",
+    "rvAllowed": "1",
+    "rvInfo": "RVs are allowed at Jumbo Rocks Campground. There is no water and no hookups. Site 84 is roughly 40 feet and is the longest campsite. Not all sites have space for trailers and RVs, and some can only take short trailers and RVs. Please go to recreation.gov and review the Site Details and Allowable Vehicles section of the desired campsite before booking your site.",
+    "rvMaxLength": "35",
+    "additionalInfo": "",
+    "trailerMaxLength": "20",
+    "adaInfo": "Site 122 in Jumbo Rocks Campground is an ADA accessible campsite. Most campsites can have uneven terrain. Most roads are paved but walking paths around the campground are not. There is a short, unpaved path to the amphitheater. Other campgrounds with ADA accessible campsites include Indian Cove (site 1) and Black Rock (site 61). Directly across from campsite 1, a paved path leads to a vault toilet that is designated as accessible. There are often sandy patches on the road and paths, and conditions may change in wet or windy weather. There are other vault toilets throughout the campground.",
+    "trailerAllowed": "1",
+    "accessRoads": [
+     "Paved Roads - All vehicles OK"
+    ],
+    "classifications": [
+     "Limited Development Campground"
+    ]
+   },
+   "multimedia": [],
+   "relevanceScore": 1.0,
+   "lastIndexedDate": ""
+  },
+  {
+   "id": "F825CA55-5923-48FE-B11D-CD55B5F53B88",
+   "url": "https://www.nps.gov/jotr/planyourvisit/white-tank-campground.htm",
+   "name": "White Tank Campground",
+   "parkCode": "jotr",
+   "description": "This is small campground with 15 sites. There are pit toilets, picnic tables, and fire pits. There is no water available. RVs and vehicles with trailers may not exceed 25 feet. To secure a site, 1. Locate an empty campsite. 2. Occupy the site (set up a tent or leave personal items to show occupancy). 3. Proceed immediately to an entrance station to complete registration and pay. You must pay for the site within one hour of set up. If entrance stations are closed, payment may be delayed until morning.",
+   "latitude": "33.985738",
+   "longitude": "-116.0166743",
+   "latLong": "{lat:33.985738, lng:-116.0166743}",
+   "audioDescription": "White Tank Campground is a desert campground nestled among rocky outcrops and large boulders. The campground is made up of a main dirt road with two small loops and a small side road with camping spots to accommodate tents and RVs. Each camping spot has a dirt parking area, picnic table, fire pit, and campsite marker. The ground is hard and rocky. Throughout the campground there are many Joshua trees, small trees, and shrubs. Scattered around the campground you can find trash and recycling cans as well as two bathrooms. In the middle of the campground there is a parking area and a trailhead.",
+   "isPassportStampLocation": "0",
+   "passportStampLocationDescription": "",
+   "passportStampImages": [],
+   "geometryPoiId": "",
+   "reservationInfo": "White Tank Campground is first-come, first-served throughout the year.",
+   "reservationUrl": "",
+   "regulationsurl": "https://www.nps.gov/jotr/planyourvisit/camping-regulations.htm",
+   "regulationsOverview": "RVs must not exceed 25 feet in length. Each site is varied on size and parking. Ensure you know the specifications of your campsite on recreation.gov before buying a permit. A vehicle towing a trailer, popup, tent trailer, or fifth wheel, or a motorhome towing a vehicle, is considered two vehicles. Camping fees must be paid within one hour of selecting a campsite. Check in and check out are at noon. There is a 30-day camping limit each year. Only 14 of these nights may take place from October-May. All tents, tarps, and other camping equipment must be set up within 25 feet (7.6 m) of the picnic table or fire grate. Food must be stored securely where wildlife cannot get to it. Any scented or odorous items, including sunscreen and toiletries, must be secured as if they were food. Campsites left vacant for 24 hours will be treated as vacant. Holding or reserving campsites for persons not present is not allowed. Pets must remain on leash at all times and may not be left unattended. No slacklines in campgrounds.",
+   "amenities": {
+    "trashRecyclingCollection": "Yes - year round",
+    "toilets": [
+     "Vault Toilets - year round"
+    ],
+    "internetConnectivity": "No",
+    "showers": [
+     "None"
+    ],
+    "cellPhoneReception": "No",
+    "laundry": "No",
+    "amphitheater": "No",
+    "dumpStation": "No",
+    "campStore": "No",
+    "staffOrVolunteerHostOnsite": "No",
+    "potableWater": [
+     "No water"
+    ],
+    "iceAvailableForSale": "No",
+    "firewoodForSale": "No",
+    "foodStorageLockers": "No"
+   },
+   "contacts": {
+    "phoneNumbers": [
+     {
+      "phoneNumber": "760-367-3001",
+      "description": "",
+      "extension": "",
+      "type": "Voice"
+     }
+    ],
+    "emailAddresses": [
+     {
+      "description": "",
+      "emailAddress": "jotr_info@nps.gov"
+     }
+    ]
+   },
+   "fees": [
+    {
+     "cost": "25.00",
+     "description": "Camping fees must be paid at an entrance station. A maximum of six people, three tents, and two cars may occupy an individual campsite, only if there is space available. Some sites only have enough parking for one vehicle.",
+     "title": "Individual Campsite at White Tank"
+    },
+    {
+     "cost": "12.50",
+     "description": "Nightly camping fee for one site for a camper with a Senior or Access pass. Camping fees must be paid at an entrance station. A maximum of six people, three tents, and two cars may occupy an individual campsite, only if there is space available. Some sites only have enough parking for one vehicle.",
+     "title": "Senior/Access Pass Individual Campsite at White Tank"
+    }
+   ],
+   "directionsOverview": "White Tank is located off Pinto Basin Road in the northern end of the park. The campground is 11 miles from Twentynine Palms and 28 miles from the Cottonwood Visitor Center.",
+   "directionsUrl": "http://www.nps.gov/jotr/planyourvisit/directions.htm",
+   "operatingHours": [
+    {
+     "exceptions": [
+      {
+       "exceptionHours": {
+        "wednesday": "Closed",
+        "monday": "Closed",
+        "thursday": "Closed",
+        "sunday": "Closed",
+        "tuesday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed"
+       },
+       "startDate": "2027-06-01",
+       "name": "Summer Closure",
+       "endDate": "2027-08-28"
+      }
+     ],
+     "description": "All campgrounds and campsites are subject to closure, but typically campgrounds are open 24 hours a day, everyday. Check in and check out are at noon. Quiet hours are from 10:00 pm to 6:00 am.",
+     "standardHours": {
+      "wednesday": "All Day",
+      "monday": "All Day",
+      "thursday": "All Day",
+      "sunday": "All Day",
+      "tuesday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day"
+     },
+     "name": "White Tank Campground"
+    }
+   ],
+   "addresses": [
+    {
+     "postalCode": "92277",
+     "city": "Twentynine Palms",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "White Tank Campground",
+     "type": "Physical",
+     "line3": "",
+     "line2": "Pinto Basin Road"
+    },
+    {
+     "postalCode": "92277",
+     "city": "Twentynine",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Joshua Tree National Park",
+     "type": "Mailing",
+     "line3": "",
+     "line2": "74485 National Park Drive"
+    }
+   ],
+   "images": [
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "White Tank Campsite",
+     "altText": "A picnic table and fire pit are in a campsite. Behind them are large boulders.",
+     "caption": "White Tank Campground is nestled among immense granite boulders. The Arch Rock Nature Trail is located here - leading to a spectacular formation.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C87A77D-1DD8-B71B-0B1A132368DD9747.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Campsite at White Tank",
+     "altText": "A picnic table and fire ring are in a campsite that has a view looking out on a boulder field.",
+     "caption": "The view from White Tank looks out over a large boulder field of granitic rock making it a popular campground.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C87A9F2-1DD8-B71B-0BF067F772779A17.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Campsite in White Tank Campground",
+     "altText": "A picnic table and fire ring are in a campsite adjacent to a large boulder.",
+     "caption": "There are 15 campsites in White Tank Campground and they are surrounded by boulders.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C87AE75-1DD8-B71B-0BCCA3DB98862DFB.jpg"
+    },
+    {
+     "credit": "NPS/Brad Sutton",
+     "crops": [],
+     "title": "Campground View",
+     "altText": "Rocky desert landscape",
+     "caption": "View looking out from campground",
+     "url": "https://www.nps.gov/common/uploads/structured_data/E142E424-F84B-7226-316A91E1D69D6880.jpg"
+    }
+   ],
+   "weatherOverview": "Days are typically clear with less than 25% humidity. Temperatures are most comfortable in the spring and fall, with an average high/low of 85 and 50\u00b0F (29 and 10\u00b0C) respectively. Winter brings cooler days, around 60\u00b0F (15\u00b0C), and freezing nights. It occasionally snows at higher elevations. Summers are hot, over 100\u00b0F (38\u00b0C) during the day and may cool to around 75\u00b0F (24\u00b0C) at night. Weather can change quickly. Check a weather forecast before camping.",
+   "numberOfSitesReservable": "0",
+   "numberOfSitesFirstComeFirstServe": "15",
+   "campsites": {
+    "totalSites": "15",
+    "group": "0",
+    "horse": "0",
+    "tentOnly": "0",
+    "electricalHookups": "0",
+    "rvOnly": "0",
+    "walkBoatTo": "0",
+    "other": "0"
+   },
+   "accessibility": {
+    "wheelchairAccess": "Roads are not paved, nor are campgrounds. Though most campsites are relatively flat, the terrain can be uneven.",
+    "internetInfo": "",
+    "cellPhoneInfo": "",
+    "fireStovePolicy": "Because of the park's very dry climate, fire danger in Joshua Tree is almost always very high. Be cautious. Campfires are allowed only in designated fire rings or grills that are found in park campgrounds or picnic areas. Keep fires small. Bring your own firewood. You may not gather park vegetation, whether living or dead, to fuel your campfire. If you plan to have a campfire, bring extra water to douse it thoroughly.",
+    "rvAllowed": "1",
+    "rvInfo": "RVs may not exceed a combined maximum length of 25 feet. There is no water and no hookups. There are no hookups for RVs at any campground in Joshua Tree.",
+    "rvMaxLength": "24",
+    "additionalInfo": "",
+    "trailerMaxLength": "24",
+    "adaInfo": "There are no ADA accessible campsites in White Tank Campground. Campgrounds with ADA accessible campsites include Indian Cove (site 1), Jumbo Rocks (site 122), and Black Rock (site 61).",
+    "trailerAllowed": "1",
+    "accessRoads": [
+     "Unpaved Roads - All vehicles OK in good weather"
+    ],
+    "classifications": [
+     "Limited Development Campground"
+    ]
+   },
+   "multimedia": [],
+   "relevanceScore": 1.0,
+   "lastIndexedDate": ""
+  },
+  {
+   "id": "760FD8AD-0493-43CE-8D6F-C58438BD8212",
+   "url": "https://www.nps.gov/jotr/planyourvisit/sheep-pass-group-campground.htm",
+   "name": "Sheep Pass Group Campground",
+   "parkCode": "jotr",
+   "description": "Sheep Pass Group Campground has 6 group campsites and is centrally located within Joshua Tree National Park and is easily accessible to hiking trails and rock climbing routes. All campsites are by reservation only. It is one of three group campgrounds in the park. Towering rock formations and uniquely-shaped Joshua trees surround the facility. There is no water available in the campground. Campsite fees are increasing to $55 starting January 1, 2025",
+   "latitude": "34.0000909433",
+   "longitude": "-116.120500649",
+   "latLong": "{lat:34.0000909433, lng:-116.120500649}",
+   "audioDescription": "Sheep Pass Campground is a desert campground nestled among rocky outcrops and mountains. The campground is a paved and dirt road with a loop for containing six large group camping spots to accommodate tents. Each camping spot has a dirt parking area, picnic table, fire pit, and campsite marker. The ground is hard and rocky. Throughout the campground there are many Joshua trees, small trees, and shrubs. Scattered around the campground you can find trash and recycling cans, bathrooms, and a couple of trailheads.",
+   "isPassportStampLocation": "0",
+   "passportStampLocationDescription": "",
+   "passportStampImages": [],
+   "geometryPoiId": "0D8E0A16-134A-4B2E-82EC-47D9EDC626C9",
+   "reservationInfo": "Reservations are required year-round and can be made up to six months in advance. Book a site at www.recreation.gov or by calling 877-444-6777. Sites can accommodate 10-60 people.",
+   "reservationUrl": "https://www.recreation.gov/camping/campgrounds/232470",
+   "regulationsurl": "https://www.nps.gov/jotr/planyourvisit/camping-regulations.htm",
+   "regulationsOverview": "Please see regulations at: http://www.nps.gov/jotr/planyourvisit/campgrounds.htm",
+   "amenities": {
+    "trashRecyclingCollection": "Yes - year round",
+    "toilets": [
+     "Vault Toilets - year round"
+    ],
+    "internetConnectivity": "No",
+    "showers": [
+     "None"
+    ],
+    "cellPhoneReception": "No",
+    "laundry": "No",
+    "amphitheater": "No",
+    "dumpStation": "No",
+    "campStore": "No",
+    "staffOrVolunteerHostOnsite": "No",
+    "potableWater": [
+     "No water"
+    ],
+    "iceAvailableForSale": "No",
+    "firewoodForSale": "No",
+    "foodStorageLockers": "No"
+   },
+   "contacts": {
+    "phoneNumbers": [
+     {
+      "phoneNumber": "760-367-3001",
+      "description": "",
+      "extension": "",
+      "type": "Voice"
+     }
+    ],
+    "emailAddresses": [
+     {
+      "description": "",
+      "emailAddress": "jotr_info@nps.gov"
+     }
+    ]
+   },
+   "fees": [
+    {
+     "cost": "55.00",
+     "description": "Sheep Pass has 6 campsites. Tents only. RVs and habitable trailers prohibited.",
+     "title": "Group Campsite at Sheep Pass"
+    },
+    {
+     "cost": "27.50",
+     "description": "Nightly camping fee for one site for a camper with a Senior or Access pass. Sheep Pass has 6 campsites that range in price from $17.50-25 depending on site capacity. Tents only. RVs and habitable trailers prohibited.",
+     "title": "Senior/Access Pass Group Campsite at Sheep Pass"
+    }
+   ],
+   "directionsOverview": "The campground is located off of Park Boulevard, 16 miles from Twentynine Palms and 18 miles from the town of Joshua Tree.",
+   "directionsUrl": "http://www.nps.gov/jotr/planyourvisit/directions.htm",
+   "operatingHours": [
+    {
+     "exceptions": [],
+     "description": "All campgrounds and campsites are subject to closure, but typically campgrounds are open 24 hours a day, everyday. Check in and check out are at noon. Quiet hours are from 10:00 pm to 6:00 am.",
+     "standardHours": {
+      "wednesday": "All Day",
+      "monday": "All Day",
+      "thursday": "All Day",
+      "sunday": "All Day",
+      "tuesday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day"
+     },
+     "name": "Sheep Pass Group Campground"
+    }
+   ],
+   "addresses": [
+    {
+     "postalCode": "92277",
+     "city": "Twentynine Palms",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Sheep Pass Group Campground",
+     "type": "Physical",
+     "line3": "",
+     "line2": "Park Boulevard"
+    },
+    {
+     "postalCode": "92277",
+     "city": "Twentynine Palms",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Joshua Tree National Park",
+     "type": "Mailing",
+     "line3": "",
+     "line2": "74485 National Park Drive"
+    }
+   ],
+   "images": [
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Sheep Pass Group Campground",
+     "altText": "Two informational boards at the sheep pass group campground with large rocky outcrops behind them.",
+     "caption": "Sheep Pass Group Campground is centrally located within Joshua Tree National Park and has easy access to hiking trails and rock climbing routes.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C879AF1-1DD8-B71B-0B4E738D70ABDA64.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Campsite at Sheep Pass Group Campground",
+     "altText": "A sign that reads \"Group Site 4\". Behind are three picnic tables, a fire ring and a fire grate.",
+     "caption": "Sheep Pass is one of three group campgrounds in the park.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C879C31-1DD8-B71B-0B97119A95574DA3.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Facilities at Sheep Pass Group Campground",
+     "altText": "An dirt road and a small paved walking path lead to a vault toilet.",
+     "caption": "Sheep Pass has some amenities including vault toilets, picnic tables and fire rings. There is no water, cell service or a store of any kind at the campground.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C879DD8-1DD8-B71B-0B73461C2122A7DF.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Sheep Pass Group Campground",
+     "altText": "A landscape view of the campground with a campsite, tents, a parking lot, and a dirt road in view.",
+     "caption": "Towering rock formations and uniquely-shaped Joshua trees surround Sheep Pass Campground.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C879F51-1DD8-B71B-0B9E35F10ACBE0A7.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Sheep Pass Campsite",
+     "altText": "A campsite with picnic tables and surrounded by large rocky formations.",
+     "caption": "The campground is surrounded by towering rock formations.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C87A0A9-1DD8-B71B-0B005528BDF99D1D.jpg"
+    }
+   ],
+   "weatherOverview": "Days are typically clear with less than 25% humidity. Temperatures are most comfortable in the spring and fall, with an average high/low of 85 and 50\u00b0F (29 and 10\u00b0C) respectively. Winter brings cooler days, around 60\u00b0F (15\u00b0C), and freezing nights. It occasionally snows at higher elevations. Summers are hot, over 100\u00b0F (38\u00b0C) during the day and may cool to around 75\u00b0F (24\u00b0C) at night. Weather can change quickly. Check a weather forecast before camping.",
+   "numberOfSitesReservable": "6",
+   "numberOfSitesFirstComeFirstServe": "0",
+   "campsites": {
+    "totalSites": "6",
+    "group": "6",
+    "horse": "0",
+    "tentOnly": "6",
+    "electricalHookups": "0",
+    "rvOnly": "0",
+    "walkBoatTo": "0",
+    "other": "0"
+   },
+   "accessibility": {
+    "wheelchairAccess": "There is a paved, flat path to a restroom facility, but roads are not paved, nor are campgrounds. Though most campsites are relatively flat, the terrain can be uneven.",
+    "internetInfo": "",
+    "cellPhoneInfo": "",
+    "fireStovePolicy": "Because of the park's very dry climate, fire danger in Joshua Tree is almost always very high. Be cautious. Campfires are allowed only in designated fire rings or grills that are found in park campgrounds or picnic areas. Keep fires small. Bring your own firewood. You may not gather park vegetation, whether living or dead, to fuel your campfire. If you plan to have a campfire, bring extra water to douse it thoroughly.",
+    "rvAllowed": "0",
+    "rvInfo": "RVs and habitable trailers are prohibited.",
+    "rvMaxLength": "0",
+    "additionalInfo": "",
+    "trailerMaxLength": "0",
+    "adaInfo": "There are no ADA accessible campsites in Sheep Pass Campground. Campgrounds with ADA accessible campsites include Indian Cove (site 1), Jumbo Rocks (site 122), and Black Rock (site 61).",
+    "trailerAllowed": "0",
+    "accessRoads": [
+     "Unpaved Roads - All vehicles OK in good weather"
+    ],
+    "classifications": [
+     "Limited Development Campground"
+    ]
+   },
+   "multimedia": [],
+   "relevanceScore": 1.0,
+   "lastIndexedDate": ""
+  },
+  {
+   "id": "F08972F9-3943-4003-8499-B0B2EA41A1C7",
+   "url": "https://www.nps.gov/jotr/planyourvisit/ryan-campground.htm",
+   "name": "Ryan Campground",
+   "parkCode": "jotr",
+   "description": "Ryan Campground has 31 campsites. All campsites are reservation only. The campground is centrally located in the park and is adjacent to the California Riding and Hiking Trail. There are 4 designated equestrian sites and reservations are required. For more equestrian campsites, see Black Rock Campground. There is no water available at Ryan Campground. There are 3 bicycle sites available at $5 per night, with no more than 3 tents and 3 people per campsite.",
+   "latitude": "33.9830583392",
+   "longitude": "-116.154390354",
+   "latLong": "{lat:33.9830583392, lng:-116.154390354}",
+   "audioDescription": "Ryan Campground is a desert campground nestled among rocky outcrops and mountains. The campground is has a dirt road with a main loop for regular camping spots to accommodate tents and RVs as well as a small side loop for horse campsites. Each camping spot has a dirt parking area, picnic table, fire pit, and campsite marker. The ground is hard and rocky. Throughout the campground there are many Joshua trees, small trees, and shrubs. Scattered around the campground you can find trash and recycling cans, bathrooms, and a couple of trailheads.",
+   "isPassportStampLocation": "0",
+   "passportStampLocationDescription": "",
+   "passportStampImages": [],
+   "geometryPoiId": "B4D5C09D-25EC-4804-A3A3-F1BF326E063D",
+   "reservationInfo": "Reservations are required year-round and can be made up to six months in advance. Book a site at www.recreation.gov or by calling 877-444-6777.",
+   "reservationUrl": "https://www.recreation.gov/camping/campgrounds/10056207",
+   "regulationsurl": "https://www.nps.gov/jotr/planyourvisit/camping-regulations.htm",
+   "regulationsOverview": "There are restrictions to equestrian use in Joshua Tree National Park. Before visiting with stock familiarize yourself with the rules and regulations http://www.nps.gov/jotr/planyourvisit/horseback-riding.htm. Also familiarize yourself with camping rules and regulations. The full list can be found at: http://www.nps.gov/jotr/planyourvisit/campgrounds.htm. A partial list is below: Each site is varied on size and parking. Ensure you know the specifications of your campsite on recreation.gov before buying your permit. Check in and check out are at noon. There is a 30-day camping limit each year. Only 14 of these nights may take place from October-May. All tents, tarps, and other camping equipment must be set up within 25 feet of the picnic table. Food must be stored securely where wildlife cannot get to it. Campsites left vacant for 24 hours will be treated as vacant. Holding or reserving campsites for persons not present is not allowed. Pets must remain on leash at all times and may not be left unattended.",
+   "amenities": {
+    "trashRecyclingCollection": "Yes - year round",
+    "toilets": [
+     "Vault Toilets - year round"
+    ],
+    "internetConnectivity": "No",
+    "showers": [
+     "None"
+    ],
+    "cellPhoneReception": "No",
+    "laundry": "No",
+    "amphitheater": "No",
+    "dumpStation": "No",
+    "campStore": "No",
+    "staffOrVolunteerHostOnsite": "No",
+    "potableWater": [
+     "No water"
+    ],
+    "iceAvailableForSale": "No",
+    "firewoodForSale": "No",
+    "foodStorageLockers": "No"
+   },
+   "contacts": {
+    "phoneNumbers": [
+     {
+      "phoneNumber": "760-367-3001",
+      "description": "",
+      "extension": "",
+      "type": "Voice"
+     }
+    ],
+    "emailAddresses": [
+     {
+      "description": "",
+      "emailAddress": "jotr_info@nps.gov"
+     }
+    ]
+   },
+   "fees": [
+    {
+     "cost": "30.00",
+     "description": "A maximum of six people, three tents, and two cars may occupy an individual campsite, only if there is space available. Some sites only have enough parking for one vehicle.",
+     "title": "Ryan Individual Campsite"
+    },
+    {
+     "cost": "30.00",
+     "description": "Reservations are required for horse campsites. There are 4 horse sites available.",
+     "title": "Ryan Horse Site"
+    },
+    {
+     "cost": "5.00",
+     "description": "Sites 32A, 32B and 32C are for bicyclist, first-come, first-served. Three people max and no parking for support vehicles.",
+     "title": "Ryan Bicycle Sites"
+    },
+    {
+     "cost": "15.00",
+     "description": "Nightly camping fee for one site for a camper with a Senior or Access pass. A maximum of six people, three tents, and two cars may occupy an individual campsite, only if there is space available. Some sites only have enough parking for one vehicle.",
+     "title": "Senior/Access Pass Ryan Individual Campsite"
+    },
+    {
+     "cost": "15.00",
+     "description": "Nightly camping fee for one site for a camper with a Senior or Access pass. Reservations are required for horse campsites. There are 4 horse sites available",
+     "title": "Senior/Access Pass Ryan Horse Site"
+    },
+    {
+     "cost": "2.50",
+     "description": "Nightly camping fee for one site for a camper with a Senior or Access pass. Sites 32A, 32B and 32C are for bicyclist, first-come, first-served. They are $5 per person, per night. Three people max and no parking for support vehicles.",
+     "title": "Senior/Access Pass Ryan Bicycle Campsite"
+    }
+   ],
+   "directionsOverview": "Ryan Campground is centrally located along Park Boulevard. The campground is 17 miles from the town of Joshua Tree and 18 miles from Twentynine Palms.",
+   "directionsUrl": "http://www.nps.gov/jotr/planyourvisit/directions.htm",
+   "operatingHours": [
+    {
+     "exceptions": [],
+     "description": "Ryan campground is open year-round and is reservable through recreation.gov.",
+     "standardHours": {
+      "wednesday": "All Day",
+      "monday": "All Day",
+      "thursday": "All Day",
+      "sunday": "All Day",
+      "tuesday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day"
+     },
+     "name": "Ryan Campground"
+    }
+   ],
+   "addresses": [
+    {
+     "postalCode": "92277",
+     "city": "Twentynine Palms",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Ryan Campground",
+     "type": "Physical",
+     "line3": "",
+     "line2": "Park Boulevard"
+    },
+    {
+     "postalCode": "92277",
+     "city": "Twentynine Palms",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Joshua Tree National Park",
+     "type": "Mailing",
+     "line3": "",
+     "line2": "74485 National Park Drive"
+    }
+   ],
+   "images": [
+    {
+     "credit": "NPS/Brad Sutton",
+     "crops": [],
+     "title": "Ryan Campground Entrance",
+     "altText": "An unpaved road and campground signage is surrounded by vegetation and rock formations.",
+     "caption": "Ryan Campground has 31 sites including 4 equestrian sites.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C877BCE-1DD8-B71B-0B9C1228BBB0A2A2.jpg"
+    },
+    {
+     "credit": "NPS/Brad Sutton",
+     "crops": [],
+     "title": "Ryan Campground Facilities",
+     "altText": "A small wheel chair accessible vault toilet and parking space.",
+     "caption": "Ryan Campground has vault toilets and no water.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C8780EB-1DD8-B71B-0B4995039688A363.jpg"
+    },
+    {
+     "credit": "NPS/Brad Sutton",
+     "crops": [],
+     "title": "Ryan Campsite",
+     "altText": "Two tents, a picnic table, fire ring, and Joshua tree are in a campsite.",
+     "caption": "There are 31 campsites at this centrally located campground. Mt. Ryan and Cap Rock are close by attractions.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C8784B4-1DD8-B71B-0B464AE0F2AA3387.jpg"
+    },
+    {
+     "credit": "NPS/Brad Sutton",
+     "crops": [],
+     "title": "Ryan Campground Horse Camp",
+     "altText": "A sign that reads \"Horse Camp\".",
+     "caption": "Ryan Campground has 4 equestrian campsites. Reservations for equestrian sites are required.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C8786A1-1DD8-B71B-0B7866B6C2AB4B0F.jpg"
+    },
+    {
+     "credit": "NPS/Brad Sutton.",
+     "crops": [],
+     "title": "Campsite at Ryan Campground",
+     "altText": "A tent and picnic table are surrounded by a large rock outcrop and vegetation.",
+     "caption": "There are 31 campsites at Ryan Campground. Nearby attractions include Ryan Mountain and Cap Rock.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C87894D-1DD8-B71B-0B652970B63F0E8C.jpg"
+    }
+   ],
+   "weatherOverview": "Days are typically clear with less than 25% humidity. Temperatures are most comfortable in the spring and fall, with an average high/low of 85 and 50\u00b0F (29 and 10\u00b0C) respectively. Winter brings cooler days, around 60\u00b0F (15\u00b0C), and freezing nights. It occasionally snows at higher elevations. Summers are hot, over 100\u00b0F (38\u00b0C) during the day and may cool to around 75\u00b0F (24\u00b0C) at night. Weather can change quickly. Check a weather forecast before camping.",
+   "numberOfSitesReservable": "31",
+   "numberOfSitesFirstComeFirstServe": "0",
+   "campsites": {
+    "totalSites": "32",
+    "group": "0",
+    "horse": "3",
+    "tentOnly": "0",
+    "electricalHookups": "0",
+    "rvOnly": "0",
+    "walkBoatTo": "0",
+    "other": "3"
+   },
+   "accessibility": {
+    "wheelchairAccess": "Ryan Campground has unpaved roads and campsites. There is a wheelchair accessible restroom.",
+    "internetInfo": "",
+    "cellPhoneInfo": "",
+    "fireStovePolicy": "Because of the park's very dry climate, fire danger in Joshua Tree is almost always very high. Be cautious. Campfires are allowed only in designated fire rings or grills that are found in park campgrounds or picnic areas. Keep fires small. Bring your own firewood. You may not gather park vegetation, whether living or dead, to fuel your campfire. If you plan to have a campfire, bring extra water to douse it thoroughly.",
+    "rvAllowed": "1",
+    "rvInfo": "RVs are allowed. There is no water and no hookups.",
+    "rvMaxLength": "35",
+    "additionalInfo": "Equestrian use is allowed with restrictions in Joshua Tree National Park. Stock use is limited to horses and mules and is restricted to designated equestrian trails and corridors, open dirt roads, and shoulders of paved roads. Riders should travel single file to reduce damage to soil and vegetation. Stock animals are not permitted within 1/4 mile of any natural or constructed water source. Horses and other stock are not permitted on nature trails, in the Wonderland of Rocks, in campgrounds, in picnic areas, or at any visitor centers. a permit is required to camp with stock in the backcountry; call 760-367-5545. Equestrian trail maps are available at visitor centers. http://www.nps.gov/jotr/planyourvisit/horseback-riding.htm",
+    "trailerMaxLength": "35",
+    "adaInfo": "There are no ADA accessible campsites at Ryan Campground. Campgrounds with ADA accessible campsites include Indian Cove (site 1), Jumbo Rocks (site 122), and Black Rock (site 61).",
+    "trailerAllowed": "1",
+    "accessRoads": [
+     "Unpaved Roads - All vehicles OK in good weather"
+    ],
+    "classifications": [
+     "Limited Development Campground"
+    ]
+   },
+   "multimedia": [],
+   "relevanceScore": 1.0,
+   "lastIndexedDate": ""
+  },
+  {
+   "id": "E456A79A-B17D-4D7C-8866-C3FFE9290283",
+   "url": "https://www.nps.gov/jotr/planyourvisit/indian-cove-campground.htm",
+   "name": "Indian Cove Campground",
+   "parkCode": "jotr",
+   "description": "Indian Cove Campground is located off of Highway 62, thirteen miles east of Joshua Tree Village and ten miles west of Twentynine Palms. It has 101 campsites, including thirteen group campsites. Between Memorial Day and Labor Day, there are 39 reservable sites. There are vault toilets but no water at the campsites. There is a water bottle/jug filling station at the small ranger station roughly two miles north of the campground. For a RV-filling station, there is one at our headquarters in 29 Palms.",
+   "latitude": "34.0934671523",
+   "longitude": "-116.158853563",
+   "latLong": "{lat:34.0934671523, lng:-116.158853563}",
+   "audioDescription": "Indian Cove Campground is a desert campground nestled among rocky outcrops and mountains. The campground is made up of a mix of paved and dirt roads making several loops with camping spots to accommodate tents and RVs. Each camping spot has a dirt parking area, picnic table, fire pit, and campsite marker. The ground is hard and rocky. Throughout the campground there are many Joshua trees, small trees, and shrubs. Scattered around the campground you can find trash and recycling cans, bathrooms, and a couple of trailheads.",
+   "isPassportStampLocation": "0",
+   "passportStampLocationDescription": "",
+   "passportStampImages": [],
+   "geometryPoiId": "0B6E6E57-3373-461B-BC0D-468C6EE52B7A",
+   "reservationInfo": "Reservations are required year-round and can be made up to six months in advance. Book a site at www.recreation.gov or by calling 877-444-6777.",
+   "reservationUrl": "https://www.recreation.gov/camping/campgrounds/232472",
+   "regulationsurl": "https://www.nps.gov/jotr/planyourvisit/camping-regulations.htm",
+   "regulationsOverview": "Each site is varied on size and parking. Ensure you know the specifications of your campsite on recreation.gov before purchasing your permit. A vehicle towing a trailer, popup, tent trailer, or fifth wheel, or a motorhome towing a vehicle, is considered two vehicles. Camping fees must be paid within one hour of selecting a campsite. Check in and check out are at noon. There is a 30-day camping limit each year. Only 14 of these nights may take place from October-May. All tents, tarps, and other camping equipment must be set up within 25 feet (7.6 m) of the picnic table or fire grate. Food must be stored securely where wildlife cannot get to it. Any scented or odorous items, including sunscreen and toiletries, must be secured as if they were food. Campsites left vacant for 24 hours will be treated as vacant. Holding or reserving campsites for persons not present is not allowed. Pets must remain on leash at all times and may not be left unattended. No slacklines in campgrounds.",
+   "amenities": {
+    "trashRecyclingCollection": "Yes - year round",
+    "toilets": [
+     "Vault Toilets - year round"
+    ],
+    "internetConnectivity": "No",
+    "showers": [
+     "None"
+    ],
+    "cellPhoneReception": "No",
+    "laundry": "No",
+    "amphitheater": "Yes - year round",
+    "dumpStation": "No",
+    "campStore": "No",
+    "staffOrVolunteerHostOnsite": "Yes - seasonal",
+    "potableWater": [
+     "No water"
+    ],
+    "iceAvailableForSale": "No",
+    "firewoodForSale": "No",
+    "foodStorageLockers": "No"
+   },
+   "contacts": {
+    "phoneNumbers": [
+     {
+      "phoneNumber": "760-367-3001",
+      "description": "",
+      "extension": "",
+      "type": "Voice"
+     }
+    ],
+    "emailAddresses": [
+     {
+      "description": "",
+      "emailAddress": "jotr_info@nps.gov"
+     }
+    ]
+   },
+   "fees": [
+    {
+     "cost": "35.00",
+     "description": "A maximum of six people, three tents, and two cars may occupy an individual campsite, only if there is space available. Some sites only have enough parking for one vehicle.",
+     "title": "Individual Campsite at Indian Cove"
+    },
+    {
+     "cost": "55.00",
+     "description": "There are 13 Group Campsites at Indian Cove Campground. These group sites can accommodate RVs or trailers, but maximum combined length can be no more than 25 feet.",
+     "title": "Group Campsite at Indian Cove"
+    },
+    {
+     "cost": "17.50",
+     "description": "Nightly camping fee for one site for a camper with a Senior or Access pass. A maximum of six people, three tents, and two cars may occupy an individual campsite, only if there is space available. Some sites only have enough parking for one vehicle.",
+     "title": "Senior/Access Pass Individual Campsite at Indian Cove"
+    },
+    {
+     "cost": "27.50",
+     "description": "Nightly camping fee for one site for a camper with a Senior or Access pass. There are 13 Group Campsites at Indian Cove Campground. These group sites can accommodate RVs or trailers, but maximum combined length can be no more than 25 feet.",
+     "title": "Senior/Access Group Campsite at Indian Cove"
+    }
+   ],
+   "directionsOverview": "",
+   "directionsUrl": "",
+   "operatingHours": [
+    {
+     "exceptions": [
+      {
+       "exceptionHours": {
+        "wednesday": "All Day",
+        "monday": "All Day",
+        "thursday": "All Day",
+        "sunday": "All Day",
+        "tuesday": "All Day",
+        "friday": "All Day",
+        "saturday": "All Day"
+       },
+       "startDate": "2027-06-01",
+       "name": "Partial Summer Closure",
+       "endDate": "2027-08-28"
+      }
+     ],
+     "description": "Campgrounds are open 24 hours a day. Check in and check out are at noon. Quiet hours are from 10:00 pm to 6:00 am.",
+     "standardHours": {
+      "wednesday": "All Day",
+      "monday": "All Day",
+      "thursday": "All Day",
+      "sunday": "All Day",
+      "tuesday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day"
+     },
+     "name": "Indian Cove Campground"
+    }
+   ],
+   "addresses": [
+    {
+     "postalCode": "92277",
+     "city": "Twentynine Palms",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Indian Cove Campground",
+     "type": "Physical",
+     "line3": "",
+     "line2": "Indian Cove Mountain Road"
+    },
+    {
+     "postalCode": "92277",
+     "city": "Twentynine Palms",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Joshua Tree National Park",
+     "type": "Mailing",
+     "line3": "",
+     "line2": "74485 National Park Drive"
+    }
+   ],
+   "images": [
+    {
+     "credit": "NPS photo",
+     "crops": [],
+     "title": "Indian Cove Entrance Station",
+     "altText": "A sign that reads 'Joshua Tree National Park... Indian Cove'. Behind it is a building.",
+     "caption": "The entrance station at Indian Cove Campground. You can pay the camping fee and get water here.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C86FDBD-1DD8-B71B-0BD5293B784DC843.jpg"
+    },
+    {
+     "credit": "NPS photo",
+     "crops": [],
+     "title": "Restrooms at Indian Cove",
+     "altText": "A paved path leading to a small vault toilet.",
+     "caption": "Indian Cove Campground has no running water around the campsites but there are vault toilets available.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C86FFCB-1DD8-B71B-0B5AB5161C24BD1B.jpg"
+    },
+    {
+     "credit": "NPS/Lian Law",
+     "crops": [],
+     "title": "Indian Cove Campground",
+     "altText": "Looking down on Indian Cove Campground with the road, a vault toilet and campsites.",
+     "caption": "Indian Cove Campground lies amid the huge, steep rock formations for which Joshua Tree National Park is known.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C870122-1DD8-B71B-0BBE5CC8210F64EA.jpg"
+    },
+    {
+     "credit": "NPS photo",
+     "crops": [],
+     "title": "Amphitheater at Indian Cove",
+     "altText": "Rows of seats and a stage surrounded by a large rock formation.",
+     "caption": "Indian Cove has an amphitheater for ranger programs and talks.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C8702BF-1DD8-B71B-0B4A2B2E4B0F4ADC.jpg"
+    },
+    {
+     "credit": "NPS/Hannah Schwalbe",
+     "crops": [],
+     "title": "Indian Cove Group Campsite",
+     "altText": "Several tents and picnic tables lit up in the evening in front of large rock formations.",
+     "caption": "One of Indian Cove Campground's group sites.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3B5D0DFE-D9F7-A7CA-802DA0BDF48711B8.jpg"
+    }
+   ],
+   "weatherOverview": "Days are typically clear with less than 25% humidity. Temperatures are most comfortable in the spring and fall, with an average high/low of 85 and 50\u00b0F (29 and 10\u00b0C) respectively. Winter brings cooler days, around 60\u00b0F (15\u00b0C), and freezing nights. It occasionally snows at higher elevations. Summers are hot, over 100\u00b0F (38\u00b0C) during the day and may cool to around 75\u00b0F (24\u00b0C) at night. Weather can change quickly. Check a weather forecast before camping.",
+   "numberOfSitesReservable": "101",
+   "numberOfSitesFirstComeFirstServe": "0",
+   "campsites": {
+    "totalSites": "101",
+    "group": "13",
+    "horse": "0",
+    "tentOnly": "0",
+    "electricalHookups": "0",
+    "rvOnly": "0",
+    "walkBoatTo": "0",
+    "other": "0"
+   },
+   "accessibility": {
+    "wheelchairAccess": "Most roads and paths are unpaved and uneven.",
+    "internetInfo": "",
+    "cellPhoneInfo": "Cell phone service is spotty and unreliable.",
+    "fireStovePolicy": "Because of the park's very dry climate, fire danger in Joshua Tree is almost always very high. Be cautious. Campfires are allowed only in designated fire rings or grills that are found in park campgrounds or picnic areas. Keep fires small. Bring your own firewood. You may not gather park vegetation, whether living or dead, to fuel your campfire. If you plan to have a campfire, bring extra water to douse it thoroughly.",
+    "rvAllowed": "1",
+    "rvInfo": "There are no hookups for RVs at any campground in Joshua Tree. Generator use is permitted only from 7:00-9:00 am, 12:00-2:00 pm, and 5:00-7:00 pm.",
+    "rvMaxLength": "35",
+    "additionalInfo": "There is potable water near the entrance and fee station to the campground, but none in the campground.",
+    "trailerMaxLength": "35",
+    "adaInfo": "Site 1 in Indian Cove Campground is an ADA accessible campsite. Other campgrounds with ADA accessible campsites include Jumbo Rocks Campground (site 122) and Black Rock Campground (site 61). Directly across from campsite 1, a paved path leads to a vault toilet that is designated as accessible. There are often sandy patches on the road and paths, and conditions may change in wet or windy weather. There are other vault toilets throughout the campground.",
+    "trailerAllowed": "1",
+    "accessRoads": [
+     "Unpaved Roads - All vehicles OK in good weather"
+    ],
+    "classifications": [
+     "Limited Development Campground"
+    ]
+   },
+   "multimedia": [],
+   "relevanceScore": 1.0,
+   "lastIndexedDate": ""
+  },
+  {
+   "id": "8271D39A-48E1-4693-B3E2-2DBE4C3511D2",
+   "url": "https://www.nps.gov/jotr/planyourvisit/hidden-valley-campground.htm",
+   "name": "Hidden Valley Campground",
+   "parkCode": "jotr",
+   "description": "The Hidden Valley Campground has 44 sites. There are pit toilets, picnic tables, and fire pits. There is no water so bring plenty of your own. To secure a campsite, 1. Locate an empty campsite. 2. Occupy the site (set up a tent or leave personal items to show site occupancy). 3. Proceed immediately to an entrance station to complete registration and pay. You must pay for the site within one hour of set up. If arriving after entrance stations close, payment may be delayed until the following morning.",
+   "latitude": "34.0171884426",
+   "longitude": "-116.162736958",
+   "latLong": "{lat:34.0171884426, lng:-116.162736958}",
+   "audioDescription": "Hidden Valley Campground is a desert campground nestled among rocky outcrops and large boulders. The campground is made up of a mix of paved and dirt roads making a couple of small loops with camping spots to accommodate tents and RVs. Each camping spot has a dirt parking area, picnic table, fire pit, and campsite marker. The ground is hard and rocky. Throughout the campground there are many Joshua trees, small trees, and shrubs. Scattered around the campground you can find trash and recycling cans, bathrooms, and a couple of trailheads",
+   "isPassportStampLocation": "0",
+   "passportStampLocationDescription": "",
+   "passportStampImages": [],
+   "geometryPoiId": "E630E73F-2A67-4251-B42C-170BD22D5CEF",
+   "reservationInfo": "Hidden Valley Campground is first-come, first-served year round.",
+   "reservationUrl": "",
+   "regulationsurl": "https://www.nps.gov/jotr/planyourvisit/camping-regulations.htm",
+   "regulationsOverview": "Each site is varied on size and parking. Ensure you know the specifications of your campsite on recreation.gov before purchasing your permit. A vehicle towing a trailer, popup, tent trailer, or fifth wheel, or a motorhome towing a vehicle, is considered two vehicles. Camping fees must be paid within one hour of selecting a campsite. Check in and check out are at noon. There is a 30-day camping limit each year. Only 14 of these nights may take place from October-May. All tents, tarps, and other camping equipment must be set up within 25 feet (7.6 m) of the picnic table or fire grate. Food must be stored securely where wildlife cannot get to it. Any scented or odorous items, including sunscreen and toiletries, must be secured as if they were food. Campsites left vacant for 24 hours will be treated as vacant. Holding or reserving campsites for persons not present is not allowed. Pets must remain on leash at all times and may not be left unattended. No slacklines in campgrounds.",
+   "amenities": {
+    "trashRecyclingCollection": "Yes - year round",
+    "toilets": [
+     "Vault Toilets - year round"
+    ],
+    "internetConnectivity": "No",
+    "showers": [
+     "None"
+    ],
+    "cellPhoneReception": "No",
+    "laundry": "No",
+    "amphitheater": "No",
+    "dumpStation": "No",
+    "campStore": "No",
+    "staffOrVolunteerHostOnsite": "No",
+    "potableWater": [
+     "No water"
+    ],
+    "iceAvailableForSale": "No",
+    "firewoodForSale": "No",
+    "foodStorageLockers": "No"
+   },
+   "contacts": {
+    "phoneNumbers": [
+     {
+      "phoneNumber": "760-367-3001",
+      "description": "",
+      "extension": "",
+      "type": "Voice"
+     }
+    ],
+    "emailAddresses": [
+     {
+      "description": "",
+      "emailAddress": "jotr_info@nps.gov"
+     }
+    ]
+   },
+   "fees": [
+    {
+     "cost": "25.00",
+     "description": "Camping fees must be paid within one hour of selecting a campsite. A maximum of six people, three tents, and two cars may occupy an individual campsite, only if there is space available. Some sites only have enough parking for one vehicle.",
+     "title": "Hidden Valley Campsite"
+    },
+    {
+     "cost": "12.50",
+     "description": "Nightly camping fee for one site for a camper with a Senior or Access pass. Camping fees must be paid at an entrance station. A maximum of six people, three tents, and two cars may occupy an individual campsite, only if there is space available. Some sites only have enough parking for one vehicle.",
+     "title": "Senior/Access Pass Hidden Valley Campsite"
+    }
+   ],
+   "directionsOverview": "Hidden Valley Campground is off of Park Boulevard approximately 14 miles from the town of Joshua Tree. The campground is located near Barker Dam and the Hidden Valley Nature Trail. If entering from the West Entrance in Joshua Tree, continue for about 10 miles. The campground will be on your left. If entering from the North Entrance in Twentynine Palms, proceed for about 16 miles on Park Boulevard and the campground will be on your right.",
+   "directionsUrl": "http://www.nps.gov/jotr/planyourvisit/directions.htm",
+   "operatingHours": [
+    {
+     "exceptions": [],
+     "description": "Campgrounds are open 24 hours a day. Check in and check out are at noon.\nQuiet hours are from 10:00 pm to 6:00 am.",
+     "standardHours": {
+      "wednesday": "All Day",
+      "monday": "All Day",
+      "thursday": "All Day",
+      "sunday": "All Day",
+      "tuesday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day"
+     },
+     "name": "Hidden Valley Campground"
+    }
+   ],
+   "addresses": [],
+   "images": [
+    {
+     "credit": "NPS/Brad Sutton",
+     "crops": [],
+     "title": "Hidden Valley Campground",
+     "altText": "A pit toilet, information board, emergency phone and a path.",
+     "caption": "Hidden Valley has 44 Campsites and is a popular campground.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C86E814-1DD8-B71B-0BBB826068B6558E.jpg"
+    },
+    {
+     "credit": "NPS/Hannah Schwalbe",
+     "crops": [],
+     "title": "Campsite at Hidden Valley",
+     "altText": "A tent, fire pit, picnic table are in a campsite surrounded by boulders.",
+     "caption": "Campsites at Hidden Valley are surrounded by large boulder outcrops.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C86E959-1DD8-B71B-0B9294CCB694A56A.jpg"
+    },
+    {
+     "credit": "NPS/Brad Sutton",
+     "crops": [],
+     "title": "Hidden Valley Campground Board",
+     "altText": "A Campground Board in the foreground with a parking lot in the background.",
+     "caption": "Hidden Valley has a medium sized parking lot. The Hidden Valley Campground area is a popular spot, especially for climbers.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C86F2AC-1DD8-B71B-0B88DDEBEEAFA0EB.jpg"
+    },
+    {
+     "credit": "NPS/Hannah Schwalbe",
+     "crops": [],
+     "title": "Hidden Valley Campsite and Climbing",
+     "altText": "Two climbers are climbing on rocks behind a tent set up in a Hidden Valley Campsite.",
+     "caption": "The Hidden Valley Campground is located in a popular climbing area. There are many climbing and bouldering routes right next to campsites.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C86FA6B-1DD8-B71B-0B21041E35ED2AD0.jpg"
+    },
+    {
+     "credit": "NPS/Brad Sutton",
+     "crops": [],
+     "title": "Hidden Valley Campground",
+     "altText": "An RV is parked at a campsite in Hidden Valley.",
+     "caption": "Both RVs and tents are allowed in Hidden Valley. RVs and trailers may not exceed a combined maximum length of 25 ft at Hidden Valley Campground.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C86FB97-1DD8-B71B-0BEBD80BC3AF68FA.jpg"
+    }
+   ],
+   "weatherOverview": "Days are typically clear with less than 25% humidity. Temperatures are most comfortable in the spring and fall, with an average high/low of 85 and 50\u00b0F (29 and 10\u00b0C) respectively. Winter brings cooler days, around 60\u00b0F (15\u00b0C), and freezing nights. It occasionally snows at higher elevations. Summers are hot, over 100\u00b0F (38\u00b0C) during the day and may cool to around 75\u00b0F (24\u00b0C) at night. Weather can change quickly. Check a weather forecast before camping.",
+   "numberOfSitesReservable": "0",
+   "numberOfSitesFirstComeFirstServe": "44",
+   "campsites": {
+    "totalSites": "44",
+    "group": "0",
+    "horse": "0",
+    "tentOnly": "0",
+    "electricalHookups": "0",
+    "rvOnly": "0",
+    "walkBoatTo": "0",
+    "other": "0"
+   },
+   "accessibility": {
+    "wheelchairAccess": "Roads are paved but can be uneven. Most paths are unpaved. Terrain is uneven.",
+    "internetInfo": "",
+    "cellPhoneInfo": "For most cell providers there is no service. There is a for emergencies only phone near the parking lot toilets.",
+    "fireStovePolicy": "Because of the park's very dry climate, fire danger in Joshua Tree is almost always very high. Be cautious. Campfires are allowed only in designated fire rings or grills that are found in park campgrounds or picnic areas. Keep fires small. Bring your own firewood. You may not gather park vegetation, whether living or dead, to fuel your campfire. If you plan to have a campfire, bring extra water to douse it thoroughly.",
+    "rvAllowed": "1",
+    "rvInfo": "RVs and trailers may no exceed a combined maximum length of 24 ft. There is no water and no hookups.",
+    "rvMaxLength": "24",
+    "additionalInfo": "",
+    "trailerMaxLength": "24",
+    "adaInfo": "There are no ADA accessible campsites in The Hidden Valley Campground. Campgrounds with ADA accessible campsites include Indian Cove (site 1), Jumbo Rocks (site 122), and Black Rock (site 61).",
+    "trailerAllowed": "1",
+    "accessRoads": [
+     "Paved Roads - All vehicles OK"
+    ],
+    "classifications": [
+     "Limited Development Campground"
+    ]
+   },
+   "multimedia": [
+    {
+     "title": "Hidden Valley Campground",
+     "id": "93098E25-1F14-4D0D-943D-4C7374D623CD",
+     "type": "multimedia/galleries",
+     "url": "https://www.nps.gov/media/photo/gallery.htm?id=93098E25-1F14-4D0D-943D-4C7374D623CD"
+    }
+   ],
+   "relevanceScore": 1.0,
+   "lastIndexedDate": ""
+  },
+  {
+   "id": "33AA5642-343E-425B-89E9-69A0918A8502",
+   "url": "https://www.nps.gov/jotr/planyourvisit/black-rock-campground.htm",
+   "name": "Black Rock Campground",
+   "parkCode": "jotr",
+   "description": "This large (99 site) campground is located in the northwest corner of the park. Each campsite has a picnic table and fire ring with rest rooms and water nearby. Shopping facilities are only five miles away in the town of Yucca Valley. Campsites vary in size and can accommodate both tents and RVs. A day-use picnic area and a dump station are also available. For horse owners, a separate area is provided for camping or for staging a ride.",
+   "latitude": "34.0729822366",
+   "longitude": "-116.391496803",
+   "latLong": "{lat:34.0729822366, lng:-116.391496803}",
+   "audioDescription": "The Black Rock Campground is a desert campground nestled among rocky mountains. The campground is made up of several loops with dirt roads and camping spots to accommodate tents and RVs. Each camping spot has a dirt parking area, picnic table, fire pit, and campsite marker. The ground is hard and rocky. Throughout the campground there are many Joshua trees, small trees, and shrubs. Scattered around the campground you can find trash and recycling cans, bathrooms, and several trailheads. In the center of the campground is the Black Rock Nature Center, a yellow one story building with a parking area where people can view exhibits and learn about the park.",
+   "isPassportStampLocation": "0",
+   "passportStampLocationDescription": "",
+   "passportStampImages": [],
+   "geometryPoiId": "17DFA459-30A4-4C75-B156-F6FDE0246385",
+   "reservationInfo": "Reservations are required year-round and can be made up to six months in advance. Book a site at www.recreation.gov or by calling 877-444-6777.",
+   "reservationUrl": "https://www.recreation.gov/camping/campgrounds/232473",
+   "regulationsurl": "https://www.nps.gov/jotr/planyourvisit/camping-regulations.htm",
+   "regulationsOverview": "There are restrictions to equestrian use in Joshua Tree National Park. Before visiting with stock familiarize yourself with the rules and regulations http://www.nps.gov/jotr/planyourvisit/horseback-riding.htm. Also familiarize yourself with camping rules and regulations. The full list can be found at: http://www.nps.gov/jotr/planyourvisit/campgrounds.htm. A partial list is below: Each site is varied on size and parking. Ensure you know the specifications of your campsite on recreation.gov before buying your permit. Check in and check out are at noon. There is a 30-day camping limit each year. Only 14 of these nights may take place from October-May. All tents, tarps, and other camping equipment must be set up within 25 feet of the picnic table. Food must be stored securely where wildlife cannot get to it. Campsites left vacant for 24 hours will be treated as vacant. Holding or reserving campsites for persons not present is not allowed. Pets must remain on leash at all times and may not be left unattended.",
+   "amenities": {
+    "trashRecyclingCollection": "Yes - year round",
+    "toilets": [
+     "Flush Toilets - year round"
+    ],
+    "internetConnectivity": "Yes - year round",
+    "showers": [
+     "None"
+    ],
+    "cellPhoneReception": "Yes - year round",
+    "laundry": "No",
+    "amphitheater": "Yes - year round",
+    "dumpStation": "Yes - year round",
+    "campStore": "No",
+    "staffOrVolunteerHostOnsite": "Yes - seasonal",
+    "potableWater": [
+     "Yes - year round"
+    ],
+    "iceAvailableForSale": "No",
+    "firewoodForSale": "No",
+    "foodStorageLockers": "No"
+   },
+   "contacts": {
+    "phoneNumbers": [
+     {
+      "phoneNumber": "760-367-3001",
+      "description": "",
+      "extension": "",
+      "type": "Voice"
+     }
+    ],
+    "emailAddresses": [
+     {
+      "description": "",
+      "emailAddress": "jotr_info@nps.gov"
+     }
+    ]
+   },
+   "fees": [
+    {
+     "cost": "35.00",
+     "description": "The cost is $35 for tents, RVs, and equestrian sites. A maximum of six people, three tents, and two cars may occupy an individual campsite, only if there is space available. Some sites only have enough parking for one vehicle.",
+     "title": "Campsite"
+    },
+    {
+     "cost": "35.00",
+     "description": "Black Rock Horse Camp is open all year and has 20 sites. Reservations are required. For reservations, call 1-877-444-6777.",
+     "title": "Black Rock Horse Site"
+    },
+    {
+     "cost": "17.50",
+     "description": "Nightly camping fee for one site for a camper with a Senior or Access pass. A maximum of six people, three tents, and two cars may occupy an individual campsite, only if there is space available. Some sites only have enough parking for one vehicle.",
+     "title": "Senior/Access Pass Campsite"
+    },
+    {
+     "cost": "17.50",
+     "description": "Nightly camping fee for one site for a camper with a Senior or Access pass. Black Rock Horse Camp is open all year and has 20 sites. Reservations are required. For reservations, call 1-877-444-6777.",
+     "title": "Senior/Access Pass Black Rock Horse Campsite"
+    }
+   ],
+   "directionsOverview": "Black Rock is just south of Yucca Valley. From Yucca Valley, turn south onto Palomar Ave. Palomar turns left onto Joshua Lane. Turn left onto San Marino Dr and continue onto Black Rock Canyon Road. Follow park signs.",
+   "directionsUrl": "http://www.nps.gov/jotr/planyourvisit/directions.htm",
+   "operatingHours": [
+    {
+     "exceptions": [
+      {
+       "exceptionHours": {
+        "wednesday": "All Day",
+        "monday": "All Day",
+        "thursday": "All Day",
+        "sunday": "All Day",
+        "tuesday": "All Day",
+        "friday": "All Day",
+        "saturday": "All Day"
+       },
+       "startDate": "2027-06-01",
+       "name": "Partial Summer Closure",
+       "endDate": "2027-08-28"
+      }
+     ],
+     "description": "Campgrounds are open 24 hours a day. Check in and check out are at noon.\nQuiet hours are from 10:00 pm to 6:00 am.\nSome campsites at Black Rock close for the summer.",
+     "standardHours": {
+      "wednesday": "All Day",
+      "monday": "All Day",
+      "thursday": "All Day",
+      "sunday": "All Day",
+      "tuesday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day"
+     },
+     "name": "Black Rock Campground"
+    }
+   ],
+   "addresses": [
+    {
+     "postalCode": "92284",
+     "city": "Yucca Valley",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "9800 Black Rock Cyn",
+     "type": "Physical",
+     "line3": "",
+     "line2": ""
+    },
+    {
+     "postalCode": "92277",
+     "city": "Twentynine Palms",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "74485 National Park Drive",
+     "type": "Mailing",
+     "line3": "",
+     "line2": ""
+    }
+   ],
+   "images": [
+    {
+     "credit": "NPS/Hannah Schwalbe",
+     "crops": [],
+     "title": "Black Rock Campground Entrance",
+     "altText": "A road leads past a sign that says \"Black Rock Canyon Campground\"",
+     "caption": "Black Rock is one of the largest campgrounds in the park and is surrounded by a large concentration of Joshua Trees.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C86D6B8-1DD8-B71B-0B50B4909A908379.jpg"
+    },
+    {
+     "credit": "NPS/Hannah Schwalbe",
+     "crops": [],
+     "title": "Black Rock Campground and Visitor Center Parking Lot",
+     "altText": "A small parking lot with cars and a building.",
+     "caption": "The campground has a small nature center open October through May. Campers register and pay camping fees at the nature center located in the middle of the campground. The staff at this small visitor center will help you plan a hike or other activity.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C86D89D-1DD8-B71B-0BB50ADB998D5A49.jpg"
+    },
+    {
+     "credit": "NPS/Hannah Schwalbe",
+     "crops": [],
+     "title": "Black Rock Campsite",
+     "altText": "A tent is next to a Joshua Tree in a campsite.",
+     "caption": "Currently 99 sites are available at Black Rock Campground.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C86DAB7-1DD8-B71B-0B115608B1655024.jpg"
+    },
+    {
+     "credit": "NPS/Hannah Schwalbe",
+     "crops": [],
+     "title": "Black Rock Campground Bathrooms",
+     "altText": "A building is surrounded by Joshua trees.",
+     "caption": "The Black Rock Campgrounds is one of the few that has running water and flush toilets.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C86DC18-1DD8-B71B-0B7C4686C7B9577E.jpg"
+    },
+    {
+     "credit": "NPS/Hannah Schwalbe",
+     "crops": [],
+     "title": "Campsite on the east side of the Black Rock Campground.",
+     "altText": "A Joshua Tree, tent and two chairs are around a fire pit.",
+     "caption": "There are 99 campsites at Black Rock.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C86DD79-1DD8-B71B-0BBA98B667ABE46F.jpg"
+    },
+    {
+     "credit": "NPS",
+     "crops": [],
+     "title": "Black Rock Campground Map",
+     "altText": "A map of Black Rock Campground. The campground is made of multiple nested loops.",
+     "caption": "Black Rock Campground Map",
+     "url": "https://www.nps.gov/common/uploads/structured_data/83F24FE2-B0B9-4B83-9E71488A1332EA19.jpg"
+    }
+   ],
+   "weatherOverview": "Days are typically clear with less than 25% humidity. Temperatures are most comfortable in the spring and fall, with an average high/low of 85 and 50\u00b0F (29 and 10\u00b0C) respectively. Winter brings cooler days, around 60\u00b0F (15\u00b0C), and freezing nights. It occasionally snows at higher elevations. Summers are hot, over 100\u00b0F (38\u00b0C) during the day and may cool to around 75\u00b0F (24\u00b0C) at night. Weather can change quickly. Check a weather forecast before camping.",
+   "numberOfSitesReservable": "99",
+   "numberOfSitesFirstComeFirstServe": "0",
+   "campsites": {
+    "totalSites": "99",
+    "group": "0",
+    "horse": "20",
+    "tentOnly": "0",
+    "electricalHookups": "0",
+    "rvOnly": "0",
+    "walkBoatTo": "0",
+    "other": "0"
+   },
+   "accessibility": {
+    "wheelchairAccess": "Most campsites have uneven terrain. Many roads are unpaved. The paved roads are crumbling and uneven. The Black Rock Nature Center has ADA access and the parking lot is well paved and flat. There is a wheelchair accessible restroom.",
+    "internetInfo": "",
+    "cellPhoneInfo": "Service is spotty and not guaranteed.",
+    "fireStovePolicy": "Because of the park's very dry climate, fire danger in Joshua Tree is almost always very high. Be cautious. Campfires are allowed only in designated fire rings or grills that are found in park campgrounds or picnic areas. Keep fires small. Bring your own firewood. You may not gather park vegetation, whether living or dead, to fuel your campfire. If you plan to have a campfire, bring extra water to douse it thoroughly.",
+    "rvAllowed": "1",
+    "rvInfo": "There are no hookups for RVs at any campground in Joshua Tree. Black Rock and Cottonwood Campgrounds have RV-accessible potable water and dump stations. Generator use is permitted only from 7-9 am, noon-2 pm, and 5-7 pm. RVs and trailers are allowed in sites if space permits.",
+    "rvMaxLength": "35",
+    "additionalInfo": "Amphitheater is not used frequently.",
+    "trailerMaxLength": "0",
+    "adaInfo": "Black Rock campsite 61 is ADA-compliant and can accommodate an RV up to 30 feet in length. Trailers and tow vehicle are allowed up to 30 feet combined length at this site. This is a back-in site. Other campgrounds with ADA compliant campsites include Jumbo Rocks (site 122) and Indian Cove (site 1).",
+    "trailerAllowed": "1",
+    "accessRoads": [
+     "Paved Roads - All vehicles OK"
+    ],
+    "classifications": [
+     "Developed Campground"
+    ]
+   },
+   "multimedia": [
+    {
+     "title": "Learn about the B.A.R.K. Ranger Principles ",
+     "id": "6E028876-7674-4524-9B65-2CA458B985EB",
+     "type": "multimedia/video",
+     "url": "https://www.nps.gov/media/video/view.htm?id=6E028876-7674-4524-9B65-2CA458B985EB"
+    }
+   ],
+   "relevanceScore": 1.0,
+   "lastIndexedDate": ""
+  },
+  {
+   "id": "07E7E764-4D4F-4615-ADEB-28AB6BD87471",
+   "url": "https://www.nps.gov/jotr/planyourvisit/belle-campground.htm",
+   "name": "Belle Campground",
+   "parkCode": "jotr",
+   "description": "This small campground has 18 sites. There are pit toilets, picnic tables, and fire pits. There is no water so bring plenty of your own. To secure a campsite, 1. Locate an empty campsite. 2. Occupy the site (set up a tent or leave personal items to show site occupancy). 3. Proceed immediately to an entrance station to complete registration and pay. You must pay for the site within one hour of set up. If arriving after entrance stations close, payment may be delayed until morning.",
+   "latitude": "34.0019373487",
+   "longitude": "-116.019762031",
+   "latLong": "{lat:34.0019373487, lng:-116.019762031}",
+   "audioDescription": "Belle Campground is a desert campground nestled among rock formations. The campground is made up of a single dirt road with a loop at the end with camping spots to accommodate tents and RVs. Each camping spot has a dirt parking area, picnic table, fire pit, and campsite marker. The ground is hard and rocky. Throughout the campground there are many Joshua trees, small trees, and shrubs. Scattered around the campground you can find trash and recycling cans as well as two bathrooms.",
+   "isPassportStampLocation": "0",
+   "passportStampLocationDescription": "",
+   "passportStampImages": [],
+   "geometryPoiId": "5CE0F4DF-FD44-443A-AA79-33E69A8BFB8B",
+   "reservationInfo": "Sites are first-come, first-served, year-round.",
+   "reservationUrl": "",
+   "regulationsurl": "https://www.nps.gov/jotr/planyourvisit/camping-regulations.htm",
+   "regulationsOverview": "Each site is varied on size and parking. Ensure you know the specifications of your campsite on recreation.gov before purchasing your permit. A vehicle towing a trailer, popup, tent trailer, or fifth wheel, or a motorhome towing a vehicle, is considered two vehicles. Camping fees must be paid within one hour of selecting a campsite. Check in and check out are at noon. There is a 30-day camping limit each year. Only 14 of these nights may take place from October-May. All tents, tarps, and other camping equipment must be set up within 25 feet (7.6 m) of the picnic table or fire grate. Food must be stored securely where wildlife cannot get to it. Any scented or odorous items, including sunscreen and toiletries, must be secured as if they were food. Campsites left vacant for 24 hours will be treated as vacant. Holding or reserving campsites for persons not present is not allowed. Pets must remain on leash at all times and may not be left unattended. No slacklines in campgrounds.",
+   "amenities": {
+    "trashRecyclingCollection": "Yes - year round",
+    "toilets": [
+     "Vault Toilets - year round"
+    ],
+    "internetConnectivity": "No",
+    "showers": [
+     "None"
+    ],
+    "cellPhoneReception": "No",
+    "laundry": "No",
+    "amphitheater": "No",
+    "dumpStation": "No",
+    "campStore": "No",
+    "staffOrVolunteerHostOnsite": "No",
+    "potableWater": [
+     "No water"
+    ],
+    "iceAvailableForSale": "No",
+    "firewoodForSale": "No",
+    "foodStorageLockers": "No"
+   },
+   "contacts": {
+    "phoneNumbers": [
+     {
+      "phoneNumber": "760-367-3001",
+      "description": "",
+      "extension": "",
+      "type": "Voice"
+     }
+    ],
+    "emailAddresses": [
+     {
+      "description": "",
+      "emailAddress": "jotr_info@nps.gov"
+     }
+    ]
+   },
+   "fees": [
+    {
+     "cost": "25.00",
+     "description": "Campsites must be paid for at an entrance station. A maximum of six people, three tents, and two cars may occupy an individual campsite, only if there is space available. Some sites only have enough parking for one vehicle.",
+     "title": "Campsite Fee"
+    },
+    {
+     "cost": "12.50",
+     "description": "Nightly camping fee for one site for a camper with a Senior or Access pass. Camping fees must be paid at an entrance station. A maximum of six people, three tents, and two cars may occupy an individual campsite, only if there is space available. Some sites only have enough parking for one vehicle.",
+     "title": "Senior/Access Pass Campsite Fee"
+    }
+   ],
+   "directionsOverview": "From the North Entrance: Continue along Park Blvd and turn left onto Pinto Basin Road. Drive approximately 1.5 miles south along Pinto Basin Road. Turn left into Belle Campground at the Belle Campground sign. From the West Entrance: Drive along Park Blvd and turn right onto Pinto Basin Road. Turn left into Belle Campground at the Belle Campground sign. From the South : Drive north on Pinto Basin Road. Turn right at Belle Campground.",
+   "directionsUrl": "http://www.nps.gov/jotr/planyourvisit/directions.htm",
+   "operatingHours": [
+    {
+     "exceptions": [
+      {
+       "exceptionHours": {
+        "wednesday": "Closed",
+        "monday": "Closed",
+        "thursday": "Closed",
+        "sunday": "Closed",
+        "tuesday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed"
+       },
+       "startDate": "2027-06-01",
+       "name": "Summer Closure",
+       "endDate": "2027-08-28"
+      }
+     ],
+     "description": "Campgrounds are open 24 hours a day. Check in and check out are at noon. Quiet hours are from 10 pm to 6 am.",
+     "standardHours": {
+      "wednesday": "All Day",
+      "monday": "All Day",
+      "thursday": "All Day",
+      "sunday": "All Day",
+      "tuesday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day"
+     },
+     "name": "Belle Campground"
+    }
+   ],
+   "addresses": [
+    {
+     "postalCode": "92277",
+     "city": "Twentynine Palms",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Pinto Basin Road",
+     "type": "Physical",
+     "line3": "",
+     "line2": ""
+    },
+    {
+     "postalCode": "92277",
+     "city": "Twentynine Palms",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "74485 National Park Drive",
+     "type": "Mailing",
+     "line3": "",
+     "line2": ""
+    }
+   ],
+   "images": [
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Belle Campground Information Board",
+     "altText": "Belle Campground information board is shown in front of a trail and a Joshua tree.",
+     "caption": "Located off Pinto Basin Road in the northern end of the park. Belle has 18 campsites.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C86D137-1DD8-B71B-0BD13CD522E0517F.jpg"
+    },
+    {
+     "credit": "NPS photo",
+     "crops": [],
+     "title": "Belle Campsite",
+     "altText": "A campground with a picnic table, a grill and a Joshua tree.",
+     "caption": "Belle Campground offers great view to the west - making it a great place to watch the sunset.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C86D2E7-1DD8-B71B-0B92AB4441AF3055.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Belle Campground View",
+     "altText": "Under a large rock in the distance you can see a pit toilet and road.",
+     "caption": "Belle Campground offers great view to the west - making it a great place to watch the sunset.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C86D4B9-1DD8-B71B-0BA78DFA7E74199B.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Facility at Belle Campground",
+     "altText": "A paved path leads to a vault toilet.",
+     "caption": "Belle has vault toilets and no running water.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C87B4CA-1DD8-B71B-0BF47C09DDA77541.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Campsite at Belle",
+     "altText": "A post with the number \"15\". In the background, a picnic table and charcoal grill are in a campsite.",
+     "caption": "There are 18 sites at Belle Campground. Campsites are surrounded by large boulders.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C87B780-1DD8-B71B-0B44F67ECAF9346D.jpg"
+    }
+   ],
+   "weatherOverview": "Days are typically clear with less than 25% humidity. Temperatures are most comfortable in the spring and fall, with an average high/low of 85 and 50\u00b0F (29 and 10\u00b0C) respectively. Winter brings cooler days, around 60\u00b0F (15\u00b0C), and freezing nights. It occasionally snows at higher elevations. Summers are hot, over 100\u00b0F (38\u00b0C) during the day and may cool to around 75\u00b0F (24\u00b0C) at night. Weather can change quickly. Check a weather forecast before camping.",
+   "numberOfSitesReservable": "0",
+   "numberOfSitesFirstComeFirstServe": "18",
+   "campsites": {
+    "totalSites": "18",
+    "group": "0",
+    "horse": "0",
+    "tentOnly": "0",
+    "electricalHookups": "0",
+    "rvOnly": "0",
+    "walkBoatTo": "0",
+    "other": "0"
+   },
+   "accessibility": {
+    "wheelchairAccess": "Campsites and roads are unpaved and uneven. The path to the bathroom is paved and flat, but the road to the path is unpaved.",
+    "internetInfo": "",
+    "cellPhoneInfo": "",
+    "fireStovePolicy": "Because of the park's very dry climate, fire danger in Joshua Tree is almost always very high. Be cautious. Campfires are allowed only in designated fire rings or grills that are found in park campgrounds or picnic areas. Keep fires small. Bring your own firewood. You may not gather park vegetation, whether living or dead, to fuel your campfire. If you plan to have a campfire, bring extra water to douse it thoroughly.",
+    "rvAllowed": "1",
+    "rvInfo": "There are no hookups for RVs at any campground in Joshua Tree. Generator use is permitted only from 7-9 am, noon-2 pm, and 5-7 pm.",
+    "rvMaxLength": "35",
+    "additionalInfo": "",
+    "trailerMaxLength": "35",
+    "adaInfo": "The campground has no ADA accessible campsite. Campgrounds with ADA accessible campsites include Indian Cove (site 1), Jumbo Rocks (site 122), and Black Rock (site 61).",
+    "trailerAllowed": "1",
+    "accessRoads": [
+     "Unpaved Roads - All vehicles OK in good weather"
+    ],
+    "classifications": [
+     "Limited Development Campground"
+    ]
+   },
+   "multimedia": [
+    {
+     "title": "How Joshua Tree's Rock Formations Formed",
+     "id": "FC6989D8-D810-413C-A142-2BF7D9196C3C",
+     "type": "multimedia/video",
+     "url": "https://www.nps.gov/media/video/view.htm?id=FC6989D8-D810-413C-A142-2BF7D9196C3C"
+    },
+    {
+     "title": "Belle Campground",
+     "id": "B7F47911-9EC5-4173-9906-48E42FAFF000",
+     "type": "multimedia/galleries",
+     "url": "https://www.nps.gov/media/photo/gallery.htm?id=B7F47911-9EC5-4173-9906-48E42FAFF000"
+    }
+   ],
+   "relevanceScore": 1.0,
+   "lastIndexedDate": ""
+  },
+  {
+   "id": "9B5A7B2B-E147-429F-B52F-EDBF1B48EBB0",
+   "url": "https://www.nps.gov/jotr/planyourvisit/cottonwood-campground.htm",
+   "name": "Cottonwood Campground",
+   "parkCode": "jotr",
+   "description": "The Cottonwood Campground is reservation only and has 62 sites, potable water and flush toilets. The Campground is near the Cottonwood Visitor Center in the southeast part of the park. The closest metropolitan area is Indio about 30 miles away. Cottonwood Campground fees will increase to $35 per site starting January 1, 2025. Cottonwood Group Campground fees will increase to $55 per site starting January 1, 2025.",
+   "latitude": "33.7448801293481",
+   "longitude": "-115.8128298739847",
+   "latLong": "{lat:33.7448801293481, lng:-115.8128298739847}",
+   "audioDescription": "Cottonwood Campground is a desert campground in a large open area with mountains in the distance. The campground is made up of a main paved road going past three group campsites followed by two loops with regular camping spots to accommodate tents and RVs. Each camping spot has a paved parking area, picnic table, fire pit, and campsite marker. The ground is hard and rocky. Throughout the campground there are many many shrubs and a few scattered small trees. Scattered around the campground you can find trash and recycling cans, bathrooms, and a couple of trailheads.",
+   "isPassportStampLocation": "0",
+   "passportStampLocationDescription": "",
+   "passportStampImages": [],
+   "geometryPoiId": "F6E55FD3-1994-4E19-8BD2-DDD2FB9A3F35",
+   "reservationInfo": "Reservations are required year-round and can be made up to six months in advance. Book a site at www.recreation.gov or by calling 877-444-6777.",
+   "reservationUrl": "https://www.recreation.gov/camping/campgrounds/272299",
+   "regulationsurl": "https://www.nps.gov/jotr/planyourvisit/camping-regulations.htm",
+   "regulationsOverview": "Each site is varied on size and parking. Ensure you know the specifications of your campsite on recreation.gov before purchasing your permit. A vehicle towing a trailer, popup, tent trailer, or fifth wheel, or a motorhome towing a vehicle, is considered two vehicles. Camping fees must be paid within one hour of selecting a campsite. Check in and check out are at noon. There is a 30-day camping limit each year. Only 14 of these nights may take place from October-May. All tents, tarps, and other camping equipment must be set up within 25 feet (7.6 m) of the picnic table or fire grate. Food must be stored securely where wildlife cannot get to it. Any scented or odorous items, including sunscreen and toiletries, must be secured as if they were food. Campsites left vacant for 24 hours will be treated as vacant. Holding or reserving campsites for persons not present is not allowed. Pets must remain on leash at all times and may not be left unattended. No slacklines in campgrounds.",
+   "amenities": {
+    "trashRecyclingCollection": "Yes - year round",
+    "toilets": [
+     "Flush Toilets - year round"
+    ],
+    "internetConnectivity": "No",
+    "showers": [
+     "None"
+    ],
+    "cellPhoneReception": "No",
+    "laundry": "No",
+    "amphitheater": "Yes - year round",
+    "dumpStation": "Yes - year round",
+    "campStore": "No",
+    "staffOrVolunteerHostOnsite": "No",
+    "potableWater": [
+     "Yes - year round"
+    ],
+    "iceAvailableForSale": "No",
+    "firewoodForSale": "No",
+    "foodStorageLockers": "No"
+   },
+   "contacts": {
+    "phoneNumbers": [
+     {
+      "phoneNumber": "760-367-3001",
+      "description": "",
+      "extension": "",
+      "type": "Voice"
+     }
+    ],
+    "emailAddresses": [
+     {
+      "description": "",
+      "emailAddress": "jotr_info@nps.gov"
+     }
+    ]
+   },
+   "fees": [
+    {
+     "cost": "35.00",
+     "description": "Individual Campsite Fee. A maximum of six people, three tents, and two cars may occupy an individual campsite, only if there is space available. Some sites only have enough parking for one vehicle.",
+     "title": "Campsite Fee"
+    },
+    {
+     "cost": "55.00",
+     "description": "There are three group campsites. Tents only. RVs and habitable trailers prohibited.",
+     "title": "Group Campsite Fee"
+    },
+    {
+     "cost": "17.50",
+     "description": "Nightly camping fee for one site for a camper with a Senior or Access pass. A maximum of six people, three tents, and two cars may occupy an individual campsite, only if there is space available. Some sites only have enough parking for one vehicle.",
+     "title": "Senior/Access Pass Campsite Fee"
+    },
+    {
+     "cost": "27.50",
+     "description": "Nightly camping fee for one site for a camper with a Senior or Access pass. There are three group campsites. Tents only. RVs and habitable trailers prohibited.",
+     "title": "Senior/Access Pass Group Campsite Fee"
+    }
+   ],
+   "directionsOverview": "Cottonwood Campground is near the South Entrance near Cottonwood Spring. There is an access point along Interstate 10, 25 miles east of Indio. The Campground is off of Pinto Basin Road, next to The Cottonwood Visitor Center.",
+   "directionsUrl": "http://www.nps.gov/jotr/planyourvisit/directions.htm",
+   "operatingHours": [
+    {
+     "exceptions": [
+      {
+       "exceptionHours": {
+        "wednesday": "All Day",
+        "monday": "All Day",
+        "thursday": "All Day",
+        "sunday": "All Day",
+        "tuesday": "All Day",
+        "friday": "All Day",
+        "saturday": "All Day"
+       },
+       "startDate": "2027-06-01",
+       "name": "Partial Summer Closure",
+       "endDate": "2027-08-28"
+      }
+     ],
+     "description": "Campgrounds are open 24 hours a day. Check in and check out are at noon. Quiet hours are from 10 pm to 6 am.\nIn the summer, Loop B typically closes and Loop A usually becomes first-come, first-served.",
+     "standardHours": {
+      "wednesday": "All Day",
+      "monday": "All Day",
+      "thursday": "All Day",
+      "sunday": "All Day",
+      "tuesday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day"
+     },
+     "name": "Cottonwood Campground"
+    }
+   ],
+   "addresses": [
+    {
+     "postalCode": "92277",
+     "city": "Cottonwood Springs",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Cottonwood Campground",
+     "type": "Physical",
+     "line3": "",
+     "line2": "Pinto Basin Road"
+    },
+    {
+     "postalCode": "92277",
+     "city": "Twentynine Palms",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Joshua Tree National Park",
+     "type": "Mailing",
+     "line3": "",
+     "line2": "74485 National Park Drive"
+    }
+   ],
+   "images": [
+    {
+     "credit": "NPS/Robb Hannawacker",
+     "crops": [],
+     "title": "Cottonwood Campground",
+     "altText": "A view looking down onto the Cottonwood Campground showing the bathrooms, tent sites and RV sites.",
+     "caption": "Cottonwood campground has individual and groups sites, including an amphitheater for evening ranger programs.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C86DF12-1DD8-B71B-0B82C09E1D8916EF.jpg"
+    },
+    {
+     "credit": "NPS/Robb Hannawacker",
+     "crops": [],
+     "title": "Campsite at Cottonwood Campground",
+     "altText": "A picnic table in a campsite is next to a road.",
+     "caption": "The landscape around Cottonwood is that of the Colorado Desert, which encompasses the southern edge of the park and a large portion of Southern California.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C86E175-1DD8-B71B-0B42149854B20889.jpg"
+    },
+    {
+     "credit": "NPS/Robb Hannawacker",
+     "crops": [],
+     "title": "Cottonwood Campground Amphitheater",
+     "altText": "Rows of seats are in front of an outdoor stage.",
+     "caption": "Cottonwood campground has individual and groups sites, including an amphitheater for evening ranger programs.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C86E338-1DD8-B71B-0B27CAEF0F3C1C7F.jpg"
+    },
+    {
+     "credit": "NPS/NPS/Robb Hannawacker",
+     "crops": [],
+     "title": "Campsite at Cottonwood Campground",
+     "altText": "A campsite with a picnic table and fire pit.",
+     "caption": "Cottonwood Campground is one of the best places in Joshua Tree National Park for stargazing and wildflower viewing. Located in the southern park of the park at lower elevation, it has little shade from vegetation.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C86E4F6-1DD8-B71B-0BD6CF827E1FBF84.jpg"
+    },
+    {
+     "credit": "NPS/Robb Hannawacker",
+     "crops": [],
+     "title": "Facilities at Cottonwood Campground",
+     "altText": "A small building with two doors and a circular sign that says \"women\"",
+     "caption": "The Cottonwood Campground has running water and flush toilets.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C86E6B2-1DD8-B71B-0BE503D9BF30ECD9.jpg"
+    }
+   ],
+   "weatherOverview": "Days are typically clear with less than 25% humidity. At 3,000 ft, Cottonwood is lower in elevation than other campgrounds and is usually 5-10 degrees warmer than the northern part of the park. The day time temperature is often over 100\u00b0F (38\u00b0C) in summer and around 60\u00b0F (15\u00b0C) in winter. Temperatures can drop below freezing during the winter. Weather can change quickly. Check a weather forecast before camping.",
+   "numberOfSitesReservable": "62",
+   "numberOfSitesFirstComeFirstServe": "0",
+   "campsites": {
+    "totalSites": "62",
+    "group": "3",
+    "horse": "0",
+    "tentOnly": "0",
+    "electricalHookups": "0",
+    "rvOnly": "0",
+    "walkBoatTo": "0",
+    "other": "0"
+   },
+   "accessibility": {
+    "wheelchairAccess": "Most campsites have uneven terrain. Many roads are unpaved. The paved roads are crumbling and uneven. The Cottonwood Visitor Center has ADA access and the parking lot is well paved and flat. There is a wheelchair accessible restroom.",
+    "internetInfo": "",
+    "cellPhoneInfo": "",
+    "fireStovePolicy": "Because of the park's very dry climate, fire danger in Joshua Tree is almost always very high. Be cautious. Campfires are allowed only in designated fire rings or grills that are found in park campgrounds or picnic areas. Keep fires small. Bring your own firewood. You may not gather park vegetation, whether living or dead, to fuel your campfire. If you plan to have a campfire, bring extra water to douse it thoroughly.",
+    "rvAllowed": "1",
+    "rvInfo": "There are no hookups for RVs at any campground in Joshua Tree. Cottonwood Campground has RV-accessible potable water and dump stations. Generator use is permitted only from 7-9 am, noon-2 pm, and 5-7 pm. RVs and trailers are allowed in sites if space permits. RVs and trailers are not allowed at the group campsites at Cottonwood Campground.",
+    "rvMaxLength": "35",
+    "additionalInfo": "",
+    "trailerMaxLength": "35",
+    "adaInfo": "The Cottonwood Amphitheater is ADA accessible from Loop A. There are no ADA accessible campsites in the campground. Campgrounds with ADA accessible campsites include Indian Cove (site 1), Jumbo Rocks (site 122), and Black Rock (site 61).",
+    "trailerAllowed": "1",
+    "accessRoads": [
+     "Paved Roads - All vehicles OK"
+    ],
+    "classifications": [
+     "Developed Campground"
+    ]
+   },
+   "multimedia": [
+    {
+     "title": "Cottonwood Campground",
+     "id": "73F6787C-2490-4D98-8A6D-F9CFCE20C582",
+     "type": "multimedia/galleries",
+     "url": "https://www.nps.gov/media/photo/gallery.htm?id=73F6787C-2490-4D98-8A6D-F9CFCE20C582"
+    }
+   ],
+   "relevanceScore": 1.0,
+   "lastIndexedDate": ""
+  }
+ ]
+}

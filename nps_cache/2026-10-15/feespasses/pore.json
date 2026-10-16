@@ -1,0 +1,41 @@
+{
+ "_meta": {
+  "endpoint": "feespasses",
+  "park_code": "pore",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 1,
+  "fetched_at": "2026-10-15T18:18:34"
+ },
+ "data": [
+  {
+   "parkCode": "pore",
+   "isFeeFreePark": true,
+   "isInteragencyPassAccepted": true,
+   "cashless": "",
+   "feesAtWorkUrl": "https://www.nps.gov/pore/learn/management/yourdollarsatwork.htm",
+   "entranceFeeDescription": "No entrance fee is charged at Point Reyes National Seashore. Point Reyes National Seashore charges no fees for parking at visitor centers, beaches, or trailheads or for day-use activities, such as hiking, wildlife viewing, bicycle riding, kayaking, horse riding, fishing, attending ranger-led programs, visiting the Point Reyes Lighthouse, picnicking (25 persons or fewer), etc. The only fees are for overnight camping and for special use permits, such as for weddings, sporting events, picnics in the reservable Bear Valley Group Picnic Area, and picnics with more than 25 persons.",
+   "entrancePassDescription": "",
+   "isParkingFeePossible": false,
+   "parkingDetailsUrl": "",
+   "timedEntryHeading": "",
+   "timedEntryDescription": "",
+   "isParkingOrTransportationFeePossible": false,
+   "paidParkingHeading": "",
+   "paidParkingDescription": "",
+   "customFeeHeading": "",
+   "customFeeDescription": "",
+   "customFeeLinkUrl": "",
+   "customFeeLinkText": "",
+   "contentOrderOrdinals": {
+    "entranceFee": 1,
+    "timedEntry": 1,
+    "paidParking": 1,
+    "customFee": 4
+   },
+   "relatedMultiSitePasses": [],
+   "fees": [],
+   "passes": []
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "_meta": {
+  "endpoint": "parks",
+  "park_code": "pore",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 1,
+  "fetched_at": "2026-10-15T18:18:32"
+ },
+ "data": [
+  {
+   "id": "B87424A7-92C3-49BA-BF16-A2EB16882376",
+   "url": "https://www.nps.gov/pore/index.htm",
+   "fullName": "Point Reyes National Seashore",
+   "parkCode": "pore",
+   "description": "From its thunderous ocean breakers crashing against rocky headlands and expansive sand beaches to its open grasslands, brushy hillsides, and forested ridges, Point Reyes offers visitors over 1500 species of plants and animals to discover. Home to several cultures over thousands of years, the Seashore preserves a tapestry of stories and interactions of people. Point Reyes awaits your exploration.",
+   "latitude": "38.05511241",
+   "longitude": "-122.8797804",
+   "latLong": "lat:38.05511241, long:-122.8797804",
+   "pressEmail": "pore_media@nps.gov",
+   "superintendentName": "",
+   "activities": [
+    {
+     "id": "7CE6E935-F839-4FEC-A63E-052B1DEF39D2",
+     "name": "Biking"
+    },
+    {
+     "id": "A59947B7-3376-49B4-AD02-C0423E08C5F7",
+     "name": "Camping"
+    },
+    {
+     "id": "4A58AF13-E8FB-4530-B41A-97DF0B0C77B7",
+     "name": "Backcountry Camping"
+    },
+    {
+     "id": "907E8125-15E4-483C-8EAD-B9FA1E85C6F8",
+     "name": "Canoe or Kayak Camping"
+    },
+    {
+     "id": "AE42B46C-E4B7-4889-A122-08FE180371AE",
+     "name": "Fishing"
+    },
+    {
+     "id": "1DFACD97-1B9C-4F5A-80F2-05593604799E",
+     "name": "Food"
+    },
+    {
+     "id": "C6D3230A-2CEA-4AFE-BFF3-DC1E2C2C4BB4",
+     "name": "Picnicking"
+    },
+    {
+     "id": "B33DC9B6-0B7D-4322-BAD7-A13A34C584A3",
+     "name": "Guided Tours"
+    },
+    {
+     "id": "BFF8C027-7C8F-480B-A5F8-CD8CE490BFBA",
+     "name": "Hiking"
+    },
+    {
+     "id": "0307955A-B65C-4CE4-A780-EB36BAAADF0B",
+     "name": "Horse Trekking"
+    },
+    {
+     "id": "1886DA47-0AEC-4568-B9C2-8E9BC316AAAC",
+     "name": "Horseback Riding"
+    },
+    {
+     "id": "4D224BCA-C127-408B-AC75-A51563C42411",
+     "name": "Paddling"
+    },
+    {
+     "id": "F353A9ED-4A08-456E-8DEC-E61974D0FEB6",
+     "name": "Kayaking"
+    },
+    {
+     "id": "DF4A35E0-7983-4A3E-BC47-F37B872B0F25",
+     "name": "Junior Ranger Program"
+    },
+    {
+     "id": "0B685688-3405-4E2A-ABBA-E3069492EC50",
+     "name": "Wildlife Watching"
+    },
+    {
+     "id": "0C0D142F-06B5-4BE1-8B44-491B90F93DEB",
+     "name": "Park Film"
+    },
+    {
+     "id": "24380E3F-AD9D-4E38-BF13-C8EEB21893E7",
+     "name": "Shopping"
+    },
+    {
+     "id": "467DC8B8-0B7D-436D-A026-80A22358F615",
+     "name": "Bookstore and Park Store"
+    }
+   ],
+   "topics": [
+    {
+     "id": "7F81A0CB-B91F-4896-B9A5-41BE9A54A27B",
+     "name": "Archeology"
+    },
+    {
+     "id": "607D41B0-F830-4C07-A557-BCEF880A3929",
+     "name": "Burial, Cemetery and Gravesite"
+    },
+    {
+     "id": "12EA2B56-17EC-410A-A10D-BFBA87A0669B",
+     "name": "Explorers and Expeditions"
+    },
+    {
+     "id": "1F833C99-A75D-4F9E-9256-B96523485466",
+     "name": "Farming and Agriculture"
+    },
+    {
+     "id": "E4E84C87-6737-4C37-9157-5962648A35F2",
+     "name": "Ranches"
+    },
+    {
+     "id": "4C9D4777-A9DA-47D1-A0B9-F4A3C98BC1B3",
+     "name": "Maritime"
+    },
+    {
+     "id": "263BAC6E-4DEC-47E4-909D-DA8AD351E06E",
+     "name": "Lighthouses"
+    },
+    {
+     "id": "A079385C-3E71-4E18-9E42-B046BC22EA95",
+     "name": "Ships and Shipwrecks"
+    },
+    {
+     "id": "A1BAF33E-EA84-4608-A888-4CEE9541F027",
+     "name": "Native American Heritage"
+    },
+    {
+     "id": "A160B3D9-1603-4D89-B82F-21FCAF9EEE3B",
+     "name": "Tragic Events"
+    },
+    {
+     "id": "C373F02B-7335-4F8A-A3ED-3E2E37CD4085",
+     "name": "Catastrophic Fires"
+    },
+    {
+     "id": "0D00073E-18C3-46E5-8727-2F87B112DDC6",
+     "name": "Animals"
+    },
+    {
+     "id": "957EF2BD-AC6C-4B7B-BD9A-87593ADC6691",
+     "name": "Birds"
+    },
+    {
+     "id": "344CE561-4E98-49BF-ACD2-438E3684DA5D",
+     "name": "Elk"
+    },
+    {
+     "id": "1608649A-E7D7-4529-BD83-074C90F9FB68",
+     "name": "Fish"
+    },
+    {
+     "id": "4DC11D06-00F1-4A01-81D0-89CCCCE4FF50",
+     "name": "Climate Change"
+    },
+    {
+     "id": "CDD8F34E-3BD4-425A-8264-4F0BA0DFBA38",
+     "name": "Dunes"
+    },
+    {
+     "id": "F79C1242-80FF-40F0-A0C1-5FFCBA172EC0",
+     "name": "Estuaries and Mangroves"
+    },
+    {
+     "id": "04A39AB8-DD02-432F-AE5F-BA1267D41A0D",
+     "name": "Fire"
+    },
+    {
+     "id": "41B1A0A3-11FF-4F55-9CB9-034A7E28B087",
+     "name": "Forests and Woodlands"
+    },
+    {
+     "id": "F6D3A52E-608F-47D6-96DF-1FD64122A2FC",
+     "name": "Fossils and Paleontology"
+    },
+    {
+     "id": "F0F97E32-2F29-41B4-AF98-9FBE8DAB36B1",
+     "name": "Geology"
+    },
+    {
+     "id": "94262026-92F5-48E9-90EF-01CEAEFBA4FF",
+     "name": "Grasslands"
+    },
+    {
+     "id": "1CF1F6BB-A037-445B-8CF2-81428E50CE52",
+     "name": "Lakes"
+    },
+    {
+     "id": "F8C2FE93-DEB3-4B12-9A87-913E3E6B448D",
+     "name": "Natural Sounds"
+    },
+    {
+     "id": "A7359FC4-DAD8-45F5-AF15-7FF62F816ED3",
+     "name": "Night Sky"
+    },
+    {
+     "id": "0E6D8503-CB65-467F-BCD6-C6D9E28A4E0B",
+     "name": "Oceans"
+    },
+    {
+     "id": "980D1693-65BF-4F29-8182-7BAC9796E605",
+     "name": "Whales"
+    },
+    {
+     "id": "A155238F-0DD2-4610-9B87-05FCE1C59283",
+     "name": "River and Riparian"
+    },
+    {
+     "id": "5BE55D7F-BDB6-4E3D-AC35-2D8EBB974417",
+     "name": "Trails"
+    },
+    {
+     "id": "78E4F4AC-AF97-435A-8C2C-7FB8D67516ED",
+     "name": "Unique Species"
+    },
+    {
+     "id": "5ED826E0-76BB-47BB-87DD-E081A72B0A04",
+     "name": "Waterfalls"
+    },
+    {
+     "id": "1365C347-952C-475A-B755-731DD523C195",
+     "name": "Wetlands"
+    },
+    {
+     "id": "B85866E2-0897-4000-9040-605CA335804F",
+     "name": "Wilderness"
+    }
+   ],
+   "states": "CA",
+   "contacts": {
+    "phoneNumbers": [
+     {
+      "phoneNumber": "415-464-5100",
+      "description": "",
+      "extension": "",
+      "type": "Voice"
+     }
+    ],
+    "emailAddresses": [
+     {
+      "description": "Please browse through this website (the Plan Your Visit section is very useful) and check out the Frequently Asked Questions before submitting your message. We receive a lot of emails requesting information that is available through our website. If you cannot find answers to your questions by browsing through our website, please feel free to send us an email. We will respond to emails in the order they are received. Due to the high volume of email, response to your message may take more than a week.",
+      "emailAddress": "pore_info@nps.gov"
+     }
+    ]
+   },
+   "entranceFees": [],
+   "entrancePasses": [],
+   "fees": [],
+   "directionsInfo": "Point Reyes is located along the west coast of California approximately 30 miles (50 km) north of San Francisco. Travelers may approach the park from the winding scenic Highway 1, either from the north or the south. Visitors can also reach the park via Sir Francis Drake Boulevard or the Point Reyes/Petaluma Road.",
+   "directionsUrl": "https://www.nps.gov/pore/planyourvisit/directions.htm",
+   "operatingHours": [
+    {
+     "exceptions": [],
+     "description": "Point Reyes National Seashore is open to visitors every day of the year! The park is open from 6 am to midnight. (Visit our Visitor Centers web page, for the hours for the Bear Valley Visitor Center, the Kenneth C. Patrick Visitor Center at Drakes Beach, and the Point Reyes Lighthouse and the stairs leading down to the lighthouse.) Overnight parking is only permitted in the park with a valid backcountry camping permit or for visitors staying at the Point Reyes Hostel.",
+     "standardHours": {
+      "wednesday": "Opens at 6:00AM",
+      "monday": "Opens at 6:00AM",
+      "thursday": "Opens at 6:00AM",
+      "sunday": "Opens at 6:00AM",
+      "tuesday": "Opens at 6:00AM",
+      "friday": "Opens at 6:00AM",
+      "saturday": "Opens at 6:00AM"
+     },
+     "name": "Point Reyes National Seashore"
+    }
+   ],
+   "addresses": [
+    {
+     "postalCode": "94956",
+     "city": "Point Reyes Station",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "1 Bear Valley Road",
+     "type": "Physical",
+     "line3": "",
+     "line2": ""
+    },
+    {
+     "postalCode": "94956",
+     "city": "Point Reyes Station",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "1 Bear Valley Road",
+     "type": "Mailing",
+     "line3": "",
+     "line2": ""
+    }
+   ],
+   "images": [
+    {
+     "credit": "NPS/A. Kopshever",
+     "title": "Point Reyes Lighthouse",
+     "altText": "A long concrete staircase down to a red roofed, white lighthouse on cliffs above the ocean.",
+     "caption": "Point Reyes Lighthouse",
+     "url": "https://www.nps.gov/common/uploads/structured_data/8C0D3C3B-C60F-60B7-89956515437072F3.jpeg"
+    },
+    {
+     "credit": "NPS Photo/A. Goldston/NMFS Permit No. 21425",
+     "title": "Elephant Seals at Point Reyes National Seashore",
+     "altText": "Two northern elephant seals confronting each other in the wet sand on a cliff-backed beach.",
+     "caption": "Northern elephant seals at Drakes Beach, Point Reyes National Seashore",
+     "url": "https://www.nps.gov/common/uploads/structured_data/8C41E82B-A9C2-A597-713FCA31BF28872E.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "title": "Tule Elk",
+     "altText": "A Tule elk bugling next to two calves in a grassy field.",
+     "caption": "Tule Elk at Point Reyes National Seashore",
+     "url": "https://www.nps.gov/common/uploads/structured_data/8C2A6657-D219-A6B1-51F2D4B57763A540.jpg"
+    },
+    {
+     "credit": "NPS Photo/A. Kopshever",
+     "title": "Point Reyes National Seashore Tree Tunnel",
+     "altText": "Two rows of cypress trees lining a road, forming a sunlit tunnel.",
+     "caption": "The Cypress \"Tree Tunnel\" in Point Reyes National Seashore",
+     "url": "https://www.nps.gov/common/uploads/structured_data/8C577CF2-D1B5-93EB-53FDA20654103FEE.jpeg"
+    },
+    {
+     "credit": "NPS/A.Kopshever",
+     "title": "Point Reyes Beach North",
+     "altText": "A split rail fence and vegetation along a long sandy ocean beach.",
+     "caption": "North Beach at Point Reyes National Seashore",
+     "url": "https://www.nps.gov/common/uploads/structured_data/8CFECCE5-0AEE-97CC-A7DBD18D3D3FBA8D.jpg"
+    }
+   ],
+   "weatherInfo": "The moderating influence of the Pacific Ocean creates a climate with no great extremes of heat or cold. Any season can bring interesting weather during your visit to Point Reyes National Seashore. Come prepared!",
+   "name": "Point Reyes",
+   "designation": "National Seashore",
+   "multimedia": [],
+   "relevanceScore": 1.0
+  }
+ ]
+}

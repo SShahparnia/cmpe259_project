@@ -1,0 +1,785 @@
+{
+ "_meta": {
+  "endpoint": "parks",
+  "park_code": "goga",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 1,
+  "fetched_at": "2026-10-15T18:18:48"
+ },
+ "data": [
+  {
+   "id": "0E797FA8-6E31-418B-A68F-13CEE37A2AF5",
+   "url": "https://www.nps.gov/goga/index.htm",
+   "fullName": "Golden Gate National Recreation Area",
+   "parkCode": "goga",
+   "description": "Experience a park so rich it supports 19 distinct ecosystems with over 2,000 plant and animal species. Go for a hike, enjoy a vista, have a picnic or learn about the centuries of overlapping history from California\u2019s indigenous cultures, Spanish colonialism, the Mexican Republic, US military expansion and the growth of San Francisco. All of this and more awaits you, so get out and find your park.",
+   "latitude": "37.85982543",
+   "longitude": "-122.6007386",
+   "latLong": "lat:37.85982543, long:-122.6007386",
+   "pressEmail": "goga_public_affairs@nps.gov",
+   "superintendentName": "",
+   "activities": [
+    {
+     "id": "09DF0950-D319-4557-A57E-04CD2F63FF42",
+     "name": "Arts and Culture"
+    },
+    {
+     "id": "7CE6E935-F839-4FEC-A63E-052B1DEF39D2",
+     "name": "Biking"
+    },
+    {
+     "id": "299CB934-88DC-474F-A33D-E43E29A149C2",
+     "name": "Mountain Biking"
+    },
+    {
+     "id": "A59947B7-3376-49B4-AD02-C0423E08C5F7",
+     "name": "Camping"
+    },
+    {
+     "id": "9159DF0F-951D-4AAE-9987-CEB3CE2A9ADA",
+     "name": "Car or Front Country Camping"
+    },
+    {
+     "id": "7CFF5F03-5ECC-4F5A-8572-75D1F0976C0C",
+     "name": "Group Camping"
+    },
+    {
+     "id": "AE42B46C-E4B7-4889-A122-08FE180371AE",
+     "name": "Fishing"
+    },
+    {
+     "id": "17411C8D-5769-4D0F-ABD1-52ED03840C18",
+     "name": "Saltwater Fishing"
+    },
+    {
+     "id": "1DFACD97-1B9C-4F5A-80F2-05593604799E",
+     "name": "Food"
+    },
+    {
+     "id": "E53E1320-9B17-41DC-86A5-37EB7D622572",
+     "name": "Dining"
+    },
+    {
+     "id": "C6D3230A-2CEA-4AFE-BFF3-DC1E2C2C4BB4",
+     "name": "Picnicking"
+    },
+    {
+     "id": "B33DC9B6-0B7D-4322-BAD7-A13A34C584A3",
+     "name": "Guided Tours"
+    },
+    {
+     "id": "A0631906-9672-4583-91DE-113B93DB6B6E",
+     "name": "Self-Guided Tours - Walking"
+    },
+    {
+     "id": "BFF8C027-7C8F-480B-A5F8-CD8CE490BFBA",
+     "name": "Hiking"
+    },
+    {
+     "id": "45261C0A-00D8-4C27-A1F8-029F933A0D34",
+     "name": "Front-Country Hiking"
+    },
+    {
+     "id": "0307955A-B65C-4CE4-A780-EB36BAAADF0B",
+     "name": "Horse Trekking"
+    },
+    {
+     "id": "1886DA47-0AEC-4568-B9C2-8E9BC316AAAC",
+     "name": "Horseback Riding"
+    },
+    {
+     "id": "B204DE60-5A24-43DD-8902-C81625A09A74",
+     "name": "Living History"
+    },
+    {
+     "id": "A8650547-1A30-4222-86C3-A7660A829670",
+     "name": "Reenactments"
+    },
+    {
+     "id": "DF4A35E0-7983-4A3E-BC47-F37B872B0F25",
+     "name": "Junior Ranger Program"
+    },
+    {
+     "id": "AE3C95F5-E05B-4A28-81DD-1C5FD4BE88E2",
+     "name": "Surfing"
+    },
+    {
+     "id": "0B685688-3405-4E2A-ABBA-E3069492EC50",
+     "name": "Wildlife Watching"
+    },
+    {
+     "id": "5A2C91D1-50EC-4B24-8BED-A2E11A1892DF",
+     "name": "Birdwatching"
+    },
+    {
+     "id": "C8F98B28-3C10-41AE-AA99-092B3B398C43",
+     "name": "Museum Exhibits"
+    },
+    {
+     "id": "24380E3F-AD9D-4E38-BF13-C8EEB21893E7",
+     "name": "Shopping"
+    },
+    {
+     "id": "467DC8B8-0B7D-436D-A026-80A22358F615",
+     "name": "Bookstore and Park Store"
+    }
+   ],
+   "topics": [
+    {
+     "id": "69693007-2DF2-4EDE-BB3B-A25EBA72BDF5",
+     "name": "Architecture and Building"
+    },
+    {
+     "id": "28AEAE85-9DDA-45B6-981B-1CFCDCC61E14",
+     "name": "African American Heritage"
+    },
+    {
+     "id": "7F81A0CB-B91F-4896-B9A5-41BE9A54A27B",
+     "name": "Archeology"
+    },
+    {
+     "id": "A0C86055-4C79-4F70-9D2E-6B9B738290D0",
+     "name": "Ruins"
+    },
+    {
+     "id": "00F3C3F9-2D67-4802-81AE-CCEA5D3BA370",
+     "name": "Arts"
+    },
+    {
+     "id": "9BD60DC0-C82B-42BA-A170-456B7423429D",
+     "name": "Photography"
+    },
+    {
+     "id": "227D2677-28CA-4CBF-997F-61108975A497",
+     "name": "Asian American Heritage"
+    },
+    {
+     "id": "B912363F-771C-4098-BA3A-938DF38A9D7E",
+     "name": "Aviation"
+    },
+    {
+     "id": "607D41B0-F830-4C07-A557-BCEF880A3929",
+     "name": "Burial, Cemetery and Gravesite"
+    },
+    {
+     "id": "570E8E93-3A49-45FB-B11A-F2F984EAC862",
+     "name": "National Cemetery"
+    },
+    {
+     "id": "7F12224B-217A-4B07-A4A2-636B1CE7F221",
+     "name": "Colonization and Settlement"
+    },
+    {
+     "id": "D9FC6D14-F8C7-4EBA-86EA-DFD99B6BB4F5",
+     "name": "Enslavement"
+    },
+    {
+     "id": "12EA2B56-17EC-410A-A10D-BFBA87A0669B",
+     "name": "Explorers and Expeditions"
+    },
+    {
+     "id": "1F833C99-A75D-4F9E-9256-B96523485466",
+     "name": "Farming and Agriculture"
+    },
+    {
+     "id": "988B4AFC-F478-4673-B66D-E6BDB0CCFF35",
+     "name": "Forts"
+    },
+    {
+     "id": "78078CA8-DCBC-4320-A7BF-259A56D55CA2",
+     "name": "Hispanic American Heritage"
+    },
+    {
+     "id": "351EE154-87AA-46B0-BBA1-ED604368ACE9",
+     "name": "Incarceration"
+    },
+    {
+     "id": "50A3D2B2-C922-4749-89F1-E986A5D520AC",
+     "name": "Jails and Prisons"
+    },
+    {
+     "id": "367BC636-6F02-4F1B-BEAA-5A20E46C7207",
+     "name": "Japanese-American Internment"
+    },
+    {
+     "id": "0B575E33-B68F-4F3D-998E-B03284606CF3",
+     "name": "Industry"
+    },
+    {
+     "id": "FE2FF71D-E850-460E-A727-27B292BF1603",
+     "name": "Logging and Timber Cutting"
+    },
+    {
+     "id": "2B428F59-9148-40C1-B38E-130589F2540E",
+     "name": "Immigration"
+    },
+    {
+     "id": "9FCC01C6-F068-4A05-9A78-23FEBFADAF56",
+     "name": "Latino American Heritage"
+    },
+    {
+     "id": "E0AB480F-3A94-4DC1-8B21-9555F2C59B32",
+     "name": "LGB American Heritage"
+    },
+    {
+     "id": "4C9D4777-A9DA-47D1-A0B9-F4A3C98BC1B3",
+     "name": "Maritime"
+    },
+    {
+     "id": "123CE28E-0EFA-4330-8E6E-EEFF3D7BF772",
+     "name": "Coastal Defenses"
+    },
+    {
+     "id": "7424754D-EB8B-4608-A69A-50D44992931B",
+     "name": "Maritime - Military"
+    },
+    {
+     "id": "263BAC6E-4DEC-47E4-909D-DA8AD351E06E",
+     "name": "Lighthouses"
+    },
+    {
+     "id": "A079385C-3E71-4E18-9E42-B046BC22EA95",
+     "name": "Ships and Shipwrecks"
+    },
+    {
+     "id": "4B3CD083-7500-434B-A8C2-D355925E0245",
+     "name": "Medicine"
+    },
+    {
+     "id": "97716EF5-D001-449C-993A-EC15AB8FD345",
+     "name": "Hospital"
+    },
+    {
+     "id": "69E16062-0E4F-4DE0-91FB-E4EDB2484572",
+     "name": "Migrations"
+    },
+    {
+     "id": "3B0D607D-9933-425A-BFA0-21529AC4734C",
+     "name": "Military"
+    },
+    {
+     "id": "E411F474-A530-4804-9D23-1D94C78B41E4",
+     "name": "Infantry and Militia"
+    },
+    {
+     "id": "B145FAB8-5462-4FE2-964E-464D3A5E7F96",
+     "name": "Artillery"
+    },
+    {
+     "id": "69790851-A62A-4920-AA3E-E61406FFC27D",
+     "name": "Cavalry"
+    },
+    {
+     "id": "97CCB419-196C-4B95-BB3A-621458F78415",
+     "name": "US Army"
+    },
+    {
+     "id": "D164D82F-4031-4BCB-90A8-B388502CA308",
+     "name": "US Coast Guard"
+    },
+    {
+     "id": "BEB7E470-13B2-4E00-84B2-0402D98DAF69",
+     "name": "Monuments and Memorials"
+    },
+    {
+     "id": "A1BAF33E-EA84-4608-A888-4CEE9541F027",
+     "name": "Native American Heritage"
+    },
+    {
+     "id": "518B32FB-339D-4C52-B2C2-04BF406AA4B0",
+     "name": "Religion and Spirituality"
+    },
+    {
+     "id": "039CDC0F-6408-473D-9C9F-83B3B8A1E069",
+     "name": "Missions"
+    },
+    {
+     "id": "D1CF31DE-AFED-412B-9425-DD1FD4CBB5C7",
+     "name": "Science, Technology and Innovation"
+    },
+    {
+     "id": "40C0866A-3890-41A4-84CA-5935DEE181AE",
+     "name": "Social Movements"
+    },
+    {
+     "id": "5CCB14BC-2AC4-45CE-B786-54A065DA1B60",
+     "name": "Abolition Movement"
+    },
+    {
+     "id": "8F34C3EC-7B8E-4F28-8114-B8DFE4F300DF",
+     "name": "Civil Rights"
+    },
+    {
+     "id": "4C0EBDE7-EB73-4252-84D9-0650974EC3E5",
+     "name": "Conservation Movement"
+    },
+    {
+     "id": "FE2C2613-B41E-4531-BC43-03EB6E45CBCF",
+     "name": "Transportation"
+    },
+    {
+     "id": "1015393C-D7B0-47F3-86FB-786F30368CA2",
+     "name": "Bridges"
+    },
+    {
+     "id": "A160B3D9-1603-4D89-B82F-21FCAF9EEE3B",
+     "name": "Tragic Events"
+    },
+    {
+     "id": "C373F02B-7335-4F8A-A3ED-3E2E37CD4085",
+     "name": "Catastrophic Fires"
+    },
+    {
+     "id": "8CDF78C9-F91A-4ACD-AE70-4FF186F616CE",
+     "name": "Forced Marches"
+    },
+    {
+     "id": "846E5C56-E5AC-489C-B3BF-11F4C73F12C2",
+     "name": "Urban America"
+    },
+    {
+     "id": "27BF8807-54EA-4A3D-B073-AA7AA361CD7E",
+     "name": "Wars and Conflicts"
+    },
+    {
+     "id": "B564E9AA-95E9-4648-A7D1-48F94BFBEBB5",
+     "name": "Tribal Conflicts"
+    },
+    {
+     "id": "3D2EE3E9-7344-416C-A412-C2C7CDCDE684",
+     "name": "Colonial/European Contact Conflicts"
+    },
+    {
+     "id": "E2D07F67-8499-4B0D-A079-14E93484C20F",
+     "name": "Mexican War"
+    },
+    {
+     "id": "53798A16-7CDB-4F17-9C28-095F92D2ED8D",
+     "name": "Indian and Frontier Wars"
+    },
+    {
+     "id": "A8E54356-20CD-490E-B34D-AC6A430E6F47",
+     "name": "Civil War"
+    },
+    {
+     "id": "A28F8700-794E-4BA3-A8D7-7D75D53A4B17",
+     "name": "Spanish-American War"
+    },
+    {
+     "id": "4EC51024-F0D9-479D-AF3F-344CC0153D2E",
+     "name": "World War I"
+    },
+    {
+     "id": "74869FAE-8DFD-4454-847F-11FDDB679F94",
+     "name": "World War II"
+    },
+    {
+     "id": "D2D3201A-8C12-4CD6-B47D-E982633C8524",
+     "name": "Vietnam War"
+    },
+    {
+     "id": "A764E57D-9925-4855-8D66-C60357946FC3",
+     "name": "Cold War"
+    },
+    {
+     "id": "C9C749E3-39C3-45F7-BCC5-9A609E30AA05",
+     "name": "Westward Expansion"
+    },
+    {
+     "id": "83DDFE66-914E-4402-AD3E-ACA731AB2537",
+     "name": "The Gold Rush"
+    },
+    {
+     "id": "7DA81DAB-5045-4953-9C20-36590AD9FA95",
+     "name": "Women's History"
+    },
+    {
+     "id": "0D00073E-18C3-46E5-8727-2F87B112DDC6",
+     "name": "Animals"
+    },
+    {
+     "id": "957EF2BD-AC6C-4B7B-BD9A-87593ADC6691",
+     "name": "Birds"
+    },
+    {
+     "id": "1608649A-E7D7-4529-BD83-074C90F9FB68",
+     "name": "Fish"
+    },
+    {
+     "id": "393F60FB-80D6-46F7-B0FB-BBF3C90F59FD",
+     "name": "Tortoises and Turtles"
+    },
+    {
+     "id": "4DC11D06-00F1-4A01-81D0-89CCCCE4FF50",
+     "name": "Climate Change"
+    },
+    {
+     "id": "46FC5CBD-9AD5-48F1-B4DA-1357031B1D2E",
+     "name": "Coasts, Islands and Atolls"
+    },
+    {
+     "id": "CDD8F34E-3BD4-425A-8264-4F0BA0DFBA38",
+     "name": "Dunes"
+    },
+    {
+     "id": "F79C1242-80FF-40F0-A0C1-5FFCBA172EC0",
+     "name": "Estuaries and Mangroves"
+    },
+    {
+     "id": "04A39AB8-DD02-432F-AE5F-BA1267D41A0D",
+     "name": "Fire"
+    },
+    {
+     "id": "9F6A7003-59D6-4438-935F-760FD04C1073",
+     "name": "Foothills, Plains and Valleys"
+    },
+    {
+     "id": "41B1A0A3-11FF-4F55-9CB9-034A7E28B087",
+     "name": "Forests and Woodlands"
+    },
+    {
+     "id": "762170E5-0747-4836-B837-7F2547D3F733",
+     "name": "Coniferous Forests"
+    },
+    {
+     "id": "F0F97E32-2F29-41B4-AF98-9FBE8DAB36B1",
+     "name": "Geology"
+    },
+    {
+     "id": "94262026-92F5-48E9-90EF-01CEAEFBA4FF",
+     "name": "Grasslands"
+    },
+    {
+     "id": "1AEDC86F-5792-487F-8CDF-9E92CAB97ACE",
+     "name": "Prairies"
+    },
+    {
+     "id": "F8C2FE93-DEB3-4B12-9A87-913E3E6B448D",
+     "name": "Natural Sounds"
+    },
+    {
+     "id": "0E6D8503-CB65-467F-BCD6-C6D9E28A4E0B",
+     "name": "Oceans"
+    },
+    {
+     "id": "980D1693-65BF-4F29-8182-7BAC9796E605",
+     "name": "Whales"
+    },
+    {
+     "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+     "name": "Scenic Views"
+    },
+    {
+     "id": "5BE55D7F-BDB6-4E3D-AC35-2D8EBB974417",
+     "name": "Trails"
+    },
+    {
+     "id": "78E4F4AC-AF97-435A-8C2C-7FB8D67516ED",
+     "name": "Unique Species"
+    },
+    {
+     "id": "996BEDAE-CB23-4003-B008-3A1F46A72263",
+     "name": "Rare"
+    },
+    {
+     "id": "489D6333-FD72-44DF-83B0-3D4412DD0A75",
+     "name": "Endangered"
+    },
+    {
+     "id": "BA12B386-49EA-46B0-9121-FCACACC47538",
+     "name": "Watersheds"
+    },
+    {
+     "id": "1365C347-952C-475A-B755-731DD523C195",
+     "name": "Wetlands"
+    },
+    {
+     "id": "FD0BA21A-5F69-4688-9D4B-856DA242DC78",
+     "name": "Marshes"
+    }
+   ],
+   "states": "CA",
+   "contacts": {
+    "phoneNumbers": [
+     {
+      "phoneNumber": "415-561-4700",
+      "description": "",
+      "extension": "",
+      "type": "Voice"
+     }
+    ],
+    "emailAddresses": [
+     {
+      "description": "",
+      "emailAddress": "goga_socialmedia_goga@nps.gov"
+     }
+    ]
+   },
+   "entranceFees": [],
+   "entrancePasses": [],
+   "fees": [],
+   "directionsInfo": "Golden Gate National Recreation Area has many sites that span over 60 miles of mostly coastal areas north and south of San Francisco. Park areas can be reached by Highways 1, 101 and 280 from the north and south San Francisco Bay Area, and by Highway 80 from the East Bay. To access park headquarters at Fort Mason, please use the entrance at Franklin and Bay Streets in San Francisco.",
+   "directionsUrl": "http://www.nps.gov/goga/planyourvisit/directions.htm",
+   "operatingHours": [
+    {
+     "exceptions": [],
+     "description": "Although this urban park is accessible 24 hours a day in most areas, most parking lots are open between sunrise to sunset.",
+     "standardHours": {
+      "wednesday": "All Day",
+      "monday": "All Day",
+      "thursday": "All Day",
+      "sunday": "All Day",
+      "tuesday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day"
+     },
+     "name": "Parking Lots"
+    },
+    {
+     "exceptions": [],
+     "description": "These areas are open from 6 a.m. until 1 hour after sunset.\n\n\nMarin County: \n- Conzelman Rd (west, between traffic circle and Field Rd.)\n- Kirby Cove (except registered campers with permits)\n- Muir Beach\n- Muir Beach Overlook\n- Stinson Beach\n\n\nSan Francisco County\n- Fort Point (north of the gate and adjacent areas)\n- China Beach\n- Fort Mason \u2013 Black Point Stairway to Van Ness Ave.\n- Lands End\n- Sutro Heights Park",
+     "standardHours": {
+      "wednesday": "6:00AM - Sunset",
+      "monday": "6:00AM - Sunset",
+      "thursday": "6:00AM - Sunset",
+      "sunday": "6:00AM - Sunset",
+      "tuesday": "6:00AM - Sunset",
+      "friday": "6:00AM - Sunset",
+      "saturday": "6:00AM - Sunset"
+     },
+     "name": "Day Use Areas"
+    },
+    {
+     "exceptions": [],
+     "description": "Muir Woods National Monument is open daily with hours varying throughout the year. Please check the Muir Woods National Monument park website for the most current, up to date information. \n\nIn accordance with CDC, state, and local public health guidance related to COVID-19, these hours and availability of programs may vary.",
+     "standardHours": {
+      "wednesday": "8:00AM - 6:00PM",
+      "monday": "8:00AM - 6:00PM",
+      "thursday": "8:00AM - 6:00PM",
+      "sunday": "8:00AM - 6:00PM",
+      "tuesday": "8:00AM - 6:00PM",
+      "friday": "8:00AM - 6:00PM",
+      "saturday": "8:00AM - 6:00PM"
+     },
+     "name": "Muir Woods National Monument"
+    },
+    {
+     "exceptions": [
+      {
+       "exceptionHours": {
+        "wednesday": "Closed",
+        "monday": "Closed",
+        "thursday": "Closed",
+        "sunday": "Closed",
+        "tuesday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed"
+       },
+       "startDate": "2026-12-25",
+       "name": "Christmas",
+       "endDate": "2026-12-25"
+      },
+      {
+       "exceptionHours": {
+        "wednesday": "Closed",
+        "monday": "Closed",
+        "thursday": "Closed",
+        "sunday": "Closed",
+        "tuesday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed"
+       },
+       "startDate": "2026-12-25",
+       "name": "Christmas",
+       "endDate": "2026-12-25"
+      }
+     ],
+     "description": "We are currently open the following days/hours:\n\nMonday: 12:30pm - 3:30pm\nTuesday: CLOSED\nWednesday: CLOSED\nThursday: CLOSED\nFriday: 12:30pm - 3:30pm\nSaturday: 12:30pm - 3:30pm\nSunday: 12:30pm - 3:30pm",
+     "standardHours": {
+      "wednesday": "Closed",
+      "monday": "12:30PM - 3:30PM",
+      "thursday": "Closed",
+      "sunday": "12:30PM - 3:30PM",
+      "tuesday": "Closed",
+      "friday": "12:30PM - 3:30PM",
+      "saturday": "12:30PM - 3:30PM"
+     },
+     "name": "Point Bonita Lighthouse (beyond the tunnel)"
+    },
+    {
+     "exceptions": [],
+     "description": "The Nike Missile Site in the Marin Headlands is open Thursdays, Fridays, and Saturdays from 12pm to 3pm for demonstrations and programs, unless otherwise posted.",
+     "standardHours": {
+      "wednesday": "Closed",
+      "monday": "Closed",
+      "thursday": "12:00PM - 3:00PM",
+      "sunday": "Closed",
+      "tuesday": "Closed",
+      "friday": "12:00PM - 3:00PM",
+      "saturday": "12:00PM - 3:00PM"
+     },
+     "name": "Nike Missile Site"
+    },
+    {
+     "exceptions": [],
+     "description": "Battery Townsley is open every first Sunday of the month between 12:00pm to 4:00pm for guided tours.",
+     "standardHours": {
+      "wednesday": "Closed",
+      "monday": "Closed",
+      "thursday": "Closed",
+      "sunday": "12:00PM - 4:00PM",
+      "tuesday": "Closed",
+      "friday": "Closed",
+      "saturday": "Closed"
+     },
+     "name": "Battery Townsley"
+    },
+    {
+     "exceptions": [
+      {
+       "exceptionHours": {
+        "wednesday": "Closed",
+        "monday": "Closed",
+        "thursday": "Closed",
+        "sunday": "Closed",
+        "tuesday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed"
+       },
+       "startDate": "2026-11-26",
+       "name": "Thanksgiving",
+       "endDate": "2026-11-26"
+      },
+      {
+       "exceptionHours": {
+        "wednesday": "Closed",
+        "monday": "Closed",
+        "thursday": "Closed",
+        "sunday": "Closed",
+        "tuesday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed"
+       },
+       "startDate": "2026-12-25",
+       "name": "Christmas",
+       "endDate": "2026-12-25"
+      },
+      {
+       "exceptionHours": {
+        "wednesday": "Closed",
+        "monday": "Closed",
+        "thursday": "Closed",
+        "sunday": "Closed",
+        "tuesday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed"
+       },
+       "startDate": "2027-01-01",
+       "name": "New Year's Day",
+       "endDate": "2027-01-01"
+      }
+     ],
+     "description": "Fort Point National Historic Site is open Fridays, Saturdays and Sundays from 10:00 am to 5:00 pm unless otherwise noted on Fort Point's website.",
+     "standardHours": {
+      "wednesday": "Closed",
+      "monday": "10:00AM - 5:00PM",
+      "thursday": "10:00AM - 5:00PM",
+      "sunday": "10:00AM - 5:00PM",
+      "tuesday": "Closed",
+      "friday": "10:00AM - 5:00PM",
+      "saturday": "10:00AM - 5:00PM"
+     },
+     "name": "Fort Point National Historic Site"
+    }
+   ],
+   "addresses": [
+    {
+     "postalCode": "94123",
+     "city": "San Francisco",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Golden Gate National Recreation Area",
+     "type": "Physical",
+     "line3": "",
+     "line2": "201 Fort Mason"
+    },
+    {
+     "postalCode": "94123",
+     "city": "San Francisco",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Golden Gate National Recreation Area",
+     "type": "Mailing",
+     "line3": "",
+     "line2": "201 Fort Mason"
+    }
+   ],
+   "images": [
+    {
+     "credit": "NPS photo/Will Elder",
+     "title": "Morning Fog at Crissy Field",
+     "altText": "White buildings with red roofs at Crissy Field with blue bay and Golden Gate Bridge and fog behind.",
+     "caption": "Visiting Crissy Field is an ever changing experience as the fog comes in and dissipates.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C7FEE17-1DD8-B71B-0BA285725552D8E3.jpg"
+    },
+    {
+     "credit": "Will Elder",
+     "title": "Spring Flowers at Mori Point",
+     "altText": "Mori Point view north with yellow an blue flowers, the blue-green Pacific Ocean and Mt. Tamalpais.",
+     "caption": "View north from Mori Point showing abundant spring flowers and Mt. Tamalpais in the background.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C7FE3B8-1DD8-B71B-0B91991C4D692710.jpg"
+    },
+    {
+     "credit": "Kirke Wrench",
+     "title": "Stinson Beach from Bolinas Ridge",
+     "altText": "View over the Pacific from Bolinas Ridge; Stinson Beach, Bolinas Lagoon and head in mid-ground.",
+     "caption": "Bolinas Ridge offers outstanding panaramas of the Pacific Coast, here including Stinson Beach and Lagoon.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C7FE813-1DD8-B71B-0BE722D07B80503A.jpg"
+    },
+    {
+     "credit": "Kirke Wrench",
+     "title": "Storm over the Golden Gate",
+     "altText": "Orange Golden Gate Bridge with waves crashing in foreground and storm clouds behind.",
+     "caption": "The Golden Gate Bridge is an iconic attraction year-round.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C7FE978-1DD8-B71B-0B5B04277B391AE4.jpg"
+    },
+    {
+     "credit": "NPS photo/Will Elder",
+     "title": "Marin Headlands and Rodeo Beach",
+     "altText": "View south with family on road in foreground and Rodeo Beach and cove in front of Point Bonita.",
+     "caption": "Trails in the Marin Headlands offer a fun and spectacular hiking experience for all.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C7FEAD0-1DD8-B71B-0B27C7C76C4A0492.jpg"
+    },
+    {
+     "credit": "NPS photo/Will Elder",
+     "title": "Montgomery Street Barracks, Presidio of San Francisco",
+     "altText": "Row of red brick barracks with white-columned porches where infantry soldiers lived.",
+     "caption": "The Presidio offers an outdoor museum of military architecture over the centuries.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C7FECA7-1DD8-B71B-0B0766C254B04EED.jpg"
+    },
+    {
+     "credit": "NPS photo/Will Elder",
+     "title": "Alcatraz Island from Crissy Field",
+     "altText": "Closeup shot of Alcatraz Island showing lighthouse and prison with yellow flowers on slope in front.",
+     "caption": "Visitors can learn about the complex layered history of Alcatraz Island.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C801934-1DD8-B71B-0B9C7A3F85A2B6E1.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "title": "Golden Gate Bridge from Battery",
+     "altText": "Person jogging along a path with golden gate bridge in the background.",
+     "caption": "Golden Gate from Battery East",
+     "url": "https://www.nps.gov/common/uploads/structured_data/FD457F81-C06F-457A-310C9781E0C97448.jpg"
+    }
+   ],
+   "weatherInfo": "Winter is characterized by sporadic rain and cool weather punctuated by brilliant sunshine. In winter the grass greens. Trees and flowers dormant through winter start blooming in late February or early March and last until May or June. By July, summer fog predominates in most coastal areas of the park. Grasses and plants have now turned to the golden brown and muted grays characteristic of California summer and fall. September and October skies are clear and sunshine is abundant everywhere in the park.",
+   "name": "Golden Gate",
+   "designation": "National Recreation Area",
+   "multimedia": [],
+   "relevanceScore": 1.0
+  }
+ ]
+}

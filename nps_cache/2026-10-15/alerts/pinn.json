@@ -1,0 +1,32 @@
+{
+ "_meta": {
+  "endpoint": "alerts",
+  "park_code": "pinn",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 2,
+  "fetched_at": "2026-10-15T18:18:30"
+ },
+ "data": [
+  {
+   "id": "E76D093C-BA71-4A21-9135-49DB27F09689",
+   "url": "",
+   "title": "Fire Danger VERY HIGH",
+   "parkCode": "pinn",
+   "description": "Wood-burning fires and charcoal grills are prohibited. Propane and gas stoves allowed only in campground and picnic areas for cooking food. No smoking on trail. No roadside parking. Fireworks are always prohibited.",
+   "category": "Caution",
+   "relatedRoadEvents": [],
+   "lastIndexedDate": "2026-07-15 00:00:00.0"
+  },
+  {
+   "id": "76963DF5-FF4B-4C00-8F86-2ECA0AED7446",
+   "url": "https://www.nps.gov/pinn/planyourvisit/hours.htm",
+   "title": "Heavy Traffic and High Visitation Alert",
+   "parkCode": "pinn",
+   "description": "Pinnacles experiences\u00a0extremely high visitation\u00a0on weekends, holidays, and during favorable weather, especially in the spring. Expect long lines and delays\u00a0between\u00a010:00 am and 3:00 pm. If you're planning to hike the High Peaks, Condor Gulch, Balconies, or Moses Spring Trail, it\u2019s recommended to arrive before 8:00 am\u00a0(parking may fill earlier). Additionally, campground access may be temporarily delayed during peak periods of visitation when ALL incoming traffic is held.",
+   "category": "Information",
+   "relatedRoadEvents": [],
+   "lastIndexedDate": "2026-05-29 00:00:00.0"
+  }
+ ]
+}

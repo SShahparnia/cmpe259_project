@@ -1,0 +1,2606 @@
+{
+ "_meta": {
+  "endpoint": "thingstodo",
+  "park_code": "goga",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 23,
+  "fetched_at": "2026-10-15T18:18:48"
+ },
+ "data": [
+  {
+   "id": "7276A944-7CBD-49D9-B192-93879A2EE255",
+   "url": "https://www.nps.gov/thingstodo/hawk-hill-birdwatching.htm",
+   "title": "Hawk Hill Birdwatching",
+   "shortDescription": "Birdwatching in the high hills of the Marin Headlands at Hawk Hill Overlook.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/812CE3E1-C15A-28BB-2BD2485B453B9AE2.jpg",
+     "credit": "Alison Taggart-Barone",
+     "altText": "Visitors looking for birds from the Hawk Hill Overlook.",
+     "title": "Hawk Hill Overlook",
+     "description": "",
+     "caption": "Hawk Hill Overlook",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/812CE3E1-C15A-28BB-2BD2485B453B9AE2.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/812CE3E1-C15A-28BB-2BD2485B453B9AE2.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "birdwatching",
+    "wildlife",
+    "birds",
+    "birds of prey"
+   ],
+   "latitude": "37.82738693870389",
+   "longitude": "-122.49914359055144",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Hawk Hill Overlook",
+   "seasonDescription": "",
+   "accessibilityInformation": "Hawk Hill provides visitors with accessible parking stalls, curb ramps, accessible portable toilet and accessible routes throughout the overlook. Past the concrete tunnels the trails can be steep and very narrow.\u00a0",
+   "isReservationRequired": "false",
+   "ageDescription": "Birdwatching is an all ages activity!",
+   "petsDescription": "Parking lots, sidewalks, picnic areas and paved public roads are open to ON-LEASH dog walking unless posted.\u00a0<br /> <br /> For more information please visit go.nps.gov/GGNRADogs<br /> \u00a0",
+   "timeOfDayDescription": "",
+   "feeDescription": "",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "true",
+   "activities": [
+    {
+     "id": "5A2C91D1-50EC-4B24-8BED-A2E11A1892DF",
+     "name": "Birdwatching"
+    }
+   ],
+   "activityDescription": "Grab your bino's (binoculars) and get ready for some spectacular sites at the Hawk Hill Overlook. Migratory birds of prey as well as many other bird species can be seen flying over the rolling hills of the Marin Headlands from this popular birdwatching spot.\u00a0",
+   "locationDescription": "Hawk Hill offers stunning panoramic vistas overlooking the San Francisco Bay and Golden Gate Bridge. During the fall, as many as 19 different species of raptors fly over Hawk Hill in numbers greater than 20,000.\u00a0",
+   "doFeesApply": "false",
+   "longDescription": "The most visible wildlife in Golden Gate are definitely the birds. You will see them rustling in the bushes near a path, soaring overhead, or floating across a marsh. An astonishing number of avian species live in or migrate through\u00a0Golden Gate.\u00a0<br /> <br /> You can scan the sky for migratory birds of prey\u00a0soaring above Marin Headlands on\u00a0<a href=\"https://www.nps.gov/places/000/hawk-hill-overlook.htm\">Hawk Hill</a>.\u00a0For a complete list of bird species visit <a href=\"https://irma.nps.gov/NPSpecies/Search/SpeciesList/GOGA\">NPSpecies page</a> and choose birds as the search category.<br /> <br /> <br /> Download the Marin Headlands bird\u00a0<a href=\"https://www.nps.gov/goga/learn/nature/upload/chklist-birds-mahe-web2024.pdf\">checklist\u00a0</a>and see how many birds you can spot while you're here!<br /> <br /> \u00a0",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "957EF2BD-AC6C-4B7B-BD9A-87593ADC6691",
+     "name": "Birds"
+    },
+    {
+     "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+     "name": "Scenic Views"
+    }
+   ],
+   "durationDescription": "Whether you only have a few minutes or a couple of hours you're bound to see something spectacular while visiting Hawk Hill.\u00a0",
+   "arePetsPermitted": "true",
+   "timeOfDay": [
+    "Day",
+    "Dawn",
+    "Dusk"
+   ],
+   "duration": "1-2 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "3575C2B1-E866-46E8-B3D9-37BF8AA96C7F",
+   "url": "https://www.nps.gov/thingstodo/rodeo-lagoon-birdwatching.htm",
+   "title": "Rodeo Lagoon Birdwatching",
+   "shortDescription": "Birdwatching in Rodeo Lagoon",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/F7644577-B42A-65C7-3C2806CD72839526.jpg",
+     "credit": "Sarah Merlau",
+     "altText": "A white colored great egret mid-flight over the water in Rodeo Lagoon.",
+     "title": "Great Egret in flight",
+     "description": "",
+     "caption": "A great egret mid-flight over Rodeo Lagoon.",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/F7644577-B42A-65C7-3C2806CD72839526.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/F7644577-B42A-65C7-3C2806CD72839526.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [],
+   "latitude": "37.83158239039295",
+   "longitude": "-122.53601095918816",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Rodeo Lagoon",
+   "seasonDescription": "Birds are in the lagoon year round. Depending on the species, the best time is during migratory periods (fall and spring).\u00a0",
+   "accessibilityInformation": "There is accessible parking and restrooms at the Surfer's Lot at the end of Mitchell Road at Rodeo Beach. There are also accesible parking spots at the pedestrian bridge closer to the lagoon. More parking is available along Mitchell Road with overflow parking near the Marine Mammal Center.\u00a0<br /> <br /> The Rodeo Lagoon trail is a hard pack trail with the exception of the access from Rodeo Beach. There is a picnic area near the lagoon along Mitchell Road and near the restrooms in the Surfer's Lot.\u00a0",
+   "isReservationRequired": "false",
+   "ageDescription": "This is an all ages activity.",
+   "petsDescription": "Dogs are allowed at Rodeo Beach and South Rodeo Beach (Excluding lagoon) On-Leash OR under Voice Control.<br /> <br /> The lagoon is a protected wildlife area. Dogs are not allowed in the lagoon.\u00a0",
+   "timeOfDayDescription": "",
+   "feeDescription": "",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "true",
+   "activities": [
+    {
+     "id": "5A2C91D1-50EC-4B24-8BED-A2E11A1892DF",
+     "name": "Birdwatching"
+    }
+   ],
+   "activityDescription": "Watch for birds and other wildlife in Rodeo Lagoon.",
+   "locationDescription": "Rodeo Lagoon in Fort Cronkite can be seen from multiple places along Bunker Hill/Mitchell Road, Rodeo Beach or the Rodeo Lagoon Trail.\u00a0",
+   "doFeesApply": "false",
+   "longDescription": "The precipitous cliffs and offshore rocks that flank the park are a haven for colonial seabirds. Bird Island off of Rodeo Lagoon is one of the largest roosting sites in northern California for the endangered brown pelican, with several hundred making a splash in Rodeo Lagoon each Fall.\u00a0<br /> <br /> Rodeo Lagoon provides a habitat for loons, grebes, scoters, numerous species of dabbling and diving ducks, gulls, terns, willets, sanderlings, and sandpipers.\u00a0The San Francisco Bay is an important stopover for migrating species both due to its size and diversity of suitable habitat. Nearshore marine waters just outside the Golden Gate also provide foraging sooty shearwaters and pigeon guillemot, with thousands of birds rafting together on open water.<br /> <br /> Enjoy a short hike on the Rodeo Lagoon Trail or observe the lagoon from Rodeo Beach. Take a short drive to reach the Bird Island Overlook near Battery Mendell and Point Bonita Lighthouse trail.\u00a0<br /> <br /> For a complete list of bird species visit <a href=\"https://irma.nps.gov/NPSpecies/Search/SpeciesList/GOGA\">NPSpecies page</a> and choose birds as the search category.<br /> \u00a0",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "957EF2BD-AC6C-4B7B-BD9A-87593ADC6691",
+     "name": "Birds"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "true",
+   "timeOfDay": [
+    "Day",
+    "Dawn",
+    "Dusk"
+   ],
+   "duration": "1-2 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "4380B906-27E2-4AF5-94FB-C9B9BA429AA1",
+   "url": "https://www.nps.gov/thingstodo/nike-missile-site-in-the-marin-headlands.htm",
+   "title": "Nike Missile Site in the Marin Headlands",
+   "shortDescription": "Visit and explore a Nike Missile site and learn about the role of the military installations here in the Marin Headlands.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/A6C433D2-E00C-02D9-C8548585F3731432.jpg",
+     "credit": "Spencer E Holtaway",
+     "altText": "A volunteer demonstrates how a Nike missile rises from storage below ground.",
+     "title": "Nike Missile Site 88",
+     "description": "",
+     "caption": "A Nike missile demonstration in the Marin Headlands",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/A6C433D2-E00C-02D9-C8548585F3731432.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/A6C433D2-E00C-02D9-C8548585F3731432.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "Nike Missile",
+    "military history"
+   ],
+   "latitude": "37.82892426577131",
+   "longitude": "-122.52757138990494",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Nike Missile Site SF-88L",
+   "seasonDescription": "During\u00a0inclement weather, the Nike Missile site will be closed.\u00a0<br /> <br /> For more information call the Marin Headlands Visitor Center (415) 331-1540.",
+   "accessibilityInformation": "<a href=\"https://www.nps.gov/goga/planyourvisit/nike-missile-site-accessibility.htm\">Nike Missile Site Accessibility</a><br /> \u00a0 <ul> <li>There are usable parking available one site. The area is paved and generally flat, but is not striped.\u00a0</li> <li>There is an accessible portable toilet available in the front of the parking area.\u00a0</li> <li>All tours are guided by a park employee, docent, or volunteer. These individuals will tailor the tours to the needs of the visitors.\u00a0</li> <li>ASL interpreters are available on request, with 5 days advanced notice.\u00a0</li> <li>All the buildings are generally accessible to visitors with mobility disabilities.\u00a0</li> <li>Some portions of the buildings do not provide adequate turning space for visitors who use wheelchairs.\u00a0</li> <li>There are two military trailers that are not accessible to visitors who use wheelchairs. The trailers are extremely compact. However, visitors are able to view inside from the entry doors.\u00a0</li> <li>Some routes throughout the site contain cross slopes greater than 2.08% and changes in level that exceed 1/4\".\u00a0The route leading to the Generator building has a running slope of 7.5%, proceed with caution.</li> <li>Some of the exhibits are tactile, including a scale replica of the missile.\u00a0</li> <li>There are accessible picnic tables on site.\u00a0</li> <li>Audio described and open caption videos are available on our <a href=\"https://www.nps.gov/goga/learn/education/nuclear-reactions.htm\">website</a>.</li> </ul>",
+   "isReservationRequired": "false",
+   "ageDescription": "This is an all ages activity.\u00a0",
+   "petsDescription": "Dogs are allowed ON-LEASH in the parking lot and outdoor areas. Pets are not allowed inside the building.\u00a0<br /> <br /> Visit our <a href=\"go.nps.gov/ggnradogs\">website </a>for more specific information about pets within the park.\u00a0",
+   "timeOfDayDescription": "Open Saturdays from 12:30 - 3:30 PM.",
+   "feeDescription": "",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "true",
+   "activities": [
+    {
+     "id": "B33DC9B6-0B7D-4322-BAD7-A13A34C584A3",
+     "name": "Guided Tours"
+    }
+   ],
+   "activityDescription": "Explore the only fully restored Nike missile site in the country. This museum is an enduring reminder of the Cold War and allows visitors to reflect upon the realities of the Cold War and their influence on today's society.\u00a0<br /> <br /> On the first Saturday of each month, we host our Nike Veterans Open House who provide a first-hand account of their experience at Nike Missile Sites across the United States. Formal tours do not occur on these days.",
+   "locationDescription": "Restored historic Nike Missile site, located in the heart of the Marin Headlands.\u00a0",
+   "doFeesApply": "false",
+   "longDescription": "Learn about and explore a <a href=\"https://www.nps.gov/goga/nike-missile-site.htm\">Nike Missile site</a> in the Marin Headlands.\u00a0<br /> <br /> Visit a Cold War museum in the heart of the Marin Headlands. During the tense years of the Cold War, from 1953 to 1979, the United States Army built and operated close to 300 Nike missile sites in the United States.<br /> <br /> On the first Saturday of each month, we host our Nike Veterans Open House who provide a first-hand account of their experience at Nike Missile Sites across the United States. Formal tours do not occur on these days.<br /> \u00a0",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "123CE28E-0EFA-4330-8E6E-EEFF3D7BF772",
+     "name": "Coastal Defenses"
+    },
+    {
+     "id": "3B0D607D-9933-425A-BFA0-21529AC4734C",
+     "name": "Military"
+    }
+   ],
+   "durationDescription": "The site is open\u00a0on Saturdays from 12:30 - 3:30 PM. Expect to spend at least 30 minutes to 1 hour exploring the site.",
+   "arePetsPermitted": "true",
+   "timeOfDay": [
+    "Day"
+   ],
+   "duration": "30-90 Minutes",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "06996A0A-5A6F-493C-BBBA-1E18028B67C5",
+   "url": "https://www.nps.gov/thingstodo/visit-the-new-industries-building.htm",
+   "title": "Visit the New Industries Building",
+   "shortDescription": "Visit the New Industries Building to see exhibits on Prison Labor and the commemorative exhibit, Red Power on Alcatraz: Perspectives 50 Years Later.\u00a0Red Power on Alcatraz\u00a0tells the story of their 19 -month\u00a0Occupation of Alcatraz, a watershed moment\u00a0in the history of Alcatraz Island, the Native American civil rights move",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/64D847F7-C8A7-9BF3-6C49E232A3DA6443.jpg",
+     "credit": "NPS / Allison Taggart Barone",
+     "altText": "A long building next to a rocky plant covered slope, sitting in front of a large body of water.",
+     "title": "New Industries Building",
+     "description": "",
+     "caption": "The Alcatraz New Industries Building contains exhibits on the islands history.",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/64D847F7-C8A7-9BF3-6C49E232A3DA6443.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/64D847F7-C8A7-9BF3-6C49E232A3DA6443.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "alca",
+     "designation": "",
+     "fullName": "Alcatraz Island",
+     "url": "https://www.nps.gov/alca/index.htm",
+     "name": "Alcatraz Island"
+    },
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [],
+   "latitude": "",
+   "longitude": "",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "",
+   "seasonDescription": "",
+   "accessibilityInformation": "Entrance to the the New Industries Building is via a wheel chair accessible ramp. The interior of the building is completely flat.\u00a0<br /> <br /> All videos in the exhibits feature open captions.\u00a0",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "",
+   "timeOfDayDescription": "",
+   "feeDescription": "",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "false",
+   "activities": [
+    {
+     "id": "C8F98B28-3C10-41AE-AA99-092B3B398C43",
+     "name": "Museum Exhibits"
+    }
+   ],
+   "activityDescription": "This building contains\u00a0exhibits on Prison Labor and the commemorative exhibit, <a href=\"https://www.nps.gov/alca/redpower50.htm\">Red Power on Alcatraz: Perspectives 50 Years Later</a>.\u00a0<em>Red Power on Alcatraz</em>\u00a0tells the story of their 19 -month\u00a0<a href=\"https://www.nps.gov/alca/learn/historyculture/we-hold-the-rock.htm\">Occupation of Alcatraz</a>, a watershed moment\u00a0in the history of Alcatraz Island, the Native American civil rights movement, and our nation.",
+   "locationDescription": "",
+   "doFeesApply": "false",
+   "longDescription": "Visit the New Industries Building. This building historically held workshops and laundry facilities where men incarcerated on Alcatraz labored at various tasks.\u00a0<br /> <br /> Today this large open space contains exhibits on Prison Labor, waterbirds - <a href=\"https://www.nps.gov/alca/birdsofalcatraz.htm\">Birds in a Changing Climate</a>, and the commemorative exhibit, <a href=\"https://www.nps.gov/alca/redpower50.htm\">Red Power on Alcatraz: Perspectives 50 Years Later</a>.\u00a0<em>Red Power on Alcatraz</em>\u00a0tells the story of their 19 -month\u00a0<a href=\"https://www.nps.gov/alca/learn/historyculture/we-hold-the-rock.htm\">Occupation of Alcatraz</a>, a watershed moment\u00a0in the history of Alcatraz Island, the Native American civil rights movement, and our nation.",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "351EE154-87AA-46B0-BBA1-ED604368ACE9",
+     "name": "Incarceration"
+    },
+    {
+     "id": "A1BAF33E-EA84-4608-A888-4CEE9541F027",
+     "name": "Native American Heritage"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "false",
+   "timeOfDay": [
+    "Day",
+    "Night"
+   ],
+   "duration": "30-60 Minutes",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "091CD6A8-72DC-4308-AC2F-51BE4635294A",
+   "url": "https://www.nps.gov/thingstodo/hike-the-bolinas-ridge-trail.htm",
+   "title": "Hike the Bolinas Ridge Trail",
+   "shortDescription": "Admire redwood forests and expansive views of the Olema Valley on this dog-friendly, multi-use trail. This up-to-11-mile-long trail begins at either at the Bolinas Ridge Trailhead along Sir Francis Drake Boulevard or at the trail's southern end at the Fairfax-Bolinas Road's junction with the West Ridgecrest Rd. Allow about 5 minutes to drive from Bear Valley to the trail's northern trailhead. Allow about 30 minutes to drive from Bear Valley to the trail's southern trailhead.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/E56EC9DC-9773-6847-D13DB91D444E3DAE.jpg",
+     "credit": "NPS / J. Dupont",
+     "altText": "Light brownish-yellow grasses on a ridge crest with a dark green forested ridge in the background.",
+     "title": "Bolinas Ridge Trail",
+     "description": "",
+     "caption": "The Bolinas Ridge Trail offers many views of Olema Valley.",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/E56EC9DC-9773-6847-D13DB91D444E3DAE.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/E56EC9DC-9773-6847-D13DB91D444E3DAE.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    },
+    {
+     "states": "CA",
+     "parkCode": "pore",
+     "designation": "National Seashore",
+     "fullName": "Point Reyes National Seashore",
+     "url": "https://www.nps.gov/pore/index.htm",
+     "name": "Point Reyes"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "Point reyes",
+    "Point Reyes National Seashore",
+    "Golden Gate National Recreation Area",
+    "bolinas ridge",
+    "bolinas ridge trail",
+    "hiking",
+    "dog friendly",
+    "horse riding",
+    "Mountain Biking",
+    "one hour hike",
+    "one to three hour hike",
+    "over three hour hike",
+    "forested trail"
+   ],
+   "latitude": "38.04619426684616",
+   "longitude": "-122.77082204818726",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Bolinas Ridge Trailhead along Sir Francis Drake Boulevard",
+   "seasonDescription": "<h2>Winter</h2> <p>The heaviest rainfall occurs in the winter months. Come prepared for rain and drizzle to possibly last for several days. In between winter rains, it is often sunny, calm, and cool.</p> <h2>Spring</h2> <p>Most spring days are windy. Expect cool temperatures in March. By late May and early June, temperatures can be quite pleasant.</p> <h2>Summer</h2> <p>Although there is very little rain during summer months, there is often dense fog, which tends to burn off by mid-day. Afternoons are often sunny and warm to hot with a light breeze.</p> <h2>Fall</h2> <p>Point Reyes experiences some of the clearest days in late September, October, and early November. The occasional storm will start rolling through in late October, bringing clouds, wind, and rain. The strongest winds occur in November and December during occasional southerly gales.</p>",
+   "accessibilityInformation": "<p>The parking for the <a href=\"https://www.nps.gov/places/golden-gate-bolinas-ridge-trailhead.htm\">Bolinas Ridge Trailhead</a> on Sir Francis Drake Boulevard consists of two roadside pullouts that are mostly unpaved. There is a narrow V-shaped chute/gate that prevents cattle from escaping\u00a0at the trailhead which might be difficult to pass through for some users. Cyclists must lift their bikes over this feature. The trail surface is mostly compacted soil. While the footing is typically even, rain and heavy traffic can make the trail muddy and rutted in various sections. The trail/road\u00a0is eight to ten feet wide in most places, and traverses through open grasslands, shrubs, and forests. Steep grades exist at various locations.</p>",
+   "isReservationRequired": "false",
+   "ageDescription": "<p>All ages.</p>",
+   "petsDescription": "<p>Pets are permitted on the Bolinas Ridge Trail, as well as three trails which intersect with Bolinas Ridge Trail: Jewell Trail, Randall Trail, and McCurdy Trail. Aside from at the parking areas, pets are not permitted beyond the trail.\u00a0<a href=\"https://www.nps.gov/pore/planyourvisit/upload/map_dogareas_bolinas_ridge.pdf\">Download the map showing the trails that are open for pets along Bolinas Ridge.</a> (4,592 KB PDF)</p> <p>Pets must be on a leash at all times; the leash must be no longer than 6 feet.</p> <p>Visit Point Reyes National Seashore's <a href=\"https://www.nps.gov/pore/planyourvisit/pets.htm\">Pets</a> page for more information.</p> <h2>Cattle</h2> <p>Bolinas Ridge Trail, Jewell Trail, McCurdy Trail, and Randall Trail within Golden Gate National Recreation Area pass through cattle pasture. Cattle can feel threatened by dogs, which they may perceive to be a predator. Mother cows may become aggressive when trying to protect their young. Please read <a href=\"https://anrcatalog.ucanr.edu/pdf/8516.pdf\">Understanding Working Rangelands: Sharing Open Space: What to Expect from Grazing Livestock</a> (1,314 KB PDF) to better understand basic cattle behavior and to give yourself a better chance to predict how cattle are likely to react to your dog's presence. This will help make your hike along these trails safer and more enjoyable.</p>",
+   "timeOfDayDescription": "<p>The Bolinas Ridge Trail and the other trails within this area of Golden Gate National Recreation Area are open daily for bicycling from 6 am to midnight.\u00a0The Cross Marin Trail through <a href=\"https://www.parks.ca.gov/?page_id=469\">Samuel P. Taylor State Park</a> is open from 8 am until sunset. The Shafter Grade Road/Trail, which is on <a href=\"https://www.marinwater.org/\">Marin Municipal Water District</a> land, is open from 7 am to sunset.</p>",
+   "feeDescription": "",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "false",
+   "activities": [
+    {
+     "id": "BFF8C027-7C8F-480B-A5F8-CD8CE490BFBA",
+     "name": "Hiking"
+    }
+   ],
+   "activityDescription": "",
+   "locationDescription": "<p>Allow five minutes driving time from Bear Valley to the <a href=\"https://www.nps.gov/places/golden-gate-bolinas-ridge-trailhead.htm\">Bolinas Ridge Trailhead</a>, which is 1.1 miles (1.8 km) east of Olema on Sir Francis Drake Boulevard. You can also connect to the Bolinas Ridge Trail from the Randall or McCurdy trailheads or from the Bolinas Ridge Trail's southern trailhead, all of which are\u00a0south of Bear Valley via Highway 1. Allow 15 minutes driving time to Randall Trailhead, 20 minutes to McCurdy Trailhead, and 35\u00a0minutes to\u00a0Bolinas Ridge Trail's southern trailhead.<br /> <a href=\"https://www.nps.gov/pore/planyourvisit/directions.htm\">Directions to Bear Valley</a><br /> <a href=\"https://www.nps.gov/pore/planyourvisit/directions_inpark_sfdb.htm#bolinasridgetrailhead\">Directions from Bear Valley to Bolinas Ridge Trailhead</a><br /> <a href=\"https://www.nps.gov/pore/planyourvisit/directions_inpark_highwayone.htm#randalltrailhead\">Directions from Bear Valley to Randall Trailhead</a><br /> <a href=\"https://www.nps.gov/pore/planyourvisit/directions_inpark_highwayone.htm#mccurdytrailhead\">Directions from Bear Valley to McCurdy Trailhead</a><br /> <a href=\"https://www.nps.gov/pore/planyourvisit/directions_inpark_highwayone.htm#southbolinasridgetrailhead\">Directions from Bear Valley to Bolinas Ridge Trail's southern trailhead</a></p>",
+   "doFeesApply": "false",
+   "longDescription": "<p><strong>Distance:</strong> up to 22 miles (35 km) roundtrip<br /> <strong>Difficulty:</strong> Easy to difficult, largely depending on how far one hikes</p> <p>Admire the expansive views of the Olema Valley from a ridge crest on this multi-use trail where you may walk your leashed dog. (Dogs must be on a six-foot or shorter leash at all times. Visit Point Reyes National Seashore's <a href=\"https://www.nps.gov/pore/planyourvisit/pets.htm\">Pets</a> page for additional regulations and safety tips.) The Bolinas Ridge Trail is a current ranch/fire road that is shared with bike and horse riders. Most of the northern part of the trail passes through active cattle pastures. Grazing cattle may be present; give them plenty of space when passing. This is an out-and-back trail (although connecting trails offer the opportunity of loop hikes), so it provides visitors with the flexibility to choose how long they want to make their adventure. The Bolinas Ridge trail spans\u00a011 miles (17.6 km) from its <a href=\"https://www.nps.gov/places/golden-gate-bolinas-ridge-trailhead.htm\">northern trailhead</a> along Sir Francis Drake Boulevard to its southern terminus on the Fairfax-Bolinas Road. Turn around and retrace your steps whenever you are ready. The trail description below proceeds from north to south.</p> <p>The Bolinas Ridge Trail's northernmost 2.4 miles (3.8 km)\u00a0pass through grasslands, gradually increasing in elevation. Due to the absence of trees, this section offers some of the best views along the trail of Olema Valley to the west, Tomales Bay to the northwest, and Black Mountain to the north.</p> <p>The Bolinas Ridge Trail\u00a0intersects\u00a0with the Jewell Trail 1.4 miles (2.2 km) from the northern trailhead. The Jewell Trail\u00a0leads east and downhill to Lagunitas Creek and the <a href=\"https://www.nps.gov/thingstodo/walk-the-cross-marin-trail.htm\">Cross Marin Trail</a>. If you don't mind walking 0.7 miles (1.2 km) along Sir Francis Drake Boulevard, follow Jewell Trail to Cross Marin Trail to Sir Francis Drake Boulevard and back along the road to the trailhead for a\u00a04.3-mile-long (6.9-km-long)\u00a0loop hike.</p> <p>The Bolinas Ridge Trail continues south from the Jewell Trail junction with grasslands initially on both sides of the trail. The trail begins to run along the edge of a Douglas fir and coast redwood forest 2.4 miles (3.8 km) from the northern trailhead. The trail skirts along the edge of the woods, staying mostly out from under the tree canopy for the next 3.3 miles (5.3 km).</p> <p>The Shafter Grade Road/Trail descends to the east 5.1 miles (8.2 km) from Bolinas Ridge Trail's northern trailhead. The Shafter Grade connects with the <a href=\"https://www.nps.gov/thingstodo/walk-the-cross-marin-trail.htm\">Cross Marin Trail</a> at the southeast boundary of Samuel P. Taylor State Park and provides options for loop hikes in excess of 10.3 miles (16.5 km).</p> <p>The Bolinas Ridge Trail more completely enters the forest 5.7 miles (9.1 km) south of its northern trailhead. South of here, far-reaching views are few and far between.</p> <p>The Randall Trail descends west to Highway 1 (aka Shoreline Highway) 0.5 miles (0.8 km) later. Continuing south through the forest for another 1.6 miles (2.6 km) brings the hiker to the McCurdy Trail, which similarly descends west to Highway 1. Starting from either the Randall or McCurdy Trailheads, combining the appropriate sections of the Randall, Bolinas Ridge, McCurdy, and Olema Valley Trails results in an 8.1-mile-long (13-km-long) loop hike.</p> <p>The Bolinas Ridge Trail remains in the forest for another 1.7 miles (2.7 km) as it winds to the south before encountering a drier 1-mile-long (1.6-km-long) section of the ridge dominated by fragrant chaparral. From a few sections of this part of the trail, one can look south to Bolinas Lagoon, Stinson Beach, Bolinas Bay, and the Pacific Ocean. Hikers will reenter the redwood forest and find shade along the southernmost 0.5 miles (0.8 km) of the Bolinas Ridge Trail and at the small parking area along the Fairfax-Bolinas Road.</p> <p>This route description alone is not a substitute for a trail map. Print out Point Reyes National Seashore's\u00a0<a href=\"https://www.nps.gov/pore/planyourvisit/upload/map_trailssouth.pdf\">South District\u00a0trail map</a> (3,422 KB PDF) before your visit, or pick up the trail map at the\u00a0<a href=\"https://www.nps.gov/pore/planyourvisit/visitorcenters.htm\">Bear Valley Visitor Center</a>\u00a0on your way. (While designated as part of Golden Gate National Recreation Area, Bolinas Ridge Trail and most of the trails referenced on this page are managed by Point Reyes National Seashore.)</p> <p>Always check\u00a0<a href=\"https://www.nps.gov/pore/planyourvisit/conditions.htm\">current conditions</a>\u00a0before heading out into the park and familiarize yourself with <a href=\"https://www.nps.gov/pore/planyourvisit/parkregulations.htm\">park regulations</a>. Please practice <a href=\"https://www.nps.gov/pore/planyourvisit/leavenotrace.htm\">Leave No Trace</a> principles.</p> <p>Visit the park's <a href=\"https://www.nps.gov/pore/planyourvisit/hiking.htm\">Hiking at Point Reyes National Seashore</a> page for hiking tips and information about trail etiquette and safety.</p> <p>Visit the park's\u00a0<a href=\"https://www.nps.gov/pore/planyourvisit/hiking_trail_advisories.htm\">Trail Advisories and Closures</a> page for current information about closed trails, trails blocked by trees, or other temporary hazards or advisories.</p>",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "5BE55D7F-BDB6-4E3D-AC35-2D8EBB974417",
+     "name": "Trails"
+    }
+   ],
+   "durationDescription": "<p>The Bolinas Ridge trail spans\u00a011 miles (17.6 km) from its <a href=\"https://www.nps.gov/places/golden-gate-bolinas-ridge-trailhead.htm\">northern trailhead</a> along Sir Francis Drake Boulevard to its southern terminus on the Fairfax-Bolinas Road. Allow 5.5 hours for a one-way hike (if you have vehicles at both ends of the trail) or 11 hours to hike the entire 22 miles (35.2 km) roundtrip. However, it is an out-and-back trail, so it offers visitors the flexibility to choose how long they want to make their adventure. Connecting trails also offer the opportunity for loop hikes.</p>",
+   "arePetsPermitted": "true",
+   "timeOfDay": [
+    "Day",
+    "Dawn",
+    "Dusk"
+   ],
+   "duration": "1-11 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "FF775761-4907-40BF-9389-C89B23664952",
+   "url": "https://www.nps.gov/thingstodo/walk-the-cross-marin-trail.htm",
+   "title": "Walk the Cross Marin Trail",
+   "shortDescription": "The up-to-10.6-miles- roundtrip Cross Marin Trail is a relatively flat, easy trail that follows\u00a0the historic North Pacific Coast Railroad right-of-way paralleling Lagunitas Creek. Pets are permitted on the Cross Marin Trail and must be on a six-foot or shorter leash at all times. Allow about 5 minutes to drive from Bear Valley to the trail's northern trailhead.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/7D7214BA-0FDC-69B4-81D2BF20265631E3.jpg",
+     "credit": "NPS / A. Kopshever",
+     "altText": "Sunlight filters through the branches of trees that arch over a paved trail.",
+     "title": "Cross Marin Trail. March 3, 2021.",
+     "description": "",
+     "caption": "The Cross Marin Trail offers an easy creek-side hike or ride along an old railroad grade.",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/7D7214BA-0FDC-69B4-81D2BF20265631E3.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/7D7214BA-0FDC-69B4-81D2BF20265631E3.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    },
+    {
+     "states": "CA",
+     "parkCode": "pore",
+     "designation": "National Seashore",
+     "fullName": "Point Reyes National Seashore",
+     "url": "https://www.nps.gov/pore/index.htm",
+     "name": "Point Reyes"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "Point Reyes National Seashore",
+    "Point reyes",
+    "Golden Gate National Recreation Area",
+    "Samuel P. Taylor State Park",
+    "Cross Marin Trail",
+    "Cross Marin",
+    "trail",
+    "hiking",
+    "dog friendly",
+    "pet friendly",
+    "horse riding",
+    "Mountain Biking",
+    "one hour hike",
+    "one to three hour hike",
+    "over three hour hike",
+    "forested trail"
+   ],
+   "latitude": "38.05013229112687",
+   "longitude": "-122.76032924619358",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Cross Marin Trailhead, Golden Gate National Recreation Area",
+   "seasonDescription": "<h2>Winter</h2> <p>The heaviest rainfall occurs in the winter months. Come prepared for rain and drizzle to possibly last for several days. In between winter rains, it is often sunny, calm, and cool.</p> <h2>Spring</h2> <p>Most spring days are windy. Expect cool temperatures in March. By late May and early June, temperatures can be quite pleasant.</p> <h2>Summer</h2> <p>Although there is very little rain during summer months, there is often dense fog, which tends to burn off by mid-day. Afternoons are often sunny and warm to hot with a light breeze.</p> <h2>Fall</h2> <p>Point Reyes experiences some of the clearest days in late September, October, and early November. The occasional storm will start rolling through in late October, bringing clouds, wind, and rain. The strongest winds occur in November and December during occasional southerly gales.</p>",
+   "accessibilityInformation": "<p>The northern 3.2 miles (5.1 km) of the Cross Marin Trail is an eight-foot-wide (2.4-meter-wide) paved path along an old railroad grade, so there is very relatively little change in elevation.\u00a0Unfortunately, over the years since it was last paved, the surface has degraded a bit and depressions have developed in a number of locations. The southern 2.1 miles (3.4 km) similarly follows the old railroad grade with relatively little change in elevation and is approximately\u00a0eight feet wide (2.4 meters wide), but is a gravel path.\u00a0</p>",
+   "isReservationRequired": "false",
+   "ageDescription": "<p>All ages.</p>",
+   "petsDescription": "<p>Pets are permitted on the Cross Marin Trail, as well as the Jewell Trail, which intersects with the Cross Marin Trail. Aside from at the parking areas, pets are not permitted beyond the Cross Marin Trail.\u00a0<a href=\"https://www.nps.gov/pore/planyourvisit/upload/map_dogareas_bolinas_ridge.pdf\">Download the map showing the NPS-managed trails that are open for pets along Bolinas Ridge.</a> (4,592 KB PDF)</p> <p>Pets must be on a leash at all times; the leash must be no longer than 6 feet (1.8 m).</p> <p>Visit Point Reyes National Seashore's <a href=\"https://www.nps.gov/pore/planyourvisit/pets.htm\">Pets</a> page for more information.</p>",
+   "timeOfDayDescription": "<p>The Cross Marin Trail north of the Jewell Trail is open\u00a0for day-hiking\u00a0from 6 am to midnight. The Cross Marin Trail through Samuel P. Taylor State Park is open from\u00a08 am until sunset.</p>",
+   "feeDescription": "",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "false",
+   "activities": [
+    {
+     "id": "BFF8C027-7C8F-480B-A5F8-CD8CE490BFBA",
+     "name": "Hiking"
+    }
+   ],
+   "activityDescription": "",
+   "locationDescription": "<p>The <a href=\"https://www.nps.gov/places/golden-gate-cross-marin-trailhead.htm\">northern trailhead</a> for the Cross Marin Trail is located at the northwest corner of the intersection of Sir Francis Drake Boulevard and Platform Bridge Road, 1.8 miles (2.9 km) east of Olema.</p> <p>There is limited parking along the old (now largely decommissioned) route of Sir Francis Drake Boulevard north of and parallel to the current highway west of the bridge that crosses Lagunitas Creek. From this parking area, walk a short distance east toward Lagunitas Creek\u00a0and turn right on to the Cross Marin Trail (the paved path that parallels the creek on its west side as it passes under Sir Francis Drake Boulevard).</p> <p>Additional roadside parking is available along the west side of Platform Bridge Road just north of its intersection with\u00a0Sir Francis Drake Boulevard. Walk across\u00a0the Old Tocaloma/Platform Bridge\u00a0(which is closed to automobile traffic)\u00a0and turn left onto the Cross Marin Trail.</p> <p>The Cross Marin Trail may also be reached from various locations within <a href=\"https://www.parks.ca.gov/?page_id=469\">Samuel P. Taylor State Park</a>.</p> <p><a href=\"https://www.nps.gov/pore/planyourvisit/directions.htm\">Directions to Bear Valley</a><br /> <a href=\"https://www.nps.gov/pore/planyourvisit/directions_inpark_sfdb.htm#crossmarintrailhead\">Directions from Bear Valley to Cross Marin Trailhead</a></p>",
+   "doFeesApply": "false",
+   "longDescription": "<p><strong>Distance:</strong> up to 10.6 miles (17 km) roundtrip<br /> <strong>Difficulty:</strong> Easy</p> <p>The Cross Marin Trail follows\u00a0the historic North Pacific Coast Railroad right-of-way as it\u00a0parallels Lagunitas Creek, resulting in a trail that has relatively little change in elevation. Pets are permitted on the Cross Marin Trail and must be on a six-foot or shorter leash at all times. Visit Point Reyes National Seashore's <a href=\"https://www.nps.gov/pore/planyourvisit/pets.htm\">Pets</a> page for additional regulations and safety tips. The Cross Marin Trail is shared with bike and horse riders.</p> <p>This is an out-and-back trail (although connecting trails offer the opportunity of loop hikes), so it provides visitors with the flexibility to choose how long they want to make their adventure. The Cross Marin Trail spans 5.3 miles (17.6 km) from its <a href=\"https://www.nps.gov/places/golden-gate-cross-marin-trailhead.htm\">northern trailhead</a> along Sir Francis Drake Boulevard to its southern terminus at the Leo T. Cronin Fish Viewing Area along the southeast border of <a href=\"https://www.parks.ca.gov/?page_id=469\">Samuel P. Taylor State Park</a>. Turn around and retrace your steps whenever you are ready. The trail description below proceeds from north to south.</p> <p>The northernmost 1.5 mile (2.4 km) of the Cross Marin Trail passes through streamside woodlands, including\u00a0a few small copses of redwoods, and meadows. After intersecting with the Jewell Trail (which heads steeply uphill to <a href=\"https://www.nps.gov/thingstodo/hike-the-bolinas-ridge-trail.htm\">Bolinas Ridge Trail</a> to the west), the Cross Marin Trail enters the redwood forest protected within Samuel P. Taylor State Park.</p> <p>Another 0.8 miles (1.3 km) will bring the trail user to the site of Samuel P. Taylor's paper mill, where there are a few wayside exhibits. State park employee housing is located in this area. Please respect the residents' privacy by staying on official trails and away from the residences. Camp Taylor, the state park's campground, is located 0.8 miles (1.3 km) further along the Cross Marin Trail.</p> <p>Continue another 0.2 miles (0.3 km) to reach the Redwood Grove group picnic area, which is located across the creek via an automobile bridge from the Azalea Day Use lot. The Azalea Day Use lot is located just inside the entrance from Sir Francis Drake Boulevard to\u00a0Camp Taylor and provides an additional location to start a hike on the Cross Marin Trail. (Samuel P. Taylor does have an entrance fee for parking at the\u00a0Azalea Day Use lot.)</p> <p>The Cross Marin Trail's surface changes from paved to gravel at the south end of the Redwood Grove group picnic area. The Cross Marin Trail crosses Lagunitas Creek and Sir Francis Drake Boulevard 0.6 miles (1 km) later, just before the Irving group picnic area. Follow the gravel trail for an additional 1.4 miles (2.2 km)\u00a0to reach the Cross Marin Trail's southern terminus at the the Leo T. Cronin Fish Viewing Area. From here, one could head up the Shafter Grade to connect with the Bolinas Ridge Trail, providing\u00a0options for loop hikes in excess of 10.3 miles (16.5 km).</p> <p>The Ox Trail, the accessible South Creek Trail, the Pioneer Tree Trail, and the Barnabe Road/Trail also intersect at various locations along the Cross Marin Trail within the state park. Visit <a href=\"https://www.parks.ca.gov/?page_id=469\">Samuel P. Taylor State Park's website</a> for more information on these routes.</p> <p>This route description alone is not a substitute for a trail map. Print out the park's\u00a0<a href=\"https://www.nps.gov/pore/planyourvisit/upload/map_trailssouth.pdf\">South District\u00a0trail map</a> (3,422 KB PDF) and Samuel P. Taylor State Park's map (found under the \"Brochures\" tab on the <a href=\"https://www.parks.ca.gov/?page_id=469\">state park's website</a>) before your visit, or pick up the trail map at a\u00a0<a href=\"https://www.nps.gov/pore/planyourvisit/visitorcenters.htm\">visitor center</a>\u00a0on your way. (While designated as part of Golden Gate National Recreation Area, the northern 1.5 miles (2.4 km) of the Cross Marin Trail are managed by Point Reyes National Seashore.)</p> <p>This route description alone is not a substitute for a trail map. Print out Point Reyes National Seashore's\u00a0<a href=\"https://www.nps.gov/pore/planyourvisit/upload/map_trailssouth.pdf\">South District\u00a0trail map</a> (3,422 KB PDF) before your visit, or pick up the trail map at the\u00a0<a href=\"https://www.nps.gov/pore/planyourvisit/visitorcenters.htm\">Bear Valley Visitor Center</a>\u00a0on your way. (While designated as part of Golden Gate National Recreation Area, the northern 1.5 miles (2.4 km) of the Cross Marin Trail are managed by Point Reyes National Seashore.)</p> <p>Always check\u00a0<a href=\"https://www.nps.gov/pore/planyourvisit/conditions.htm\">current conditions</a>\u00a0before heading out into the park and familiarize yourself with <a href=\"https://www.nps.gov/pore/planyourvisit/parkregulations.htm\">park regulations</a>. Please practice <a href=\"https://www.nps.gov/pore/planyourvisit/leavenotrace.htm\">Leave No Trace</a> principles.</p> <p>Visit the park's <a href=\"https://www.nps.gov/pore/planyourvisit/hiking.htm\">Hiking at Point Reyes National Seashore</a> page for hiking tips and information about trail etiquette and safety.</p> <p>Visit the park's\u00a0<a href=\"https://www.nps.gov/pore/planyourvisit/hiking_trail_advisories.htm\">Trail Advisories and Closures</a> page for current information about closed trails, trails blocked by trees, or other temporary hazards or advisories.</p>",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "5BE55D7F-BDB6-4E3D-AC35-2D8EBB974417",
+     "name": "Trails"
+    }
+   ],
+   "durationDescription": "<p>The Cross Marin Trail spans 5.3 miles (8.5 km) from its <a href=\"https://www.nps.gov/places/golden-gate-cross-marin-trailhead.htm\">northern trailhead</a> along Sir Francis Drake Boulevard to its southern terminus at the Leo T Cronin Fish Viewing Area at the southeast border of Samuel P. Taylor State Park. Allow 2.5 hours for a one-way hike (if you have vehicles at both ends of the trail) or 5 hours to hike the entire 10.6 miles (17 km) roundtrip. However, it is an out-and-back trail, so it offers visitors the flexibility to choose how long they want to make their adventure. Connecting trails also offer the opportunity for loop hikes.</p>",
+   "arePetsPermitted": "true",
+   "timeOfDay": [
+    "Day",
+    "Dawn",
+    "Dusk"
+   ],
+   "duration": "1-5 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "7642EF15-C64C-4CB1-9D72-D65C3DE2C5B9",
+   "url": "https://www.nps.gov/thingstodo/bike-the-bolinas-ridge-trail.htm",
+   "title": "Bike the Bolinas Ridge Trail",
+   "shortDescription": "Enjoy open, grassy hillsides, redwood forests, decent climbs, and bumpy downhills\u00a0on this multi-use trail. This trail begins at either at the Bolinas Ridge Trailhead along Sir Francis Drake Boulevard or at the trail's southern end at the Fairfax-Bolinas Road's junction with the West Ridgecrest Road. Allow about 5 minutes to drive from Bear Valley to the trail's northern trailhead. Allow about 30 minutes to drive from Bear Valley to the trail's southern trailhead.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/FB8E4C43-ABCD-13B9-D020F7A18A96FA84.jpg",
+     "credit": "NPS / S. Frisbie",
+     "altText": "Two bikers and a leashed dog ride down a dirt path through green hillsides.",
+     "title": "Bike the Bolinas Ridge Trail",
+     "description": "",
+     "caption": "Can you see the leash? Dogs must be leashed at all times, even while you're riding your bike!",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/FB8E4C43-ABCD-13B9-D020F7A18A96FA84.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/FB8E4C43-ABCD-13B9-D020F7A18A96FA84.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    },
+    {
+     "states": "CA",
+     "parkCode": "pore",
+     "designation": "National Seashore",
+     "fullName": "Point Reyes National Seashore",
+     "url": "https://www.nps.gov/pore/index.htm",
+     "name": "Point Reyes"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "Point reyes",
+    "Point Reyes National Seashore",
+    "Golden Gate National Recreation Area",
+    "bicycle riding",
+    "bike riding",
+    "biking",
+    "Mountain Biking",
+    "bicycling",
+    "Cycling",
+    "bolinas ridge",
+    "bolinas ridge trail"
+   ],
+   "latitude": "38.04617620572913",
+   "longitude": "-122.77062768424588",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Bolinas Ridge Trailhead along Sir Francis Drake Boulevard",
+   "seasonDescription": "<h2>Winter</h2> <p>The heaviest rainfall occurs in the winter months. Come prepared for rain and drizzle to possibly last for several days. In between winter rains, it is often sunny, calm, and cool.</p> <h2>Spring</h2> <p>Most spring days are windy. Expect cool temperatures in March. By late May and early June, temperatures can be quite pleasant.</p> <h2>Summer</h2> <p>Although there is very little rain during summer months, there is often dense fog, which tends to burn off by mid-day. Afternoons are often sunny and warm to hot with a light breeze.</p> <h2>Fall</h2> <p>Point Reyes experiences some of the clearest days in late September, October, and early November. The occasional storm will start rolling through in late October, bringing clouds, wind, and rain. The strongest winds occur in November and December during occasional southerly gales.</p>",
+   "accessibilityInformation": "<p>The parking for the <a href=\"https://www.nps.gov/places/golden-gate-bolinas-ridge-trailhead.htm\">Bolinas Ridge Trailhead</a> on Sir Francis Drake Boulevard consists of two roadside pullouts that are mostly unpaved. There is a narrow V-shaped chute/gate that prevents cattle from escaping\u00a0at the trailhead which might be difficult to pass through for some users. Cyclists must lift their bikes over this feature. The trail follows an old ranch road that continues to be used by ranchers and occasionally by fire crews and park staff. The trail/road\u00a0is eight to ten feet wide in most places and its surface is mostly compacted soil. While the trail's surface is typically even, rain and heavy traffic can make the trail muddy and rutted in various sections. The trail traverses through open grasslands, shrubs, and forests. Steep grades exist at various locations.</p>",
+   "isReservationRequired": "false",
+   "ageDescription": "<p>All ages.</p>",
+   "petsDescription": "<p>Pets are permitted on the Bolinas Ridge Trail, as well as on three trails that intersect with the Bolinas Ridge Trail: Jewell Trail, Randall Trail, and McCurdy Trail. Aside from at the parking areas, pets are not permitted beyond the trail.\u00a0<a href=\"https://www.nps.gov/pore/planyourvisit/upload/map_dogareas_bolinas_ridge.pdf\">Download the map showing the trails that are open for pets along Bolinas Ridge.</a> (4,592 KB PDF)</p> <p>Pets must be on a leash at all times; the leash must be no longer than 6 feet.</p> <p>Visit Point Reyes National Seashore's <a href=\"https://www.nps.gov/pore/planyourvisit/pets.htm\">Pets</a> page for more information.</p> <h2>Cattle</h2> <p>Bolinas Ridge Trail, Jewell Trail, McCurdy Trail, and Randall Trail within Golden Gate National Recreation Area pass through cattle pasture. Cattle can feel threatened by dogs, which they may perceive to be a predator. Mother cows may become aggressive when trying to protect their young. Please read <a href=\"https://anrcatalog.ucanr.edu/pdf/8516.pdf\">Understanding Working Rangelands: Sharing Open Space: What to Expect from Grazing Livestock</a> (1,314 KB PDF) to better understand basic cattle behavior and to give yourself a better chance to predict how cattle are likely to react to your dog's presence. This will help make your hike along these trails safer and more enjoyable.</p>",
+   "timeOfDayDescription": "<p>The Bolinas Ridge Trail and the other trails within this area of Golden Gate National Recreation Area are open daily for bicycling from 6 am to midnight.\u00a0The Cross Marin Trail through <a href=\"https://www.parks.ca.gov/?page_id=469\">Samuel P. Taylor State Park</a> is open from 8 am until sunset. The Shafter Grade Road/Trail, which is on <a href=\"https://www.marinwater.org/\">Marin Municipal Water District</a> land, is open from 7 am to sunset.</p>",
+   "feeDescription": "",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "false",
+   "activities": [
+    {
+     "id": "7CE6E935-F839-4FEC-A63E-052B1DEF39D2",
+     "name": "Biking"
+    }
+   ],
+   "activityDescription": "",
+   "locationDescription": "<p>Allow five minutes driving time from Bear Valley to the <a href=\"https://www.nps.gov/places/golden-gate-bolinas-ridge-trailhead.htm\">Bolinas Ridge Trailhead</a>, which is 1.1 miles (1.8 km) east of Olema on Sir Francis Drake Boulevard. You can also connect to the Bolinas Ridge Trail from the Randall or McCurdy trailheads or from the Bolinas Ridge Trail's southern trailhead, all of which are\u00a0south of Bear Valley via Highway 1. Allow 15 minutes driving time to Randall Trailhead, 20 minutes to McCurdy Trailhead, and 35\u00a0minutes to\u00a0Bolinas Ridge Trail's southern trailhead.<br /> <a href=\"https://www.nps.gov/pore/planyourvisit/directions.htm\">Directions to Bear Valley</a><br /> <a href=\"https://www.nps.gov/pore/planyourvisit/directions_inpark_sfdb.htm#bolinasridgetrailhead\">Directions from Bear Valley to Bolinas Ridge Trailhead</a><br /> <a href=\"https://www.nps.gov/pore/planyourvisit/directions_inpark_highwayone.htm#randalltrailhead\">Directions from Bear Valley to Randall Trailhead</a><br /> <a href=\"https://www.nps.gov/pore/planyourvisit/directions_inpark_highwayone.htm#mccurdytrailhead\">Directions from Bear Valley to McCurdy Trailhead</a><br /> <a href=\"https://www.nps.gov/pore/planyourvisit/directions_inpark_highwayone.htm#southbolinasridgetrailhead\">Directions from Bear Valley to Bolinas Ridge Trail's southern trailhead</a></p>",
+   "doFeesApply": "false",
+   "longDescription": "<p><strong>Distance:</strong> 2 to 22 miles \u00a0(3 to 35 km roundtrip)</p> <p>Enjoy open, grassy hillsides, redwood forests, decent climbs, and bumpy downhills\u00a0on this multi-use trail. The trail itself is a dirt double track; road bikes are not recommended.\u00a0From the <a href=\"https://www.nps.gov/places/golden-gate-bolinas-ridge-trailhead.htm\">Bolinas Ridge Trail's northern trailhead</a>, the trail consistently ascends throughout its 11.1 miles (17.8 km) distance. From an elevation of ~360 feet (~110 meters) along Sir Francis Drake Boulevard, it gradually climbs to an elevation of ~1,680 feet (~510 meters) at it southern terminus along the Bolinas-Fairfax Road. This is an out-and-back trail, so it provides visitors with the flexibility to choose how long they want to make their adventure. Turn around and retrace your ride whenever you are ready or map a return route with connecting trails and roads. The Bolinas Ridge Trail intersects with the Jewell Trail, the Shafter Grade Road/Trail, the Randall Trail, and the McCurdy Trail, all of which are open to bicycles. (Please note: as of March 2022, e-bikes are prohibited on the Shafter Grade Road/Trail and on the Cross Marin Trail through Samuel P. Taylor State Park.) Be advised that shoulders on area roads are narrow or non-existent and traffic can be heavy. Ride with care.</p> <p>Visit the <a href=\"https://www.nps.gov/pore/planyourvisit/biking.htm\">Bicycle Riding at Point Reyes National Seashore</a> page for specific regulations pertaining to bicycles and tips and information about trail etiquette and safety. (While designated as part of Golden Gate National Recreation Area, Bolinas Ridge Trail and most of the trails referenced on this page are managed by Point Reyes National Seashore.)</p> <ul> <li>Bicyclists\u00a0must yield to all other trail users,\u00a0especially to horse riders.</li> <li>Class I e-bikes under 750 watts (1 h.p.)\u00a0are allowed on the Bolinas Ridge Trail, the Jewell Trail, the Randall Trail, the McCurdy Trail; and the Cross Marin Trail from its junction with the Jewell Trail to its <a href=\"https://www.nps.gov/places/golden-gate-cross-marin-trailhead.htm\">northern trailhead</a>.</li> <li>The speed limit for all bikes is 15 mph (24 km/h).</li> <li>Please ride respectfully.</li> </ul> <p>This trail also passes through cattle pastures and grazing <a href=\"https://www.nps.gov/pore/planyourvisit/hiking_trail_advisories.htm#cattle\">cattle</a> may be present; give them plenty of space when passing. <a href=\"https://www.nps.gov/pore/planyourvisit/pets.htm\">Dogs</a> are allowed on the Bolinas Ridge Trail, but\u00a0must be on a six-foot or shorter leash at all times.</p> <p>This route description alone is not a substitute for a trail map. Print out the park's\u00a0<a href=\"https://www.nps.gov/pore/planyourvisit/upload/map_trailssouth.pdf\">South District\u00a0trail map</a>\u00a0(3,422 KB PDF) before your visit, or pick one up at a\u00a0<a href=\"https://www.nps.gov/pore/planyourvisit/visitorcenters.htm\">visitor center</a>\u00a0on your way.</p> <p>Always check\u00a0<a href=\"https://www.nps.gov/pore/planyourvisit/conditions.htm\">current conditions</a>\u00a0before heading out into the park and familiarize yourself with <a href=\"https://www.nps.gov/pore/planyourvisit/parkregulations.htm\">park regulations</a>. Please practice <a href=\"https://www.nps.gov/pore/planyourvisit/leavenotrace.htm\">Leave No Trace</a> principles.</p> <p>Visit the park's\u00a0<a href=\"https://www.nps.gov/pore/planyourvisit/hiking_trail_advisories.htm\">Trail Advisories and Closures</a> page for current information about closed trails, trails blocked by trees, or other temporary hazards or advisories.</p>",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "5BE55D7F-BDB6-4E3D-AC35-2D8EBB974417",
+     "name": "Trails"
+    }
+   ],
+   "durationDescription": "<p>The Bolinas Ridge trail spans\u00a011 miles (17.6 km) from its <a href=\"https://www.nps.gov/places/golden-gate-bolinas-ridge-trailhead.htm\">northern trailhead</a> along Sir Francis Drake Boulevard to its southern terminus on the Fairfax-Bolinas Road. Allow 1.5 hours for a one-way ride (if you have vehicles at both ends of the trail) or 3 hours to ride the entire 22 miles (35.2 km) roundtrip. However, it is an out-and-back trail, so it offers visitors the flexibility to choose how long they want to make their adventure. Connecting trails also offer the opportunity for loop rides.</p>",
+   "arePetsPermitted": "true",
+   "timeOfDay": [
+    "Day",
+    "Dawn",
+    "Dusk"
+   ],
+   "duration": "1-3 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "A20BA80C-55A9-4F6C-AF88-2E66AEF2CFC7",
+   "url": "https://www.nps.gov/thingstodo/presidio-birdwatching.htm",
+   "title": "Presidio Birdwatching",
+   "shortDescription": "Birdwatching in the Presidio.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/F3A6E50F-9B83-7B27-76F40C5B65549715.jpg",
+     "credit": "",
+     "altText": "A yellow and black warbler on a tree branch.",
+     "title": "Warbler in the Presidio",
+     "description": "",
+     "caption": "A black and yellow warbler in a tree in the Presidio",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/F3A6E50F-9B83-7B27-76F40C5B65549715.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/F3A6E50F-9B83-7B27-76F40C5B65549715.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    },
+    {
+     "states": "CA",
+     "parkCode": "prsf",
+     "designation": "",
+     "fullName": "Presidio of San Francisco",
+     "url": "https://www.nps.gov/prsf/index.htm",
+     "name": "Presidio of San Francisco"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "birdwatching"
+   ],
+   "latitude": "37.79320526123047",
+   "longitude": "-122.45552062988281",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "El Polin Spring",
+   "seasonDescription": "As with all wildlife watching, the best times to birdwatch can depend on the species. Birds are prevalent in the Presidio most of the year, but more activity occurs during the migratory times of the spring and fall.\u00a0",
+   "accessibilityInformation": "Most areas of the Presidio are generally accessible. At <a href=\"https://www.presidio.gov/places/el-polin-spring\">El Polin Spring</a>, there is a\u00a0picnic and barbeque area here, featuring\u00a0tables, grills, and nearby restrooms (open 6 am to 6 pm).<br /> <br /> El Pol\u00edn Spring is located just off the\u00a0<a href=\"https://www.presidio.gov/trails/ecology-trail\">Presidio's Ecology Trail</a>. If arriving by car, there's two-hour\u00a0parking near the spring and street parking near\u00a0<a href=\"https://www.presidio.gov/places/presidio-wall-playground\">Presidio Wall Playground</a>.<br /> <br /> Another area to visit is Lobos Creek and the <a href=\"https://www.presidio.gov/places/lobos-valley-overlook\">Lobos Creek Overlook</a>. It's just inside the 14th Avenue Gate, minutes from the Richmond District. Walking or biking is the best way to get here, but a few paid parking spaces are available nearby for those who must drive.\u00a0\u00a0<br /> <br /> <a href=\"https://www.nps.gov/places/000/battery-godfrey.htm\">Battery Godfrey</a> is just off of Lincoln Blvd. There is parking available nearby and there is access to view the Coastal Bluffs and either the <a href=\"https://www.nps.gov/goga/planyourvisit/coastal-trail.htm\">Coastal Trail </a>or the Batteries to Bluffs Trail.\u00a0<br /> <br /> <a href=\"https://www.nps.gov/goga/planyourvisit/accessibility.htm\">Accessibility in Golden Gate National Recreation Area\u00a0</a>",
+   "isReservationRequired": "false",
+   "ageDescription": "This is an all ages activity.\u00a0",
+   "petsDescription": "Dogs are welcome in the Presidio but must be on leash.<br /> <br /> Please visit the <a href=\"https://www.nps.gov/goga/planyourvisit/dog-friendly-areas.htm\">park's website</a> and the <a href=\"https://www.presidio.gov/visit/plan-your-visit\">Presidio </a>website for more details.",
+   "timeOfDayDescription": "",
+   "feeDescription": "",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "true",
+   "activities": [
+    {
+     "id": "5A2C91D1-50EC-4B24-8BED-A2E11A1892DF",
+     "name": "Birdwatching"
+    }
+   ],
+   "activityDescription": "Search the trees and skies for birds in the Presidio.",
+   "locationDescription": "El Pol\u00edn Spring is a great place to start birdwatching in the Presidio. Other good locations include Lobos Creek in the south west area of the Presidio and in the bluffs along the batteries like Battery Godfrey in the north west Presidio.\u00a0",
+   "doFeesApply": "false",
+   "longDescription": "An island of green in an urban matrix, the Presidio\u2019s location on the northwest tip of the San Francisco Peninsula offers a stopover location to many birds before crossing the Golden Gate Straights, or as an entrance gate to the rich wetlands of the San Francisco Bay. Native habitats and introduced forest are regionally important to locally declining species such as the California quail, western screech owl, wren tit, and Hutton\u2019s vireo. The landscaped areas of the Presidio also attract some interesting birds. The hooded oriole reaches the northern limit of its breeding range in the Presidio due to the royal palms planted throughout this former Army Post. Explore different areas like El Pol\u00edn Spring, Lobos Creek, and Battery Godfrey for a variety of wildlife in the Presidio.<br /> <br /> Bring your binoculars and explore what the Presidio has to offer!",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "0D00073E-18C3-46E5-8727-2F87B112DDC6",
+     "name": "Animals"
+    },
+    {
+     "id": "957EF2BD-AC6C-4B7B-BD9A-87593ADC6691",
+     "name": "Birds"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "true",
+   "timeOfDay": [
+    "Day",
+    "Dawn"
+   ],
+   "duration": "1-2 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "5710D230-21B1-4B18-8AC5-334D6559F0FD",
+   "url": "https://www.nps.gov/thingstodo/crissy-field-birdwatching.htm",
+   "title": "Crissy Field Birdwatching",
+   "shortDescription": "Birdwatching in Crissy Field",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/F204FF46-A588-09B1-0E115A4F072CC467.jpg",
+     "credit": "",
+     "altText": "A snow egret wades in the water as it catches a small fish.",
+     "title": "Snowy Egretq",
+     "description": "",
+     "caption": "A snowy egret grabbing a snack in Crissy Marsh.",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/F204FF46-A588-09B1-0E115A4F072CC467.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/F204FF46-A588-09B1-0E115A4F072CC467.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    },
+    {
+     "states": "CA",
+     "parkCode": "prsf",
+     "designation": "",
+     "fullName": "Presidio of San Francisco",
+     "url": "https://www.nps.gov/prsf/index.htm",
+     "name": "Presidio of San Francisco"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "birdwatching"
+   ],
+   "latitude": "37.80566328560415",
+   "longitude": "-122.45346645053505",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Crissy Field Marsh and Beach",
+   "seasonDescription": "Birds are prevalent most of the year, but the best times to birdwatch are during the migratory seasons of Spring and Fall.\u00a0",
+   "accessibilityInformation": "Crissy Field is informally divided into two areas, the West Bluff area and the East Beach area. Both the West Bluff and East Beach parking areas contain several accessible parking spaces. <p>\u00a0</p> <p>At the East Beach area you will find an accessible restroom facility, look for the concrete building adjacent to the parking lot. Beyond the restroom building, to the West, is a new accessible picnic area which contains both accessible family and group picnic sites. Located in front of the restroom building is an accessible dog washing station.<br /> <br /> There is a beach access mat provided at East Beach, look for a sign located along the promenade.<br /> <br /> The main Crissy Field promenade is\u00a0<a href=\"https://www.nps.gov/goga/planyourvisit/accessibility-definitions.htm\">generally accessible</a>\u00a0and connects East Beach to West Bluff. The promenade is constructed out of a decomposed granite material.<br /> <br /> The outer pathways of the Crissy Air Field are\u00a0<a href=\"https://www.nps.gov/goga/planyourvisit/accessibility-definitions.htm\">generally accessible</a>. A few of the pathways contain stairs; however, alternate routes are provided.<br /> <br /> The Crissy Air Field is grass and can be accessed by using a\u00a0<a href=\"https://www.nps.gov/goga/planyourvisit/beach-wheelchairs.htm\">Beach Wheelchair</a>.<br /> <br /> The West Bluff area contains\u00a0<a href=\"https://www.nps.gov/goga/planyourvisit/accessibility-definitions.htm\">generally accessible</a>\u00a0picnic sites. There are\u00a0<a href=\"https://www.nps.gov/goga/planyourvisit/accessibility-definitions.htm\">generally accessible</a>\u00a0restrooms located near the Warming Hut.<br /> <br /> The amphitheater located at West Bluff provides accessible seating along a portion of the top row, here you will also find an accessible picnic table located on a decomposed granite surface.</p> <p>The Torpedo Wharf fishing pier located near the Warming Hut is\u00a0<a href=\"https://www.nps.gov/goga/planyourvisit/accessibility-definitions.htm\">usable</a>. The pier contains cracking and heaving asphalt, please proceed with caution.</p>",
+   "isReservationRequired": "false",
+   "ageDescription": "This is an all ages activity.\u00a0",
+   "petsDescription": "Dogs are allowed in most areas of Crissy Field and the surrounding areas On-Leash or under Voice Control.\u00a0<br /> <br /> In the Wildlife protection area, dogs are required On-Leash all year, except between May 15th and July 1st, when they can be On-Leash OR voice control.\u00a0<br /> <br /> Dogs are not allowed in\u00a0Crissy Marsh, Inlet, & Fenced or Signed Vegetation Areas.<br /> <br /> In picnic and parking areas dogs are On-Leash only. East Crissy Lawn area, south of, but not including, secondary parking areas to Mason St.\u00a0dogs are allowed On-Leash or under Voice Control.\u00a0<br /> <br /> For more detailed information about dog friendly areas within Golden Gate National Recreation Area please visit our <a href=\"https://www.nps.gov/goga/planyourvisit/dog-friendly-areas.htm\">website</a>.\u00a0<br /> \u00a0",
+   "timeOfDayDescription": "",
+   "feeDescription": "",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "true",
+   "activities": [
+    {
+     "id": "5A2C91D1-50EC-4B24-8BED-A2E11A1892DF",
+     "name": "Birdwatching"
+    }
+   ],
+   "activityDescription": "Walk along the Crissy Field Promenade and boardwalks throughout Crissy Marsh and birdwatch for shore birds and other wildlife in the restored Crissy Field Marsh.\u00a0",
+   "locationDescription": "Explore the beach and restored marsh throughout Crissy Field.",
+   "doFeesApply": "false",
+   "longDescription": "Crissy Field provides habitat for loons, grebes, scoters, numerous species of dabbling and diving ducks, gulls, terns, willets, sanderlings, and sandpipers. The park's mudflats provide plenty of tasty invertebrates, and estuaries provide fish and crabs galore. The San Francisco Bay is an important stopover for migrating species both due to its size and diversity of suitable habitat.<br /> <br /> Bring your binoculars and see what birds you can find while enjoying Crissy Field and the restored Crissy Field Marsh!\u00a0<br /> <br /> <a href=\"https://www.nps.gov/goga/learn/nature/birds.htm\">Learn more about the birds at Golden Gate National Recreation Area.</a>",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "957EF2BD-AC6C-4B7B-BD9A-87593ADC6691",
+     "name": "Birds"
+    },
+    {
+     "id": "F8C2FE93-DEB3-4B12-9A87-913E3E6B448D",
+     "name": "Natural Sounds"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "true",
+   "timeOfDay": [
+    "Day",
+    "Dawn"
+   ],
+   "duration": "1-2 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "6D695439-536D-49EC-836E-61F4D87B1D73",
+   "url": "https://www.nps.gov/thingstodo/archives-visit.htm",
+   "title": "Archives Visit",
+   "shortDescription": "Always open by reservation, The Park Archives and Records Center is excited to host visitors, researchers, and park staff. Here the Presidio's past is bridged to its present by the images, documents, and objects preserved. Come and experience the park by revisiting its past.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/DD9D9737-FCF4-6ABA-72A6F77AF2D8313F.jpg",
+     "credit": "Matt Brittin",
+     "altText": "Long brick building with a parking lot in front surrounded by trees.",
+     "title": "Archives and Records Center",
+     "description": "",
+     "caption": "Archives and Records Center building 667",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/DD9D9737-FCF4-6ABA-72A6F77AF2D8313F.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/DD9D9737-FCF4-6ABA-72A6F77AF2D8313F.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    },
+    {
+     "states": "CA",
+     "parkCode": "prsf",
+     "designation": "",
+     "fullName": "Presidio of San Francisco",
+     "url": "https://www.nps.gov/prsf/index.htm",
+     "name": "Presidio of San Francisco"
+    }
+   ],
+   "relatedOrganizations": [
+    {
+     "id": "08530F41-4DB1-42FF-BC28-43AA7C0B0CEB",
+     "url": "",
+     "name": "Cultural Resources"
+    },
+    {
+     "id": "B5491FCA-A268-410C-8059-574D99B5D8BA",
+     "url": "http://www.nps.gov/orgs/1454/",
+     "name": "Museum Management Program"
+    },
+    {
+     "id": "4C71EB45-B9FA-42FB-B2DC-58FED9283F4B",
+     "url": "https://www.nps.gov/orgs/1220/",
+     "name": "Park History Program"
+    },
+    {
+     "id": "D4F1D7F9-F9BE-467F-936D-3FD0B2473472",
+     "url": "https://www.nps.gov/subjects/heritagedocumentation/index.htm",
+     "name": "Heritage Documentation Programs"
+    }
+   ],
+   "tags": [
+    "Archives",
+    "research",
+    "Museum",
+    "museums & collections",
+    "Collections",
+    "archive",
+    "records",
+    "heritage",
+    "cultural",
+    "history",
+    "photographs",
+    "objects",
+    "ephemera",
+    "Exhibit",
+    "articles",
+    "clothing",
+    "military",
+    "legacy",
+    "marin headlands",
+    "Forts",
+    "Battery",
+    "hospitals",
+    "blueprints",
+    "contracts",
+    "Alcatraz Island"
+   ],
+   "latitude": "37.801595",
+   "longitude": "-122.466724",
+   "geometryPoiId": "D28708BA-023E-4ED5-AEFE-A4C1FAEFB7F0",
+   "amenities": [],
+   "location": "Park Archives and Records Center",
+   "seasonDescription": "",
+   "accessibilityInformation": "Building 667 has plenty of available free parking in front of the building. The entrance has stairs and a ramp. The building has a bathroom for its researchers. No food or drink allowed in the reading room.",
+   "isReservationRequired": "true",
+   "ageDescription": "The Archive Reading Room is a quiet space for research. Please use your best judgement if you are considering bringing a child with you.",
+   "petsDescription": "<br /> <br /> <a href=\"https://www.nps.gov/goga/planyourvisit/service-animals.htm\">Service animals</a> only.",
+   "timeOfDayDescription": "",
+   "feeDescription": "",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "false",
+   "activities": [
+    {
+     "id": "42FD78B9-2B90-4AA9-BC43-F10E9FEA8B5A",
+     "name": "Hands-On"
+    }
+   ],
+   "activityDescription": "Discover the history of the park on your own by exploring the many collections preserved here.",
+   "locationDescription": "Archives Reading Room<br /> 667 McDowell Ave\u00a0<br /> San Francisco, CA, 94129<br /> \u00a0",
+   "doFeesApply": "false",
+   "longDescription": "Come to the archives and experience the park by exploring the records and objects left here from the past. The <a href=\"https://www.nps.gov/goga/learn/historyculture/archives-records.htm\">Park Archives and Records Center</a> contains over 5 million documents, photographic images, oral histories and maps that document all areas and facets of the history associated with Golden Gate National Recreation Area. These materials have been acquired through donation, transfer, or were created by the park. A large portion of the collection consists of military presence at the Presidio and the surrounding fortifications (mostly from WWII forward); as well as specific park sites like Alcatraz and Lands End. Other topics include significant events like the Panama-Pacific International Exposition, the Alcatraz Indian Occupation, or 1906 Earthquake and Fire. PARC also houses a large body of inactive park records that document the GGNRA's projects, operations, and activities.",
+   "reservationDescription": "Reservations are used to ensure that not too many people are in the reading room at the same time and making it too difficult for every visitor to experience the archives in their own way. ADD Individual appointments are also available by calling (415) 561-2808 or <a href=\"(nps.gov/common/utilities/sendmail/sendemail.cfm?o=6A88DAB599D2908B9DB71FA6FF18B9A96693569C12B18389&r=/goga/learn/historyculture/archives-records.htm\">e-mail us</a>.",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "28AEAE85-9DDA-45B6-981B-1CFCDCC61E14",
+     "name": "African American Heritage"
+    },
+    {
+     "id": "69693007-2DF2-4EDE-BB3B-A25EBA72BDF5",
+     "name": "Architecture and Building"
+    },
+    {
+     "id": "9BD60DC0-C82B-42BA-A170-456B7423429D",
+     "name": "Photography"
+    },
+    {
+     "id": "156AD9B6-B377-418C-BC9A-F6E682D4BAF7",
+     "name": "Poetry and Literature"
+    },
+    {
+     "id": "0DE2D6B3-46DE-44B1-BB5F-E9E8874630D5",
+     "name": "Sculpture"
+    },
+    {
+     "id": "227D2677-28CA-4CBF-997F-61108975A497",
+     "name": "Asian American Heritage"
+    },
+    {
+     "id": "B912363F-771C-4098-BA3A-938DF38A9D7E",
+     "name": "Aviation"
+    },
+    {
+     "id": "46FC5CBD-9AD5-48F1-B4DA-1357031B1D2E",
+     "name": "Coasts, Islands and Atolls"
+    },
+    {
+     "id": "FE005582-12C5-472C-8229-3CB004DB050E",
+     "name": "Engineering"
+    },
+    {
+     "id": "1F833C99-A75D-4F9E-9256-B96523485466",
+     "name": "Farming and Agriculture"
+    },
+    {
+     "id": "E4E84C87-6737-4C37-9157-5962648A35F2",
+     "name": "Ranches"
+    },
+    {
+     "id": "04A39AB8-DD02-432F-AE5F-BA1267D41A0D",
+     "name": "Fire"
+    },
+    {
+     "id": "9F6A7003-59D6-4438-935F-760FD04C1073",
+     "name": "Foothills, Plains and Valleys"
+    },
+    {
+     "id": "41B1A0A3-11FF-4F55-9CB9-034A7E28B087",
+     "name": "Forests and Woodlands"
+    },
+    {
+     "id": "762170E5-0747-4836-B837-7F2547D3F733",
+     "name": "Coniferous Forests"
+    },
+    {
+     "id": "988B4AFC-F478-4673-B66D-E6BDB0CCFF35",
+     "name": "Forts"
+    },
+    {
+     "id": "F0F97E32-2F29-41B4-AF98-9FBE8DAB36B1",
+     "name": "Geology"
+    },
+    {
+     "id": "78078CA8-DCBC-4320-A7BF-259A56D55CA2",
+     "name": "Hispanic American Heritage"
+    },
+    {
+     "id": "2B428F59-9148-40C1-B38E-130589F2540E",
+     "name": "Immigration"
+    },
+    {
+     "id": "351EE154-87AA-46B0-BBA1-ED604368ACE9",
+     "name": "Incarceration"
+    },
+    {
+     "id": "50A3D2B2-C922-4749-89F1-E986A5D520AC",
+     "name": "Jails and Prisons"
+    },
+    {
+     "id": "367BC636-6F02-4F1B-BEAA-5A20E46C7207",
+     "name": "Japanese-American Internment"
+    },
+    {
+     "id": "0B575E33-B68F-4F3D-998E-B03284606CF3",
+     "name": "Industry"
+    },
+    {
+     "id": "AAF8795A-231B-4DA4-B564-AA51C95E72BD",
+     "name": "Factories"
+    },
+    {
+     "id": "FE2FF71D-E850-460E-A727-27B292BF1603",
+     "name": "Logging and Timber Cutting"
+    },
+    {
+     "id": "E0AB480F-3A94-4DC1-8B21-9555F2C59B32",
+     "name": "LGB American Heritage"
+    },
+    {
+     "id": "14FA9FF3-7D86-4406-9A6D-BE9032A1C578",
+     "name": "Laborer and Worker"
+    },
+    {
+     "id": "9FCC01C6-F068-4A05-9A78-23FEBFADAF56",
+     "name": "Latino American Heritage"
+    },
+    {
+     "id": "123CE28E-0EFA-4330-8E6E-EEFF3D7BF772",
+     "name": "Coastal Defenses"
+    },
+    {
+     "id": "263BAC6E-4DEC-47E4-909D-DA8AD351E06E",
+     "name": "Lighthouses"
+    },
+    {
+     "id": "7424754D-EB8B-4608-A69A-50D44992931B",
+     "name": "Maritime - Military"
+    },
+    {
+     "id": "A079385C-3E71-4E18-9E42-B046BC22EA95",
+     "name": "Ships and Shipwrecks"
+    },
+    {
+     "id": "4B3CD083-7500-434B-A8C2-D355925E0245",
+     "name": "Medicine"
+    },
+    {
+     "id": "97716EF5-D001-449C-993A-EC15AB8FD345",
+     "name": "Hospital"
+    },
+    {
+     "id": "69E16062-0E4F-4DE0-91FB-E4EDB2484572",
+     "name": "Migrations"
+    },
+    {
+     "id": "3B0D607D-9933-425A-BFA0-21529AC4734C",
+     "name": "Military"
+    },
+    {
+     "id": "2ACF7D12-91EA-4981-A1B7-AD0A186B6800",
+     "name": "Armories"
+    },
+    {
+     "id": "B145FAB8-5462-4FE2-964E-464D3A5E7F96",
+     "name": "Artillery"
+    },
+    {
+     "id": "69790851-A62A-4920-AA3E-E61406FFC27D",
+     "name": "Cavalry"
+    },
+    {
+     "id": "E411F474-A530-4804-9D23-1D94C78B41E4",
+     "name": "Infantry and Militia"
+    },
+    {
+     "id": "83CEA23E-9FF6-4C6B-B48E-A725087D5CC5",
+     "name": "US Air Force (Army Air Corps)"
+    },
+    {
+     "id": "97CCB419-196C-4B95-BB3A-621458F78415",
+     "name": "US Army"
+    },
+    {
+     "id": "D164D82F-4031-4BCB-90A8-B388502CA308",
+     "name": "US Coast Guard"
+    },
+    {
+     "id": "BEB7E470-13B2-4E00-84B2-0402D98DAF69",
+     "name": "Monuments and Memorials"
+    },
+    {
+     "id": "571E1597-4C6A-4814-A7E9-FC4EF8293CE8",
+     "name": "Music"
+    },
+    {
+     "id": "A1BAF33E-EA84-4608-A888-4CEE9541F027",
+     "name": "Native American Heritage"
+    },
+    {
+     "id": "0E6D8503-CB65-467F-BCD6-C6D9E28A4E0B",
+     "name": "Oceans"
+    },
+    {
+     "id": "980D1693-65BF-4F29-8182-7BAC9796E605",
+     "name": "Whales"
+    },
+    {
+     "id": "F669BC40-BDC4-41C0-9ACE-B2CD25373045",
+     "name": "Presidents"
+    },
+    {
+     "id": "518B32FB-339D-4C52-B2C2-04BF406AA4B0",
+     "name": "Religion and Spirituality"
+    },
+    {
+     "id": "98F41FDF-B73F-4B68-8010-53CCB2891E3B",
+     "name": "Churches"
+    },
+    {
+     "id": "039CDC0F-6408-473D-9C9F-83B3B8A1E069",
+     "name": "Missions"
+    },
+    {
+     "id": "4244F489-6813-4B7A-9D0C-20CE098C8FFF",
+     "name": "Rock Landscapes and Features"
+    },
+    {
+     "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+     "name": "Scenic Views"
+    },
+    {
+     "id": "3CDB67A9-1EAC-408D-88EC-F26FA35E90AF",
+     "name": "Schools and Education"
+    },
+    {
+     "id": "40C0866A-3890-41A4-84CA-5935DEE181AE",
+     "name": "Social Movements"
+    },
+    {
+     "id": "8F34C3EC-7B8E-4F28-8114-B8DFE4F300DF",
+     "name": "Civil Rights"
+    },
+    {
+     "id": "4C0EBDE7-EB73-4252-84D9-0650974EC3E5",
+     "name": "Conservation Movement"
+    },
+    {
+     "id": "DA1E6678-D60D-4E66-96A5-78183342673B",
+     "name": "Voting Rights and Suffrage"
+    },
+    {
+     "id": "A160B3D9-1603-4D89-B82F-21FCAF9EEE3B",
+     "name": "Tragic Events"
+    },
+    {
+     "id": "C373F02B-7335-4F8A-A3ED-3E2E37CD4085",
+     "name": "Catastrophic Fires"
+    },
+    {
+     "id": "1015393C-D7B0-47F3-86FB-786F30368CA2",
+     "name": "Bridges"
+    },
+    {
+     "id": "86525CF5-EB56-41A6-90BF-566C6C0FC945",
+     "name": "Trains and Railroads"
+    },
+    {
+     "id": "8785B770-396D-4A2B-9C26-3E94F6253B71",
+     "name": "Tunnels"
+    },
+    {
+     "id": "489D6333-FD72-44DF-83B0-3D4412DD0A75",
+     "name": "Endangered"
+    },
+    {
+     "id": "996BEDAE-CB23-4003-B008-3A1F46A72263",
+     "name": "Rare"
+    },
+    {
+     "id": "846E5C56-E5AC-489C-B3BF-11F4C73F12C2",
+     "name": "Urban America"
+    },
+    {
+     "id": "27BF8807-54EA-4A3D-B073-AA7AA361CD7E",
+     "name": "Wars and Conflicts"
+    },
+    {
+     "id": "A8E54356-20CD-490E-B34D-AC6A430E6F47",
+     "name": "Civil War"
+    },
+    {
+     "id": "A764E57D-9925-4855-8D66-C60357946FC3",
+     "name": "Cold War"
+    },
+    {
+     "id": "3A25C166-83B4-48A4-BB7B-BD67469D17B6",
+     "name": "Korean War"
+    },
+    {
+     "id": "A28F8700-794E-4BA3-A8D7-7D75D53A4B17",
+     "name": "Spanish-American War"
+    },
+    {
+     "id": "B564E9AA-95E9-4648-A7D1-48F94BFBEBB5",
+     "name": "Tribal Conflicts"
+    },
+    {
+     "id": "D2D3201A-8C12-4CD6-B47D-E982633C8524",
+     "name": "Vietnam War"
+    },
+    {
+     "id": "4EC51024-F0D9-479D-AF3F-344CC0153D2E",
+     "name": "World War I"
+    },
+    {
+     "id": "74869FAE-8DFD-4454-847F-11FDDB679F94",
+     "name": "World War II"
+    },
+    {
+     "id": "BA12B386-49EA-46B0-9121-FCACACC47538",
+     "name": "Watersheds"
+    },
+    {
+     "id": "83DDFE66-914E-4402-AD3E-ACA731AB2537",
+     "name": "The Gold Rush"
+    },
+    {
+     "id": "1365C347-952C-475A-B755-731DD523C195",
+     "name": "Wetlands"
+    },
+    {
+     "id": "FD0BA21A-5F69-4688-9D4B-856DA242DC78",
+     "name": "Marshes"
+    },
+    {
+     "id": "7DA81DAB-5045-4953-9C20-36590AD9FA95",
+     "name": "Women's History"
+    }
+   ],
+   "durationDescription": "The Park Archive and records center in centrally located in the Presidio national park and within walking distance of the Presidio Visitor Center and Golden Gate Bridge welcome center, making getting here via public transportation really easy. See our <a href=\"https://presidio.gov/visit/getting-to-and-around-the-park\">Getting To and Around the Park | The Presidio (San Francisco).</a>",
+   "arePetsPermitted": "false",
+   "timeOfDay": [
+    "Day"
+   ],
+   "duration": "1-3 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "6789B703-2388-4D8A-BC96-5DEBA3486B15",
+   "url": "https://www.nps.gov/thingstodo/bike-the-golden-gate-bridge.htm",
+   "title": "Bike the Golden Gate Bridge",
+   "shortDescription": "Bike the Golden Gate Bridge!",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/BF1C6592-BDAC-D3A2-5E528344F83321BD.jpg",
+     "credit": "Kirke Wrench",
+     "altText": "The red brick welcome center, surrounded by visitors at the Golden Gate Bridge",
+     "title": "Golden Gate Bridge Welcome Center",
+     "description": "",
+     "caption": "The Golden Gate Bridge Welcome Center",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/BF1C6592-BDAC-D3A2-5E528344F83321BD.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/BF1C6592-BDAC-D3A2-5E528344F83321BD.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    },
+    {
+     "states": "CA",
+     "parkCode": "prsf",
+     "designation": "",
+     "fullName": "Presidio of San Francisco",
+     "url": "https://www.nps.gov/prsf/index.htm",
+     "name": "Presidio of San Francisco"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "Golden Gate Bridge",
+    "Presidio",
+    "bicycling"
+   ],
+   "latitude": "37.80793436403983",
+   "longitude": "-122.4756806083789",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Golden Gate Bridge Plaza",
+   "seasonDescription": "Riding across can be done any time of the year.\u00a0",
+   "accessibilityInformation": "The bike path to the Golden Gate Bridge has a dedicated bike path. The path is paved at the bridge and between the bridge and Crissy Field. At Crissy Field, the path is firm, packed gravel. On the bridge, the path is a mixed use path, with pedestrians and bicyclists. Please be aware of your surroundings and mindful of pedestrians on shared paths.\u00a0<br /> <br /> There are accessible restrooms at the Golden Gate Bridge plaza, Fort Point National Historic Site, West Bluff picnic area, and at East Beach in Crissy Field.\u00a0",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "",
+   "timeOfDayDescription": "Although this is generally a daytime activity, crossing the bridge can be done at any time, with restrictions. During certain times, bicycles are restricted to a specrfic east or west sidewalk.\u00a0<br /> <br /> Please visit the <a href=\"https://www.goldengate.org/bridge/visiting-the-bridge/bikes-pedestrians/\">Golden Gate Bridge Transit </a>page to read more about any restrictions\u00a0",
+   "feeDescription": "",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "false",
+   "activities": [
+    {
+     "id": "7CE6E935-F839-4FEC-A63E-052B1DEF39D2",
+     "name": "Biking"
+    }
+   ],
+   "activityDescription": "Ride 1.7 miles across the Golden Gate Bridge and beyond.\u00a0",
+   "locationDescription": "The Golden Gate Bridge Pavillion Welcome Center at teh Golden Gate Bridge. There are restrooms, a visitor center and interpretive exhibits.\u00a0",
+   "doFeesApply": "false",
+   "longDescription": "Biking the Golden Gate Bridge is a wonderful way to get up-close and personal with one of the world's most iconic landmarks.<br /> <br /> Bring your own bike or rent one at a local bike rental shop. There are no bike rentals at the Golden Gate Bridge. The closest location to rent bikes is at the Sports Basement located in Crissy Field.<br /> <br /> Reach the Bridge from the south by following the Golden Gate Promenade in the Presidio. This 1.7 miles (one-way) moderate bike trail has a dedicated bike path along Crissy Field and towards the Golden Gate Bridge Plaza. You can also take public tranist or the Presidio Go shuttle directly to the Golden Gate Bridge Plaza and start from there. Once you cross the bridge, you can return across the bridge again to the return to the Presidio, or continue onto Sausalito or the Marin Headlands. From Sausalito, catch the Golden Gate ferry and return to the San Francisco at the Ferry Building.\u00a0<br /> <br /> Bring layers, although this can be a strenuous activity, the weather can change suddenly and become windy, cold and foggy.\u00a0<br /> <br /> <a href=\"https://www.presidio.gov/transportation-internal/Shared%20Documents/Presidio%20Bike%20Map.pdf\">Detailed map</a> of bike routes within the Presidio.\u00a0",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+     "name": "Scenic Views"
+    },
+    {
+     "id": "5BE55D7F-BDB6-4E3D-AC35-2D8EBB974417",
+     "name": "Trails"
+    }
+   ],
+   "durationDescription": "The duration of the activity depends on your starting point. If you start at the welcome center and ride across and return, it should roughly take about 1 hour. If you decide to go beyond the bridge north or return and ride along Crissy Field, this activity could extend to most of the day!\u00a0",
+   "arePetsPermitted": "true",
+   "timeOfDay": [
+    "Day",
+    "Dawn",
+    "Dusk"
+   ],
+   "duration": "1-4 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "EB1D2F42-1653-4BA6-AAB3-4E65703CEA10",
+   "url": "https://www.nps.gov/thingstodo/torpedo-wharf-fishing.htm",
+   "title": "Torpedo Wharf Fishing",
+   "shortDescription": "Fishing at Torpedo Wharf near Fort Point and Crissy Field.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/653F8A93-D0AF-6B30-FECBFE0B1EE6706B.jpg",
+     "credit": "",
+     "altText": "Visitors standing on a pier with fishing poles.",
+     "title": "Torpedo Wharf",
+     "description": "",
+     "caption": "Fishing at Torpedo Wharf",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/653F8A93-D0AF-6B30-FECBFE0B1EE6706B.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/653F8A93-D0AF-6B30-FECBFE0B1EE6706B.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "fopo",
+     "designation": "National Historic Site",
+     "fullName": "Fort Point National Historic Site",
+     "url": "https://www.nps.gov/fopo/index.htm",
+     "name": "Fort Point"
+    },
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    },
+    {
+     "states": "CA",
+     "parkCode": "prsf",
+     "designation": "",
+     "fullName": "Presidio of San Francisco",
+     "url": "https://www.nps.gov/prsf/index.htm",
+     "name": "Presidio of San Francisco"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [],
+   "latitude": "37.80865528385547",
+   "longitude": "-122.47076005152772",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Torpedo Wharf",
+   "seasonDescription": "",
+   "accessibilityInformation": "The Torpedo Wharf fishing pier located near the Warming Hut is\u00a0<a href=\"https://www.nps.gov/goga/planyourvisit/accessibility-definitions.htm\">usable</a>. The pier contains cracking and heaving asphalt, please proceed with caution.<br /> \u00a0 <h2>Accessible Features<a name=\"onthisPage-0\"></a></h2> <ul> <li>Accessible Parking</li> <li>Accessible Restrooms</li> <li>Accessible Routes/Trails</li> <li>Accessible Picnicking</li> </ul>",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "Pets are not allowed on the fishing pier.\u00a0<br /> <br /> Please visit our website for more\u00a0<a href=\"https://www.nps.gov/goga/planyourvisit/dog-friendly-areas.htm\">information</a>.\u00a0",
+   "timeOfDayDescription": "",
+   "feeDescription": "Fishing on the public pier at Fort Baker does not require a fishing license.\u00a0<br /> <br /> In other areas of Golden Gate National Recreation Area, a\u00a0valid California fishing license is required to fish in the park although exceptions may apply, and fees vary. Children under 16 years of age do not require a license. Visitors fishing within must follow the fishing license requirements in accordance with the laws and regulations of the\u00a0<a href=\"https://wildlife.ca.gov/Licensing/Fishing\">California Department of Fish and Wildlife</a>.\u00a0",
+   "age": "0",
+   "arePetsPermittedWithRestrictions": "false",
+   "activities": [
+    {
+     "id": "AE42B46C-E4B7-4889-A122-08FE180371AE",
+     "name": "Fishing"
+    }
+   ],
+   "activityDescription": "",
+   "locationDescription": "Located near the West Bluffs of Crissy Field, Torpedo Wharf is a public fishing pier.\u00a0",
+   "doFeesApply": "false",
+   "longDescription": "A short walk from Fort Point is Torpedo Wharf, a public <a href=\"https://www.nps.gov/fopo/planyourvisit/fishing.htm\">fishing </a>pier.\u00a0The pier is the original site where ships loaded underwater mines, then called \"torpedoes,\" before transporting and planting them outside the Golden Gate in the 1890s.<br /> <br /> This pier sits at the mouth of the Golden Gate. Because of its location, fishermen and fisherladies may encounter any species that enters the bay. It's a great spot for fishing and crabbing.",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "1608649A-E7D7-4529-BD83-074C90F9FB68",
+     "name": "Fish"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "false",
+   "timeOfDay": [
+    "Day",
+    "Dawn",
+    "Dusk"
+   ],
+   "duration": "1-4 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "187B7F2B-2B1A-4161-9D2E-40A426CDD254",
+   "url": "https://www.nps.gov/thingstodo/fort-baker-fishing.htm",
+   "title": "Fort Baker Fishing",
+   "shortDescription": "Fishing in Fort Baker",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/59C147B5-F984-8395-CDAB46F795E440C8.jpg",
+     "credit": "",
+     "altText": "Looking down the length of a fishing pier, scattered with people walking and fishing.",
+     "title": "Fort Baker fishing pier",
+     "description": "",
+     "caption": "Visitors fishing on the Fort Baker fishing pier",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/59C147B5-F984-8395-CDAB46F795E440C8.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/59C147B5-F984-8395-CDAB46F795E440C8.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "fishing"
+   ],
+   "latitude": "37.83184951023221",
+   "longitude": "-122.47787615802258",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Fort Baker Fishing Pier",
+   "seasonDescription": "",
+   "accessibilityInformation": "<h4>Fort Baker Accessible Features</h4> <ul> <li>Accessible and\u00a0<a href=\"https://www.nps.gov/goga/planyourvisit/accessibility-definitions.htm\">Designated Accessible</a>\u00a0Parking Stalls</li> <li>Accessible Portable Toilet</li> <li>Accessible Overlooks</li> <li>Accessible Picnicking</li> <li><a href=\"https://www.nps.gov/goga/planyourvisit/accessibility-definitions.htm\">Usable</a>\u00a0Fishing Pier</li> <li>Accessible\u00a0<a href=\"https://www.nps.gov/goga/planyourvisit/fortbaker-cell-tour.htm\">Cell Phone Tour</a></li> </ul>",
+   "isReservationRequired": "false",
+   "ageDescription": "<br /> <br /> \u00a0",
+   "petsDescription": "Pets are not allowed on the fishing pier.\u00a0<br /> <br /> Please visit our website for more <a href=\"https://www.nps.gov/goga/planyourvisit/dog-friendly-areas.htm\">information</a>.\u00a0",
+   "timeOfDayDescription": "",
+   "feeDescription": "<p>Fishing on the public pier at Fort Baker does not require a fishing license.\u00a0<br /> <br /> In other areas of Golden Gate National Recreation Area, a\u00a0valid California fishing license is required to fish in the park although exceptions may apply, and fees vary. Children under 16 years of age do not require a license. Visitors fishing within must follow the fishing license requirements in accordance with the laws and regulations of the\u00a0<a href=\"https://wildlife.ca.gov/Licensing/Fishing\">California Department of Fish and Wildlife</a>.\u00a0</p>",
+   "age": "0",
+   "arePetsPermittedWithRestrictions": "false",
+   "activities": [
+    {
+     "id": "AE42B46C-E4B7-4889-A122-08FE180371AE",
+     "name": "Fishing"
+    }
+   ],
+   "activityDescription": "<h2 paraeid=\"{4f0a5ec0-61e2-4ab1-9dd5-8eb7efb96e27}{74}\" paraid=\"341842977\">Licenses\u00a0</h2> <p paraeid=\"{4f0a5ec0-61e2-4ab1-9dd5-8eb7efb96e27}{80}\" paraid=\"1751503357\">A valid California fishing license is required to fish in the park although exceptions may apply, and fees vary. Children under 16 years of age do not require a license. Visitors fishing within Golden Gate National Recreation Area must follow the fishing license requirements in accordance with the laws and regulations of the\u00a0<a href=\"https://wildlife.ca.gov/Licensing/Fishing\">California Department of Fish and Wildlife</a>.\u00a0</p> <h2 paraeid=\"{4f0a5ec0-61e2-4ab1-9dd5-8eb7efb96e27}{89}\" paraid=\"439444497\">Fishing Regulations\u00a0</h2> <p paraeid=\"{4f0a5ec0-61e2-4ab1-9dd5-8eb7efb96e27}{95}\" paraid=\"806784960\">Unless otherwise provided for, fishing regulations apply\u202fto all finfish found in both fresh and saltwater, and mollusks and crustaceans found in saltwater (shellfish).\u202f\u202f\u202fOther taxa, including amphibians, and freshwater mollusks and crustaceans (e.g. waterdogs, crayfish) are not considered \u201cfish\u201d for the purpose of NPS fishing regulations and are addressed by NPS regulations governing \u201cwildlife\u201d (<a href=\"https://www.ecfr.gov/cgi-bin/text-idx?SID=f80be5ca55bd523296e6e97e3e9c085b&mc=true&node=se36.1.2_12&rgn=div8\">36CFR2.2</a>).\u202f\u00a0\u00a0</p> <p paraeid=\"{4f0a5ec0-61e2-4ab1-9dd5-8eb7efb96e27}{104}\" paraid=\"1821734199\">These fishing regulations apply, regardless of land ownership, on all lands and waters within the park that are under the legislative jurisdiction of the United States.\u00a0</p> <p paraeid=\"{4f0a5ec0-61e2-4ab1-9dd5-8eb7efb96e27}{110}\" paraid=\"1019129657\">Fishing shall be in accordance with the laws and regulations of the State of California (<a href=\"https://www.ecfr.gov/cgi-bin/retrieveECFR?gp=&SID=e74ead7e797e1c4cf26cfb62bcfa6af8&mc=true&n=pt36.1.2&r=PART&ty=HTML#se36.1.2_13\">36CFR2.3</a>(a))\u00a0except\u00a0as provided below. Where there is a conflict between a state regulation and a federal (NPS) regulation, the state regulation is superseded by the federal regulation.\u202f\u00a0\u00a0</p> <p paraeid=\"{4f0a5ec0-61e2-4ab1-9dd5-8eb7efb96e27}{125}\" paraid=\"2052389744\">For state fishing regulations please visit the\u00a0<a href=\"https://wildlife.ca.gov/Fishing/Ocean\">California Department of Fish and Wildlife website</a>.\u00a0</p> <p paraeid=\"{4f0a5ec0-61e2-4ab1-9dd5-8eb7efb96e27}{136}\" paraid=\"691994831\">For more information on how NPS fishing regulations work, go to the regulations page on the NPS Fish and Fishing website (<a href=\"https://www.nps.gov/subjects/fishing/how-regulations-work.htm\">https://www.nps.gov/subjects/fishing/how-regulations-work.htm</a>).</p>",
+   "locationDescription": "The fishing pier is located near the Golden Gate Bridge in Horseshoe Bay in Fort Baker.\u00a0",
+   "doFeesApply": "false",
+   "longDescription": "<p>What comes to mind when you think about fishing? Patience, relaxation, challenge, and memories are a few words often associated with fishing. You will find all that and a sense of stewardship, conservation, and preservation on this page. We want you to have an enjoyable time during your visit, and for those who come after you to fish. Take some time to explore, learn what the park has to offer and learn your responsibilities before casting a line or flicking a fly into the water.\u00a0<br /> <br /> Golden Gate National Recreation Area\u00a0allows <a href=\"https://www.nps.gov/fopo/planyourvisit/fishing.htm\">fishing </a>as a means of providing for public enjoyment,\u00a0and customary and traditional use,\u00a0and regulates fishing to ensure that it is managed in a manner that avoids unacceptable impacts\u00a0to\u00a0park resources.\u00a0\u00a0</p> <h3><em><b>The following regulations apply only within\u00a0Golden Gate National Recreation Area</b>\u00a0</em></h3> <h4>The following areas are open to recreational fishing and do not require\u00a0fishing licenses:\u00a0</h4> <p><strong>Marin County\u00a0</strong></p> <ul> <li> <p>Fort Baker pier and jetty\u00a0</p> </li> </ul> <p><strong>San Francisco\u00a0</strong></p> <ul> <li> <p>Fort Mason Piers Two & Three (Herbst and Festival Pavilions)\u00a0</p> </li> <li> <p>Fort Point pier (a.k.a. Torpedo Wharf)\u00a0</p> </li> </ul> <p>In accordance with California law, (Fish and Game Code \u00a7 7153 and Section 1.88 of Title 14 of the\u00a0California Code of Regulations) public fishing piers and jetties, open 24 hours a day, do not require a state\u00a0fishing license.\u00a0\u00a0</p> <h4><strong>The following areas are closed to fishing:\u00a0</strong></h4> <p><strong>Marin County\u00a0</strong></p> <ul> <li>Easkoot\u00a0Creek, Stinson Beach\u00a0</li> <li>Muir Woods National Monument (36 CFR 7.6)\u00a0</li> <li>Redwood Creek (including Muir Beach Lagoon and tidewaters)</li> <li>Tennessee Valley Pond (next to the beach)\u00a0</li> <li>Rodeo Lagoon, Marin Headlands</li> <li>Rodeo Lake, Marin Headlands</li> </ul> <p><strong>San Francisco\u00a0</strong></p> <ul> <li> <p>Alcatraz Island shoreline\u00a0</p> </li> <li> <p>Crissy Field Former Coast Guard Pier, breakwater and seawall\u00a0</p> </li> </ul> <ul> <li> <p>Lobos Creek, Presidio Area\u00a0</p> </li> </ul> <h4>\u00a0<b>The following are prohibited:</b>\u00a0</h4> <ul> <li> <p>Fishing in fresh waters in any manner other than by hook and line, with the rod or line being closely attended.\u00a0</p> </li> <li> <p>Possessing or using as bait for fishing in freshwaters, live or dead minnows or other bait fish, amphibians, non-preserved fish eggs or fish roe, except in designated waters.\u00a0</p> </li> <li> <p>Chumming or placing preserved or fresh fish eggs, fish roe, food, fish parts, chemicals, or other foreign substances in fresh waters for the purpose of feeding or attracting fish in order that they may be taken.\u00a0</p> </li> <li> <p>Commercial fishing, except where specifically authorized by Federal statutory law.\u00a0</p> </li> <li> <p>Fishing by the use of drugs, poisons, explosives, or electricity.\u00a0</p> </li> <li> <p>Digging for bait, except in privately owned lands.\u00a0</p> </li> <li> <p>Failing to return carefully and immediately to the water from which it was taken a fish that does not meet size or species restrictions or that the person chooses not to keep. Fish so released shall not be included in the catch or possession limit: Provided, that at the time of catching the person did not possess the legal limit of fish.\u00a0</p> </li> <li> <p>Fishing from motor road bridges, from or within 200 feet of a public raft or float designated for water sports, or within the limits of locations designated as swimming beaches, surfing areas, or public boat docks, except in designated areas.\u00a0</p> </li> <li> <p>Introducing wildlife, fish or plants, including their reproductive bodies, into a park area ecosystem. This includes the discarding and/or dumping of bait and bait buckets.\u00a0</p> </li> <li> <p>The use or possession of fish, wildlife or plants for ceremonial or religious purposes, except where specifically authorized by Federal statutory law, or treaty rights.\u00a0Except as otherwise designated,\u202ffishing\u202fwith a\u202fnet, spear, or\u202fweapon\u202fin the salt waters of\u202fpark areas\u202fshall be in accordance with\u202fState law.\u00a0\u00a0</p> </li> </ul> <p><b>Fishing Throughout the National Park Service</b>\u00a0We invite you to visit the\u202f<a href=\"https://www.nps.gov/subjects/fishing/index.htm\">Fish and Fishing</a>\u202fwebsite for more information about fish and fishing in the National Park Service. You will learn about conservation, different fish species, and parks that offer fishing.\u00a0</p>",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "1608649A-E7D7-4529-BD83-074C90F9FB68",
+     "name": "Fish"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "false",
+   "timeOfDay": [
+    "Day",
+    "Dawn",
+    "Dusk"
+   ],
+   "duration": "1-4 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "0218A0D1-B5E6-4D2A-ADC5-BBE45D540488",
+   "url": "https://www.nps.gov/thingstodo/take-a-selfie-at-fort-point.htm",
+   "title": "Take a Selfie at Fort Point",
+   "shortDescription": "Take in the views of the Golden Gate Bridge and San Francisco Bay from below at Fort Point.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/640A446F-E61D-3681-21558BBA52D81C9F.jpg",
+     "credit": "",
+     "altText": "The roof level of Fort Point. The lighthouse is seen on the left and the bridge is in the background",
+     "title": "The Fort Point roof",
+     "description": "",
+     "caption": "The view of the Golden Gate Bridge from the roof of Fort Point NHS.",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/640A446F-E61D-3681-21558BBA52D81C9F.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/640A446F-E61D-3681-21558BBA52D81C9F.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "fopo",
+     "designation": "National Historic Site",
+     "fullName": "Fort Point National Historic Site",
+     "url": "https://www.nps.gov/fopo/index.htm",
+     "name": "Fort Point"
+    },
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [],
+   "latitude": "37.8105583190918",
+   "longitude": "-122.47721862792969",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Fort Point National Historic Site",
+   "seasonDescription": "",
+   "accessibilityInformation": "<h2>Accessible Features<a name=\"onthisPage-0\"></a></h2> <ul> <li>Accessible Parking</li> <li>Accessible Restrooms</li> <li>Accessible Entrance</li> <li>Accessible First Floor</li> <li>Assistive Listening Devices (ALDs)</li> <li>Tactile Orientation Maps</li> <li>Open Captioning</li> <li><a href=\"https://www.nps.gov/goga/learn/photosmultimedia/audio.htm\">Click here to download the Fort Point Audio Described Brochure</a></li> </ul> <h2>Upon Arrival<a name=\"onthisPage-1\"></a></h2> <p>As you arrive at Fort Point you will pass a restroom facility on your left. This restroom is accessible and there is an accessible parking stall located nearby. The parking lot has additional accessible stalls located near the entry to the Fort. The entrance to the Fort is accessible.</p> <h2>Inside the Park<a name=\"onthisPage-2\"></a></h2> <p>The first floor of the fort is\u00a0<a href=\"https://www.nps.gov/goga/planyourvisit/accessibility-definitions.htm\">accessible</a>. with a raised wooden boardwalk. There is an interactive video kiosk located on the first floor. This kiosk plays a variety of videos including videos that depic the architectural details of the entire fort.</p> <p>Tactile Orientation Maps are provided on each level of the Fort. Assistive Listening Devices are provided for the Ranger Led Tours, videos shown in the theater and the Golden Gate Bridge Exhibit. Please ask a Ranger for assistance.</p> <p><em>See what others have to say:</em></p> <p><a href=\"http://wheelingcalscoast.org/site.php?site=129\">www.wheelingcalscoast.org</a></p>",
+   "isReservationRequired": "false",
+   "ageDescription": "This is an all ages activity.",
+   "petsDescription": "Pets are not allowed inside of Fort Point. Pets are allowed On-Leash on Marine Dr and outside of the fort. Please visit our <a href=\"https://www.nps.gov/goga/planyourvisit/dog-friendly-areas.htm\">website </a>for more information.\u00a0",
+   "timeOfDayDescription": "",
+   "feeDescription": "",
+   "age": "0",
+   "arePetsPermittedWithRestrictions": "false",
+   "activities": [
+    {
+     "id": "A0631906-9672-4583-91DE-113B93DB6B6E",
+     "name": "Self-Guided Tours - Walking"
+    }
+   ],
+   "activityDescription": "Walk through and learn about the historic significance of Fort Point and it's integral part in protecting San Francisco and the Bay Area. Arrive on the rooftop of the Fort for an amazing view of the San Francisco Bay and the Golden Gate Bridge.\u00a0",
+   "locationDescription": "Fort Point National Historic Site is located at the base of the Golden Gate Bridge and has spectacular views of the bridge, the bay and San Francisco.\u00a0",
+   "doFeesApply": "false",
+   "longDescription": "Fort Point is located at the base of the Golden Gate Bridge.\u00a0The Fort has been called \"the pride of the Pacific,\" \"the Gibraltar of the West Coast,\" and \"one of the most perfect models of masonry in America.\" When construction began during the height of the California Gold Rush, Fort Point was planned as the most formidable deterrence America could offer to a naval attack on California. Although its guns never fired a shot in anger, the \"Fort at Fort Point\" as it was originally named has witnessed Civil War, obsolescence, earthquake, bridge construction, reuse for World War II, and preservation as a National Historic Site.<br /> <br /> Stand outside next to the water or climb to the roof of the Fort for a spectacular view of the bridge and snap a selfie with the Golden Gate Bridge!\u00a0<br /> <br /> \u00a0",
+   "reservationDescription": "No reservations are required, but inside access to the fort is limited.\u00a0<br /> <br /> Typical hours are:\u00a0<br /> <br /> Friday 10am to 5pm\u00a0<br /> Saturday 10 am to 5pm\u00a0<br /> Sunday 10 am to 5pm<br /> <br /> Hours are subject to change. Please verify operating hours on our <a href=\"https://www.nps.gov/fopo/planyourvisit/basicinfo.htm\">website</a>.\u00a0",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+     "name": "Scenic Views"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "false",
+   "timeOfDay": [
+    "Day"
+   ],
+   "duration": "1-2 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "61512DAD-643F-4BC7-88C1-11AB1038723C",
+   "url": "https://www.nps.gov/thingstodo/muir-woods-birdwatching.htm",
+   "title": "Muir Woods Birdwatching",
+   "shortDescription": "Birdwatching in Muir Woods",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/FA88C31E-0A1E-F1F0-B5FB8580A15CB9EB.jpg",
+     "credit": "Kirke Wrench",
+     "altText": "Close up photograph of a brown with white spots, blacked eyed Northern Spotted Owl",
+     "title": "Northern Spotted Owl",
+     "description": "",
+     "caption": "Northern Spotted Owl",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/FA88C31E-0A1E-F1F0-B5FB8580A15CB9EB.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/FA88C31E-0A1E-F1F0-B5FB8580A15CB9EB.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    },
+    {
+     "states": "CA",
+     "parkCode": "muwo",
+     "designation": "National Monument",
+     "fullName": "Muir Woods National Monument",
+     "url": "https://www.nps.gov/muwo/index.htm",
+     "name": "Muir Woods"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [],
+   "latitude": "37.892711535662656",
+   "longitude": "-122.57236255502237",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Muir Woods National Monument",
+   "seasonDescription": "",
+   "accessibilityInformation": "<h4>Accessible Features</h4> <ul> <li> <p><a href=\"https://www.nps.gov/goga/planyourvisit/accessibility-definitions.htm\">Designated Accessible</a>\u00a0Parking</p> </li> <li> <p>Assistive Listening Devices</p> </li> <li> <p>Accessible Restrooms</p> </li> <li> <p>Segments of Accessible Trails</p> </li> <li> <p>Braille Brochure and Trail Map</p> </li> <li> <p>Large Print Brochure</p> </li> <li> <p>Accessible Cafe and Gift Shop</p> </li> <li> <p><a href=\"https://www.nps.gov/goga/planyourvisit/accessibility-definitions.htm\">Usable</a>\u00a0Visitors Center</p> </li> <li> <p><a href=\"https://www.nps.gov/goga/planyourvisit/visual.htm\">Audio Described Brochures and Waysides</a></p> </li> <li> <p><a href=\"https://www.nps.gov/muwo/planyourvisit/muir-woods-asl.htm\">American Sign Language Orientation Videos</a></p> </li> <li> <p><a href=\"https://www.nps.gov/goga/learn/photosmultimedia/audio.htm\">Click here to download an audio described version of the Muir Woods Brochure.</a></p> </li> </ul> <h4>Service Animals</h4> Service Animals, as recognized by the Americans with Disabilities Act, are allowed: <p>Service animals are defined as animals that are individually trained to do work or perform tasks for people with disabilities. Examples of such work or tasks include guiding people who are blind, alerting people who are deaf, pulling a wheelchair, alerting and protecting a person who is having a seizure, reminding a person with mental illness to take prescribed medications, calming a person with Post Traumatic Stress Disorder (PTSD) during an anxiety attack, or performing other duties. Service animals are working animals, not pets. The work or task a dog has been trained to provide must be directly related to the person\u2019s disability. Animals whose sole function is to provide comfort or emotional support do not qualify as service animals under the ADA.<br /> <br /> For more information on the DOJ ADA Revised Service Animal Regulations, please click <a href=\"https://www.nps.gov/goga/planyourvisit/service-animals.htm\"><b>here</b></a>.</p> <h4>Upon Arrival</h4> <p>As you arrive at Muir Woods, proceed to the main parking lot follow the signs to the accessible parking stalls located closest to the Visitor Center and park entrance. Accessible restrooms are located across from the parking stalls. The surface material within the entry plaza is a compacted mix of recycled asphalt and dirt. The surface is firm and stable. There are several accessible benches located in the entry plaza.</p> <p>\u00a0</p> <h4>In the Park</h4> <p>Once you arrive, head towards the Visitor's Center. Here is where you can request assistive listening devices for our Ranger Led Tours and Mp3 players containing an audio description of the Muir Woods Brochure and waysides along the Main Trail. The Visitors Center also provides a copy of the Muir Woods Brochure in Braille along with a Braille Trail Map. After stopping at the Visitors Center, follow the raised accessible boardwalk. This boardwalk is part of the Muir Woods Main Trail. If you follow the raised boardwalk to the right it will lead to an accessible gift shop, caf\u00e9 and restroom facility. Signage is provided. If you choose to continue into the Redwood Forest, the accessible boardwalk will continue for several hundred feet to the Pinchot Tree Area. There are several informational waysides along the boardwalk. If you proceed past the boardwalk you will encounter an asphalt trail which is usable; however, it contains potholes and severe cracks due to heaving tree roots. As funding and resources allow, we will continue to replace the existing asphalt with an accessible raised boardwalk.</p>",
+   "isReservationRequired": "true",
+   "ageDescription": "This is an all ages activity.\u00a0",
+   "petsDescription": "Pets are not allowed in Muir Woods National Monument.",
+   "timeOfDayDescription": "",
+   "feeDescription": "There is an entrance fee to\u00a0<a href=\"https://www.nps.gov/muwo/planyourvisit/fees.htm\">Muir Woods National Monument.</a><br /> <br /> In addition, parking <a href=\"https://www.nps.gov/muwo/planyourvisit/know-before-you-go.htm\">reservations </a>are required.\u00a0",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "false",
+   "activities": [
+    {
+     "id": "5A2C91D1-50EC-4B24-8BED-A2E11A1892DF",
+     "name": "Birdwatching"
+    }
+   ],
+   "activityDescription": "",
+   "locationDescription": "",
+   "doFeesApply": "true",
+   "longDescription": "The old growth forest of\u00a0<a href=\"https://www.nps.gov/muwo/naturescience\">Muir Woods</a>\u00a0represents a fragmented island of the redwood stands that existed 150 years ago. Muir woods is now the last remaining contiguous stand of old growth coast redwoods in Marin County. Underneath the dappled sunlight, high in the branches of these giants, federally threatened species such as the\u00a0<a href=\"https://www.nps.gov/rlc/pacificcoast/northern-spotted-owls.htm\">northern spotted owl\u00a0</a>nests. Marin County is home for a fairly large population of these small owls that have found themselves spotlighted in the media. At least 69 bird species occur within Muir Woods, the majority of which are small neotropical migrants such as the Pacific-slope flycatcher, winter wren, golden-crowned kinglet, and chestnut-backed chickadee.<br /> <br /> \u00a0",
+   "reservationDescription": "Parking <a href=\"https://www.nps.gov/muwo/planyourvisit/know-before-you-go.htm\">reservations </a>are required to visit Muir Woods National Monument.\u00a0",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "957EF2BD-AC6C-4B7B-BD9A-87593ADC6691",
+     "name": "Birds"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "false",
+   "timeOfDay": [
+    "Day"
+   ],
+   "duration": "1-2 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "E94E2B9D-7A33-4CE2-8A20-328E7AF1DB4E",
+   "url": "https://www.nps.gov/thingstodo/view-the-alcatraz-fire-engine.htm",
+   "title": "View the Alcatraz Fire Engine",
+   "shortDescription": "Restored in 2003, this historic Diamond T Fire Engine can be viewed in the garage of the Quartermaster Building.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/C8AE55B0-9650-9F5C-58525D1595266B00.jpg",
+     "credit": "NPS",
+     "altText": "Parks Rangers standing on and around a red fire engine.",
+     "title": "Alcatraz Fire Engine",
+     "description": "",
+     "caption": "Alcatraz Park Rangers on the island's historic fire engine.",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/C8AE55B0-9650-9F5C-58525D1595266B00.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/C8AE55B0-9650-9F5C-58525D1595266B00.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "alca",
+     "designation": "",
+     "fullName": "Alcatraz Island",
+     "url": "https://www.nps.gov/alca/index.htm",
+     "name": "Alcatraz Island"
+    },
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [],
+   "latitude": "",
+   "longitude": "",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Quartermaster",
+   "seasonDescription": "",
+   "accessibilityInformation": "The exhibit features large text, which is also reproduced here in the NPS App.\u00a0",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "",
+   "timeOfDayDescription": "",
+   "feeDescription": "",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "false",
+   "activities": [
+    {
+     "id": "C8F98B28-3C10-41AE-AA99-092B3B398C43",
+     "name": "Museum Exhibits"
+    }
+   ],
+   "activityDescription": "View the island's restored Diamond T Fire Engine.\u00a0",
+   "locationDescription": "",
+   "doFeesApply": "false",
+   "longDescription": "<p>Fire has been a threat on Alcatraz Island since the construction of the fortress in the 1850s. Fear that the fort\u2019s wooden prison buildings would burn with the prisoners inside led the military to construct the concrete prison building in the early 1900s.</p> <p>The fire engine arrived on the island in 1934 via the Panama Canal for the newly renovated federal penitentiary. The vehicle was manufactured by the Diamond T Motor Car Company of Chicago, Illinois and the Howe Fire Apparatus Company of Anderson, Indiana, which built the \u201cDefender\u201d pumper. The vehicle has a 130 horsepower Hercules engine and can pump 500 gallons of water per minute. It is designed specifically for the island, with a narrower wheel base to make the sharp turns.</p> <p>The engine saw action a number of times during the penitentiary years for small fires on the island like one in 1947 in the laundry of the New Industries Building where a large pile of towels had caught fire. Prison guards manned the Diamond T and raced to quench the flames. One night in 1939, the siren sounded and three guards sped up the hill in the engine only to learn that the alarm was for an escape attempt! The engine also flashed its lights and blared its sirens to celebrate New Year\u2019s Eve and the Fourth of July for the island\u2019s residents.</p> <p>The Diamond T was in sorry shape, vandalized and damaged by the elements, when the National Park Service arrived on the island in 1972. In 2003, the National Park Service and the ferry company spent $100,000 to restore the vehicle. The work was done by men incarcerated\u00a0at Indian Springs State Prison near Las Vegas, Nevada. The wooden ladder was donated by the San Francisco Fire Department.</p>",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "351EE154-87AA-46B0-BBA1-ED604368ACE9",
+     "name": "Incarceration"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "false",
+   "timeOfDay": [
+    "Day"
+   ],
+   "duration": "15 Minutes",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "A60B04D1-1AF0-4448-B391-5939F499E656",
+   "url": "https://www.nps.gov/thingstodo/whale-watch-from-muir-beach-overlook.htm",
+   "title": "Whale watch from Muir Beach Overlook",
+   "shortDescription": "Whale Watch from Muir Beach Overlook",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/FBC3E7D5-DD44-A879-40542A53AF05518E.jpg",
+     "credit": "Chad Beale",
+     "altText": "The narrow, wooden fence lined path down to the Muir Beach Overlook",
+     "title": "Muir Beach Overlook",
+     "description": "",
+     "caption": "The path to the Muir Beach Overlook",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/FBC3E7D5-DD44-A879-40542A53AF05518E.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/FBC3E7D5-DD44-A879-40542A53AF05518E.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    },
+    {
+     "states": "CA",
+     "parkCode": "muwo",
+     "designation": "National Monument",
+     "fullName": "Muir Woods National Monument",
+     "url": "https://www.nps.gov/muwo/index.htm",
+     "name": "Muir Woods"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [],
+   "latitude": "37.86305618286133",
+   "longitude": "-122.58577728271484",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Muir Beach Overlook",
+   "seasonDescription": "Whales migrate through this area during winter months.\u00a0",
+   "accessibilityInformation": "<p>Avoid the overlook trail if you're scared of heights. Cliffs along the Rocky Point coast are isolated and very dangerous. Use caution when hiking<br /> <br /> Cell phone coverage is not reliable. Rescue crews are further away.<br /> <br /> The overlook picnic site is scenic but windy, so remember to carry layers and hold on to your paper plates!</p> <h4>Accessible Features</h4> <ul> <li>Designated Accessible Parking</li> <li>Accessible Vault Toilet</li> <li>Accessible Picnic Tables</li> <li>Tactile / Braille Topographic Model</li> <li>Accessible Pathways</li> </ul> <h4>Upon Arrival</h4> <p>There are two designated accessible parking spaces located within the parking lot.</p> <h4>Inside the Park</h4> <p>Adjacent to one of the designated accessible parking spaces is an accessible vault toilet. There is an accessible outdoor route leading to the information kiosk. Past the information kiosk you will find a large scale tactile topographic model which contains Braille labels. There is also a series of information panels. There are several accessible picnic tables all located on accessible outdoor routes. Some portions of the trails are generally accessible while others contain very steep terrain and stairs</p>",
+   "isReservationRequired": "false",
+   "ageDescription": "All Ages are welcome to watch for whales!",
+   "petsDescription": "Dogs are allowed On-Leash.\u00a0<br /> <br /> Visit our <a href=\"https://www.nps.gov/goga/planyourvisit/dog-friendly-areas.htm\">website </a>for more information.",
+   "timeOfDayDescription": "",
+   "feeDescription": "",
+   "age": "0",
+   "arePetsPermittedWithRestrictions": "true",
+   "activities": [
+    {
+     "id": "0B685688-3405-4E2A-ABBA-E3069492EC50",
+     "name": "Wildlife Watching"
+    }
+   ],
+   "activityDescription": "Watch for whales and other wildlife from the Muir Beach Overlook.",
+   "locationDescription": "",
+   "doFeesApply": "false",
+   "longDescription": "Muir Beach Overlook is one of the many spots along the parks' coast for whale lovers to catch a glimpse of these giant marine mammals as they swim by during their winter migrations.",
+   "reservationDescription": "",
+   "season": [
+    "Winter"
+   ],
+   "topics": [
+    {
+     "id": "980D1693-65BF-4F29-8182-7BAC9796E605",
+     "name": "Whales"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "true",
+   "timeOfDay": [
+    "Day"
+   ],
+   "duration": "0-2 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "FF3AD9CC-837F-4E66-A79D-ECEF16CCEF8C",
+   "url": "https://www.nps.gov/thingstodo/crissy-field-restored-wetlands.htm",
+   "title": "Crissy Field Restored Wetlands",
+   "shortDescription": "Walking along the Crissy Field Promenade is a great recreational activity as well as a good wildlife and sightseeing adventure.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/A837761A-C801-53EE-9F16525355EE98A8.jpg",
+     "credit": "Alison Taggart-Barone",
+     "altText": "Photo at dusk of the marsh at Crissy Field with the Golden Gate Bridge in the background",
+     "title": "The marsh at Crissy Field",
+     "description": "",
+     "caption": "Crissy Field at dusk",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/A837761A-C801-53EE-9F16525355EE98A8.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/A837761A-C801-53EE-9F16525355EE98A8.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    },
+    {
+     "states": "CA",
+     "parkCode": "prsf",
+     "designation": "",
+     "fullName": "Presidio of San Francisco",
+     "url": "https://www.nps.gov/prsf/index.htm",
+     "name": "Presidio of San Francisco"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "hiking",
+    "recreation",
+    "Sightseeing",
+    "scenic views",
+    "birdwatching",
+    "wildlife",
+    "wetlands",
+    "airfield"
+   ],
+   "latitude": "37.80567932128906",
+   "longitude": "-122.44915008544922",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Crissy Field",
+   "seasonDescription": "",
+   "accessibilityInformation": "<a href=\"https://www.nps.gov/goga/planyourvisit/crissy-field-accessibility.htm\">Crissy Field Accessibility\u00a0</a><br /> <br /> Crissy Field has accessible parking, restrooms, trails, picnicking, seasonal beach mat access, and beach wheelchairs (by request).\u00a0<br /> <br /> There are two areas in Crissy Field, East Beach and West Bluff. Both areas have several accessible parking spaces. .<br /> <br /> East Beach has: <ul> <li>An accessible restroom facility, a concrete building adjacent to the parking lot.\u00a0</li> <li>An accessible dog washing station is also available here.\u00a0</li> <li>An accessible picnic area for family and group picnicking.</li> </ul> West Bluff has: <ul> <li>Generally accessible picnic sites, an accessible\u00a0</li> <li>Accessible restrooms near the Warming Hut</li> <li>There is an amphitheater that has accessible seating along the top row, here you also find an accessible picnic table</li> <li>Torpedo Wharf is usable, but has cracked and heaving asphalt, please proceed with caution.\u00a0</li> <li>The <a href=\"https://www.nps.gov/goga/planyourvisit/crissy-field-promenade.htm\">Crissy Field Promenade</a> is generally accessible and relatively flat.</li> <li>Beach Wheelchairs area available by reservation at least 5 days in advance. Please <a href=\"mailto:goga_accessibility@nps.gov\">contact us</a> for more information.\u00a0</li> </ul>",
+   "isReservationRequired": "false",
+   "ageDescription": "This is an all ages activity.\u00a0",
+   "petsDescription": "Dogs are allowed at Crissy Field. In all parking lots and along the Mason Street multi-path, dogs are to be ON-LEASH. On the beach, dogs are allowed under VOICE Control.<br /> <br /> The western most section of the beach has seasonal restrictions between July 1 and May 15, requiring a leash on the beach.\u00a0<br /> <br /> Please visit our <a href=\"https://www.nps.gov/goga/planyourvisit/dog-friendly-areas.htm\">website </a>for more detailed information.\u00a0",
+   "timeOfDayDescription": "",
+   "feeDescription": "Although there is no fee for this activity, the parking in the West Bluff parking and along Mason Street is paid hourly parking.\u00a0",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "true",
+   "activities": [
+    {
+     "id": "BFF8C027-7C8F-480B-A5F8-CD8CE490BFBA",
+     "name": "Hiking"
+    }
+   ],
+   "activityDescription": "Walk along the Crissy Field Promenade and take in the spectacular views of the Golden Gate Bridge, the San Francisco Bay and the restored Crissy Field wetlands and marsh.\u00a0<br /> <br /> Along the way, find interpretive waysides and learn about how Crissy Field was used in the past and the wildlife that inhabits the wetlands today.\u00a0",
+   "locationDescription": "Explore Crissy Field by walking along the Promenade.\u00a0",
+   "doFeesApply": "false",
+   "longDescription": "Explore and walk around the restored wetlands of Crissy Field.\u00a0<br /> <br /> Originally a coastal wetlands occupied seasonally by the Ohlone people, the Crissy Field area has seen more changes in use than any other site in the Presidio. The Crissy Field Promenade runs along the bay and has spectacular views of the Golden Gate Bridge and the San Francisco Bay.\u00a0<br /> <br /> Along your stroll, look out for shorebirds and wildlife living in the wetland habitat",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "957EF2BD-AC6C-4B7B-BD9A-87593ADC6691",
+     "name": "Birds"
+    },
+    {
+     "id": "B912363F-771C-4098-BA3A-938DF38A9D7E",
+     "name": "Aviation"
+    },
+    {
+     "id": "4C9D4777-A9DA-47D1-A0B9-F4A3C98BC1B3",
+     "name": "Maritime"
+    },
+    {
+     "id": "3B0D607D-9933-425A-BFA0-21529AC4734C",
+     "name": "Military"
+    },
+    {
+     "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+     "name": "Scenic Views"
+    },
+    {
+     "id": "5BE55D7F-BDB6-4E3D-AC35-2D8EBB974417",
+     "name": "Trails"
+    },
+    {
+     "id": "1365C347-952C-475A-B755-731DD523C195",
+     "name": "Wetlands"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "true",
+   "timeOfDay": [
+    "Day",
+    "Dawn",
+    "Dusk"
+   ],
+   "duration": "1-2 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "0DEC7A1E-1C65-4BD5-96E4-878552C385DA",
+   "url": "https://www.nps.gov/thingstodo/look-for-red-legged-frogs-in-mori-point.htm",
+   "title": "Look for Red-Legged Frogs in Mori Point",
+   "shortDescription": "Watch for California's red-legged frogs in the restored pond habitat at Mori Point.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/FB727584-E666-EDF5-07E17987B5F51BAF.jpg",
+     "credit": "Sarah Merlau/NPS",
+     "altText": "a frog rests on underwater foliage",
+     "title": "California Red-Legged Frog",
+     "description": "",
+     "caption": "California Red-Legged Frog",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/FB727584-E666-EDF5-07E17987B5F51BAF.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/FB727584-E666-EDF5-07E17987B5F51BAF.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [],
+   "latitude": "37.620006",
+   "longitude": "-122.491977",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "The pond overlook at Mori Point",
+   "seasonDescription": "Red-legged frogs lay their eggs in the winter time and can be seen (or heard) in the area in late winter and early spring.\u00a0",
+   "accessibilityInformation": "<b>Old Mori Trail Overview</b><br /> Distance: 1.0 mi (1.6 km)<br /> Elevation Gain: 30 ft<br /> Time: 1 hour<br /> Trailhead: Mori Point<br /> Slope: Avg -1% Max 5%<br /> Side Slope: Avg 3% Max 9%<br /> Width: Avg 125\" Min 86\"<br /> Trail Surface: Firm<br /> <br /> <b>Safety</b><br /> - Stay on the established trail. Keep an eye out for poison oak.<br /> - Observe warning signs and railings-these exist for your safety. Cliffs along the bluffs can be unstable and hazardous.<br /> - Dress in layers and be prepared for varying weather conditions. Sunny days along the coast can turn windy, foggy, and cold very fast.<br /> <br /> <b>Parking</b><br /> There is trailhead parking at Mori Point including two ADA accessible spots. Parking is limited. If you park in the nearby streets, please observe parking regulations.",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "Dogs are allowed at Mori Point ON-Leash only.\u00a0",
+   "timeOfDayDescription": "",
+   "feeDescription": "",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "true",
+   "activities": [
+    {
+     "id": "0B685688-3405-4E2A-ABBA-E3069492EC50",
+     "name": "Wildlife Watching"
+    }
+   ],
+   "activityDescription": "",
+   "locationDescription": "The boardwalk begins just at the restored pond in Mori Point. There are a few benches to sit and observe the wildlife at the pond.\u00a0",
+   "doFeesApply": "false",
+   "longDescription": "Mori's freshwater frog ponds are home to our threatened amphibious friends, the California red-legged frog. The ponds are ideal habitat for these cute lil' leapers, and a scenic location for humans to enjoy as well. The ponds are the result of extensive restoration work here in the 32-acre wetlands, made possible by the community's stalwart resistance to a slew of development proposals over two decades.",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring"
+   ],
+   "topics": [
+    {
+     "id": "0D00073E-18C3-46E5-8727-2F87B112DDC6",
+     "name": "Animals"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "true",
+   "timeOfDay": [
+    "Day",
+    "Dawn"
+   ],
+   "duration": "1-2 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "34387DA8-96FC-447A-A066-862D4F64C5A8",
+   "url": "https://www.nps.gov/thingstodo/wildflower-walk-at-fort-funston.htm",
+   "title": "Wildflower Walk at Fort Funston",
+   "shortDescription": "Take a walk and enjoy the scenic views of the wildflowers blooming at Fort Funston.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/FA7F8FA1-FA41-859D-B68B90447697A4A1.jpg",
+     "credit": "Kirke Wrench",
+     "altText": "Colored image of the path down to the beach at Fort Funston",
+     "title": "Fort Funston",
+     "description": "",
+     "caption": "View one of the trails at Fort Funston",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/FA7F8FA1-FA41-859D-B68B90447697A4A1.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/FA7F8FA1-FA41-859D-B68B90447697A4A1.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "wildflower"
+   ],
+   "latitude": "37.71476216631644",
+   "longitude": "-122.50288230180742",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Sunset Trail trailhead",
+   "seasonDescription": "The best time to see the wildflower blooms are in the spring time.",
+   "accessibilityInformation": "<b>Sunset Trail Accessibility Overview</b><br /> Distance: 1.5 mi (2.8 km)<br /> Time: 1 hour<br /> Trailhead: Sunset Trail<br /> Slope: Avg 6%, Max 27%<br /> Side Slope: Avg 3%, Max 8%<br /> Width: Avg 87 in., Min 40 in.<br /> Trail Surface: Firm<br /> <br /> <b>Safety</b><br /> - Stay on the established trail. Keep an eye out for poison oak.<br /> - Observe warning signs and railings-these exist for your safety.<br /> - Dress in layers and be prepared for varying weather conditions. Sunny days along the coast can turn windy, foggy, and cold very fast.<br /> - Do not climb on the coastal bluffs or edges, the sand and rocks are loose and eroding and dangerous!<br /> - People have fallen from these cliffs -- and died!<br /> <br /> <b>Parking</b><br /> There is parking at Fort Funston, including ADA accessible parking.<br /> <br /> <b>Bathrooms</b><br /> Bathrooms are located near the parking area.",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "In Fort Funston, dogs are allowed on-leash or voice control.\u00a0<br /> <br /> Dogs are not allowed in the 12-acre Habitat Protection Area closure, fenced or signed areas, & Coastal Trail north of Horse Trail intersection.",
+   "timeOfDayDescription": "",
+   "feeDescription": "",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "true",
+   "activities": [
+    {
+     "id": "0B685688-3405-4E2A-ABBA-E3069492EC50",
+     "name": "Wildlife Watching"
+    }
+   ],
+   "activityDescription": "Take in the wildflower blooms and flourishing wildlife at Fort Funston and the restored habitats along the cliffsides.\u00a0",
+   "locationDescription": "",
+   "doFeesApply": "false",
+   "longDescription": "Take a walk through the dunes and over look the cliffs at Fort Funston. The scenic views are especially impressive during the wildflower blooms of the spring. The Sunset Trail is one fo the most accessible trails in GGNRA and provides an easy walk to Battery Davis. Wildflowers bloom along the cliffs and throughout Fort Funston.\u00a0",
+   "reservationDescription": "",
+   "season": [
+    "Spring"
+   ],
+   "topics": [
+    {
+     "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+     "name": "Scenic Views"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "true",
+   "timeOfDay": [
+    "Day"
+   ],
+   "duration": "1-2 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "30D323CA-6E0D-45A3-BED0-60749F98F84A",
+   "url": "https://www.nps.gov/thingstodo/explore-a-civil-war-era-fort.htm",
+   "title": "Explore a Civil War Era Fort",
+   "shortDescription": "Explore a Civil War era fort on the west coast!",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/1C60C243-A1A8-67A7-BE91100EE0632DEC.jpg",
+     "credit": "",
+     "altText": "Looking down from the roof of Fort Point into the casemates that line the lower floors.",
+     "title": "Fort Point National Historic Site",
+     "description": "",
+     "caption": "The view from the roof of Fort Point",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/1C60C243-A1A8-67A7-BE91100EE0632DEC.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/1C60C243-A1A8-67A7-BE91100EE0632DEC.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "fopo",
+     "designation": "National Historic Site",
+     "fullName": "Fort Point National Historic Site",
+     "url": "https://www.nps.gov/fopo/index.htm",
+     "name": "Fort Point"
+    },
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "Civil War",
+    "fort"
+   ],
+   "latitude": "37.8105583190918",
+   "longitude": "-122.47721862792969",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Fort Point National Historic Site",
+   "seasonDescription": "Fort Point is a good place to visit any time of year. The weather in San Francisco can change quickly and fog can roll in unexpectedly, so always bring layers!\u00a0",
+   "accessibilityInformation": "<h4>Accessible Features</h4> <ul> <li>Accessible Parking</li> <li>Accessible Restrooms</li> <li>Accessible Entrance</li> <li>Accessible First Floor</li> <li>Assistive Listening Devices (ALDs)</li> <li>Tactile Orientation Maps</li> <li>Open Captioning</li> <li><a href=\"https://www.nps.gov/goga/learn/photosmultimedia/audio.htm\">Click here to download the Fort Point Audio Described Brochure</a></li> </ul> <h4>Upon Arrival</h4> <p>As you arrive at Fort Point you will pass a restroom facility on your left. This restroom is accessible and there is an accessible parking stall located nearby. The parking lot has additional accessible stalls located near the entry to the Fort. The entrance to the Fort is accessible.</p> <h4>Inside the Park</h4> <p>The first floor of the fort is\u00a0<a href=\"https://www.nps.gov/goga/planyourvisit/accessibility-definitions.htm\">accessible</a>. with a raised wooden boardwalk. There is an interactive video kiosk located on the first floor. This kiosk plays a variety of videos including videos that depic the architectural details of the entire fort.</p> <p>Tactile Orientation Maps are provided on each level of the Fort. Assistive Listening Devices are provided for the Ranger Led Tours, videos shown in the theater and the Golden Gate Bridge Exhibit. Please ask a Ranger for assistance.</p>",
+   "isReservationRequired": "false",
+   "ageDescription": "All ages are welcome!",
+   "petsDescription": "Pets are not allowed inside the fort. Service animals are allowed.\u00a0",
+   "timeOfDayDescription": "Hours to access the Fort can vary depending on the time of the year. Please visit <a href=\"https://www.nps.gov/fopo/planyourvisit/index.htm\">Fort Point's website</a> for the most up to date operating hours.\u00a0",
+   "feeDescription": "",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "false",
+   "activities": [
+    {
+     "id": "C8F98B28-3C10-41AE-AA99-092B3B398C43",
+     "name": "Museum Exhibits"
+    }
+   ],
+   "activityDescription": "Explore the fort and it's many exhibits or attend a ranger-led program about the history and use of Fort Point.\u00a0",
+   "locationDescription": "Located below the Golden Gate Bridge, Fort Point is a brick, Civil War era fort.\u00a0",
+   "doFeesApply": "false",
+   "longDescription": "Did you know that there's a civil war era fort at the base of the Golden Gate Bridge?\u00a0<br /> <br /> Visit Fort Point and learn how it was used to protect the San Francisco Bay and surrounding areas during the late 1800's.\u00a0<br /> <br /> In addition to learning about Civil War era weaponry and defenses, Fort Point offers spectacular views of the Bay and the Golden Gate Bridge.\u00a0<br /> <br /> Bring a jacket! Even on sunny days, the fort can be windy and fog is known to arrive quickly!\u00a0",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "123CE28E-0EFA-4330-8E6E-EEFF3D7BF772",
+     "name": "Coastal Defenses"
+    },
+    {
+     "id": "A8E54356-20CD-490E-B34D-AC6A430E6F47",
+     "name": "Civil War"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "false",
+   "timeOfDay": [
+    "Day"
+   ],
+   "duration": "1-2 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "B0605F2F-7902-43E4-B372-C8BD3CE2B702",
+   "url": "https://www.nps.gov/thingstodo/explore-sutro-baths-and-sutro-heights-park.htm",
+   "title": "Explore Sutro Baths and Sutro Heights Park",
+   "shortDescription": "Explore the Sutro Bath Ruins and Sutro Heights Park",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/8D6AADDC-A076-1A5B-F53750F3E901AFFE.jpg",
+     "credit": "",
+     "altText": "The Sutro Bath Ruins with the Pacific Ocean in the background.",
+     "title": "Sutro Bath Ruins",
+     "description": "",
+     "caption": "Sutro Bath Ruins",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/8D6AADDC-A076-1A5B-F53750F3E901AFFE.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/8D6AADDC-A076-1A5B-F53750F3E901AFFE.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "Sutro Baths",
+    "lands end",
+    "Adolph Sutro",
+    "GGNRA",
+    "sutro heights park"
+   ],
+   "latitude": "37.779998779296875",
+   "longitude": "-122.51361083984375",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Sutro Bath Ruins",
+   "seasonDescription": "",
+   "accessibilityInformation": "This is a generally accessible activity.\u00a0<br /> <br /> Accessible parking is available nearby at the Lands End Lookout Visitor Center and along Point Lobos Ave.\u00a0<br /> <br /> There are gravel pathways in Sutro Baths and in Sutro Heights Park that are generally accessible.\u00a0",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "",
+   "timeOfDayDescription": "Sutro Baths and Sutro Heights are enjoyable at any time of day. It's a perfect place to catch an amazing sunset over the Pacific Ocean.\u00a0<br /> <br /> Both Sutro Baths and Sutro Heights Park close 1 hour after sunset.\u00a0",
+   "feeDescription": "Sutro Baths and Sutro Heights Park is free and open to the public.\u00a0",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "false",
+   "activities": [
+    {
+     "id": "BFF8C027-7C8F-480B-A5F8-CD8CE490BFBA",
+     "name": "Hiking"
+    }
+   ],
+   "activityDescription": "Hike around Sutro Baths and explore Sutro Heights park located in Lands End.\u00a0<br /> <br /> Explore the natural resources of the area. Between June and September, the golden-yellow, button-shaped flowers of the dune tansy (<em>Tanacetum camphoratum</em>) brighten the cliffs around Sutro Baths. Even prettier than its blossoms are this native plant's delicate, feathery leaves, which are thick with soft silvery hairs. People once made an herbal remedy of tansy tea to cure colds, expel worms, treat hysteria, strengthen the kidneys, and ease other ailments.<br /> <br /> Learn about Lands End and the Sutro Historic District and how it historically provided outdoor recreational fun for San Francisco. In 1881, Adolph Sutro purchased the undeveloped land and over time, he established a private rail road company, the Sutro Gardens, Sutro Baths and extensively expanded the 1869 Cliff House.",
+   "locationDescription": "Explore the ruins of the infamous Sutro Baths here at the edge of the city.\u00a0<br /> <br /> Located at the westernmost point of Lands End, the Sutro Historic District encompasses Sutro Heights, the Sutro Bath ruins and the historic Cliff House.\u00a0Meander up to the Sutro Baths site and imagine a three-acre glass bathhouse rising up from the ruins.<br /> <br /> Cross Point Lobos Avenue and stroll the ghostly green vale of Sutro Heights Park.<br /> <br /> Make sure to bring your binoculars or camera for views of the local marine mammals and for birdwatching!\u00a0",
+   "doFeesApply": "false",
+   "longDescription": "Explore the ruins of the <a href=\"https://www.nps.gov/goga/planyourvisit/sutro.htm\">Sutro Baths and Sutro Heights Park</a>.\u00a0<br /> <br /> Learn about Adolph Sutro and his influence on San Francisco and Land's End while taking in the breathtaking views of the Pacific Ocean.\u00a0",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "69693007-2DF2-4EDE-BB3B-A25EBA72BDF5",
+     "name": "Architecture and Building"
+    },
+    {
+     "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+     "name": "Scenic Views"
+    },
+    {
+     "id": "86525CF5-EB56-41A6-90BF-566C6C0FC945",
+     "name": "Trains and Railroads"
+    },
+    {
+     "id": "846E5C56-E5AC-489C-B3BF-11F4C73F12C2",
+     "name": "Urban America"
+    }
+   ],
+   "durationDescription": "This activity can span from less than an hour to as long as you want, depending on how far you decide to explore!",
+   "arePetsPermitted": "true",
+   "timeOfDay": [
+    "Day",
+    "Dawn",
+    "Dusk"
+   ],
+   "duration": "1-3 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "731EB52F-F00F-42DE-915C-15A49249FD44",
+   "url": "https://www.nps.gov/thingstodo/hike-the-main-trail-at-muir-woods.htm",
+   "title": "Hike the Main Trail at Muir Woods",
+   "shortDescription": "Visit the historic, infamous redwood forest at Muir Woods!",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/B19FEC97-94B8-EE6A-7C2759241BAB57A5.jpg",
+     "credit": "John Costner",
+     "altText": "Looking down the established wooden boardwalk of the trail, surrounded on either side by redwoods",
+     "title": "Muir Woods Main Trail",
+     "description": "",
+     "caption": "Muir Woods Main Trail",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/B19FEC97-94B8-EE6A-7C2759241BAB57A5.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/B19FEC97-94B8-EE6A-7C2759241BAB57A5.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    },
+    {
+     "states": "CA",
+     "parkCode": "muwo",
+     "designation": "National Monument",
+     "fullName": "Muir Woods National Monument",
+     "url": "https://www.nps.gov/muwo/index.htm",
+     "name": "Muir Woods"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "Muir Woods",
+    "GGNRA",
+    "trail",
+    "hiking"
+   ],
+   "latitude": "37.89270521216732",
+   "longitude": "-122.57235064287106",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Muir Woods Main Trail",
+   "seasonDescription": "",
+   "accessibilityInformation": "<b>Muir Woods Main Trail Overview</b><br /> Distance: 2.0 mi (3.2 km)<br /> Elevation Gain: 30 ft<br /> Time: 2 hours<br /> Trailhead: Muir Woods Visitor Center<br /> Slope: Avg 2% Max 19%<br /> Side Slope: Avg 2% Max 19%<br /> Width: Avg 37\" Min 48\"<br /> Trail Surface: Firm<br /> <br /> <b>Safety</b><br /> Stay on the established trail. Keep an eye out for poison oak.<br /> Dress in layers and be prepared for varying weather conditions. Sunny days along the coast can turn windy, foggy, and cold very fast.<br /> <br /> <b>Parking</b><br /> There is trailhead parking at Muir Woods including 8 ADA accessible spots. Parking at Muir Woods requires a reservation.<br /> <br /> <b>Bathrooms</b><br /> Accessible restrooms can be found adjacent to the Muir Woods entrance plaza and behind the Cafe and Giftshop.<br /> <br /> <b>Water</b><br /> Drinking water may be found adjacent to the Muir Woods entrance plaza, behind the Cafe and Giftshop, and along the trail at the Fern Creek trail junction. Avoid becoming dehydrated or experiencing heat exhaustion. Drink plenty and drink often; pace yourself; rest in the shade; and eat salty snacks.",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "The Main Trail is closed to dogs. Please remain on the established trails. Off-trail travel harms plants and causes erosion.",
+   "timeOfDayDescription": "<a href=\"https://www.nps.gov/muwo/index.htm\">Muir Woods National Monument</a> is open generally from 8am to 5pm. Please check the parks website/location for more details. Due to ocal and state health regulations, these hours may vary.\u00a0",
+   "feeDescription": "This trail is part of Muir Woods National Monument and requires an entrance fee.\u00a0",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "false",
+   "activities": [
+    {
+     "id": "BFF8C027-7C8F-480B-A5F8-CD8CE490BFBA",
+     "name": "Hiking"
+    }
+   ],
+   "activityDescription": "Walk along the established trail and boardwalk through the majestic Muir Woods.\u00a0",
+   "locationDescription": "Muir Woods' main trail begins at the visitor center and follows Redwood Creek on both sides of the stream. Large redwood trees line this trail from the very beginning. Though a level, easy stroll, the walk can be shortened by crossing at the second or third bridge to return. The path consists of firm surfaces, a mixture of wooden boardwalk, asphalt paving, and packed native soil.",
+   "doFeesApply": "true",
+   "longDescription": "Muir Woods' main trail begins at the visitor center and follows Redwood Creek on both sides of the stream. Large redwood trees line this trail from the very beginning. Though a level, easy stroll, the walk can be shortened by crossing at the second or third bridge to return. The path consists of firm surfaces, a mixture of wooden boardwalk, asphalt paving, and packed native soil.<br /> <br /> \u00a0",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "0D00073E-18C3-46E5-8727-2F87B112DDC6",
+     "name": "Animals"
+    },
+    {
+     "id": "4DC11D06-00F1-4A01-81D0-89CCCCE4FF50",
+     "name": "Climate Change"
+    },
+    {
+     "id": "41B1A0A3-11FF-4F55-9CB9-034A7E28B087",
+     "name": "Forests and Woodlands"
+    },
+    {
+     "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+     "name": "Scenic Views"
+    },
+    {
+     "id": "5BE55D7F-BDB6-4E3D-AC35-2D8EBB974417",
+     "name": "Trails"
+    }
+   ],
+   "durationDescription": "Depending on where you turn around, this trail's length can be 0.5 miles to 2 miles or more.",
+   "arePetsPermitted": "false",
+   "timeOfDay": [
+    "Day"
+   ],
+   "duration": "1-2 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  }
+ ]
+}

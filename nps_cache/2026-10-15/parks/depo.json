@@ -1,0 +1,294 @@
+{
+ "_meta": {
+  "endpoint": "parks",
+  "park_code": "depo",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 1,
+  "fetched_at": "2026-10-15T18:18:49"
+ },
+ "data": [
+  {
+   "id": "2DC9444C-880F-4738-BA1F-6FB123935A02",
+   "url": "https://www.nps.gov/depo/index.htm",
+   "fullName": "Devils Postpile National Monument",
+   "parkCode": "depo",
+   "description": "Established in 1911 by presidential proclamation, Devils Postpile National Monument protects and preserves the Devils Postpile formation, the 101-foot high Rainbow Falls, and pristine mountain scenery. The formation is a rare sight in the geologic world and ranks as one of the world's finest examples of columnar basalt. Its' columns tower up to 60 feet and display a striking symmetry.",
+   "latitude": "37.6152564",
+   "longitude": "-119.0873903",
+   "latLong": "lat:37.6152564, long:-119.0873903",
+   "pressEmail": "pwr_public_affairs@nps.gov",
+   "superintendentName": "",
+   "activities": [
+    {
+     "id": "13A57703-BB1A-41A2-94B8-53B692EB7238",
+     "name": "Astronomy"
+    },
+    {
+     "id": "D37A0003-8317-4F04-8FB0-4CF0A272E195",
+     "name": "Stargazing"
+    },
+    {
+     "id": "7CE6E935-F839-4FEC-A63E-052B1DEF39D2",
+     "name": "Biking"
+    },
+    {
+     "id": "8D778629-F603-4C50-A121-6F4BB2FE2C4B",
+     "name": "Road Biking"
+    },
+    {
+     "id": "A59947B7-3376-49B4-AD02-C0423E08C5F7",
+     "name": "Camping"
+    },
+    {
+     "id": "9159DF0F-951D-4AAE-9987-CEB3CE2A9ADA",
+     "name": "Car or Front Country Camping"
+    },
+    {
+     "id": "AE42B46C-E4B7-4889-A122-08FE180371AE",
+     "name": "Fishing"
+    },
+    {
+     "id": "BFF8C027-7C8F-480B-A5F8-CD8CE490BFBA",
+     "name": "Hiking"
+    },
+    {
+     "id": "45261C0A-00D8-4C27-A1F8-029F933A0D34",
+     "name": "Front-Country Hiking"
+    },
+    {
+     "id": "0307955A-B65C-4CE4-A780-EB36BAAADF0B",
+     "name": "Horse Trekking"
+    },
+    {
+     "id": "1886DA47-0AEC-4568-B9C2-8E9BC316AAAC",
+     "name": "Horseback Riding"
+    },
+    {
+     "id": "DF4A35E0-7983-4A3E-BC47-F37B872B0F25",
+     "name": "Junior Ranger Program"
+    },
+    {
+     "id": "0B685688-3405-4E2A-ABBA-E3069492EC50",
+     "name": "Wildlife Watching"
+    }
+   ],
+   "topics": [
+    {
+     "id": "0D00073E-18C3-46E5-8727-2F87B112DDC6",
+     "name": "Animals"
+    },
+    {
+     "id": "4DC11D06-00F1-4A01-81D0-89CCCCE4FF50",
+     "name": "Climate Change"
+    },
+    {
+     "id": "04A39AB8-DD02-432F-AE5F-BA1267D41A0D",
+     "name": "Fire"
+    },
+    {
+     "id": "41B1A0A3-11FF-4F55-9CB9-034A7E28B087",
+     "name": "Forests and Woodlands"
+    },
+    {
+     "id": "762170E5-0747-4836-B837-7F2547D3F733",
+     "name": "Coniferous Forests"
+    },
+    {
+     "id": "F0F97E32-2F29-41B4-AF98-9FBE8DAB36B1",
+     "name": "Geology"
+    },
+    {
+     "id": "4BE01DC5-52E6-4F18-8C9A-B22D65965F6D",
+     "name": "Groundwater"
+    },
+    {
+     "id": "0E1A04CC-EB51-4F18-93D4-EC0B0B4EC1E3",
+     "name": "Freshwater Springs"
+    },
+    {
+     "id": "101F4D51-F99D-45A6-BBB6-CD481E5FACED",
+     "name": "Mountains"
+    },
+    {
+     "id": "F8C2FE93-DEB3-4B12-9A87-913E3E6B448D",
+     "name": "Natural Sounds"
+    },
+    {
+     "id": "A7359FC4-DAD8-45F5-AF15-7FF62F816ED3",
+     "name": "Night Sky"
+    },
+    {
+     "id": "E06F3C94-AC8A-4B1C-A247-8EBA8910D5EE",
+     "name": "Astronomy"
+    },
+    {
+     "id": "A155238F-0DD2-4610-9B87-05FCE1C59283",
+     "name": "River and Riparian"
+    },
+    {
+     "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+     "name": "Scenic Views"
+    },
+    {
+     "id": "5BE55D7F-BDB6-4E3D-AC35-2D8EBB974417",
+     "name": "Trails"
+    },
+    {
+     "id": "90F8744F-CD10-4925-955C-064CB1A17EB0",
+     "name": "Volcanoes"
+    },
+    {
+     "id": "BA12B386-49EA-46B0-9121-FCACACC47538",
+     "name": "Watersheds"
+    },
+    {
+     "id": "5ED826E0-76BB-47BB-87DD-E081A72B0A04",
+     "name": "Waterfalls"
+    },
+    {
+     "id": "1365C347-952C-475A-B755-731DD523C195",
+     "name": "Wetlands"
+    },
+    {
+     "id": "FD0BA21A-5F69-4688-9D4B-856DA242DC78",
+     "name": "Marshes"
+    },
+    {
+     "id": "86C6DC89-D311-44F8-A5BC-35F9FDC4AF1C",
+     "name": "Swamps"
+    },
+    {
+     "id": "B85866E2-0897-4000-9040-605CA335804F",
+     "name": "Wilderness"
+    }
+   ],
+   "states": "CA",
+   "contacts": {
+    "phoneNumbers": [
+     {
+      "phoneNumber": "7609342289",
+      "description": "",
+      "extension": "",
+      "type": "Voice"
+     }
+    ],
+    "emailAddresses": [
+     {
+      "description": "",
+      "emailAddress": "depo_visitor_information@nps.gov"
+     }
+    ]
+   },
+   "entranceFees": [],
+   "entrancePasses": [],
+   "fees": [],
+   "directionsInfo": "Shuttle Bus: Most visitors must park at the Mammoth Mountain Ski Area and use the mandatory shuttle. The shuttle bus operates from mid-June through the Wednesday after Labor Day. By car: From U.S. Highway 395, drive 10 miles west on S.R. 203 to Minaret Vista and then another 8 miles on a paved, steep mountain road. Please note that this road is single lane for approximately 3 miles. By plane: The closest commercial airport is the Mammoth Lakes/Yosemite Airport (MMH), located on U.S. Highway 395.",
+   "directionsUrl": "http://www.nps.gov/depo/planyourvisit/directions.htm",
+   "operatingHours": [
+    {
+     "exceptions": [
+      {
+       "exceptionHours": {
+        "wednesday": "Closed",
+        "monday": "Closed",
+        "thursday": "Closed",
+        "sunday": "Closes at 11:00PM",
+        "tuesday": "Closed",
+        "friday": "Closed",
+        "saturday": "7:00AM - 11:59PM"
+       },
+       "startDate": "2026-09-14",
+       "name": "Roadwork",
+       "endDate": "2026-10-31"
+      },
+      {
+       "exceptionHours": {
+        "wednesday": "Sunrise to Sunset",
+        "monday": "Sunrise to Sunset",
+        "thursday": "Sunrise to Sunset",
+        "sunday": "Sunrise to Sunset",
+        "tuesday": "Sunrise to Sunset",
+        "friday": "Sunrise to Sunset",
+        "saturday": "Sunrise to Sunset"
+       },
+       "startDate": "2026-10-16",
+       "name": "October No Overnight Parking",
+       "endDate": "2026-10-31"
+      }
+     ],
+     "description": "In the operating season, Devils Postpile National Monument is open 24 hours a day, 7 days a week. \n\nThe Monument usually opens in mid-June. By mid to late October, early winter storms in the High Sierra typically begin to bring snow to the area.",
+     "standardHours": {
+      "wednesday": "All Day",
+      "monday": "All Day",
+      "thursday": "All Day",
+      "sunday": "All Day",
+      "tuesday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day"
+     },
+     "name": "Devils Postpile National Monument"
+    }
+   ],
+   "addresses": [
+    {
+     "postalCode": "93546",
+     "city": "Mammoth Lakes",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Devils Postpile Access Road",
+     "type": "Physical",
+     "line3": "",
+     "line2": ""
+    },
+    {
+     "postalCode": "93546",
+     "city": "Mammoth Lakes",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "PO Box 3999",
+     "type": "Mailing",
+     "line3": "",
+     "line2": ""
+    }
+   ],
+   "images": [
+    {
+     "credit": "NPS Photo",
+     "title": "Devils  Postpile Formation",
+     "altText": "The Devils Postpile basalt formation resembles tall columns.",
+     "caption": "Devils Postpile formation is one of many features to see at Devils Postpile National Monument.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C7D873E-1DD8-B71B-0BF8E731254A9D7E.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "title": "Hexagonal Fractures at the top of Devils Postpile",
+     "altText": "Hexagonal fractures that make up the columns at the postpile with glacial polish",
+     "caption": "Part of the popular loop trail will take you to this unique geologic formation.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/F9B64475-9206-D59D-8C35DD3725F2A20C.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "title": "Rainbow Falls",
+     "altText": "Waterfall with faint rainbow",
+     "caption": "Rainbow Falls",
+     "url": "https://www.nps.gov/common/uploads/structured_data/F9CDDB94-F7AD-10EA-CBD1553A0E90404B.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "title": "Soda Springs Meadow and San Joaquin River",
+     "altText": "Soda Springs Meadow and San Joaquin River",
+     "caption": "Soda Springs Meadow and San Joaquin River",
+     "url": "https://www.nps.gov/common/uploads/structured_data/FC50E2C7-ED14-4AB8-CC83A5AF15EE344D.jpg"
+    }
+   ],
+   "weatherInfo": "Devils Postpile National Monument is located at 7,560 feet above sea level just west of the Sierra Nevada crest. As such, it experiences typical summer weather in the Sierras. Afternoon thunderstorms are possible in July and August. Daytime temperatures can range from the mid-70s to to mid-80s (degrees Fahrenheit). Evening temperatures can drop into the low 40s (and even the low 30s in the months of September and October).",
+   "name": "Devils Postpile",
+   "designation": "National Monument",
+   "multimedia": [],
+   "relevanceScore": 1.0
+  }
+ ]
+}

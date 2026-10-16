@@ -1,0 +1,41 @@
+{
+ "_meta": {
+  "endpoint": "feespasses",
+  "park_code": "redw",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 1,
+  "fetched_at": "2026-10-15T18:18:45"
+ },
+ "data": [
+  {
+   "parkCode": "redw",
+   "isFeeFreePark": true,
+   "isInteragencyPassAccepted": true,
+   "cashless": "Depends on Location",
+   "feesAtWorkUrl": "",
+   "entranceFeeDescription": "There are no entrance fees to drive the scenic roads or highways in our three state parks and national park. Some day-use areas have fees; these accept interagency and CA state park passes.",
+   "entrancePassDescription": "",
+   "isParkingFeePossible": false,
+   "parkingDetailsUrl": "",
+   "timedEntryHeading": "",
+   "timedEntryDescription": "",
+   "isParkingOrTransportationFeePossible": false,
+   "paidParkingHeading": "",
+   "paidParkingDescription": "",
+   "customFeeHeading": "",
+   "customFeeDescription": "",
+   "customFeeLinkUrl": "",
+   "customFeeLinkText": "",
+   "contentOrderOrdinals": {
+    "entranceFee": 1,
+    "timedEntry": 2,
+    "paidParking": 3,
+    "customFee": 4
+   },
+   "relatedMultiSitePasses": [],
+   "fees": [],
+   "passes": []
+  }
+ ]
+}

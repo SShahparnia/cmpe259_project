@@ -35,5 +35,8 @@ PRICES_PER_1M = {
 }
 
 TEMPERATURE = 0.0
+# The 5.6 models only accept function tools on /v1/chat/completions with
+# reasoning_effort="none". Use it for every config so A, B and C stay comparable.
+REASONING_EFFORT = "none"
 MAX_STEPS = 5              # max model calls per query in the tool loop
 MAX_TOOL_CHARS = 20000     # hard cap on one tool result sent to the model

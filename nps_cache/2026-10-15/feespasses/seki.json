@@ -1,0 +1,256 @@
+{
+ "_meta": {
+  "endpoint": "feespasses",
+  "park_code": "seki",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 1,
+  "fetched_at": "2026-10-15T18:18:40"
+ },
+ "data": [
+  {
+   "parkCode": "seki",
+   "isFeeFreePark": false,
+   "isInteragencyPassAccepted": true,
+   "cashless": "Yes",
+   "feesAtWorkUrl": "https://www.nps.gov/seki/learn/management/your-fee-dollars-at-work.htm",
+   "entranceFeeDescription": "Reservations are not accepted or required. Most credit cards, debit cards, and digital forms of payment are accepted including Discover, Mastercard, Visa, American Express, Apple Pay, Samsung Pay, and Google Pay, among others. The entrance fee amount varies depending on how a visitor arrives at the park, and whether they are part of a commercial tour group or not. Advance purchasing of entrance fees for Commercial Vehicles of all sizes is not available.",
+   "entrancePassDescription": "",
+   "isParkingFeePossible": false,
+   "parkingDetailsUrl": "",
+   "timedEntryHeading": "",
+   "timedEntryDescription": "",
+   "isParkingOrTransportationFeePossible": false,
+   "paidParkingHeading": "",
+   "paidParkingDescription": "",
+   "customFeeHeading": "",
+   "customFeeDescription": "",
+   "customFeeLinkUrl": "",
+   "customFeeLinkText": "",
+   "contentOrderOrdinals": {
+    "entranceFee": 1,
+    "timedEntry": 2,
+    "paidParking": 3,
+    "customFee": 4
+   },
+   "relatedMultiSitePasses": [],
+   "fees": [
+    {
+     "entranceFeeType": "Entrance - Private Vehicle",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "Most credit cards, debit cards, and digital forms of payment are accepted including Discover, Mastercard, Visa, American Express, Apple Pay, Samsung Pay, and Google Pay, among others.",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/72471",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "December 14, 2025 --  Annual Trek to the Nation's Christmas Tree",
+     "payGovPurchaseUrl": "",
+     "cost": "35.00",
+     "timedEntryShortDescription": "",
+     "description": "This pass is valid for 1-7 days and includes everyone traveling in a single vehicle for Sequoia & Kings Canyon National Parks and Hume Lake District of Sequoia National Forest/Giant Sequoia National Monument.",
+     "informationUrl": "",
+     "id": "0224B504-30C8-4A51-88EB-BFAF4A34AC3C",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Entrance - Per Person",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "Most credit cards, debit cards, and digital forms of payment are accepted including Discover, Mastercard, Visa, American Express, Apple Pay, Samsung Pay, and Google Pay, among others.",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "December 14, 2025 -- Annual Trek to the Nation's Christmas Tree",
+     "payGovPurchaseUrl": "",
+     "cost": "20.00",
+     "timedEntryShortDescription": "",
+     "description": "This entry fee is for a single person traveling on foot or by bicycle. It is valid for 1-7 days in Sequoia & Kings Canyon National Parks and Hume Lake District of Sequoia National Forest/Giant Sequoia National Monument.",
+     "informationUrl": "",
+     "id": "E2D2660F-3F49-4927-A985-289C84A1AE6E",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Entrance - Motorcycle",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "Most credit cards, debit cards, and digital forms of payment are accepted including Discover, Mastercard, Visa, American Express, Apple Pay, Samsung Pay, and Google Pay, among others.",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/72471",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "30.00",
+     "timedEntryShortDescription": "",
+     "description": "Valid for 7 days. Admits up to 2 private, non-commercial motorcycles, scooters, or similar motorized vehicles with up to 4 total passengers to Sequoia & Kings Canyon National Parks and Hume Lake District of Sequoia National Forest/Giant Sequoia National Monument.",
+     "informationUrl": "",
+     "id": "3F11D87F-2C9B-47C7-8F7A-4D38D3A10E64",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Entrance - Non-commercial Groups",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "Most credit cards, debit cards, and digital forms of payment are accepted including Discover, Mastercard, Visa, American Express, Apple Pay, Samsung Pay, and Google Pay, among others.",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "December 14, 2025 -- Annual Trek to the Nation's Christmas Tree",
+     "payGovPurchaseUrl": "",
+     "cost": "20.00",
+     "timedEntryShortDescription": "",
+     "description": "Non-commercial groups traveling in vehicles that have a capacity of up to 15 passengers pay a $35 vehicle entrance fee or use a park pass. Groups traveling in a bus or vehicle with a capacity of 16 persons or more are charged $20 per person, up to the maximums listed for commercial groups with comparable passenger capacity ($100 or $200). People 15 years old or younger, anyone with a pass that may be used for park entry, and drivers hired for transportation only are exempt from the per person fee.",
+     "informationUrl": "",
+     "id": "14CF5CC8-26BE-4058-9496-9033F1D0D680",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Commercial Entrance - Mini-bus",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "Most credit cards, debit cards, and digital forms of payment are accepted including Discover, Mastercard, Visa, American Express, Apple Pay, Samsung Pay, and Google Pay, among others.",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "December 14, 2025 -- Annual Trek to the Nation's Christmas Tree",
+     "payGovPurchaseUrl": "",
+     "cost": "100.00",
+     "timedEntryShortDescription": "",
+     "description": "This entrance fee is for commercial tours of vehicles with a seating capacity of 16-25 people that has been packaged, priced, or sold for leisure or recreational purposes by an organization that realizes financial gain through the provision of the service. This fee is based on the seating capacity of the vehicle and not the actual number of passengers. Passenger ages or entrance passes do not affect the price.",
+     "informationUrl": "",
+     "id": "0FB4033A-6F44-46D7-8A5A-293FDD6A5CA5",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Commercial Entrance - Motor Coach",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "Most credit cards, debit cards, and digital forms of payment are accepted including Discover, Mastercard, Visa, American Express, Apple Pay, Samsung Pay, and Google Pay, among others.",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "December 14, 2025 -- Annual Trek to the Nation's Christmas Tree",
+     "payGovPurchaseUrl": "",
+     "cost": "200.00",
+     "timedEntryShortDescription": "",
+     "description": "This entrance fee is for commercial tours of vehicles with a seating capacity of 26 or more people that has been packaged, priced, or sold for leisure or recreational purposes by an organization that realizes financial gain through the provision of the service. This fee is based on the seating capacity of the vehicle and not the actual number of passengers. Passenger ages or entrance passes do not affect the price.",
+     "informationUrl": "",
+     "id": "C3A31AA3-5865-4C77-BF48-5A250D1F14C9",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Commercial Entrance - Per Person",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "Most credit cards, debit cards, and digital forms of payment are accepted including Discover, Mastercard, Visa, American Express, Apple Pay, Samsung Pay, and Google Pay, among others.",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "December 14, 2025 -- Annual Trek to the Nation's Christmas Tree",
+     "payGovPurchaseUrl": "",
+     "cost": "20.00",
+     "timedEntryShortDescription": "",
+     "description": "The fee is $20 per person for any resident 16 years or older. For any nonresident the fee is $100 per person for anyone 16 years or older. This fee is valid for seven consecutive days.",
+     "informationUrl": "",
+     "id": "090CB0E3-C1E7-443B-A666-56B93E0F392F",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Nonresident",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "100.00",
+     "timedEntryShortDescription": "",
+     "description": "Each non-US resident aged 16 and older visiting Sequoia & Kings Canyon National Parks must pay a $100 nonresident fee (in addition to the standard entrance fee), unless admitted with an Annual or America the Beautiful Pass. This includes nonresidents entering as part of a commercial tour group, commercial use authorization (CUA) group, or concessioner tour group.",
+     "informationUrl": "",
+     "id": "112F400D-FBA5-4C12-B8EF-F77E309FCDC3",
+     "npsGovPurchaseUrl": ""
+    }
+   ],
+   "passes": [
+    {
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "70.00",
+     "image": [
+      {
+       "credit": "NPS Photo / Silas Pelkey",
+       "title": "Sequoia and Kings Canyon National Parks Annual Pass",
+       "altText": "A card with black border featuring text and an image of a mountain reflected in an alpine lake.",
+       "caption": "Each calendar year the Sequoia and Kings Canyon Annual Pass features an image taken by park staff.",
+       "url": "https://www.nps.gov/common/uploads/entrance_pass/34C568BF-9C16-7813-0A970EB3C06C92F3.png"
+      }
+     ],
+     "description": "This pass is valid for Sequoia & Kings Canyon National Parks and Hume Lake Ranger District of Sequoia National Forest/Giant Sequoia National Monument for one year from the month of purchase. The pass admits all passengers in a private vehicle and is non-transferable.",
+     "paymentDescription": "This pass may be purchased with a credit card, debit card, or mobile payment app at a park entrance station or online with a credit card through recreation.gov.  Most credit cards, debit cards, and digital forms of payment are accepted including Discover, Mastercard, Visa, American Express, Apple Pay, Samsung Pay, and Google Pay, among others.",
+     "category": "Annual Entrance - Park",
+     "informationUrl": "",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/72471",
+     "id": "43BA4917-F2C5-4B0D-99FB-B40BF356D2FE",
+     "npsGovPurchaseUrl": ""
+    }
+   ]
+  }
+ ]
+}

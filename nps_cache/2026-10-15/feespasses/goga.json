@@ -1,0 +1,41 @@
+{
+ "_meta": {
+  "endpoint": "feespasses",
+  "park_code": "goga",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 1,
+  "fetched_at": "2026-10-15T18:18:49"
+ },
+ "data": [
+  {
+   "parkCode": "goga",
+   "isFeeFreePark": true,
+   "isInteragencyPassAccepted": true,
+   "cashless": "Depends on Location",
+   "feesAtWorkUrl": "https://www.nps.gov/goga/learn/management/your-fee-dollars-at-work.htm",
+   "entranceFeeDescription": "Golden Gate National Recreation Area does not charge entrance fees except for at Muir Woods National Monument, which has an entrance fee of $15 per person (16 and older). A reservation is required to visit Alcatraz Island. Other fees may be charged at various locations throughout the park.",
+   "entrancePassDescription": "",
+   "isParkingFeePossible": true,
+   "parkingDetailsUrl": "https://www.nps.gov/muwo/planyourvisit/fees.htm",
+   "timedEntryHeading": "",
+   "timedEntryDescription": "",
+   "isParkingOrTransportationFeePossible": true,
+   "paidParkingHeading": "Parking/shuttle reservations are required at Muir Woods",
+   "paidParkingDescription": "Parking/shuttle reservations are required for all vehicles and shuttle riders visiting Muir Woods National Monument. Entrance fees may be purchased in advance with your reservation via GoMuirWoods.com or upon arrival to the park at the visitor center. Entrance fees may also be covered by annual passes. Please note the parking/shuttle reservation fee is still required at Muir Woods on national entrance fee-free days.",
+   "customFeeHeading": "Entrance fees vary",
+   "customFeeDescription": "Golden Gate National Recreation Area does not charge entrance fees except for at Muir Woods National Monument, which has an entrance fee of $15 per person (16 and older). Other fees may be charged at various locations throughout the park.",
+   "customFeeLinkUrl": "https://www.nps.gov/muwo/planyourvisit/fees.htm",
+   "customFeeLinkText": "Fees and Passes at Muir Woods National Monument",
+   "contentOrderOrdinals": {
+    "entranceFee": 2,
+    "timedEntry": 3,
+    "paidParking": 4,
+    "customFee": 1
+   },
+   "relatedMultiSitePasses": [],
+   "fees": [],
+   "passes": []
+  }
+ ]
+}

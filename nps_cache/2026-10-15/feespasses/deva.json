@@ -1,0 +1,256 @@
+{
+ "_meta": {
+  "endpoint": "feespasses",
+  "park_code": "deva",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 1,
+  "fetched_at": "2026-10-15T18:18:42"
+ },
+ "data": [
+  {
+   "parkCode": "deva",
+   "isFeeFreePark": false,
+   "isInteragencyPassAccepted": true,
+   "cashless": "Yes",
+   "feesAtWorkUrl": "",
+   "entranceFeeDescription": "",
+   "entrancePassDescription": "",
+   "isParkingFeePossible": false,
+   "parkingDetailsUrl": "",
+   "timedEntryHeading": "",
+   "timedEntryDescription": "",
+   "isParkingOrTransportationFeePossible": false,
+   "paidParkingHeading": "",
+   "paidParkingDescription": "",
+   "customFeeHeading": "",
+   "customFeeDescription": "",
+   "customFeeLinkUrl": "",
+   "customFeeLinkText": "",
+   "contentOrderOrdinals": {
+    "entranceFee": 1,
+    "timedEntry": 2,
+    "paidParking": 3,
+    "customFee": 4
+   },
+   "relatedMultiSitePasses": [],
+   "fees": [
+    {
+     "entranceFeeType": "Entrance - Private Vehicle",
+     "startDate": {
+      "month": 1,
+      "holiday": "New Year\u2019s Day",
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/74277",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "30.00",
+     "timedEntryShortDescription": "",
+     "description": "All visitors, including Non-US residents, may purchase and utilize this entrance fee. Purchasing this entrance fee allows all persons traveling in one single private, non-commercial vehicle (car/truck/van/RV/aircraft) to leave and re-enter the park as many times as they wish during the 7-day period from the date of purchase.",
+     "informationUrl": "https://www.nps.gov/deva/planyourvisit/fees.htm",
+     "id": "6200B376-0CB5-42D2-AA3B-4E4A2FC70B6A",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Entrance - Motorcycle",
+     "startDate": {
+      "month": 1,
+      "holiday": "New Year\u2019s Day",
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/74277",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "25.00",
+     "timedEntryShortDescription": "",
+     "description": "All visitors, including Non-US residents, may purchase and utilize this entrance fee. Purchasing this entrance fee allows all persons traveling on 2 private, non-commercial motorcycles to leave and re-enter the park as many times as they wish during the 7-day period from the date of purchase.",
+     "informationUrl": "https://www.nps.gov/deva/planyourvisit/fees.htm",
+     "id": "14CD9607-BE66-4A29-A13E-F7E70E30FF87",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Entrance - Per Person",
+     "startDate": {
+      "month": 1,
+      "holiday": "New Year\u2019s Day",
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "15.00",
+     "timedEntryShortDescription": "",
+     "description": "All visitors, including Non-US residents, may purchase and utilize this entrance fee. Purchasing this entrance fee allows a single individual traveling on foot or individuals traveling on one bicycle to leave and re-enter the park as many times as they wish during the 7-day period from the date of purchase.",
+     "informationUrl": "https://www.nps.gov/deva/planyourvisit/fees.htm",
+     "id": "9F4E3DA4-245E-4CF5-9755-8BEACAC7A687",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Commercial Entrance - Per Person",
+     "startDate": {
+      "month": 1,
+      "holiday": "New Year\u2019s Day",
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "15.00",
+     "timedEntryShortDescription": "",
+     "description": "1 - 15 Passenger Vehicle: $15 per person.\n\nIn addition to the entrance fees listed below, additional permits are required for commercial groups, special park uses (weddings, memorialization, group events, etc.), commercial film and photography, research, and more.",
+     "informationUrl": "https://www.nps.gov/deva/planyourvisit/fees.htm",
+     "id": "C33A172D-54F3-4AE7-8AD7-850F66714B03",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Commercial Entrance - Mini-bus",
+     "startDate": {
+      "month": 1,
+      "holiday": "New Year\u2019s Day",
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "100.00",
+     "timedEntryShortDescription": "",
+     "description": "16 - 25 Passenger Vehicle: $100\n\nIn addition to the entrance fees listed below, additional permits are required for commercial groups, special park uses (weddings, memorialization, group events, etc.), commercial film and photography, research, and more.",
+     "informationUrl": "https://www.nps.gov/deva/planyourvisit/fees.htm",
+     "id": "37B95F9A-8F64-43C1-A4DE-76B70B2B1645",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Commercial Entrance - Motor Coach",
+     "startDate": {
+      "month": 1,
+      "holiday": "New Year\u2019s Day",
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "200.00",
+     "timedEntryShortDescription": "",
+     "description": "26 + Passenger Vehicle: $200\n\nIn addition to the entrance fees listed below, additional permits are required for commercial groups, special park uses (weddings, memorialization, group events, etc.), commercial film and photography, research, and more.",
+     "informationUrl": "https://www.nps.gov/deva/planyourvisit/fees.htm",
+     "id": "88B15183-C8B5-4D9E-AED4-484BC37E2F0C",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Entrance - Non-commercial Groups",
+     "startDate": {
+      "month": 1,
+      "holiday": "New Year\u2019s Day",
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "15.00",
+     "timedEntryShortDescription": "",
+     "description": "Non-commercial Groups (e.g., Scout groups, church groups, etc.) entering in a vehicle with a capacity of 16 persons or more are charged per-person for each person on board, not to exceed $200.",
+     "informationUrl": "https://www.nps.gov/deva/planyourvisit/fees.htm",
+     "id": "2DF10B33-328E-42A0-9A56-31416163194D",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Entrance - Education/Academic Groups",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "0.00",
+     "timedEntryShortDescription": "",
+     "description": "National Park Service regulations allow school groups and other approved national and international academic institutions to obtain a waiver of Park entrance fees, provided that visit is for educational or scientific purposes, and the resources or facilities that the group intends to use, support those purposes. Submit your waiver through the link below at least one month prior to your visit.",
+     "informationUrl": "https://www.nps.gov/deva/learn/education/educational-fee-waivers.htm",
+     "id": "67237359-8198-427B-B4E3-F73CF494C3DB",
+     "npsGovPurchaseUrl": ""
+    }
+   ],
+   "passes": [
+    {
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "55.00",
+     "image": [
+      {
+       "credit": "",
+       "title": "",
+       "altText": "",
+       "caption": "",
+       "url": "https://www.nps.gov/customcf/structured_data/images/add_image.png"
+      }
+     ],
+     "description": "This pass allows all persons traveling with the pass holder in one single private, non-commercial vehicle (car/truck/van) or those on a motorcycle to leave and re-enter the park as many times as they wish for 12 months from the month of purchase.",
+     "paymentDescription": "Credit/Debit Only at all NPS locations",
+     "category": "Annual Entrance - Park",
+     "informationUrl": "https://www.nps.gov/deva/planyourvisit/fees.htm",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/74277",
+     "id": "0D820E5D-FA35-43F1-88FF-9E164604923D",
+     "npsGovPurchaseUrl": ""
+    }
+   ]
+  }
+ ]
+}

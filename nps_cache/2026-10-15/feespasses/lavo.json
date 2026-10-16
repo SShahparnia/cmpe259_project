@@ -1,0 +1,328 @@
+{
+ "_meta": {
+  "endpoint": "feespasses",
+  "park_code": "lavo",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 1,
+  "fetched_at": "2026-10-15T18:18:38"
+ },
+ "data": [
+  {
+   "parkCode": "lavo",
+   "isFeeFreePark": false,
+   "isInteragencyPassAccepted": true,
+   "cashless": "Yes",
+   "feesAtWorkUrl": "https://www.nps.gov/lavo/learn/management/yourdollarsatwork.htm",
+   "entranceFeeDescription": "Lassen Volcanic National Park charges different entrance fees based on mode of transportation and group type, or: how you arrive at the park, and whether you are a part of a commercial tour group.",
+   "entrancePassDescription": "",
+   "isParkingFeePossible": false,
+   "parkingDetailsUrl": "",
+   "timedEntryHeading": "",
+   "timedEntryDescription": "",
+   "isParkingOrTransportationFeePossible": false,
+   "paidParkingHeading": "",
+   "paidParkingDescription": "",
+   "customFeeHeading": "",
+   "customFeeDescription": "",
+   "customFeeLinkUrl": "",
+   "customFeeLinkText": "",
+   "contentOrderOrdinals": {
+    "entranceFee": 1,
+    "timedEntry": 2,
+    "paidParking": 3,
+    "customFee": 4
+   },
+   "relatedMultiSitePasses": [],
+   "fees": [
+    {
+     "entranceFeeType": "Entrance - Private Vehicle",
+     "startDate": {
+      "month": 4,
+      "holiday": null,
+      "day": 16
+     },
+     "paymentDescription": "We recommend purchasing a digital pass via recreation.gov prior to your visit. When purchasing, you must select a start date for 7-day pass. Please have a copy (digital or printed) of your digital pass ready to show at the entrance station and if requested by park staff during your visit.",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/74470",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 11,
+      "holiday": null,
+      "day": 30
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "30.00",
+     "timedEntryShortDescription": "",
+     "description": "Admits one private, non-commercial vehicle. Valid for up to 7 consecutive days from day of purchase at Lassen Volcanic National Park. When entrance station is not staffed, digital passes may be purchased online at recreation.gov.",
+     "informationUrl": "",
+     "id": "AAF3A95A-CAEC-4577-8F7B-64EA6C50AF48",
+     "npsGovPurchaseUrl": "https://www.nps.gov/lavo/planyourvisit/fees.htm"
+    },
+    {
+     "entranceFeeType": "Entrance - Private Vehicle",
+     "startDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "We recommend purchasing a digital pass via recreation.gov prior to your visit. When purchasing, you must select a start date for 7-day pass. Please have a copy (digital or printed) of your digital pass ready to show at the entrance station and if requested by park staff during your visit.",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/74470",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 4,
+      "holiday": null,
+      "day": 15
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "10.00",
+     "timedEntryShortDescription": "",
+     "description": "Discounted entry fee during winter. Admits one private, non-commercial vehicle. Valid for up to 7 consecutive days from day of purchase at Lassen Volcanic National Park. When entrance station is not staffed, digital passes may be purchased online at recreation.gov.",
+     "informationUrl": "",
+     "id": "A4AA1995-171A-4583-8D8F-B6DFCD54FDF5",
+     "npsGovPurchaseUrl": "https://www.nps.gov/lavo/planyourvisit/fees.htm"
+    },
+    {
+     "entranceFeeType": "Entrance - Motorcycle",
+     "startDate": {
+      "month": 4,
+      "holiday": null,
+      "day": 16
+     },
+     "paymentDescription": "We recommend purchasing a digital pass via recreation.gov prior to your visit. When purchasing, you must select a start date for 7-day pass. Please have a copy (digital or printed) of your digital pass ready to show at the entrance station and if requested by park staff during your visit.",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/74470",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 11,
+      "holiday": null,
+      "day": 30
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "25.00",
+     "timedEntryShortDescription": "",
+     "description": "Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers. When entrance station is not staffed, digital passes may be purchased online at recreation.gov.",
+     "informationUrl": "",
+     "id": "24A684E7-0212-4C5D-85A7-43F1B5C56885",
+     "npsGovPurchaseUrl": "https://www.nps.gov/lavo/planyourvisit/fees.htm"
+    },
+    {
+     "entranceFeeType": "Entrance - Per Person",
+     "startDate": {
+      "month": 4,
+      "holiday": null,
+      "day": 16
+     },
+     "paymentDescription": "We recommend purchasing a digital pass via recreation.gov prior to your visit. When purchasing, you must select a start date for 7-day pass. Please have a copy (digital or printed) of your digital pass ready to show at the entrance station and if requested by park staff during your visit.",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/74470",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 11,
+      "holiday": null,
+      "day": 30
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "15.00",
+     "timedEntryShortDescription": "",
+     "description": "Per-person entrance fee used to admit one person on foot or bicycle. Also used for individuals traveling together in a vehicle as a non-commercial, organized group. Valid for up to 7 consecutive days from day of purchase at Lassen Volcanic National Park. When entrance station is not staffed, digital passes may be purchased online at recreation.gov.",
+     "informationUrl": "",
+     "id": "1508986E-10F4-4D21-8458-22762BAC3196",
+     "npsGovPurchaseUrl": "https://www.nps.gov/lavo/planyourvisit/fees.htm"
+    },
+    {
+     "entranceFeeType": "Entrance - Education/Academic Groups",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "Applicants must prove they are a bona fide academic institution, provide a written statement confirming that the visit supports a specific curriculum for which academic credit is offered, and provide a written statement identifying the park resources and/or facilities that will be used to support the educational purpose of the visit, and how they are relevant to that purpose.",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "0.00",
+     "timedEntryShortDescription": "",
+     "description": "Park entrance fees are waived for eligible academic groups with approved fee waiver application. Applications must be submitted at least two weeks prior to park visit.",
+     "informationUrl": "https://www.nps.gov/lavo/planyourvisit/academic-fee-waivers.htm",
+     "id": "8DE46916-169F-4092-A1AD-E6CF1F56A158",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Commercial Entrance - Sedan",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "$25, plus $15 per person (no charge for driver).",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "25.00",
+     "timedEntryShortDescription": "",
+     "description": "Valid for up to 7 consecutive days for a vehicle carrying the same group of passengers. A commercial tour is defined as consisting of one or more persons traveling on an itinerary that has been packaged, priced, or sold for leisure or recreational purposes by an organization that realizes financial gain through the provision of the service. The entry fees are based upon the total seating capacity of vehicles regardless of the actual number of passengers. Annual or lifetime passes are not accepted.",
+     "informationUrl": "",
+     "id": "94F7D440-D656-4179-BD04-13D175BFE950",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Commercial Entrance - Van",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "50.00",
+     "timedEntryShortDescription": "",
+     "description": "Valid for up to 7 consecutive days for a vehicle carrying the same group of passengers. A commercial tour is defined as consisting of one or more persons traveling on an itinerary that has been packaged, priced, or sold for leisure or recreational purposes by an organization that realizes financial gain through the provision of the service. The entry fees are based upon the total seating capacity of vehicles regardless of the actual number of passengers. Annual or lifetime passes are not accepted.",
+     "informationUrl": "",
+     "id": "C3B1A130-7713-493C-A128-388AD1F746E9",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Commercial Entrance - Mini-bus",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 30
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "60.00",
+     "timedEntryShortDescription": "",
+     "description": "Valid for up to 7 consecutive days for a vehicle carrying the same group of passengers. A commercial tour is defined as consisting of one or more persons traveling on an itinerary that has been packaged, priced, or sold for leisure or recreational purposes by an organization that realizes financial gain through the provision of the service. The entry fees are based upon the total seating capacity of vehicles regardless of the actual number of passengers. Annual or lifetime passes are not accepted.",
+     "informationUrl": "",
+     "id": "9B09502F-9F98-4AA9-BFA3-3A38B6A5C787",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Commercial Entrance - Motor Coach",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "150.00",
+     "timedEntryShortDescription": "",
+     "description": "Valid for up to 7 consecutive days for a vehicle carrying the same group of passengers. A commercial tour is defined as consisting of one or more persons traveling on an itinerary that has been packaged, priced, or sold for leisure or recreational purposes by an organization that realizes financial gain through the provision of the service. The entry fees are based upon the total seating capacity of vehicles regardless of the actual number of passengers. Annual or lifetime passes are not accepted.",
+     "informationUrl": "",
+     "id": "E954212B-7E42-4696-8A93-62A78AAEBCCB",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Entrance - Motorcycle",
+     "startDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "We recommend purchasing a digital pass via recreation.gov prior to your visit. When purchasing, you must select a start date for 7-day pass. Please have a copy (digital or printed) of your digital pass ready to show at the entrance station and if requested by park staff during your visit.",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/74470",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 4,
+      "holiday": null,
+      "day": 15
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "10.00",
+     "timedEntryShortDescription": "",
+     "description": "Discounted entry fee for winter. Admits one private, non-commercial motorcycle and its riders. Valid for up to 7 consecutive days from day of purchase at Lassen Volcanic National Park. When entrance station is not staffed, digital passes may be purchased online at recreation.gov.",
+     "informationUrl": "",
+     "id": "B2730F22-9ECD-4B4B-8339-D8DB1D38F680",
+     "npsGovPurchaseUrl": "https://www.nps.gov/lavo/planyourvisit/fees.htm"
+    },
+    {
+     "entranceFeeType": "Entrance - Per Person",
+     "startDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "We recommend purchasing a digital pass via recreation.gov prior to your visit. When purchasing, you must select a start date for 7-day pass. Please have a copy (digital or printed) of your digital pass ready to show at the entrance station and if requested by park staff during your visit.",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/74470",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 4,
+      "holiday": null,
+      "day": 15
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "10.00",
+     "timedEntryShortDescription": "",
+     "description": "Discounted entry fee for winter. Per-person entrance fee used to admit one person on foot or bicycle. Also used for individuals traveling together in a vehicle as a non-commercial, organized group. Valid for up to 7 consecutive days from day of purchase at Lassen Volcanic National Park. When entrance station is not staffed, digital passes may be purchased online at recreation.gov.",
+     "informationUrl": "",
+     "id": "A462AD14-0C15-4D1B-A161-16BEF0291349",
+     "npsGovPurchaseUrl": "https://www.nps.gov/lavo/planyourvisit/fees.htm"
+    }
+   ],
+   "passes": [
+    {
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "55.00",
+     "image": [
+      {
+       "credit": "NPS photo",
+       "title": "Lassen Peak and Painted Dunes",
+       "altText": "a snowy mountain peak looms over multi-colored sandy dunes",
+       "caption": "Lassen's annual park pass also grants entrance to Crater Lake National Park, Whiskeytown National Recreation Area, and Lava Beds National Monument.",
+       "url": "https://www.nps.gov/common/uploads/entrance_pass/88FAFFCF-AFD0-E89C-23488DCD376E8DFF.jpg"
+      }
+     ],
+     "description": "This multi-park annual pass is valid for one year from month of purchase at four NPS units: Lassen Volcanic \n and Crater Lake national parks, Whiskeytown National Recreation Area, and Lava Beds National Monument. This pass admits one vehicle and all occupants or one motorcycle and riders or the pass holder and 3 others on bicycle and foot.",
+     "paymentDescription": "We recommend purchasing a Lassen Volcanic 7-Day Entrance or Annual Pass online prior to your visit.\nA printed copy of a digital Lassen Volcanic Annual Multi-Park Pass may be exchanged for a plastic pass at staffed entrance station.",
+     "category": "Annual Entrance - Park",
+     "informationUrl": "",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/74470",
+     "id": "8414036C-A80C-45A6-8E6D-B69D8CAC3237",
+     "npsGovPurchaseUrl": ""
+    }
+   ]
+  }
+ ]
+}

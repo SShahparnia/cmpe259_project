@@ -1,0 +1,287 @@
+{
+ "_meta": {
+  "endpoint": "parks",
+  "park_code": "muwo",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 1,
+  "fetched_at": "2026-10-15T18:18:35"
+ },
+ "data": [
+  {
+   "id": "126A6227-E39F-44F4-A279-B1EA257CBCDA",
+   "url": "https://www.nps.gov/muwo/index.htm",
+   "fullName": "Muir Woods National Monument",
+   "parkCode": "muwo",
+   "description": "Walk among old growth coast redwoods, cooling their roots in the fresh water of Redwood Creek and lifting their crowns to reach the sun and fog. Federally protected as a National Monument since 1908, this primeval forest is both refuge and laboratory, revealing our relationship with the living landscape. What will you discover in Muir Woods?",
+   "latitude": "37.89658027",
+   "longitude": "-122.5808047",
+   "latLong": "lat:37.89658027, long:-122.5808047",
+   "pressEmail": "pwr_public_affairs@nps.gov",
+   "superintendentName": "",
+   "activities": [
+    {
+     "id": "1DFACD97-1B9C-4F5A-80F2-05593604799E",
+     "name": "Food"
+    },
+    {
+     "id": "E53E1320-9B17-41DC-86A5-37EB7D622572",
+     "name": "Dining"
+    },
+    {
+     "id": "B33DC9B6-0B7D-4322-BAD7-A13A34C584A3",
+     "name": "Guided Tours"
+    },
+    {
+     "id": "BFF8C027-7C8F-480B-A5F8-CD8CE490BFBA",
+     "name": "Hiking"
+    },
+    {
+     "id": "DF4A35E0-7983-4A3E-BC47-F37B872B0F25",
+     "name": "Junior Ranger Program"
+    },
+    {
+     "id": "0B685688-3405-4E2A-ABBA-E3069492EC50",
+     "name": "Wildlife Watching"
+    },
+    {
+     "id": "5A2C91D1-50EC-4B24-8BED-A2E11A1892DF",
+     "name": "Birdwatching"
+    },
+    {
+     "id": "24380E3F-AD9D-4E38-BF13-C8EEB21893E7",
+     "name": "Shopping"
+    },
+    {
+     "id": "467DC8B8-0B7D-436D-A026-80A22358F615",
+     "name": "Bookstore and Park Store"
+    }
+   ],
+   "topics": [
+    {
+     "id": "0D00073E-18C3-46E5-8727-2F87B112DDC6",
+     "name": "Animals"
+    },
+    {
+     "id": "957EF2BD-AC6C-4B7B-BD9A-87593ADC6691",
+     "name": "Birds"
+    },
+    {
+     "id": "1608649A-E7D7-4529-BD83-074C90F9FB68",
+     "name": "Fish"
+    },
+    {
+     "id": "41B1A0A3-11FF-4F55-9CB9-034A7E28B087",
+     "name": "Forests and Woodlands"
+    },
+    {
+     "id": "762170E5-0747-4836-B837-7F2547D3F733",
+     "name": "Coniferous Forests"
+    },
+    {
+     "id": "A155238F-0DD2-4610-9B87-05FCE1C59283",
+     "name": "River and Riparian"
+    },
+    {
+     "id": "5BE55D7F-BDB6-4E3D-AC35-2D8EBB974417",
+     "name": "Trails"
+    },
+    {
+     "id": "78E4F4AC-AF97-435A-8C2C-7FB8D67516ED",
+     "name": "Unique Species"
+    },
+    {
+     "id": "489D6333-FD72-44DF-83B0-3D4412DD0A75",
+     "name": "Endangered"
+    }
+   ],
+   "states": "CA",
+   "contacts": {
+    "phoneNumbers": [
+     {
+      "phoneNumber": "415-561-2850",
+      "description": "",
+      "extension": "",
+      "type": "Voice"
+     }
+    ],
+    "emailAddresses": [
+     {
+      "description": "",
+      "emailAddress": "MUWO_info@nps.gov"
+     }
+    ]
+   },
+   "entranceFees": [
+    {
+     "cost": "15.00",
+     "description": "$15 per person 16 years of age and older. Entrance fees may be purchased in advance with your parking/shuttle reservation or upon arrival to the park. Parking/shuttle reservations are required for all vehicles and shuttle riders visiting Muir Woods National Monument. Reservation fees are separate from entrance fees. Please visit GoMuirWoods.com for parking/shuttle reservations.",
+     "title": "Entrance - Per Person"
+    }
+   ],
+   "entrancePasses": [
+    {
+     "cost": "45.00",
+     "description": "This pass is good for 12 months. It admits the pass holder and three persons (16 and older) to Muir Woods. A physical card can be purchased at Muir Woods -OR- a digital version of the Muir Woods Annual Pass can be purchased on recreation.gov. Parking reservations are required for all visitors.",
+     "title": "Annual Entrance - Park"
+    }
+   ],
+   "fees": [],
+   "directionsInfo": "From San Francisco: Muir Woods is located 11 miles north of the Golden Gate Bridge. Take Hwy 101 North --> Mill Valley/Highway 1/ Stinson Beach Exit --> Follow the signs to Hwy 1 --> Follow the signs to Muir Woods From the north: Take Hwy 580/Richmond/San Rafael Bridge West --> Hwy 101 South --> Take the Stinson Beach/Mill Valley Exit --> Follow the signs to Highway 1 --> Follow the signs to Muir Woods No vehicles over 35 feet. Vehicles over 17ft need an oversized parking spot. More info below:",
+   "directionsUrl": "http://www.nps.gov/muwo/planyourvisit/directions.htm",
+   "operatingHours": [
+    {
+     "exceptions": [
+      {
+       "exceptionHours": {
+        "wednesday": "8:00AM - 6:00PM",
+        "monday": "8:00AM - 6:00PM",
+        "thursday": "8:00AM - 6:00PM",
+        "sunday": "8:00AM - 6:00PM",
+        "tuesday": "8:00AM - 6:00PM",
+        "friday": "8:00AM - 6:00PM",
+        "saturday": "8:00AM - 6:00PM"
+       },
+       "startDate": "2027-03-08",
+       "name": "Early Spring",
+       "endDate": "2027-04-04"
+      },
+      {
+       "exceptionHours": {
+        "wednesday": "8:00AM - 7:00PM",
+        "monday": "8:00AM - 7:00PM",
+        "thursday": "8:00AM - 7:00PM",
+        "sunday": "8:00AM - 7:00PM",
+        "tuesday": "8:00AM - 7:00PM",
+        "friday": "8:00AM - 7:00PM",
+        "saturday": "8:00AM - 7:00PM"
+       },
+       "startDate": "2027-04-05",
+       "name": "Late Spring",
+       "endDate": "2027-05-22"
+      },
+      {
+       "exceptionHours": {
+        "wednesday": "8:00AM - 8:00PM",
+        "monday": "8:00AM - 8:00PM",
+        "thursday": "8:00AM - 8:00PM",
+        "sunday": "8:00AM - 8:00PM",
+        "tuesday": "8:00AM - 8:00PM",
+        "friday": "8:00AM - 8:00PM",
+        "saturday": "8:00AM - 8:00PM"
+       },
+       "startDate": "2027-05-23",
+       "name": "Summer",
+       "endDate": "2027-09-07"
+      },
+      {
+       "exceptionHours": {
+        "wednesday": "8:00AM - 7:00PM",
+        "monday": "8:00AM - 7:00PM",
+        "thursday": "8:00AM - 7:00PM",
+        "sunday": "8:00AM - 7:00PM",
+        "tuesday": "8:00AM - 7:00PM",
+        "friday": "8:00AM - 7:00PM",
+        "saturday": "8:00AM - 7:00PM"
+       },
+       "startDate": "2027-09-08",
+       "name": "Late Summer",
+       "endDate": "2027-10-03"
+      },
+      {
+       "exceptionHours": {
+        "wednesday": "8:00AM - 6:00PM",
+        "monday": "8:00AM - 6:00PM",
+        "thursday": "8:00AM - 6:00PM",
+        "sunday": "8:00AM - 6:00PM",
+        "tuesday": "8:00AM - 6:00PM",
+        "friday": "8:00AM - 6:00PM",
+        "saturday": "8:00AM - 6:00PM"
+       },
+       "startDate": "2026-10-04",
+       "name": "Fall",
+       "endDate": "2026-10-31"
+      }
+     ],
+     "description": "Muir Woods is open every day of the year, with exceptions for inclement weather and hazardous conditions. Our core winter hours are 8 am- 5 pm; in the spring, summer, and fall we are open later based on increased daylight hours. Updates on closures will be posted as an alert to the website and on social-media pages.",
+     "standardHours": {
+      "wednesday": "8:00AM - 5:00PM",
+      "monday": "8:00AM - 5:00PM",
+      "thursday": "8:00AM - 5:00PM",
+      "sunday": "8:00AM - 5:00PM",
+      "tuesday": "8:00AM - 5:00PM",
+      "friday": "8:00AM - 5:00PM",
+      "saturday": "8:00AM - 5:00PM"
+     },
+     "name": "Muir Woods National Monument"
+    }
+   ],
+   "addresses": [
+    {
+     "postalCode": "94941",
+     "city": "Mill Valley",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Muir Woods National Monument",
+     "type": "Physical",
+     "line3": "",
+     "line2": "1 Muir Woods Rd"
+    },
+    {
+     "postalCode": "94941",
+     "city": "Mill Valley",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Muir Woods National Monument",
+     "type": "Mailing",
+     "line3": "",
+     "line2": "1 Muir Woods Rd"
+    }
+   ],
+   "images": [
+    {
+     "credit": "NPS/ Jace Ritchey",
+     "title": "Rays of Light at Muir Woods",
+     "altText": "beams of light from the top left corner of the image beam into a forest of towering redwood trunks",
+     "caption": "This 550-acre park protects an old-growth forest of coast redwoods (Sequoia sempervirens), the tallest type of tree in the world. Named for famed American naturalist John Muir, the National Monument occupies the homelands of the Coast Miwok people.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/7961FEFE-AD2A-61A1-2CB953E4FDBD749D.jpg"
+    },
+    {
+     "credit": "NPS/ Jace Ritchey",
+     "title": "Visitor at MUWO sign",
+     "altText": "a visitor points to a sign that says muir woods",
+     "caption": "Visitors can receive orientation at the front entrance before entering the forest. Download the NPS App before you visit to have maps, self-guided tours, and more right in your hand.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/9C2E67B2-9017-25D4-73AE0A8E6BAF43E8.jpg"
+    },
+    {
+     "credit": "NPS/ Kristen Henderson",
+     "title": "Banana Slug",
+     "altText": "A yellow banana slug creeping along a twig",
+     "caption": "Redwood forests are quiet and deeply shaded places in which wildlife may seem rare or absent entirely. In truth, redwood forests are surprisingly lively places, full of animals like this banana slug.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C7CB0A8-1DD8-B71B-0BD784613755F996.jpg"
+    },
+    {
+     "credit": "NPS/ Alison Taggart Barone",
+     "title": "Boardwalks at Muir Woods provide improved access for visitors.",
+     "altText": "Two people walk on a meandering wooden boardwalk in a densely vegetated forest. Tall redwoods tower.",
+     "caption": "At Muir Woods, visitors can enjoy miles of trail meandering through the old-growth coast-redwood forest. Trail features include boardwalks & benches to ensure access for visitors with various mobility needs.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/7745C111-9E23-429A-C061BBA62D7476FE.jpg"
+    },
+    {
+     "credit": "NPS/ Jace Ritchey",
+     "title": "Rangers speaking with school group",
+     "altText": "Two rangers stand next to a big sign and speak to visitors seated in the foreground",
+     "caption": "Knowledgeable National Park Service rangers offer several daily programs to help visitors connect with the site on a deeper level. Check our website calendar to learn more.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/9AA707B6-DBF4-06FC-B75ADAC18231C721.jpg"
+    }
+   ],
+   "weatherInfo": "The coast redwood forest is cool most times of the year with temperatures ranging from 40 - 70 F/ 4 - 21 C. Always come prepared with layers. From late October to early May, expect cool weather & possible rain. Summer months (June-August) can be warmer, but it is generally cool and dry. Expect heavy fog in the morning, burning off in the afternoon. Often, the fall (September-October) is the warmest time of year.",
+   "name": "Muir Woods",
+   "designation": "National Monument",
+   "multimedia": [],
+   "relevanceScore": 1.0
+  }
+ ]
+}

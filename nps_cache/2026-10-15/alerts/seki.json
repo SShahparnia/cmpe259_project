@@ -1,0 +1,49 @@
+{
+ "_meta": {
+  "endpoint": "alerts",
+  "park_code": "seki",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 3,
+  "fetched_at": "2026-10-15T18:18:38"
+ },
+ "data": [
+  {
+   "id": "D8BD0E71-88FB-4A59-BAAB-FB2A2193EB36",
+   "url": "https://www.nps.gov/seki/planyourvisit/road-construction.htm",
+   "title": "Mineral King Road Construction Traffic Delays and Closures",
+   "parkCode": "seki",
+   "description": "There are temporary daytime closures and traffic delays on Mineral King Road. A schedule of daily closures and delays can be found on our Road Construction webpage. Click \"more\" to go there.",
+   "category": "Information",
+   "relatedRoadEvents": [
+    {
+     "title": "Mineral King Road Construction Closures",
+     "id": "D8BD0E71-88FB-4A59-BAAB-FB2A2193EB36",
+     "type": "roadevent",
+     "url": "https://www.nps.gov/seki/planyourvisit/conditions.htm"
+    }
+   ],
+   "lastIndexedDate": "2026-10-13 00:00:00.0"
+  },
+  {
+   "id": "09C80695-B7BF-4CD7-88B9-9670C8250EEF",
+   "url": "",
+   "title": "Weekday Traffic Delays on Generals Highway North of Giant Forest",
+   "parkCode": "seki",
+   "description": "Due to removal of hazard trees along Generals Highway between Highway 180 and Giant Forest, there are traffic delays on weekdays from 8 a.m. to 5 p.m. Vehicles may experience delays of up to 30 minutes total. There will not be delays on federal holidays.",
+   "category": "Information",
+   "relatedRoadEvents": [],
+   "lastIndexedDate": "2026-10-09 00:00:00.0"
+  },
+  {
+   "id": "66320505-44F0-4430-BD69-4DB83436BB5F",
+   "url": "https://www.nps.gov/seki/learn/nature/fire-restrictions.htm",
+   "title": "Fire Restrictions in Place",
+   "parkCode": "seki",
+   "description": "Stage 1 Fire Restrictions are in effect. Wood and charcoal fires are prohibited at all low-elevation campgrounds and picnic areas. Additional restrictions apply. Click \"more\" for details.",
+   "category": "Information",
+   "relatedRoadEvents": [],
+   "lastIndexedDate": "2026-06-08 00:00:00.0"
+  }
+ ]
+}

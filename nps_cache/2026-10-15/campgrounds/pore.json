@@ -1,0 +1,1161 @@
+{
+ "_meta": {
+  "endpoint": "campgrounds",
+  "park_code": "pore",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 5,
+  "fetched_at": "2026-10-15T18:18:34"
+ },
+ "data": [
+  {
+   "id": "68E04D73-F0F7-490C-B9B9-E95A03564825",
+   "url": "https://www.nps.gov/pore/planyourvisit/glen-campground.htm",
+   "name": "Glen Campground",
+   "parkCode": "pore",
+   "description": "Glen Campground is located deep within a wooded valley protected from ocean breezes. The closest beach is 2.5-miles away. One may access Glen Camp by foot or bicycle; not by horse, boat, auto, or RV. The shortest route to Glen Camp is via a 4.6-mile hike from the Bear Valley Trailhead. To ride a bicycle to Glen Camp start at the Five Brooks Trailhead for a 6.3-mile bike ride. No groups (parties of seven or more), horses, or pack animals are allowed. There are 12 regular (i.e., one- to six-person) sites.",
+   "latitude": "37.9893107085",
+   "longitude": "-122.788487928",
+   "latLong": "{lat:37.9893107085, lng:-122.788487928}",
+   "audioDescription": "Glen Campground is located deep within a wooded valley. The entrance to the campground is at the northwest end of the campground off of the Glen Camp Loop Trail, which winds off to the northwest and to the southwest. As one enters the campground, a vault toilet and water faucet are located along the northern edge of a small meadow that fills much of the valley floor. Campsites one through four and nine through twelve are mostly located around the edge of the small meadow. Campsites five through eight are located off of a narrow path that leads uphill to the southeast.",
+   "isPassportStampLocation": "0",
+   "passportStampLocationDescription": "",
+   "passportStampImages": [],
+   "geometryPoiId": "09949BD4-EDC3-4EA7-B765-73DA267F67B4",
+   "reservationInfo": "Camping is by permit only. Camping permits must be obtained before starting your trip. Visitors may make online reservations for a permit at this backcountry (i.e., hike-in) campground at Recreation.gov. Some permits/sites are available at 7 am three months to the day in advance and some are available at 7 am 14 days to the day in advance. Print your Recreation.gov confirmation email and be prepared to show it to park rangers on the trail and at your campsite. Print out additional copies of your confirmation email to place face up on the dashboard of each vehicle remaining overnight at park trailheads.",
+   "reservationUrl": "https://www.recreation.gov/camping/campgrounds/233359",
+   "regulationsurl": "http://www.nps.gov/pore/planyourvisit/camping.htm#rules",
+   "regulationsOverview": "Visit our park's Backcountry Camping web page for more about the rules and regulations. Basic rules and regulations include: * Permits are required. * Camp in designated sites. * Dogs and/or other pets are prohibited. * Drones are prohibited. * Glass containers are prohibited within 50 feet of the beach. * Follow Leave No Trace principles. * Store your food and other scented items properly in the food storage lockers provided at the campsite. * Properly dispose of human waste. * Do not wash dishes, bathe, or wash clothing at water faucets. * Wood and charcoal fires are prohibited at the campsites. * Fireworks are prohibited. * Most types of weapons are prohibited. * Hunting is prohibited. * Quiet hours are from sundown to sunrise. * Campers must vacate their campsite by noon on their day of departure. Campsites should be left clean. Do not leave anything behind. * Horses or pack animals are prohibited at Glen Campground.",
+   "amenities": {
+    "trashRecyclingCollection": "Yes - year round",
+    "toilets": [
+     "Vault Toilets - year round"
+    ],
+    "internetConnectivity": "No",
+    "showers": [
+     "None"
+    ],
+    "cellPhoneReception": "No",
+    "laundry": "No",
+    "amphitheater": "No",
+    "dumpStation": "No",
+    "campStore": "No",
+    "staffOrVolunteerHostOnsite": "No",
+    "potableWater": [
+     "Yes - year round"
+    ],
+    "iceAvailableForSale": "No",
+    "firewoodForSale": "No",
+    "foodStorageLockers": "Yes - year round"
+   },
+   "contacts": {
+    "phoneNumbers": [
+     {
+      "phoneNumber": "415-464-5100",
+      "description": "",
+      "extension": "",
+      "type": "Voice"
+     }
+    ],
+    "emailAddresses": [
+     {
+      "description": "Please browse through our website (the Plan Your Visit section, especially the Backcountry Camping page, is very useful) and check out the Frequently Asked Questions before submitting your message. We receive a lot of emails requesting information that is available through our website. \n\nWe will respond to emails in the order they are received as soon as possible. Due to the high volume of email, response to your message may take more than a week. Please ensure that the email address you provide is correct.",
+      "emailAddress": "pore_info@nps.gov"
+     }
+    ]
+   },
+   "fees": [
+    {
+     "cost": "30.00",
+     "description": "Regular sites accommodate one to six (1 to 6) people. We do not allow groups of more than six people to split up into multiple regular sites within the same campground. Groups of more than six are restricted to group sites in Coast, Sky, or Wildcat Campground only, and, similarly, may not purchase more than one site per campground. Everyone associated with your party at a given campground must stay in the same, single campsite.",
+     "title": "Permit for a Regular site"
+    }
+   ],
+   "directionsOverview": "There are multiple routes to get to the Glen Campground. The shortest route would be from the Bear Valley Trailhead, hiking 4.6 miles. Bicyclists may start at the Five Brooks Trailhead to ride 6.7 miles via the Stewart and Glen Trails to Glen Campground; this is the only route to Glen Campground that is open to bicycles\u2014it is considered strenuous since it requires climbing up and over the 1,300-foot-tall Inverness Ridge. Campers must hike or bicycle to get to the campground; horses and autos are prohibited.",
+   "directionsUrl": "https://www.nps.gov/pore/planyourvisit/glen-campground.htm#directions",
+   "operatingHours": [
+    {
+     "exceptions": [],
+     "description": "The Glen Campground is open year-round, 24 hours a day. Camping is by permit only. Camping permits must be obtained before starting your trip. Visitors may make online reservations for a permit at this backcountry (i.e., hike-in) campground at Recreation.gov. Print your Recreation.gov confirmation email and be prepared to show it to park rangers on the trail and at your campsite. Place printouts of your confirmation email face up on the dashboard of each vehicle remaining overnight at park trailheads.",
+     "standardHours": {
+      "wednesday": "All Day",
+      "monday": "All Day",
+      "thursday": "All Day",
+      "sunday": "All Day",
+      "tuesday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day"
+     },
+     "name": "Glen Campground"
+    }
+   ],
+   "addresses": [
+    {
+     "postalCode": "94956",
+     "city": "Point Reyes Station",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "1 Bear Valley Road",
+     "type": "Physical",
+     "line3": "",
+     "line2": ""
+    },
+    {
+     "postalCode": "94956",
+     "city": "Point Reyes Station",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "1 Bear Valley Road",
+     "type": "Mailing",
+     "line3": "",
+     "line2": ""
+    }
+   ],
+   "images": [
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Glen Campground. June 12, 2022.",
+     "altText": "In a wooded valley, a leads into a campground with a vault toilet building under trees on the left.",
+     "caption": "Glen Campground",
+     "url": "https://www.nps.gov/common/uploads/structured_data/B39A07EE-BF2F-10F8-934BFA8674BFDCAF.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Glen Campsite 1. June 12, 2022.",
+     "altText": "A campsite in the woods containing a picnic table and a food storage locker.",
+     "caption": "Glen Campsite 1",
+     "url": "https://www.nps.gov/common/uploads/structured_data/B35B0B81-AF34-2FD0-2C6629C214124C3B.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Glen Campsite 2. June 12, 2022.",
+     "altText": "A campsite in the woods containing a picnic table and a food storage locker.",
+     "caption": "Glen Campsite 2",
+     "url": "https://www.nps.gov/common/uploads/structured_data/B3A98216-DB62-1687-40BD0CC561B5B141.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Glen Campsite 3. June 12, 2022.",
+     "altText": "A campsite in the woods containing a picnic table and a food storage locker.",
+     "caption": "Glen Campsite 3",
+     "url": "https://www.nps.gov/common/uploads/structured_data/B3B14817-98D0-8EBA-69C88A2983423CC2.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Glen Campsite 4. June 12, 2022.",
+     "altText": "A campsite in the woods containing a picnic table and a food storage locker.",
+     "caption": "Glen Campsite 4",
+     "url": "https://www.nps.gov/common/uploads/structured_data/B3B7BA23-CBA5-368D-332A8B1F0FBD3588.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Glen Campsite 5. June 12, 2022.",
+     "altText": "A campsite in the woods containing a picnic table and a food storage locker.",
+     "caption": "Glen Campsite 5",
+     "url": "https://www.nps.gov/common/uploads/structured_data/B3BF5A2B-FEC7-B343-3B251E0310ADA6FE.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Glen Campsite 6. June 12, 2022.",
+     "altText": "A campsite in the woods containing a picnic table and a food storage locker.",
+     "caption": "Glen campsite 6.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/B3CA8843-0D93-0CF0-04A47CFE90DF063D.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Glen Campsite 7. June 12, 2022.",
+     "altText": "A campsite in the woods containing a picnic table and a food storage locker.",
+     "caption": "Glen Campsite 7",
+     "url": "https://www.nps.gov/common/uploads/structured_data/B3F9BE6B-BEFD-8712-17B548DF63B083EE.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Glen Campsite 8. June 12, 2022.",
+     "altText": "A campsite in the woods containing a picnic table and a food storage locker.",
+     "caption": "Glen Campsite 8",
+     "url": "https://www.nps.gov/common/uploads/structured_data/B4063BA1-9653-7D1C-4B95C47FA753F5D2.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Glen Campsite 9. June 12, 2022.",
+     "altText": "A campsite in the woods containing a picnic table and a food storage locker.",
+     "caption": "Glen Campsite 9",
+     "url": "https://www.nps.gov/common/uploads/structured_data/B41909F1-09B6-46A0-9B62A13E5BB74663.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Glen Campsite 10. June 12, 2022.",
+     "altText": "A campsite in the woods containing a picnic table and a food storage locker.",
+     "caption": "Glen Campsite 10",
+     "url": "https://www.nps.gov/common/uploads/structured_data/B424E263-083D-4F5C-CA20C337C5B15E66.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Glen Campsite 11. June 12, 2022.",
+     "altText": "A campsite in the woods containing a picnic table and a food storage locker.",
+     "caption": "Glen Campsite 12",
+     "url": "https://www.nps.gov/common/uploads/structured_data/B430AA9F-DFE3-B9EB-3AD91D915AAED907.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Glen Campsite 12. June 12, 2022.",
+     "altText": "A campsite in the woods containing a picnic table and a food storage locker.",
+     "caption": "Glen Campsite 12",
+     "url": "https://www.nps.gov/common/uploads/structured_data/B4380B93-A59B-8267-766F85B3974AEA9F.jpg"
+    }
+   ],
+   "weatherOverview": "The moderating influence of the Pacific Ocean creates a climate with no great extremes of heat or cold. Any season can bring interesting weather during your visit to Point Reyes National Seashore. Come prepared! You can check the National Weather Service forecast for the Glen Campground at http://forecast.weather.gov/MapClick.php?lon=-122.79&lat=37.99 .",
+   "numberOfSitesReservable": "12",
+   "numberOfSitesFirstComeFirstServe": "0",
+   "campsites": {
+    "totalSites": "12",
+    "group": "0",
+    "horse": "0",
+    "tentOnly": "12",
+    "electricalHookups": "0",
+    "rvOnly": "0",
+    "walkBoatTo": "12",
+    "other": "0"
+   },
+   "accessibility": {
+    "wheelchairAccess": "No wheelchair access.",
+    "internetInfo": "",
+    "cellPhoneInfo": "Reliable AT&T and Verizon cell service is largely limited to the communities of and along the roads connecting Inverness, Inverness Park, Point Reyes Station, and Olema. Cell service elsewhere in the park and by other carriers tends to be extremely limited with weak signals, or nonexistent.",
+    "fireStovePolicy": "Gas camp stoves are permitted. Wood, charcoal, or other solid fuel fires are prohibited at Glen Campground. Charcoal fires: The charcoal grills at Glen Campground were permanently removed on May 20, 2022. Charcoal fires are now prohibited. Beach fires: Permits are required for beach fires in the park and can be acquired at the Bear Valley Visitor Center or from our Beach Fires web page at https://www.nps.gov/pore/planyourvisit/beachfires.htm. The closest beach to Glen Campground is 2.5 miles away. Small fires made out of natural driftwood are only permitted on sandy ocean beaches. Put fires out with water, not sand. Visit https://www.nps.gov/pore/planyourvisit/beachfires.htm for more details. Fire bans: Visitors planning to cook food over a beach fire should come prepared with an alternative means of cooking (e.g., self-contained gas stove) in the event of a Spare the Air Alert or high, very high, or extreme fire danger.",
+    "rvAllowed": "0",
+    "rvInfo": "RVs and Trailers are prohibited.",
+    "rvMaxLength": "0",
+    "additionalInfo": "Each regular (aka individual) 1- to 6-person campsite has a picnic table and a food storage locker. Store your food and other scented items properly in the food storage lockers provided at the campsite. Do not leave any food or scented items unattended outside of the locker or stored in your tent. Raccoons, foxes, and skunks are plentiful and aggressive. Do not feed wildlife. Scented items may include, but are not limited to: soap, toothpaste and toothbrushes, toiletries, feminine products, lip balm, deodorant, sunscreen, mosquito repellent, gum, candy, first-aid kits, pots, pans, plates, bowls, cups, forks, spoons, knives, clothes in which one has cooked or eaten, and wash basins (i.e., the kitchen sink). As a general rule, if you put it in your mouth or on your skin or if food comes in contact with it, it should be stored in an animal-resistant food storage container.",
+    "trailerMaxLength": "0",
+    "adaInfo": "There are no ADA camp sites.",
+    "trailerAllowed": "0",
+    "accessRoads": [
+     "No Roads"
+    ],
+    "classifications": [
+     "Designated Primitive Campsites"
+    ]
+   },
+   "multimedia": [],
+   "relevanceScore": 1.0,
+   "lastIndexedDate": ""
+  },
+  {
+   "id": "8F3F1AE3-1B25-4E83-9662-C76E3EF0A06A",
+   "url": "https://www.nps.gov/pore/planyourvisit/sky-campground.htm",
+   "name": "Sky Campground",
+   "parkCode": "pore",
+   "description": "Sky Campground is located on the western side of Mount Wittenberg at an elevation of 1025 feet. In clear weather, it has a sweeping view of Point Reyes, Drakes Bay, and the Pacific Ocean. One may access Sky Campground by foot, bicycle, or horse; not by boat, auto, or RV. The easiest and shortest approach is a 1.4-mile moderate uphill hike or bicycle ride from the Sky Trailhead (elevation 680 feet) via Sky Trail. There are 11 regular sites and one group site.",
+   "latitude": "38.039915109550705",
+   "longitude": "-122.82882744007327",
+   "latLong": "{lat:38.039915109550705, lng:-122.82882744007327}",
+   "audioDescription": "Sky Campground is located on the western side of Mount Wittenberg at an elevation of 1025 feet. In clear weather, it has a sweeping view of Point Reyes, Drakes Bay, and the Pacific Ocean. As one arrives from the north to the entrance of the campground, a vault toilet is located to the east of the trail. Further to the south is a potable water faucet located a bit further away from the trail. From this area, a few paths lead to the twelve campsites to the west and northwest.",
+   "isPassportStampLocation": "0",
+   "passportStampLocationDescription": "",
+   "passportStampImages": [],
+   "geometryPoiId": "A452D496-C6D9-47A5-AE97-703639F6B672",
+   "reservationInfo": "Camping is by permit only. Camping permits must be obtained before starting your trip. Visitors may make online reservations for a permit at this backcountry (i.e., hike-in) campground at Recreation.gov. Some permits/sites are available at 7 am three months to the day in advance and some are available at 7 am 14 days to the day in advance. Print your Recreation.gov confirmation email and be prepared to show it to park rangers on the trail and at your campsite. Print out additional copies of your confirmation email to place face up on the dashboard of each vehicle remaining overnight at park trailheads.",
+   "reservationUrl": "https://www.recreation.gov/camping/campgrounds/233359",
+   "regulationsurl": "http://www.nps.gov/pore/planyourvisit/camping.htm#rules",
+   "regulationsOverview": "Visit our park's Backcountry Camping web page for more about the rules and regulations. Basic rules and regulations include: * Permits are required. * Camp in designated sites. * Dogs and/or other pets are prohibited. * Drones are prohibited. * Glass containers are prohibited within 50 feet of the beach. * Follow Leave No Trace principles. * Store your food and other scented items properly in the food storage lockers provided at the campsite. * Properly dispose of human waste. * Do not wash dishes, bathe, or wash clothing at water faucets. * Wood and charcoal fires are prohibited at the campsites. * Fireworks are prohibited. * Most types of weapons are prohibited. * Hunting is prohibited. * Quiet hours are from sundown to sunrise. * Campers must vacate their campsite by noon on their day of departure. Campsites should be left clean. Do not leave anything behind. * The maximum number of horses or pack animals in any campground is eight. Pack animals & horses must be tied to hitch rails. Llamas are prohibited.",
+   "amenities": {
+    "trashRecyclingCollection": "Yes - year round",
+    "toilets": [
+     "Vault Toilets - year round"
+    ],
+    "internetConnectivity": "No",
+    "showers": [
+     "None"
+    ],
+    "cellPhoneReception": "No",
+    "laundry": "No",
+    "amphitheater": "No",
+    "dumpStation": "No",
+    "campStore": "No",
+    "staffOrVolunteerHostOnsite": "No",
+    "potableWater": [
+     "Yes - year round"
+    ],
+    "iceAvailableForSale": "No",
+    "firewoodForSale": "No",
+    "foodStorageLockers": "Yes - year round"
+   },
+   "contacts": {
+    "phoneNumbers": [
+     {
+      "phoneNumber": "415-464-5100",
+      "description": "",
+      "extension": "",
+      "type": "Voice"
+     }
+    ],
+    "emailAddresses": [
+     {
+      "description": "Please browse through our website (the Plan Your Visit section, especially the Backcountry Camping page, is very useful) and check out the Frequently Asked Questions before submitting your message. We receive a lot of emails requesting information that is available through our website. \n\nWe will respond to emails in the order they are received as soon as possible. Due to the high volume of email, response to your message may take more than a week. Please ensure that the email address you provide is correct.",
+      "emailAddress": "pore_info@nps.gov"
+     }
+    ]
+   },
+   "fees": [
+    {
+     "cost": "30.00",
+     "description": "Regular sites accommodate 1 to 6 people. We do not allow groups of more than six people to split up into multiple regular sites within the same campground. Groups of more than six are restricted to group sites in Coast, Sky, or Wildcat Campground only, and, similarly, may not purchase more than one site per campground. Everyone associated with your party at a given campground must stay in the same, single campsite.",
+     "title": "Permit for a Regular site"
+    },
+    {
+     "cost": "90.00",
+     "description": "Group permits are for parties of 7 to 25 people. Parties of six or fewer people are not permitted to reserve group permits/sites.",
+     "title": "Group Permit for a Group Site"
+    }
+   ],
+   "directionsOverview": "There are multiple routes to hike to the Sky Campground (elevation 1025 feet). The shortest route would be hiking approximately 1.5 miles from the Sky Trailhead (elevation 680 feet) along Limantour Road. Or one could start from the Bear Valley Trailhead, hiking approximately 2.7 miles and climbing up and a little bit over the 1,300-foot high Inverness Ridge. Regardless, campers must hike, or ride a bike or horse to get to the campground.",
+   "directionsUrl": "https://www.nps.gov/pore/planyourvisit/sky-campground.htm#directions",
+   "operatingHours": [
+    {
+     "exceptions": [],
+     "description": "The Sky Campground is open year-round, 24 hours a day. Camping is by permit only. Camping permits must be obtained before starting your trip. Visitors may make online reservations for a permit at this backcountry (i.e., hike-in) campground at Recreation.gov. Print your Recreation.gov confirmation email and be prepared to show it to park rangers on the trail and at your campsite. Place printouts of your confirmation email face up on the dashboard of each vehicle remaining overnight at park trailheads.",
+     "standardHours": {
+      "wednesday": "All Day",
+      "monday": "All Day",
+      "thursday": "All Day",
+      "sunday": "All Day",
+      "tuesday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day"
+     },
+     "name": "Sky Campground"
+    }
+   ],
+   "addresses": [
+    {
+     "postalCode": "94956",
+     "city": "Point Reyes Station",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "1 Bear Valley Road",
+     "type": "Physical",
+     "line3": "",
+     "line2": ""
+    },
+    {
+     "postalCode": "94956",
+     "city": "Point Reyes Station",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "1 Bear Valley Road",
+     "type": "Mailing",
+     "line3": "",
+     "line2": ""
+    }
+   ],
+   "images": [
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Sky Campground. June 18, 2022.",
+     "altText": "A trail leads through grass and shrubs towards a few campsites with a view of the ocean on the left.",
+     "caption": "Looking west at Sky Campground from near Sky Campsite 5.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/E80C8274-DC86-699E-FDB4A8C314D8B95B.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Sky Campsite 1. June 18, 2022.",
+     "altText": "A campsite containing a picnic table and a food storage locker overlooking trees and the ocean.",
+     "caption": "Sky Campsite 1",
+     "url": "https://www.nps.gov/common/uploads/structured_data/E845E43C-A71D-4B52-4D497245A366AC1B.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Sky Campsite 2. July 10, 2022.",
+     "altText": "A campsite containing two picnic tables and two food storage lockers overlooking the ocean.",
+     "caption": "Sky Campsite 2",
+     "url": "https://www.nps.gov/common/uploads/structured_data/26A9EECF-0AA3-EECD-6C78B7D200AC82A3.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Sky Campsite 3. June 18, 2022.",
+     "altText": "A campsite containing a small orange tent, a picnic table, and a food storage locker.",
+     "caption": "Sky Campsite 3",
+     "url": "https://www.nps.gov/common/uploads/structured_data/E861E5C4-009C-35EF-FF24E7B32294FB29.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Sky Campsite 4. June 18, 2022.",
+     "altText": "A campsite containing a small gray and maroon tent, a picnic table, and a food storage locker.",
+     "caption": "Sky Campsite 4",
+     "url": "https://www.nps.gov/common/uploads/structured_data/E87019A5-0581-5070-B47A94A8DCA5C57C.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Sky Campsite 5. June 18, 2022.",
+     "altText": "A tree-shaded campsite containing a small gray tent, a picnic table, and a food storage locker.",
+     "caption": "Sky Campsite 5",
+     "url": "https://www.nps.gov/common/uploads/structured_data/E884C8D4-9674-582C-A16E0D318E5C1F95.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Sky Campsite 6. June 18, 2022.",
+     "altText": "A partially tree-shaded campsite containing a picnic table and a food storage locker.",
+     "caption": "Sky Campsite 6",
+     "url": "https://www.nps.gov/common/uploads/structured_data/E88FB49C-AD9E-8AB8-26D7A17636F375CC.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Sky Campsite 7. June 18, 2022.",
+     "altText": "A campsite containing a small orangish-red tent, a picnic table, and a food storage locker.",
+     "caption": "Sky Campsite 7",
+     "url": "https://www.nps.gov/common/uploads/structured_data/E89B457C-E669-904A-691148073DC1546B.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Sky Campsite 8. June 18, 2022.",
+     "altText": "A campsite containing a small gray and yellow tent, a picnic table, and a food storage locker.",
+     "caption": "Sky Campsite 8",
+     "url": "https://www.nps.gov/common/uploads/structured_data/E8AEA71C-A349-1B90-C6B14AFE15F05483.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Sky Campground Vault Toilets",
+     "altText": "Sky Campground vault toilets with photovoltaic panels on the roof.",
+     "caption": "Sky Campground Vault Toilets",
+     "url": "https://www.nps.gov/common/uploads/structured_data/3C84D7A7-1DD8-B71B-0B3D0BAC3DCB86EE.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Sky Campsite 9. June 18, 2022.",
+     "altText": "A campsite containing a new wooden picnic table and a food storage locker.",
+     "caption": "Sky Campsite 9",
+     "url": "https://www.nps.gov/common/uploads/structured_data/E8BA6AE8-F5EA-B957-50B420106F9D8668.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Sky Campsite 10. June 18, 2022.",
+     "altText": "A campsite containing a picnic table and a food storage locker overlooking trees and the ocean.",
+     "caption": "Sky Campsite 10",
+     "url": "https://www.nps.gov/common/uploads/structured_data/E8C530DC-96F0-E55E-FA7C5803D7696719.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Sky Campsite 11. June 18, 2022.",
+     "altText": "A campsite containing a picnic table and a food storage locker overlooking trees and the ocean.",
+     "caption": "Sky Campsite 11",
+     "url": "https://www.nps.gov/common/uploads/structured_data/E8F18D4C-CFB8-1FEA-A593165B227429CF.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Sky Campsite 12. June 18, 2022.",
+     "altText": "A campsite containing two tents, a picnic table, and a food storage locker surrounded by trees.",
+     "caption": "Sky Campsite 12",
+     "url": "https://www.nps.gov/common/uploads/structured_data/E8FA8EE5-018E-BA13-D7D9E0E6884FC442.jpg"
+    }
+   ],
+   "weatherOverview": "The moderating influence of the Pacific Ocean creates a climate with no great extremes of heat or cold. Any season can bring interesting weather during your visit to Point Reyes National Seashore. Come prepared! You can check the National Weather Service forecast for the Sky Campground at http://forecast.weather.gov/MapClick.php?lon=-122.83&lat=38.04 .",
+   "numberOfSitesReservable": "12",
+   "numberOfSitesFirstComeFirstServe": "0",
+   "campsites": {
+    "totalSites": "12",
+    "group": "1",
+    "horse": "12",
+    "tentOnly": "12",
+    "electricalHookups": "0",
+    "rvOnly": "0",
+    "walkBoatTo": "12",
+    "other": "0"
+   },
+   "accessibility": {
+    "wheelchairAccess": "No wheelchair access.",
+    "internetInfo": "",
+    "cellPhoneInfo": "Reliable AT&T and Verizon cell service is largely limited to the communities of and along the roads connecting Inverness, Inverness Park, Point Reyes Station, and Olema. Cell service elsewhere in the park and by other carriers tends to be extremely limited with weak signals, or nonexistent.",
+    "fireStovePolicy": "Gas camp stoves are permitted. Wood, charcoal, or other solid fuel fires are prohibited at Sky Campground. Charcoal fires: The charcoal grills at Sky Campground were permanently removed by January 15, 2022. Charcoal fires are now prohibited. Beach fires: Permits are required for beach fires in the park and can be acquired at the Bear Valley Visitor Center or from our Beach Fires page at https://www.nps.gov/pore/planyourvisit/beachfires. The closest beach to Sky Campground is 4 miles away. Small fires made out of natural driftwood are only permitted on sandy ocean beaches. Put fires out with water, not sand. Visit https://www.nps.gov/pore/planyourvisit/beachfires.htm for more details. Fire bans: Visitors planning to cook food over a beach fire should come prepared with an alternative means of cooking (e.g, self-contained gas stove) in the event of a Spare the Air Alert or high, very high or extreme fire danger.",
+    "rvAllowed": "0",
+    "rvInfo": "RVs and Trailers are prohibited.",
+    "rvMaxLength": "0",
+    "additionalInfo": "Each regular (aka individual) 1- to 6-person campsite has a picnic table and a food storage locker. The group site has two picnic tables and two food storage lockers. Store your food and other scented items properly in the food storage lockers provided at the campsite. Do not leave any food or scented items unattended outside of the locker or stored in your tent. Raccoons, foxes, and skunks are plentiful and aggressive. Do not feed wildlife. Scented items may include, but are not limited to: soap, toothpaste and toothbrushes, toiletries, feminine products, lip balm, deodorant, sunscreen, mosquito repellent, gum, candy, first-aid kits, pots, pans, plates, bowls, cups, forks, spoons, knives, clothes in which one has cooked or eaten, and wash basins (i.e., the kitchen sink). As a general rule, if you put it in your mouth or on your skin or if food comes in contact with it, it should be stored in an animal-resistant food storage container.",
+    "trailerMaxLength": "0",
+    "adaInfo": "There are no ADA camp sites.",
+    "trailerAllowed": "0",
+    "accessRoads": [
+     "No Roads"
+    ],
+    "classifications": [
+     "Designated Primitive Campsites"
+    ]
+   },
+   "multimedia": [],
+   "relevanceScore": 1.0,
+   "lastIndexedDate": ""
+  },
+  {
+   "id": "938474DC-C66E-4577-A107-0628E0C8E4C0",
+   "url": "https://www.nps.gov/pore/planyourvisit/wildcat-campground.htm",
+   "name": "Wildcat Campground",
+   "parkCode": "pore",
+   "description": "Wildcat Campground is located in an open meadow on a bluff overlooking the ocean with a short walk to the beach. One may access Wildcat Campground by foot, bicycle, or horse; not by boat, auto, or RV. It is a 6.3-mile hike from Bear Valley Trailhead or a 5.5-mile hike from the Palomarin Trailhead. The only bicycling route is via a strenuous 6.7-mile ride along the Stewart Trail from the Five Brooks Trailhead. There are five regular (1- to 6-person) sites and three group (7- to 25-person) sites.",
+   "latitude": "37.9701531068",
+   "longitude": "-122.790688226",
+   "latLong": "{lat:37.9701531068, lng:-122.790688226}",
+   "audioDescription": "Wildcat Campground is located in an open meadow on a bluff overlooking the ocean with a short walk to the beach. The Stewart Trail descends Inverness Ridge from the northeast and the Coast Trail descends to the campground from a short unnamed ridge to the south. A vault toilet and potable water faucet are located on the north side of Stewart Trail near where the trail enters the meadow. Three group sites are located along the south and east edge of the campground. Three regular sites are located close to the bluff top, and the remaining two sites are located near the center of the campground. The Pacific Ocean is located to the west.",
+   "isPassportStampLocation": "0",
+   "passportStampLocationDescription": "",
+   "passportStampImages": [],
+   "geometryPoiId": "86A04950-B28A-47B7-B6E0-5877783DF8D7",
+   "reservationInfo": "Camping is by permit only. Camping permits must be obtained before starting your trip. Visitors may make online reservations for a permit at this backcountry (i.e., hike-in) campground at Recreation.gov. Some permits/sites are available at 7 am three months to the day in advance and some are available at 7 am 14 days to the day in advance. Print your Recreation.gov confirmation email and be prepared to show it to park rangers on the trail and at your campsite. Print out additional copies of your confirmation email to place face up on the dashboard of each vehicle remaining overnight at park trailheads.",
+   "reservationUrl": "https://www.recreation.gov/camping/campgrounds/233359",
+   "regulationsurl": "http://www.nps.gov/pore/planyourvisit/camping.htm#rules",
+   "regulationsOverview": "Visit our park's Backcountry Camping web page for more about the rules and regulations. Basic rules and regulations include: * Permits are required. * Camp in designated sites. * Dogs and/or other pets are prohibited. * Drones are prohibited. * Glass containers are prohibited within 50 feet of the beach. * Follow Leave No Trace principles. * Store your food and other scented items properly in the food storage lockers provided at the campsite. * Properly dispose of human waste. * Do not wash dishes, bathe, or wash clothing at water faucets. * Wood and charcoal fires are prohibited at the campsites. * Fireworks are prohibited. * Most types of weapons are prohibited. * Hunting is prohibited. * Quiet hours are from sundown to sunrise. * Campers must vacate their campsite by noon on their day of departure. Campsites should be left clean. Do not leave anything behind. * The maximum number of horses or pack animals in any campground is eight. Pack animals & horses must be tied to hitch rails. Llamas are prohibited.",
+   "amenities": {
+    "trashRecyclingCollection": "Yes - year round",
+    "toilets": [
+     "Vault Toilets - year round"
+    ],
+    "internetConnectivity": "No",
+    "showers": [
+     "None"
+    ],
+    "cellPhoneReception": "No",
+    "laundry": "No",
+    "amphitheater": "No",
+    "dumpStation": "No",
+    "campStore": "No",
+    "staffOrVolunteerHostOnsite": "No",
+    "potableWater": [
+     "Yes - year round"
+    ],
+    "iceAvailableForSale": "No",
+    "firewoodForSale": "No",
+    "foodStorageLockers": "Yes - year round"
+   },
+   "contacts": {
+    "phoneNumbers": [
+     {
+      "phoneNumber": "415-464-5100",
+      "description": "",
+      "extension": "",
+      "type": "Voice"
+     }
+    ],
+    "emailAddresses": [
+     {
+      "description": "Please browse through our website (the Plan Your Visit section, especially the Backcountry Camping page, is very useful) and check out the Frequently Asked Questions before submitting your message. We receive a lot of emails requesting information that is available through our website. \n\nWe will respond to emails in the order they are received as soon as possible. Due to the high volume of email, response to your message may take more than a week. Please ensure that the email address you provide is correct.",
+      "emailAddress": "pore_info@nps.gov"
+     }
+    ]
+   },
+   "fees": [
+    {
+     "cost": "30.00",
+     "description": "Regular sites accommodate 1 to 6 people. We do not allow groups of more than six people to split up into multiple regular sites within the same campground. Groups of more than six are restricted to group sites in Coast, Sky, or Wildcat Campground only, and, similarly, may not purchase more than one site per campground. Everyone associated with your party at a given campground must stay in the same, single campsite.",
+     "title": "Permit for a Regular site"
+    },
+    {
+     "cost": "90.00",
+     "description": "Group permits are for parties of 7 to 25 people. Parties of six or fewer people are not permitted to reserve group permits/sites.",
+     "title": "Group Permit for a Group Site"
+    }
+   ],
+   "directionsOverview": "There are multiple routes to get to the Wildcat Campground. The shortest hike is 5.5-miles via the Coast Trail from the Palomarin Trailhead (the south end of the park). It is a 6.3-mile hike from the Bear Valley Trailhead via the Bear Valley, Glen, and Stewart Trails. The only bicycling route is via a strenuous 6.7-mile ride along the Stewart Trail from the Five Brooks Trailhead over the 1,300-foot-tall Inverness Ridge. Regardless, campers must hike, or ride a bike or horse to get to the campground.",
+   "directionsUrl": "https://www.nps.gov/pore/planyourvisit/wildcat-campground.htm#directions",
+   "operatingHours": [
+    {
+     "exceptions": [],
+     "description": "The Wildcat Campground is open year-round, 24 hours a day. Camping is by permit only. Camping permits must be obtained before starting your trip. Visitors may make online reservations for a permit at this backcountry (i.e., hike-in) campground at Recreation.gov. Print your Recreation.gov confirmation email and be prepared to show it to park rangers on the trail and at your campsite. Place printouts of your confirmation email face up on the dashboard of each vehicle remaining overnight at park trailheads.",
+     "standardHours": {
+      "wednesday": "All Day",
+      "monday": "All Day",
+      "thursday": "All Day",
+      "sunday": "All Day",
+      "tuesday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day"
+     },
+     "name": "Wildcat Campground"
+    }
+   ],
+   "addresses": [
+    {
+     "postalCode": "94956",
+     "city": "Point Reyes Station",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "1 Bear Valley Road",
+     "type": "Physical",
+     "line3": "",
+     "line2": ""
+    },
+    {
+     "postalCode": "94956",
+     "city": "Point Reyes Station",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "1 Bear Valley Road",
+     "type": "Mailing",
+     "line3": "",
+     "line2": ""
+    }
+   ],
+   "images": [
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Wildcat Campsite 1. June 12, 2022.",
+     "altText": "A campsite in a meadow containing a picnic table and two food storage lockers.",
+     "caption": "Wildcat Campsite 1",
+     "url": "https://www.nps.gov/common/uploads/structured_data/B45AC0AF-D3F1-E5D3-A8C9F1F6CCBC0423.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Wildcat Campsite 2. June 12, 2022.",
+     "altText": "A campsite in a meadow at the base of a hill containing two picnic tables, two food storage lockers,",
+     "caption": "Wildcat Campsite 2",
+     "url": "https://www.nps.gov/common/uploads/structured_data/B463494D-9F0B-6E3B-77955C67307ED654.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Wildcat Campsite 3. June 12, 2022.",
+     "altText": "A campsite in a meadow containing two picnic tables and two food storage lockers.",
+     "caption": "Wildcat Campsite 3",
+     "url": "https://www.nps.gov/common/uploads/structured_data/B47422FD-DE6C-7086-0DDE9C36553DBA2B.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Wildcat Campsite 4. June 12, 2022.",
+     "altText": "A campsite in a meadow containing a picnic table, a food storage locker, and three small tents.",
+     "caption": "Wildcat Campsite 4. The picnic table in site 8 is visible in the background on the far right.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/B47FC8B6-C1B9-E27F-B3964281D8FF35A2.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Wildcat Campsite 5. June 12, 2022.",
+     "altText": "A campsite in a meadow containing a picnic table, a food storage locker.",
+     "caption": "Wildcat Campsite 5",
+     "url": "https://www.nps.gov/common/uploads/structured_data/B48916C2-E811-4D7A-FF8D24005B16170C.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Wildcat Campsite 6. June 12, 2022.",
+     "altText": "A campsite in a meadow containing a picnic table, a food storage locker.",
+     "caption": "Wildcat Campsite 6",
+     "url": "https://www.nps.gov/common/uploads/structured_data/B492D406-DC43-B698-6D043A281EB39324.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Wildcat Campsite 7. June 12, 2022.",
+     "altText": "A campsite in a meadow containing a picnic table, a food storage locker.",
+     "caption": "Wildcat Campsite 7",
+     "url": "https://www.nps.gov/common/uploads/structured_data/B4984548-98F6-4D81-EAE4063F4BC0D61B.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Wildcat Campsite 8. June 12, 2022.",
+     "altText": "A campsite in a meadow containing a picnic table, a food storage locker.",
+     "caption": "Wildcat Campsite 8",
+     "url": "https://www.nps.gov/common/uploads/structured_data/B49D1F0A-07A3-37F0-F857E2ECA15AC44E.jpg"
+    }
+   ],
+   "weatherOverview": "The moderating influence of the Pacific Ocean creates a climate with no great extremes of heat or cold. Any season can bring interesting weather during your visit to Point Reyes National Seashore. Come prepared! You can check the National Weather Service forecast for the Wildcat Campground at http://forecast.weather.gov/MapClick.php?lon=-122.79&lat=37.97 .",
+   "numberOfSitesReservable": "8",
+   "numberOfSitesFirstComeFirstServe": "0",
+   "campsites": {
+    "totalSites": "8",
+    "group": "3",
+    "horse": "8",
+    "tentOnly": "8",
+    "electricalHookups": "0",
+    "rvOnly": "0",
+    "walkBoatTo": "8",
+    "other": "0"
+   },
+   "accessibility": {
+    "wheelchairAccess": "No wheelchair access.",
+    "internetInfo": "",
+    "cellPhoneInfo": "Reliable AT&T and Verizon cell service is largely limited to the communities of and along the roads connecting Inverness, Inverness Park, Point Reyes Station, and Olema. Cell service elsewhere in the park and by other carriers tends to be extremely limited with weak signals, or nonexistent.",
+    "fireStovePolicy": "Gas camp stoves are permitted. Charcoal fires: The charcoal grills at Wildcat Campground were permanently removed on May 12, 2022. Charcoal fires are now prohibited. Beach fires: Permits are required for beach fires in the park and can be acquired at the Bear Valley Visitor Center or from our Beach Fires page at https://www.nps.gov/pore/planyourvisit/beachfires.htm. Small fires made out of natural driftwood are only permitted on sandy beaches (below the high tide line, if possible). Downed wood above the beach's vegetation line may not be gathered and burned. Put fires out with water, not sand. Visit https://www.nps.gov/pore/planyourvisit/beachfires.htm for more details. Fire bans: Visitors planning to cook food over a beach fire should come prepared with an alternative means of cooking (e.g., self-contained gas stove) in the event of a Spare the Air Alert or high, very high or extreme fire danger.",
+    "rvAllowed": "0",
+    "rvInfo": "RVs and Trailers are prohibited.",
+    "rvMaxLength": "0",
+    "additionalInfo": "Each regular (aka individual) 1- to 6-person campsite has a picnic table and a food storage locker. The group sites have two picnic tables and two food storage lockers. Store your food and other scented items properly in the food storage lockers provided at the campsite. Do not leave any food or scented items unattended outside of the locker or stored in your tent. Raccoons, foxes, and skunks are plentiful and aggressive. Do not feed wildlife. Scented items may include, but are not limited to: soap, toothpaste and toothbrushes, toiletries, feminine products, lip balm, deodorant, sunscreen, mosquito repellent, gum, candy, first-aid kits, pots, pans, plates, bowls, cups, forks, spoons, knives, clothes in which one has cooked or eaten, and wash basins (i.e., the kitchen sink). As a general rule, if you put it in your mouth or on your skin or if food comes in contact with it, it should be stored in an animal-resistant food storage container.",
+    "trailerMaxLength": "0",
+    "adaInfo": "There are no ADA camp sites.",
+    "trailerAllowed": "0",
+    "accessRoads": [
+     "No Roads"
+    ],
+    "classifications": [
+     "Designated Primitive Campsites"
+    ]
+   },
+   "multimedia": [],
+   "relevanceScore": 1.0,
+   "lastIndexedDate": ""
+  },
+  {
+   "id": "6EBE4D11-5079-45B7-BDA5-84280A8EE7DF",
+   "url": "https://www.nps.gov/pore/planyourvisit/coast-campground.htm",
+   "name": "Coast Campground",
+   "parkCode": "pore",
+   "description": "Coast Campground is nestled within a small coastal valley with easy access to the beach and tidepools. The beach is within 220 yards of the campground & tidepools are located ~720 yards to the southeast. One may access Coast Campground by foot, bicycle, or horse; not by boat, auto, or RV. The shortest approach on solid ground is via the 1.8-mile slightly uphill hike on the Laguna & Fire Lane Trails, starting at the Laguna Trailhead just east of Limantour Lodge. There are 12 regular sites & two group sites.",
+   "latitude": "38.0171728058",
+   "longitude": "-122.854375341",
+   "latLong": "{lat:38.0171728058, lng:-122.854375341}",
+   "audioDescription": "Coast Campground is nestled within a couple small coastal valleys located about 0.1 miles from the beach. One valley, through which a perennial stream flows, heads north. Uphill to the east of the stream, separated by dense coastal scrub, are campsites one through seven. A second grassy valley branches off of the first and heads east before bending to the north after about 500 feet. This second valley contains campsites eight through fourteen, along with a vault toilet building and two potable water faucets.",
+   "isPassportStampLocation": "0",
+   "passportStampLocationDescription": "",
+   "passportStampImages": [],
+   "geometryPoiId": "C9717BA8-0FBD-443B-B568-551FE7110515",
+   "reservationInfo": "Camping is by permit only. Camping permits must be obtained before starting your trip. Visitors may make online reservations for a permit at this backcountry (i.e., hike-in) campground at Recreation.gov. Some permits/sites are available at 7 am three months to the day in advance and some are available at 7 am 14 days to the day in advance. Print your Recreation.gov confirmation email and be prepared to show it to park rangers on the trail and at your campsite. Print out additional copies of your confirmation email to place face up on the dashboard of each vehicle remaining overnight at park trailheads.",
+   "reservationUrl": "https://www.recreation.gov/camping/campgrounds/233359",
+   "regulationsurl": "http://www.nps.gov/pore/planyourvisit/camping.htm#rules",
+   "regulationsOverview": "Visit our park's Backcountry Camping web page for more about the rules and regulations. Basic rules and regulations include: * Permits are required. * Camp in designated sites. * Dogs and/or other pets are prohibited. * Drones are prohibited. * Glass containers are prohibited within 50 feet of the beach. * Follow Leave No Trace principles. * Store your food and other scented items properly in the food storage lockers provided at the campsite. * Properly dispose of human waste. * Do not wash dishes, bathe, or wash clothing at water faucets. * Wood & charcoal fires are prohibited at the campsites. * Fireworks are prohibited. * Most types of weapons are prohibited. * Hunting is prohibited. * Quiet hours are from sundown to sunrise. * Campers must vacate their campsite by noon on their day of departure. Campsites should be left clean. Do not leave anything behind. * The maximum number of horses or pack animals in any campground is eight. Pack animals and horses must be tied to hitch rails. Llamas are prohibited.",
+   "amenities": {
+    "trashRecyclingCollection": "Yes - year round",
+    "toilets": [
+     "Vault Toilets - year round"
+    ],
+    "internetConnectivity": "No",
+    "showers": [
+     "None"
+    ],
+    "cellPhoneReception": "No",
+    "laundry": "No",
+    "amphitheater": "No",
+    "dumpStation": "No",
+    "campStore": "No",
+    "staffOrVolunteerHostOnsite": "No",
+    "potableWater": [
+     "Yes - year round"
+    ],
+    "iceAvailableForSale": "No",
+    "firewoodForSale": "No",
+    "foodStorageLockers": "Yes - year round"
+   },
+   "contacts": {
+    "phoneNumbers": [
+     {
+      "phoneNumber": "415-464-5100",
+      "description": "",
+      "extension": "",
+      "type": "Voice"
+     }
+    ],
+    "emailAddresses": [
+     {
+      "description": "Please browse through our website (the Plan Your Visit section, especially the Backcountry Camping page, is very useful) and check out the Frequently Asked Questions before submitting your message. We receive a lot of emails requesting information that is available through our website.\n\nWe will respond to emails in the order they are received as soon as possible. Due to the high volume of email, response to your message may take more than a week. Please ensure that the email address you provide is correct.",
+      "emailAddress": "pore_info@nps.gov"
+     }
+    ]
+   },
+   "fees": [
+    {
+     "cost": "30.00",
+     "description": "Regular sites accommodate 1 to 6 people. We do not allow groups of more than six people to split up into multiple regular sites within the same campground. Groups of more than six are restricted to group sites in Coast, Sky, or Wildcat Campground only, and, similarly, may not purchase more than one site per campground. Everyone associated with your party at a given campground must stay in the same, single campsite.",
+     "title": "Permit for a Regular site"
+    },
+    {
+     "cost": "90.00",
+     "description": "Group permits are for parties of 7 to 25 people. Parties of six or fewer people are not permitted to reserve group permits/sites.",
+     "title": "Group Permit for a Group Site"
+    }
+   ],
+   "directionsOverview": "There are multiple routes to get to the Coast Campground. The shortest route would be from Limantour Beach, hiking approximately 1.5 miles on the sandy beach. Or one could start from the Laguna Trailhead, hiking 1.8 miles over a 400-foot high ridge. Or one can hike 2.8 miles along the flat Coast Trail. Or, if starting from the Bear Valley Trailhead, one could hike 6 miles, climbing over the ~1,300-foot high Inverness Ridge. Regardless, campers must hike, or ride a bike or horse to get to the campground.",
+   "directionsUrl": "https://www.nps.gov/pore/planyourvisit/coast-campground.htm#directions",
+   "operatingHours": [
+    {
+     "exceptions": [],
+     "description": "The Coast Campground is open year-round, 24 hours a day. Camping is by permit only. Camping permits must be obtained before starting your trip. Visitors may make online reservations for a permit at this backcountry (i.e., hike-in) campground at Recreation.gov. Print your Recreation.gov confirmation email and be prepared to show it to park rangers on the trail and at your campsite. Place printouts of your confirmation email face up on the dashboard of each vehicle remaining overnight at park trailheads.",
+     "standardHours": {
+      "wednesday": "All Day",
+      "monday": "All Day",
+      "thursday": "All Day",
+      "sunday": "All Day",
+      "tuesday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day"
+     },
+     "name": "Coast Campground"
+    }
+   ],
+   "addresses": [
+    {
+     "postalCode": "94956",
+     "city": "Point Reyes Station",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "1 Bear Valley Road",
+     "type": "Physical",
+     "line3": "",
+     "line2": ""
+    },
+    {
+     "postalCode": "94956",
+     "city": "Point Reyes Station",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "1 Bear Valley Road",
+     "type": "Mailing",
+     "line3": "",
+     "line2": ""
+    }
+   ],
+   "images": [
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Coast Campground from the Coast Trail. June 18, 2022.",
+     "altText": "Looking down at a few campsites in a small grassy seaside valley surrounded by shrub-covered hills.",
+     "caption": "Looking west at Coast Campground, Drakes, Bay, and the Point Reyes Headlands from the Coast Trail.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/E5F43C80-9013-A688-5961320D21447B05.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Coast Campsite 1. August 20, 2022.",
+     "altText": "A campsite containing a picnic table and a food storage locker surrounded by shrubs.",
+     "caption": "Coast Campsite 1",
+     "url": "https://www.nps.gov/common/uploads/structured_data/C6302402-CAFC-5858-5A742FF869BDA555.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Coast Campsite 2. August 20, 2022.",
+     "altText": "A campsite containing a picnic table and a food storage locker surrounded by shrubs.",
+     "caption": "Coast Campsite 2",
+     "url": "https://www.nps.gov/common/uploads/structured_data/C635216C-E9C4-0E15-D6831D87DF3EC49A.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Coast Campsite 3. August 20, 2022.",
+     "altText": "A campsite containing a picnic table and a food storage locker surrounded by shrubs.",
+     "caption": "Coast Campsite 3",
+     "url": "https://www.nps.gov/common/uploads/structured_data/C63B8BA3-065E-0DD7-69559C4996801675.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Coast Campsite 4. August 20, 2022.",
+     "altText": "A campsite containing a tent, a picnic table, and a food storage locker surrounded by shrubs.",
+     "caption": "Coast Campsite 4",
+     "url": "https://www.nps.gov/common/uploads/structured_data/C6409325-D519-CC8F-EF02402B62199C27.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Coast Campsite 5. August 20, 2022.",
+     "altText": "A campsite containing a picnic table and a food storage locker surrounded by shrubs.",
+     "caption": "Coast Campsite 5",
+     "url": "https://www.nps.gov/common/uploads/structured_data/C6453D72-FDA5-52C9-453CB2D51AF84582.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Coast Campsite 6. August 20, 2022.",
+     "altText": "A campsite containing a picnic table and a food storage locker surrounded by shrubs.",
+     "caption": "Coast Campsite 6",
+     "url": "https://www.nps.gov/common/uploads/structured_data/C64B6225-E4B6-000D-B3AE200DFBB63196.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Coast Campsite 7. August 20, 2022.",
+     "altText": "A campsite containing two small tents, a picnic table and a food storage locker.",
+     "caption": "Coast Campsite 7",
+     "url": "https://www.nps.gov/common/uploads/structured_data/C658AC64-0B73-8D49-6C877A8567A1D2ED.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Coast Campsite 8. June 18, 2022.",
+     "altText": "A campsite containing two small tents, two picnic tables, and two food storage lockers.",
+     "caption": "Coast Campsite 8",
+     "url": "https://www.nps.gov/common/uploads/structured_data/E6C4A994-F889-8F45-B647A796F8DD3189.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Coast Campsite 9. August 20, 2022.",
+     "altText": "A campsite containing two small tents, a picnic table, and a food storage locker.",
+     "caption": "Coast Campsite 9",
+     "url": "https://www.nps.gov/common/uploads/structured_data/C65E88F7-A7B9-0C6A-59DF67E438664413.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Coast Campsite 10. August 20, 2022.",
+     "altText": "A campsite containing a picnic table and a food storage locker at the edge of a shrub-covered hill.",
+     "caption": "Coast Campsite 10",
+     "url": "https://www.nps.gov/common/uploads/structured_data/C667BD61-A3D1-0F6B-140279954C838024.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Coast Campsite 11. August 20, 2022.",
+     "altText": "A campsite containing a picnic table and a food storage locker in front of a shrub-covered hill.",
+     "caption": "Coast Campsite 11",
+     "url": "https://www.nps.gov/common/uploads/structured_data/C670C650-C6A3-6179-0548B87EE79A58F4.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Coast Campsite 12. August 20, 2022.",
+     "altText": "A campsite containing a picnic table and a food storage locker in front of a shrub-covered hill.",
+     "caption": "Coast Campsite 12",
+     "url": "https://www.nps.gov/common/uploads/structured_data/C676B1F0-AFC2-39A7-86F53604F0902A00.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Coast Campsite 13. August 20, 2022.",
+     "altText": "A campsite containing two picnic tables & two food storage lockers in front of a shrub-covered hill.",
+     "caption": "Coast Campsite 13",
+     "url": "https://www.nps.gov/common/uploads/structured_data/C67BC529-DDA1-902D-3238EE7016908852.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Coast Campsite 14. August 20, 2022.",
+     "altText": "A campsite containing a picnic table and a food storage locker in front of a shrub-covered hill.",
+     "caption": "Coast Campsite 14",
+     "url": "https://www.nps.gov/common/uploads/structured_data/C6810C80-BBB2-3977-2F1F362388F54B37.jpg"
+    }
+   ],
+   "weatherOverview": "The moderating influence of the Pacific Ocean creates a climate with no great extremes of heat or cold. Any season can bring interesting weather during your visit to Point Reyes National Seashore. Come prepared! You can check the National Weather Service forecast for the Coast Campground at http://forecast.weather.gov/MapClick.php?lon=-122.85&lat=38.02 .",
+   "numberOfSitesReservable": "14",
+   "numberOfSitesFirstComeFirstServe": "0",
+   "campsites": {
+    "totalSites": "14",
+    "group": "2",
+    "horse": "14",
+    "tentOnly": "14",
+    "electricalHookups": "0",
+    "rvOnly": "0",
+    "walkBoatTo": "14",
+    "other": "0"
+   },
+   "accessibility": {
+    "wheelchairAccess": "No wheelchair access.",
+    "internetInfo": "",
+    "cellPhoneInfo": "Reliable AT&T and Verizon cell service is largely limited to the communities of and along the roads connecting Inverness, Inverness Park, Point Reyes Station, and Olema. Cell service elsewhere in the park and by other carriers tends to be extremely limited with weak signals, or nonexistent.",
+    "fireStovePolicy": "Gas camp stoves are permitted. Wood, charcoal, or other solid fuel fires are prohibited at Coast Campground. Charcoal fires: The charcoal grills at Coast Campground were permanently removed on May 11, 2022. Charcoal fires are now prohibited. Beach fires: Permits are required for beach fires in the park and can be acquired at the Bear Valley Visitor Center or from our Beach Fires web page at https://www.nps.gov/pore/planyourvisit/beachfires.htm. Small fires made out of natural driftwood are only permitted on sandy beaches (below the high tide line, if possible). Downed wood above the beach's vegetation line may not be gathered and burned. Put fires out with water, not sand. Visit https://www.nps.gov/pore/planyourvisit/beachfires.htm for more details. Fire bans: Visitors planning to cook food over a beach fire should come prepared with an alternative means of cooking (e.g., self-contained gas stove) in the event of a Spare the Air Alert or high, very high or extreme fire danger.",
+    "rvAllowed": "0",
+    "rvInfo": "RVs and Trailers are prohibited.",
+    "rvMaxLength": "0",
+    "additionalInfo": "Each regular (aka individual) 1- to 6-person campsite has a picnic table and a food storage locker. The group sites have two picnic tables and two food storage lockers. Store your food and other scented items properly in the food storage lockers provided at the campsite. Do not leave any food or scented items unattended outside of the locker or stored in your tent. Raccoons, foxes, and skunks are plentiful and aggressive. Do not feed wildlife. Scented items may include, but are not limited to: soap, toothpaste and toothbrushes, toiletries, feminine products, lip balm, deodorant, sunscreen, mosquito repellent, gum, candy, first-aid kits, pots, pans, plates, bowls, cups, forks, spoons, knives, clothes in which one has cooked or eaten, and wash basins (i.e., the kitchen sink). As a general rule, if you put it in your mouth or on your skin or if food comes in contact with it, it should be stored in an animal-resistant food storage container.",
+    "trailerMaxLength": "0",
+    "adaInfo": "There are no ADA campsites.",
+    "trailerAllowed": "0",
+    "accessRoads": [
+     "No Roads"
+    ],
+    "classifications": [
+     "Designated Primitive Campsites"
+    ]
+   },
+   "multimedia": [],
+   "relevanceScore": 1.0,
+   "lastIndexedDate": ""
+  },
+  {
+   "id": "18007353-02EB-4352-A8A3-08E39A1A5D8F",
+   "url": "https://www.nps.gov/pore/planyourvisit/kayak_libc.htm",
+   "name": "Tomales Bay Boat-in Camping",
+   "parkCode": "pore",
+   "description": "Tomales Bay boat-in camping is allowed on west-side National Park beaches north of Tomales Bay State Park's northern border (i.e., north of Indian Beach and Duck Cove). These beaches are tidally influenced and generally are small sandy coves backed against steep cliffs. Campers on Tomales Bay beaches must arrive by boat and may not hike, bike, or ride horses to the beaches. Twenty permits are available each day\u20149 for parties of 1 to 6 people, 8 for parties of 7 to 14, and 3 for parties of 15 to 25.",
+   "latitude": "38.163318",
+   "longitude": "-122.915392",
+   "latLong": "{lat:38.163318, lng:-122.915392}",
+   "audioDescription": "Tomales Bay is a one-mile-wide, 13-mile-long saltwater bay stretching from its mouth in the north-northwest to its head near Point Reyes Station in the south-southeast. The mainland is to the east and Inverness Ridge and Tomales Point rise to the west. Along the west side of the northern end of the bay are numerous beaches of various size on which camping is permitted.",
+   "isPassportStampLocation": "0",
+   "passportStampLocationDescription": "",
+   "passportStampImages": [],
+   "geometryPoiId": "",
+   "reservationInfo": "Camping is by permit only. Camping permits must be obtained before starting your trip. Visitors may make online reservations for a Tomales Bay boat-in camping permit at Recreation.gov. Boat-in camping permits/sites are available three months to the day in advance. Print your Recreation.gov confirmation email and be prepared to show it to park rangers while on the water or on the beach.",
+   "reservationUrl": "https://www.recreation.gov/camping/campgrounds/233359",
+   "regulationsurl": "https://www.nps.gov/pore/planyourvisit/kayak_libc.htm",
+   "regulationsOverview": "Visit our park's A Guide to Low Impact Boat Camping web page to learn about the rules and regulations. Basic rules and regulations include: * Permits are required. * Camp only on beaches indicated on our Tomales Ba Boat-in Camping map. * Dogs and/or other pets are prohibited. * Drones are prohibited. * Glass containers are prohibited within 50 feet of the beach, or on the water, or in a vessel; i.e., leave glass containers at home or in your vehicles. * Follow Leave No Trace principles. * Store your food and other scented items properly in bear cannisters. * Properly dispose of human waste. * Beach Fire Permits are required for wood fires. * Fireworks are prohibited. * Most types of weapons are prohibited. * Hunting is prohibited. * Quiet hours are from sundown to sunrise. * Check-out is at noon on your day of departure.",
+   "amenities": {
+    "trashRecyclingCollection": "No",
+    "toilets": [
+     "Vault Toilets - year round",
+     "No Toilets"
+    ],
+    "internetConnectivity": "No",
+    "showers": [
+     "None"
+    ],
+    "cellPhoneReception": "Yes - year round",
+    "laundry": "No",
+    "amphitheater": "No",
+    "dumpStation": "No",
+    "campStore": "No",
+    "staffOrVolunteerHostOnsite": "No",
+    "potableWater": [
+     "No water"
+    ],
+    "iceAvailableForSale": "No",
+    "firewoodForSale": "No",
+    "foodStorageLockers": "No"
+   },
+   "contacts": {
+    "phoneNumbers": [
+     {
+      "phoneNumber": "415-464-5100",
+      "description": "",
+      "extension": "",
+      "type": "Voice"
+     }
+    ],
+    "emailAddresses": [
+     {
+      "description": "Please browse through our website (the Plan Your Visit section, especially the Boat-in Camping page, is very useful) and check out the Frequently Asked Questions before submitting your message. We receive a lot of emails requesting information that is available through our website. \n\nWe will respond to emails in the order they are received as soon as possible. Due to the high volume of email, response to your message may take more than a week. Please ensure that the email address you provide is correct.",
+      "emailAddress": "pore_info@nps.gov"
+     }
+    ]
+   },
+   "fees": [
+    {
+     "cost": "30.00",
+     "description": "Regular permits accommodate 1 to 6 people. We do not allow groups of more than 6 people to reserve multiple permits. Groups of more than six are restricted to 7- to 25-person group permits. Everyone associated with your party at a given beach must be under the same permit.",
+     "title": "Regular Tomales Bay Boat-in Camping Permit"
+    },
+    {
+     "cost": "60.00",
+     "description": "Small group permits are for parties of 7 to 14 people. Parties of six or fewer people are not permitted to reserve group permit. If you reserve a Boat B permit, you are required to camp at Marshall or Tomales Beaches where vault toilets are provided, unless you have and use a portable toilet.",
+     "title": "Small Group Tomales Bay Boat-in Camping Permit (aka Boat B \"site\")"
+    },
+    {
+     "cost": "90.00",
+     "description": "Large group permits are for parties of 15 to 25 people. Parties of six or fewer people are not permitted to reserve group permit. If you reserve the group permits for Marshall Beach or Tomales Beach, you are required to camp at the specified beach.",
+     "title": "Large Group Tomales Bay Boat-in Camping Permit (aka Marshall Beach Group or Tomales Beach Group \"site\")"
+    }
+   ],
+   "directionsOverview": "There are no designated campsites along Tomales Bay. Instead, there are a number of beaches on which one may camp, if one has a boat-in camping permit. Campers on Tomales Bay beaches must arrive by boat, kayak, canoe, or other small watercraft (except for PWCs). Overnight parking for boat-in campers is allowed at Miller Boat Launch, Tomales Bay Resort, and Lawson's Landing, but prohibited within Point Reyes National Seashore and Tomales Bay State Park. Visit our Boat-in Camping page for more details.",
+   "directionsUrl": "https://www.nps.gov/pore/planyourvisit/kayak_libc.htm#wheretolaunch",
+   "operatingHours": [
+    {
+     "exceptions": [],
+     "description": "The Tomales Bay beaches on which Boat-in Camping is permitted are open year-round, 24 hours a day for those with a current boat-in camping permit. Camping is by permit only. Camping permits must be obtained before starting your trip. Visitors may make online reservations for a permit at this backcountry (i.e., hike-in) campground at Recreation.gov. Print your Recreation.gov confirmation email and be prepared to show it to park rangers while boating or on the beach.",
+     "standardHours": {
+      "wednesday": "All Day",
+      "monday": "All Day",
+      "thursday": "All Day",
+      "sunday": "All Day",
+      "tuesday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day"
+     },
+     "name": "Tomales Bay Boat-in Camping"
+    }
+   ],
+   "addresses": [
+    {
+     "postalCode": "94956",
+     "city": "Point Reyes Station",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "1 Bear Valley Road",
+     "type": "Physical",
+     "line3": "",
+     "line2": ""
+    },
+    {
+     "postalCode": "94956",
+     "city": "Point Reyes Station",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "1 Bear Valley Road",
+     "type": "Mailing",
+     "line3": "",
+     "line2": ""
+    }
+   ],
+   "images": [
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Marshall Beach - July 11, 2020",
+     "altText": "A small tent is set up above a sandy beach that bends to the left in the distance.",
+     "caption": "Marshall Beach with kayakers and a tent on July 11, 2020.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/63C08325-93DB-34B7-4E5DEC4BBAA5F85C.jpg"
+    }
+   ],
+   "weatherOverview": "Weather can change rapidly and with little warning at Point Reyes. Point Reyes is renowned for its strong winds, fog, rough seas, and temperatures that are cooler than elsewhere in the San Francisco Bay Area. Always observe and evaluate wind and wave conditions before entering the water. Extreme weather conditions may be encountered at any time. Visit our Your Safety While Boating at https://www.nps.gov/pore/planyourvisit/safety_boating.htm for more information.",
+   "numberOfSitesReservable": "20",
+   "numberOfSitesFirstComeFirstServe": "0",
+   "campsites": {
+    "totalSites": "20",
+    "group": "3",
+    "horse": "0",
+    "tentOnly": "20",
+    "electricalHookups": "0",
+    "rvOnly": "0",
+    "walkBoatTo": "20",
+    "other": "0"
+   },
+   "accessibility": {
+    "wheelchairAccess": "No wheelchair access.",
+    "internetInfo": "",
+    "cellPhoneInfo": "Reliable AT&T and Verizon cell service is largely limited to the communities of and along the roads connecting Inverness, Inverness Park, Point Reyes Station, and Olema. Cell service elsewhere in the park and by other carriers tends to be extremely limited with weak signals, or nonexistent.",
+    "fireStovePolicy": "Gas camp stoves are the preferred means for cooking. Visitors planning to cook food over a beach fire or barbecue briquettes should come prepared with an alternative means of cooking (i.e., self-contained gas stove) in the event of a Spare the Air Alert or high, very high, or extreme fire danger conditions. If you wish to build a fire, obtain a free fire permit at the Bear Valley Visitor Center or from our Beach Fires web page at https://nps.gov/pore/planyourvisit/beachfires.htm. The collection of wood (whether driftwood or downed wood) for fires (or otherwise) is prohibited on Tomales Bay. You must bring firewood from outside of the park\u2014but wait until you are in West Marin before purchasing firewood. Don't Move Firewood: Buy it where you burn it. Build the fire below the high tide line & not near any large driftwood logs or vegetation nor under overhanging tree limbs. Charcoal fires are only allowed in camper-provided self-contained barbecue grills. Visit the park's Beach Fires web page for more details.",
+    "rvAllowed": "0",
+    "rvInfo": "RVs and Trailers are prohibited.",
+    "rvMaxLength": "0",
+    "additionalInfo": "Sanitation: Disposing of human waste in the bay or onto park beaches is prohibited. On Tomales Bay, there are vault toilets at Marshall Beach and Tomales Beach. If camping on other beaches, you are required to pack out all human waste using a portable toilet or similar commercially designed waste disposal containers that can be emptied into an RV dump station or pit toilet, or a GO anywhere toilet kit\u00ae (formerly sold as WAG\u00ae Bags). While there are restrooms at Hearts Desire Beach, Lawsons Landing, and Miller Boat Launch, a pit toilet at Indian Beach, and portable toilets at Chicken Ranch Beach, camping is prohibited at all of these locations. Food and Food Storage: Animals will tear into tents and kayaks to get at food. All food, all trash, all toiletries, and all other scented items should be stored in portable animal-resistant food storage containers unless in immediate use. Visit the park's A Guide to Low Impact Boat Camping page at https://www.nps.gov/pore/planyourvisit/kayak_libc.htm for more details.",
+    "trailerMaxLength": "0",
+    "adaInfo": "There are no ADA campsites/beaches.",
+    "trailerAllowed": "0",
+    "accessRoads": [
+     "No Roads"
+    ],
+    "classifications": [
+     "Primitive Camping Areas"
+    ]
+   },
+   "multimedia": [],
+   "relevanceScore": 1.0,
+   "lastIndexedDate": ""
+  }
+ ]
+}

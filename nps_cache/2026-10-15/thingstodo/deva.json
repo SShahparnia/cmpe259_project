@@ -1,0 +1,1396 @@
+{
+ "_meta": {
+  "endpoint": "thingstodo",
+  "park_code": "deva",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 14,
+  "fetched_at": "2026-10-15T18:18:41"
+ },
+ "data": [
+  {
+   "id": "1912B806-5AB5-4596-961A-903663B0A4BB",
+   "url": "https://www.nps.gov/thingstodo/explore-wildflowers-in-death-valley.htm",
+   "title": "Explore Wildflowers in Death Valley",
+   "shortDescription": "Learn about the different flowers you might be able to see in Death Valley during spring months.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/09340E50-F586-2729-ECE5613695943780.jpg",
+     "credit": "NPS/ D.Milliard",
+     "altText": "Notch-leaved Phacelia and Golden Evening Primrose bloom in a desert wash.",
+     "title": "Wildflowers in Death Valley",
+     "description": "",
+     "caption": "Notch-leaved Phacelia and Golden Evening Primrose bloom in a desert wash.",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/09340E50-F586-2729-ECE5613695943780.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/09340E50-F586-2729-ECE5613695943780.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA,NV",
+     "parkCode": "deva",
+     "designation": "National Park",
+     "fullName": "Death Valley National Park",
+     "url": "https://www.nps.gov/deva/index.htm",
+     "name": "Death Valley"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "wildflowers",
+    "Death Valley",
+    "Death Valley National Park",
+    "flowers",
+    "Spring Flowers"
+   ],
+   "latitude": "36.4617962761",
+   "longitude": "-116.866672707",
+   "geometryPoiId": "ea31bd33-5d7d-4b18-85af-172c5f25e041",
+   "amenities": [],
+   "location": "",
+   "seasonDescription": "Wildflowers only bloom in the spring months. Lower elevations see flowers mid February to Mid April, mid-level elevation see flowers early April to early may and higher elevations see them early May to mid July.",
+   "accessibilityInformation": "While wildflowers can be seen in various locations of Death Valley, many can be see from the road. Paved roads are two lanes and have gravel shoulders. Some road shoulders may be softer than other, use caution if you are pulling off the road to a shoulder.",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "Pets are only allowed where vehicles can go in Death Valley.",
+   "timeOfDayDescription": "",
+   "feeDescription": "Death Valley has an entrance fee, more information can be found on the <a href=\"https://www.nps.gov/deva/planyourvisit/fees.htm\">fees page</a>.",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "false",
+   "activities": [
+    {
+     "id": "0B4A5320-216D-451A-9990-626E1D5ACE28",
+     "name": "Scenic Driving"
+    }
+   ],
+   "activityDescription": "Wildflowers pop up in the desert climate of Death Valley during the spring months. There are various elevations in this expansive park that receive flowers at different times during spring. These locations can be explored by car, traveling to respective locations based on when you are visiting the park.<br /> <br /> Visit the <a href=\"https://www.nps.gov/deva/learn/nature/wildflowers.htm\">Death Valley Wildflower page</a> or stop by the Furnace Creek Visitor Center for more information!",
+   "locationDescription": "The most up to date information about where you may see wildflowers in the park can be found on the <a href=\"https://www.nps.gov/deva/learn/nature/wildflowers.htm\">Death Valley Wildflower page</a>.",
+   "doFeesApply": "false",
+   "longDescription": "The opportunity to view a spectacular wildflower show is a big draw to Death Valley. About once a decade the park can experience carpets of wildflowers known as a superbloom, which is a very rare but amazing sight! Even on normal bloom years, early spring months can bring smaller pockets of flowers to the desert floor, and later to the mid- and high-elevations.<br /> <br /> Learn more about this year's wildflower predictions, and when different elevations are likely to bloom on <a href=\"https://www.nps.gov/deva/learn/nature/wildflowers.htm\">Death Valley's Wildflower\u00a0page</a>.",
+   "reservationDescription": "",
+   "season": [
+    "Spring"
+   ],
+   "topics": [
+    {
+     "id": "9BD60DC0-C82B-42BA-A170-456B7423429D",
+     "name": "Photography"
+    }
+   ],
+   "durationDescription": "Depending on where you wish to travel in the park, it may take longer than you expect. <strong>Plan accordingly!</strong> Visit the Death Valley <a href=\"https://www.nps.gov/deva/planyourvisit/conditions.htm\">Alerts & Conditions</a> page for the most up to date information on roads in the park.",
+   "arePetsPermitted": "false",
+   "timeOfDay": [
+    "Day",
+    "Dawn"
+   ],
+   "duration": "1-3 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "814AE548-1F23-4D9E-8AEC-D893051C1C53",
+   "url": "https://www.nps.gov/thingstodo/visit-the-furnace-creek-visitor-center.htm",
+   "title": "Visit the Furnace Creek Visitor Center",
+   "shortDescription": "Stop by the visitor center to speak with park rangers and pay park fees and purchase national park passes. View the exhibits about Death Valley's history and natural wonders. Watch the park film, which is 20 minutes in length and plays throughout the day. Shop at the bookstore - light snacks/sandwiches/water are available for purchase. Become a Junior Ranger! Complete the activities in the booklet and earn a badge.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/156F0019-C4E4-4FFD-46A1037787C6869B.jpg",
+     "credit": "NPS / E. Hoerner",
+     "altText": "a one story block building and flag pole",
+     "title": "Furnace Creek Visitor Center",
+     "description": "",
+     "caption": "Take a picture next to the famous thermometer, see exhibits and park film, shop, or talk to rangers!",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/156F0019-C4E4-4FFD-46A1037787C6869B.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/156F0019-C4E4-4FFD-46A1037787C6869B.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA,NV",
+     "parkCode": "deva",
+     "designation": "National Park",
+     "fullName": "Death Valley National Park",
+     "url": "https://www.nps.gov/deva/index.htm",
+     "name": "Death Valley"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "visitor center",
+    "park film",
+    "exhibits",
+    "Junior Ranger",
+    "Death Valley National Park"
+   ],
+   "latitude": "36.4617204661068",
+   "longitude": "-116.86664569377871",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "",
+   "seasonDescription": "",
+   "accessibilityInformation": "ADA- assisted listening and audio description devices are available for the park film and visitor center exhibits.",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "Pets are not allowed within buildings. You may walk your pet around the parking area; pets must be restrained on a maximum 6 foot leash. Pets may not be left unattended in vehicles.",
+   "timeOfDayDescription": "Open daily; <a href=\"https://www.nps.gov/deva/planyourvisit/basicinfo.htm\">hours</a> may vary.\u00a0",
+   "feeDescription": "Entry included with park entry free or accepted pass. Please display passes in your vehicle's windshield.",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "false",
+   "activities": [
+    {
+     "id": "C8F98B28-3C10-41AE-AA99-092B3B398C43",
+     "name": "Museum Exhibits"
+    }
+   ],
+   "activityDescription": "Explore exhibits, watch the park film, participate in the Junior Ranger program, and meet with rangers regarding trip plans and your questions.",
+   "locationDescription": "The visitor center is located on Highway 190 at Furnace Creek, near the the Oasis at Death Valley and the gas station.\u00a0",
+   "doFeesApply": "true",
+   "longDescription": "<p>Stop by the visitor center to:</p> <ul> <li>Speak with park rangers</li> <li>Pay park fees and purchase national park passes</li> <li>View the exhibits</li> <li>Watch the park film (20 minutes in length)</li> <li>Shop at the\u00a0<a href=\"http://dvnha.org/\">bookstore</a>\u00a0- light snacks/sandwiches/water are available for purchase</li> <li>Become a\u00a0<a href=\"https://www.nps.gov/deva/learn/kidsyouth/junior-ranger.htm\">Junior Ranger</a><a href=\"https://www.nps.gov/deva/planyourvisit/upload/DV-Junior-Ranger-Adventure-Book_.pdf\">!</a>\u00a0Complete the activities in the booklet and earn a badge.</li> </ul>",
+   "reservationDescription": "",
+   "season": [],
+   "topics": [
+    {
+     "id": "F0F97E32-2F29-41B4-AF98-9FBE8DAB36B1",
+     "name": "Geology"
+    },
+    {
+     "id": "0E1A04CC-EB51-4F18-93D4-EC0B0B4EC1E3",
+     "name": "Freshwater Springs"
+    },
+    {
+     "id": "BDC806A8-5470-4A8B-A0F9-CD804BE3028A",
+     "name": "Mining"
+    },
+    {
+     "id": "A1BAF33E-EA84-4608-A888-4CEE9541F027",
+     "name": "Native American Heritage"
+    },
+    {
+     "id": "83DDFE66-914E-4402-AD3E-ACA731AB2537",
+     "name": "The Gold Rush"
+    },
+    {
+     "id": "B85866E2-0897-4000-9040-605CA335804F",
+     "name": "Wilderness"
+    }
+   ],
+   "durationDescription": "Ask a few quick questions, shop in the bookstore, watch the 20 minute park film, or spend time doing an in-depth read and exploration of the exhibit hall.",
+   "arePetsPermitted": "false",
+   "timeOfDay": [],
+   "duration": "15-120 Minutes",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "B6F88D6D-F8DA-49A6-B7C3-97B286EEA718",
+   "url": "https://www.nps.gov/thingstodo/bird-watching.htm",
+   "title": "Bird Watching",
+   "shortDescription": "Roadrunners and ravens and hummingbirds- oh my! With many resident and migratory species, bird watching opportunities abound in Death Valley.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/1587376D-F3E4-1CCD-3B647974FE720D9B.jpg",
+     "credit": "NPS/ Neal Nurmi",
+     "altText": "A green hummingbird with a purple and white throat drinks from a yellow flower.",
+     "title": "Death Valley Hummingbird",
+     "description": "",
+     "caption": "Hummingbirds take advantage of Death Valley blooms.",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/1587376D-F3E4-1CCD-3B647974FE720D9B.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/1587376D-F3E4-1CCD-3B647974FE720D9B.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA,NV",
+     "parkCode": "deva",
+     "designation": "National Park",
+     "fullName": "Death Valley National Park",
+     "url": "https://www.nps.gov/deva/index.htm",
+     "name": "Death Valley"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "Death Valley National Park",
+    "Bird Watching",
+    "migration",
+    "bird migration",
+    "birdwatching"
+   ],
+   "latitude": "",
+   "longitude": "",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "",
+   "seasonDescription": "",
+   "accessibilityInformation": "Many prime birdwatching spots can be accessed from paved parking areas. Speak with a ranger about the accessibility of the location you plan on visiting.",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "",
+   "timeOfDayDescription": "",
+   "feeDescription": "Fee covered by general park entry fee.\u00a0",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "true",
+   "activities": [
+    {
+     "id": "5A2C91D1-50EC-4B24-8BED-A2E11A1892DF",
+     "name": "Birdwatching"
+    }
+   ],
+   "activityDescription": "",
+   "locationDescription": "",
+   "doFeesApply": "true",
+   "longDescription": "Death Valley is a birder's paradise due to the sheer number of species which can be spotted in the park. One of the largest contributers to this diversity is the huge range of elevations and associated habitats present (over 11,000 ft/ 3353 m). From the creosote-studded sands of Mesquite Flat Sand Dunes, to the riparian oasis at Darwin Falls, to the bristlecone forest crowning Telescope Peak, many habitat types mean many bird species which call Death Valley home.\u00a0<br /> <br /> In addition to year-round residents such as ravens and roadrunners, Death Valley's water sources are also a vital resource for migratory birds, many of which can be spotted in the spring and fall.\u00a0<br /> <br /> <strong>Spring Migration</strong><br /> For a few weeks in the spring, hundreds of species pass through desert areas. The first of the northbound spring migrants can be seen as early as the beginning of March, with migration fully ramping up by mid-March to early April. The first wave of warblers reaches the valley about mid-April. The northbound movement reaches its peak from late April to early May.<br /> <br /> <strong>Nesting</strong><br /> Nesting occurs from mid-February (during warm springs) at lower elevations, through July at higher elevations. May through June is the most productive nesting period.<br /> <br /> <strong>Fall Migration</strong><br /> There is definite evidence that the fall migration is underway by early August. Southbound movements are at a peak near the end of September. However, it is sometimes difficult to differentiate between northbound and southbound movements. Late spring migrants may still be moving north as early fall migrants begin their southward journeys. There is also the post-nesting summering visitors which may be mistaken for early southbound migrants.<br /> <br /> <strong>Winter</strong><br /> November through March is probably the poorest season for birding; a few permanent residents remain, as well as occasional Sierran visitors. The majority of the park's avifauna can be found at the low mountain springs and desert oases. Furnace Creek Ranch, with its diversity of habitats is a hot spot. Springs occuring up to approximatley 4,000 feet (1,219 m) elevation are also common wintering habitats.<br /> <br /> <strong>Where to look for birds</strong><br /> Visiting the following areas provides an overview of the diversity of Death Valley habitat and avian species:<br /> <br /> Saratoga Spring (60 ft. elevation)\u2013 a low desert oasis.<br /> <br /> Furnace Creek Ranch (-200 ft. elev.) \u2013 multiple lush habitats; visit the bird viewing platform next to Airport Road. <em>Note: please do not enter the golf course unless golfing.</em><br /> <br /> Scotty\u2019s Castle (3,000 ft. elev.) \u2013 riparian habitat.\u00a0<em>(currently closed due to flooding)</em><br /> <br /> Wildrose (4,000 ft. elev.) \u2013 riparian habitat.<br /> <br /> High Panamints: Charcoal Kilns to the top of Telescope Peak (elevations from 7,000 \u2013 11,000 ft)\u2013 this challenging drive / hike passes through pinyon-juniper habitat to bristlecone pine communities (recommended during clear / non-snow conditions only).<br /> <br /> Use this Death Valley <a href=\"https://www.nps.gov/deva/learn/nature/upload/DEVA-Bird-List-508.pdf\">bird list</a> to keep track of species you observe.",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "957EF2BD-AC6C-4B7B-BD9A-87593ADC6691",
+     "name": "Birds"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "true",
+   "timeOfDay": [
+    "Day",
+    "Dawn",
+    "Dusk"
+   ],
+   "duration": "",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "9C3DA5D5-6973-4B85-9388-92E0A804B333",
+   "url": "https://www.nps.gov/thingstodo/harmony-borax-works-self-guided-walk.htm",
+   "title": "Harmony Borax Works Self Guided Walk",
+   "shortDescription": "Harmony Borax Works was instrumental in drawing people to Death Valley in the late 1800s and in the subsequent popularity of the Furnace Creek area. The 1/4 mi (0.4 km) paved walking path at this site takes visitors back in time by exploring the ruins of the plant and associated townsite and an original twenty mule team wagon.\u00a0",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/18B708C9-0F8F-6A18-F83E9358E547BC0F.jpg",
+     "credit": "NPS/ K. Moses",
+     "altText": "Two adults and a child look at a waist high sign next to a wooden and metal wagon in the desert.",
+     "title": "Harmony Borax Works Tour",
+     "description": "",
+     "caption": "Learn about the famous Twenty Mule teams at Harmony Borax Works.",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/18B708C9-0F8F-6A18-F83E9358E547BC0F.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/18B708C9-0F8F-6A18-F83E9358E547BC0F.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA,NV",
+     "parkCode": "deva",
+     "designation": "National Park",
+     "fullName": "Death Valley National Park",
+     "url": "https://www.nps.gov/deva/index.htm",
+     "name": "Death Valley"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "Mining",
+    "minerals",
+    "history",
+    "Wagon",
+    "mule",
+    "Death Valley National Park",
+    "borax",
+    "self guided walk",
+    "harmony borax works"
+   ],
+   "latitude": "36.480240205454024",
+   "longitude": "-116.87326353920206",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Harmony Borax Works parking area",
+   "seasonDescription": "The 1/4 mile walk is not recommended during extreme temperatures, especially after 10AM in the summer. Harmony Borax Works area can viewed from afar from the parking lot.",
+   "accessibilityInformation": "Harmony Borax works interpretive trail is a 1/4 mile paved pathway that gains slightly in elevation as it leaves the parking lot. Areas of the pavement are cracked/crumbling, so watch your footing. The historic wagon and structures can be viewed from a distance from the parking lot.\u00a0",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "",
+   "timeOfDayDescription": "This site is great to enjoy during the day and is also a popular spot for night sky viewing.\u00a0",
+   "feeDescription": "Included with entrance fee or acceptable National Park pass. Please display your pass in the vehicle's windshield.",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "false",
+   "activities": [
+    {
+     "id": "A0631906-9672-4583-91DE-113B93DB6B6E",
+     "name": "Self-Guided Tours - Walking"
+    }
+   ],
+   "activityDescription": "Harmony Borax Works has a 1/4 mile paved path through the ruins of the site. There are interpretive signs along the trail which provide information about the area's history.\u00a0",
+   "locationDescription": "A few minutes west of Furnace Creek (2 mi / 3.2 km) on CA-190. Large parking area can accommodate buses and large RVs.",
+   "doFeesApply": "true",
+   "longDescription": "Harmony Borax Works was instrumental in drawing people to Death Valley in the late 1800s and in the subsequent popularity of the Furnace Creek area. The 1/4 mi (0.4 km) paved walking path at this site takes visitors back in time by exploring the ruins of the plant and associated townsite and an original twenty mule team wagon.\u00a0<br /> <br /> <span style=\"color:#c0392b;\"><strong>HIKING NOT ADVISED AFTER 10AM IN THE SUMMER</strong></span><br /> <br /> <strong>Round Trip Length:\u00a0</strong>0.4 mi (0.6km)\u00a0<br /> <strong>Difficulty:</strong>\u00a0Easy<br /> <strong>Elevation Gain:\u00a0</strong>50 ft (0.8km)<br /> <strong>Trail Type:</strong>\u00a0paved, ADA accessible<br /> <strong>Closest Restroom:</strong>\u00a0No restrooms. Furnace Creek Visitor Center 1 mile (1.6km) east.",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "FB3641FE-67A3-4EC7-B9C4-0A0867776798",
+     "name": "Ancient Seas"
+    },
+    {
+     "id": "227D2677-28CA-4CBF-997F-61108975A497",
+     "name": "Asian American Heritage"
+    },
+    {
+     "id": "F0F97E32-2F29-41B4-AF98-9FBE8DAB36B1",
+     "name": "Geology"
+    },
+    {
+     "id": "087E5290-E130-49C1-ADFB-DAFB0644DBE4",
+     "name": "Mineral Deposits"
+    },
+    {
+     "id": "BDC806A8-5470-4A8B-A0F9-CD804BE3028A",
+     "name": "Mining"
+    },
+    {
+     "id": "A7359FC4-DAD8-45F5-AF15-7FF62F816ED3",
+     "name": "Night Sky"
+    },
+    {
+     "id": "E06F3C94-AC8A-4B1C-A247-8EBA8910D5EE",
+     "name": "Astronomy"
+    },
+    {
+     "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+     "name": "Scenic Views"
+    },
+    {
+     "id": "86525CF5-EB56-41A6-90BF-566C6C0FC945",
+     "name": "Trains and Railroads"
+    },
+    {
+     "id": "C9C749E3-39C3-45F7-BCC5-9A609E30AA05",
+     "name": "Westward Expansion"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "false",
+   "timeOfDay": [
+    "Day",
+    "Night",
+    "Dawn",
+    "Dusk"
+   ],
+   "duration": "15-35 Minutes",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "7FE0C782-22F1-40A0-A6B9-9D9A9CE0526A",
+   "url": "https://www.nps.gov/thingstodo/tour-artists-drive.htm",
+   "title": "Tour Artists Drive",
+   "shortDescription": "Enjoy a scenic drive through a geologic rainbow! Artists Drive is a one-way, nine mile (14.5 km) drive which passes through eroded, colorful desert hills. Artists Palette (a viewpoint) has the most colorful scenery along the road.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/E5AC2336-1DD8-B71B-0B1FE9484E534502.jpg",
+     "credit": "",
+     "altText": "A vehicle drives along a single lane road through colorful, eroded hills.",
+     "title": "",
+     "description": "",
+     "caption": "",
+     "crops": [
+      {
+       "aspectRatio": "3",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/E5AC2336-1DD8-B71B-0B1FE9484E534502.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/E5AC2336-1DD8-B71B-0B1FE9484E534502.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA,NV",
+     "parkCode": "deva",
+     "designation": "National Park",
+     "fullName": "Death Valley National Park",
+     "url": "https://www.nps.gov/deva/index.htm",
+     "name": "Death Valley"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "Scenic Drive",
+    "View",
+    "hiking",
+    "Death Valley National Park",
+    "Artists Drive",
+    "Artists Palette",
+    "Star Wars"
+   ],
+   "latitude": "36.2502784729004",
+   "longitude": "-116.825836181641",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Artists Drive",
+   "seasonDescription": "",
+   "accessibilityInformation": "This scenic drive is a paved road with a 25 ft (8 m) length restriction. The view at Artists Palette can be seen from the parking area.\u00a0",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "<strong>General Death Valley pet regulations:</strong> Pets are allowed on roads and in developed places such as campgrounds and picnic areas. Pets must be restrained or kept on a leash no longer than 6 feet (1.8 m) at all times. Pets may <u>not go</u> on trails or into Wilderness areas. Do not leave your pet in your vehicle.",
+   "timeOfDayDescription": "",
+   "feeDescription": "Included with entrance fee or pass.\u00a0",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "true",
+   "activities": [
+    {
+     "id": "0B4A5320-216D-451A-9990-626E1D5ACE28",
+     "name": "Scenic Driving"
+    }
+   ],
+   "activityDescription": "",
+   "locationDescription": "Left turn off Badwater Road, 8.5 miles (13.7 km) south of the Badwater/CA-190 junction.",
+   "doFeesApply": "true",
+   "longDescription": "Looking for a way to see the beauty of Death Valley without having to do a lot of walking? Be sure to check out Artists Drive. The most popular scenic drive in the park, this nine mile (14.5 km) paved road winds through multicolored, eroded hills. The colorful rainbow hills of Artists Drive were formed by volcanic deposits of different compositions. Artists Drive is beautiful any time of day, but the colors are most dramatic during afternoon light.<br /> <br /> This drive is one-way and has a vehicle length restricion of 25 feet (8 m) due to dramatic dips and sharp turns. This is a popular route for cyclists, so watch for bicyles and pedestrians in the road.<br /> <br /> <strong>Star Wars Fan?\u00a0</strong>Check out the area around Artists Palette for some familiar views! Parts of Star Wars Episode IV: A New Hope, were filmed here.<br /> <br /> <em>Star Wars was filmed in the national park a few decades ago, when that type of filming was allowed. The vast majority of the filming which was done at that time is not permitted today in order to protect park wilderness. Information on commercial filming can be found on our\u00a0</em><a href=\"https://www.nps.gov/deva/getinvolved/dobusinesswithus.htm\">permits page.</a>",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "9BD60DC0-C82B-42BA-A170-456B7423429D",
+     "name": "Photography"
+    },
+    {
+     "id": "BCE3ACBE-7871-495B-AEA3-5E19BC482405",
+     "name": "Canyons and Canyonlands"
+    },
+    {
+     "id": "F0F97E32-2F29-41B4-AF98-9FBE8DAB36B1",
+     "name": "Geology"
+    },
+    {
+     "id": "087E5290-E130-49C1-ADFB-DAFB0644DBE4",
+     "name": "Mineral Deposits"
+    },
+    {
+     "id": "101F4D51-F99D-45A6-BBB6-CD481E5FACED",
+     "name": "Mountains"
+    },
+    {
+     "id": "A7359FC4-DAD8-45F5-AF15-7FF62F816ED3",
+     "name": "Night Sky"
+    },
+    {
+     "id": "4244F489-6813-4B7A-9D0C-20CE098C8FFF",
+     "name": "Rock Landscapes and Features"
+    },
+    {
+     "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+     "name": "Scenic Views"
+    },
+    {
+     "id": "0BBD4A42-2B3D-4E82-B5C4-1A3874C8682E",
+     "name": "Roads, Routes and Highways"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "true",
+   "timeOfDay": [],
+   "duration": "25-45 Minutes",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "C1352A79-0547-4120-A3BF-FC8444EDF06C",
+   "url": "https://www.nps.gov/thingstodo/drive-twenty-mule-team-canyon.htm",
+   "title": "Drive Twenty Mule Team Canyon",
+   "shortDescription": "A short scenic drive along an unpaved road through colorful badlands.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/175B219C-F483-2126-D6D6C81753319A86.jpg",
+     "credit": "NPS / E. Hoerner",
+     "altText": "A dirt road through bare brown and yellow striped hills.",
+     "title": "Twenty Mule Team Road",
+     "description": "",
+     "caption": "These badlands have been the setting for scenes from popular films including Star Wars Episode VI.",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/175B219C-F483-2126-D6D6C81753319A86.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/175B219C-F483-2126-D6D6C81753319A86.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA,NV",
+     "parkCode": "deva",
+     "designation": "National Park",
+     "fullName": "Death Valley National Park",
+     "url": "https://www.nps.gov/deva/index.htm",
+     "name": "Death Valley"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "Star Wars",
+    "Scenic Drive",
+    "Death Valley National Park",
+    "Twenty Mule Team Canyon"
+   ],
+   "latitude": "36.4091582790071",
+   "longitude": "-116.79480315459125",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Twenty Mule Team Canyon",
+   "seasonDescription": "",
+   "accessibilityInformation": "This maintained dirt road is usually passable by most vehicles. Check with a ranger for current conditions.",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "Twenty Mule Team Canyon Road is an excellent place for a leashed walk with your pet. Remember that this is a road, so please watch for vehicles and clean up after your pet.<br /> <br /> <strong>General Death Valley pet regulations:</strong> Pets are allowed on roads and in developed places such as campgrounds and picnic areas. Pets must be restrained or kept on a leash no longer than 6 feet (1.8 m) at all times. Pets may not go on trails or into Wilderness areas. Do not leave your pet in your vehicle.",
+   "timeOfDayDescription": "",
+   "feeDescription": "Included with entrance fee or acceptable pass. Please display your pass in your vehicle's windshield.",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "true",
+   "activities": [
+    {
+     "id": "0B4A5320-216D-451A-9990-626E1D5ACE28",
+     "name": "Scenic Driving"
+    }
+   ],
+   "activityDescription": "",
+   "locationDescription": "The entrance to this one-way road is off CA-190 about 5 miles (8 km) east of Furnace Creek.\u00a0",
+   "doFeesApply": "true",
+   "longDescription": "Take a drive along this beautiful unpaved road through colorful, eroded badlands.\u00a0Afternoon and morning light cause the erosion in the hills to become highlighted and shadowed, creating spectacular contrast and ample photo opportunities.\u00a0<br /> <br /> The entrance to this short (2.5 mi/4 km) one-way road is just east of Zabriskie Point off CA-190. Although the road is usually fine for most cars, those with especally low clearance are not recommended. Check with a ranger for current conditions.<br /> <br /> <strong>Star Wars Fan?</strong>\u00a0Scenes from Star Wars Episode VI: Return of the Jedi, were filmed here. Do you recognize the landscape around Jabba the Hutt's palace? The Blu-ray deleted scenes of Star Wars Episode VI: Return of the Jedi also include a scene from Twenty Mule Team Canyon. This deleted scene shows a small cave (which for safety reasons, is now closed) where Luke Skywalker finishes his light saber. There were also a few shots from outside the cave.<br /> <br /> <em>Star Wars was filmed in the national park a few decades ago, when that type of filming was allowed. The vast majority of the filming which was done at that time is not permitted today in order to protect park wilderness. Information on commercial filming can be found on our\u00a0</em><a href=\"https://www.nps.gov/deva/getinvolved/dobusinesswithus.htm\">permits page.</a>",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "FB3641FE-67A3-4EC7-B9C4-0A0867776798",
+     "name": "Ancient Seas"
+    },
+    {
+     "id": "BCE3ACBE-7871-495B-AEA3-5E19BC482405",
+     "name": "Canyons and Canyonlands"
+    },
+    {
+     "id": "F0F97E32-2F29-41B4-AF98-9FBE8DAB36B1",
+     "name": "Geology"
+    },
+    {
+     "id": "087E5290-E130-49C1-ADFB-DAFB0644DBE4",
+     "name": "Mineral Deposits"
+    },
+    {
+     "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+     "name": "Scenic Views"
+    },
+    {
+     "id": "0BBD4A42-2B3D-4E82-B5C4-1A3874C8682E",
+     "name": "Roads, Routes and Highways"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "true",
+   "timeOfDay": [],
+   "duration": "15-30 Minutes",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "FCD24CA8-1F33-4E38-87B1-F6EAC5A1DC06",
+   "url": "https://www.nps.gov/thingstodo/experience-death-valley-at-night.htm",
+   "title": "Experience Death Valley at Night",
+   "shortDescription": "Death Valley is just as spectacular at night as it is during the day- learn about a few ways you can explore the park after dark.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/107D24A2-9258-3768-CA8567C2570EC305.jpg",
+     "credit": "NPS/Patrick Taylor",
+     "altText": "Seven people silhouetted pointing green lasers to the same spot in a dark night sky.",
+     "title": "Dark Sky Laser Pointers",
+     "description": "",
+     "caption": "Rangers offer special night sky programs during Death Valley's annual Dark Sky Festival.",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/107D24A2-9258-3768-CA8567C2570EC305.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/107D24A2-9258-3768-CA8567C2570EC305.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA,NV",
+     "parkCode": "deva",
+     "designation": "National Park",
+     "fullName": "Death Valley National Park",
+     "url": "https://www.nps.gov/deva/index.htm",
+     "name": "Death Valley"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "Death Valley National Park",
+    "dark sky park",
+    "night hiking",
+    "full moon",
+    "astronomy",
+    "milky way",
+    "dark sky festival",
+    "star gazing",
+    "constellations",
+    "astrophotography",
+    "light pollution"
+   ],
+   "latitude": "",
+   "longitude": "",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "",
+   "seasonDescription": "",
+   "accessibilityInformation": "Trail and program locations vary widley from ADA accessible to rough and rocky. Check with a ranger about the accessibility of the location you plan on visiting.\u00a0",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "Pets are not allowed in many locations in the park, including on trails. Pets can go where vehicles can go, so a night hike up a dirt road is a great way to experience the park after dark with a pet.\u00a0",
+   "timeOfDayDescription": "",
+   "feeDescription": "Fee is included in regular park entry fee.",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "true",
+   "activities": [
+    {
+     "id": "13A57703-BB1A-41A2-94B8-53B692EB7238",
+     "name": "Astronomy"
+    }
+   ],
+   "activityDescription": "",
+   "locationDescription": "",
+   "doFeesApply": "true",
+   "longDescription": "<p>Did you know that Death Valley National Park has no closing time and that it is just as spectacular at night as it is during the day? Instead of leaving right after sunset, consider experiencing the park at night:</p> <h4>Star Gazing</h4> <p>Far from cities and carefully managed to protect darkness, Death Valley National Park is an excellent place to view the night sky. Nights in Death Valley are so dark that the park is classified at the highest (Gold Tier) level by the International Dark-Sky Association; many celestial objects which can be viewed from Death Valley are not visible elsewhere in the world! While most places in the park away from lodging/campgrounds and major roads will provide good night-sky viewing opportunities, here are a few top ranger suggestions for star gazing locations:</p> <ul> <li> <p>Mesquite Flat Sand Dunes</p> </li> <li> <p>Harmony Borax Works</p> </li> <li> <p>Ubehebe Crater</p> </li> <li> <p>Badwater Basin</p> </li> </ul> <p>Hints for seeing the most stars:</p> <ul> <li> <p>Stay out long enough (about 30 minutes) for your eyes to fully adjust</p> </li> <li> <p>Use a red light filter on your flashlight to protect your night vision</p> </li> <li> <p>Visit during a new moon (time when the moon is not visible)</p> </li> <li> <p>Bring binoculars</p> </li> <li> <p>Choose a location without nearby obstructions like mountains\u00a0</p> </li> </ul> <h4>Ranger Programs</h4> <p>Interested in learning more about the night sky? Join a Ranger for an introduction to the cosmos at a famous Death Valley location. Programs are offered during the winter; check at a visitor center for the schedule.</p> <h4>Full Moon Night Hiking</h4> <p>While we don\u2019t recommend a hike at night in an area with obstacles such as rocks, a casual stroll at a place like Mesquite Flat Sand Dunes or Badwater Basin can be quite rewarding. Visit during a full moon for the best natural lighting. Make sure to pause to view the stars and to listen for wildlife. Always bring a flashlight and water and remember that nighttime temperatures can still be over 100 F (38 C) during the summer.\u00a0</p> <h4>Night Photography</h4> <p>Dark nights mean ample opportunity to photograph the stars. While there is no one \u201cbest\u201d location, astrophotographers often choose places such as Zabriskie Point, Mesquite Flat Sand Dunes or Harmony Borax Works to capture their night images. Please note that while you may park along major roadways while photographing, camping along paved roads is prohibited.\u00a0</p> <h4>Dark Sky Festival</h4> <p>Each spring, Death Valley National Park holds an annual event where visitors are invited to come and learn more about space and other worlds. The event lasts multiple days and includes special ranger programs, hands-on activities, and guest speakers from organizations such as NASA, JPL, Goddard, and SETI. Check the park website or ask a\u00a0ranger at Furnace Creek Visitor Center for upcoming event dates.</p>",
+   "reservationDescription": "",
+   "season": [],
+   "topics": [
+    {
+     "id": "9BD60DC0-C82B-42BA-A170-456B7423429D",
+     "name": "Photography"
+    },
+    {
+     "id": "A7359FC4-DAD8-45F5-AF15-7FF62F816ED3",
+     "name": "Night Sky"
+    },
+    {
+     "id": "E06F3C94-AC8A-4B1C-A247-8EBA8910D5EE",
+     "name": "Astronomy"
+    },
+    {
+     "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+     "name": "Scenic Views"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "true",
+   "timeOfDay": [
+    "Night"
+   ],
+   "duration": "",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "37C65024-A789-4575-BEC0-59547D89AF3C",
+   "url": "https://www.nps.gov/thingstodo/running-in-death-valley.htm",
+   "title": "Running in Death Valley",
+   "shortDescription": "Go for a run in Death Valley! The park can be a very interesting and challenging place to test your road running or trail running abilities. Over 1,000 miles of paved and dirt roads, plus almost endless cross country opportunities await you. To enjoy the park safely, please run in the cooler months.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/838F97D3-0A29-72E9-72AE583DFD23BC06.jpg",
+     "credit": "",
+     "altText": "A woman running along a dirt road in a diverse desert setting.",
+     "title": "",
+     "description": "",
+     "caption": "",
+     "crops": [
+      {
+       "aspectRatio": "3",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/838F97D3-0A29-72E9-72AE583DFD23BC06.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/838F97D3-0A29-72E9-72AE583DFD23BC06.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA,NV",
+     "parkCode": "deva",
+     "designation": "National Park",
+     "fullName": "Death Valley National Park",
+     "url": "https://www.nps.gov/deva/index.htm",
+     "name": "Death Valley"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "running",
+    "run",
+    "trail",
+    "Death Valley National Park"
+   ],
+   "latitude": "",
+   "longitude": "",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "",
+   "seasonDescription": "Summer is extreme in Death Valley, the hottest place on earth, and we do not recommend running in the summer.",
+   "accessibilityInformation": "This activity is about running on various gravel roadways and trails.",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "Pets are ONLY permitted in developed areas and along roads. Pets are NOT allowed in the Wilderness or along trails. If you would like to run with your dog, run on one of the 1,000 miles of roads.",
+   "timeOfDayDescription": "",
+   "feeDescription": "Fee included in park entry fee; no additional fee for this activity.",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "true",
+   "activities": [
+    {
+     "id": "BFF8C027-7C8F-480B-A5F8-CD8CE490BFBA",
+     "name": "Hiking"
+    }
+   ],
+   "activityDescription": "",
+   "locationDescription": "",
+   "doFeesApply": "true",
+   "longDescription": "Death Valley can be a very interesting and extreme place to take a run! Limited in maintained trails, the park has endless cross country opportunities for rocky runs. With over 1,000 miles of paved and dirt roads, you can stick to the roads for a variety of options. Or, if you are comfortable with your orientation skills and safety preparation, take off out into the landscape. Be aware that most routes will be rocky! Uneven footing is common, which makes Death Valley a great place to work on techinical trail running. Just remember, this is the hottest place on earth, so knowing your heat limitations and preparing is very important! We do NOT recommend running at the lower elevations in the hotter months.",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+     "name": "Scenic Views"
+    },
+    {
+     "id": "5BE55D7F-BDB6-4E3D-AC35-2D8EBB974417",
+     "name": "Trails"
+    },
+    {
+     "id": "0BBD4A42-2B3D-4E82-B5C4-1A3874C8682E",
+     "name": "Roads, Routes and Highways"
+    },
+    {
+     "id": "B85866E2-0897-4000-9040-605CA335804F",
+     "name": "Wilderness"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "true",
+   "timeOfDay": [],
+   "duration": "",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "0348A2E9-6C99-4298-B662-B852474AC504",
+   "url": "https://www.nps.gov/thingstodo/day-hiking.htm",
+   "title": "Day Hiking",
+   "shortDescription": "Looking for somewhere to hike in Death Valley? The park has interpretive trails, hiking trails, and unofficial hiking routes, and is open to cross-country travel by foot in most places.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/8CA738D8-B3D6-899B-CD10CECE6586EC67.jpg",
+     "credit": "NPS Photo",
+     "altText": "A hiker stands on a rocky ridge looking away from the camera out on a vast white desert valley.",
+     "title": "Hiker at Dantes View",
+     "description": "",
+     "caption": "The Dantes Ridge (Mt Perry) hike offers expansive views of Death Valley.",
+     "crops": [
+      {
+       "aspectRatio": "3",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/8CA738D8-B3D6-899B-CD10CECE6586EC67.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/8CA738D8-B3D6-899B-CD10CECE6586EC67.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA,NV",
+     "parkCode": "deva",
+     "designation": "National Park",
+     "fullName": "Death Valley National Park",
+     "url": "https://www.nps.gov/deva/index.htm",
+     "name": "Death Valley"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "hiking",
+    "hike",
+    "trails",
+    "trailhead",
+    "hikes",
+    "Death Valley National Park"
+   ],
+   "latitude": "",
+   "longitude": "",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "",
+   "seasonDescription": "Hiking is NOT advised in the lower elevations in the park during the summer months. Check out the trails that are higher in elevations for possible summer options. But be advised that temperatures at the Telescope Peak Trailhead can reach over 90 F in the summer.",
+   "accessibilityInformation": "Route descriptions and accessibility information can be found on each hike section, as it will vary greatly.",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "Pets are NOT allowed out of developed areas or off of roads. That means that they can NOT go on any of the hikes listed here, or otherwise within the park.",
+   "timeOfDayDescription": "",
+   "feeDescription": "Hiking is covered under the park's entrance fee or with applicable National Park pass. Please display your pass in the vehicle's windshield.",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "false",
+   "activities": [
+    {
+     "id": "BFF8C027-7C8F-480B-A5F8-CD8CE490BFBA",
+     "name": "Hiking"
+    }
+   ],
+   "activityDescription": "",
+   "locationDescription": "",
+   "doFeesApply": "true",
+   "longDescription": "<p>Lace up\u00a0your boots, fill up your water, and lather on the sunscreen because one of the best ways to see Death Valley National Park\u00a0is by heading out on a trail! From the ADA accessible interpretive loop trail at Harmony Borax Works, to the rugged slopes of Telescope Peak, adventure awaits!<br /> <br /> <strong>Hiking seasons</strong><br /> The best time to hike in Death Valley is from November through March. Summer temperatures can be dangerous at\u00a0the park's lower elevations, and\u00a0even during spring and fall\u00a0the heat can be unbearable for most people. Save the low elevation hikes for\u00a0cool\u00a0winter days. The high peaks are a pleasant escape from the heat in summer, but are usually covered with snow in the winter and spring;\u00a0be sure to come prepared\u00a0with adequate winter clothing, an ice axe and crampons.<br /> <br /> <strong>Water</strong><br /> Death Valley has an extremly dry climate and\u00a0it is critical to drink\u00a0more water here than normal, even during\u00a0cooler months. Always carry adequate water (minimum:\u00a02 liters for a short winter dayhike, 1 gallon or more for longer warm season hikes and overnights). Springs are rare and unreliable. Boil or treat water from these sources before using.<br /> <br /> <strong>Trails,\u00a0Routes, and Cross-country</strong><br /> Death Valley has a small number of designated trails as well as many popular off-trail routes. Off-trail exploration by foot is permitted in most locations; if you choose to leave the trails, ask a ranger about how to protect Death Valley's living cryptobiotic soil. Check out the list below for an overview of hiking options and visit the \"Hiking Trails\" button on our app homepage to learn more details about individual hikes. Happy Trails!<br /> \u00a0</p> <hr /> <p><font color=\"#c0392b\"><b>HIKING NOT ADVISED AT LOWER ELEVATIONS AFTER 10AM IN THE SUMMER</b></font></p> <h3>Easy Hikes</h3> <p>Harmony Borax Works:\u00a00.4 mi (0.6km)<br /> Salt Creek Interpretive Trail:\u00a00.5 mi (0.8km)<br /> Badwater Salt Flat:\u00a01 mi (1.6km)<br /> Natural Bridge:\u00a01 mi (1.6km)<br /> Mesquite Flat Sand Dunes:\u00a02 mi (3.2km)</p> <h3>Moderate Hikes</h3> <p>Ubehebe Crater Loop:\u00a01.5 mi (2.4km)<br /> Darwin Falls:\u00a02 mi (3.2km)<br /> Golden Canyon:\u00a03 mi (4.8km)<br /> Desolation Canyon:\u00a03.6 mi (5.8km)<br /> Mosaic Canyon:\u00a04mi (6.4km)<br /> Fall Canyon:\u00a06 mi (9.6km)</p> <h3>Difficult Hikes</h3> <p>Dante's Ridge:\u00a08 mi (13km)<br /> Wildrose Peak:\u00a08.4 mi (13.5km)<br /> Telescope Peak:\u00a014 mi (22.5km)<br /> <br /> Note: pets are not allowed on any trail in Death Valley National Park, even if carried. Do not leave your animal in your vehicle. Speak with a ranger about one of the incredible dirt roads where you may walk your pet.</p>",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "5BE55D7F-BDB6-4E3D-AC35-2D8EBB974417",
+     "name": "Trails"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "false",
+   "timeOfDay": [],
+   "duration": "",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "28C27ADE-A237-47D5-B512-7B93C9A5213B",
+   "url": "https://www.nps.gov/thingstodo/visit-badwater-basin.htm",
+   "title": "Visit Badwater Basin",
+   "shortDescription": "Badwater Basin is the lowest elevation in North America at - 282 feet (- 86 m) below sea level. A visit to this otherworldly salt flat will provide you with a unique experience and a landscape that appears to stretch on forever. A short 1/4 mile (400 m) hike will you bring you to the polygon salt formations that Death Valley is famous for, or in the summer months, the view can be enjoyed from the parking area.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/E2001345-1DD8-B71B-0B106BA50A4CB9AD.jpg",
+     "credit": "",
+     "altText": "An expansive salt flat with distant desert mountains and a pink sky sunset.",
+     "title": "",
+     "description": "",
+     "caption": "",
+     "crops": [
+      {
+       "aspectRatio": "3",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/E2001345-1DD8-B71B-0B106BA50A4CB9AD.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/E2001345-1DD8-B71B-0B106BA50A4CB9AD.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA,NV",
+     "parkCode": "deva",
+     "designation": "National Park",
+     "fullName": "Death Valley National Park",
+     "url": "https://www.nps.gov/deva/index.htm",
+     "name": "Death Valley"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "geology",
+    "scenic",
+    "hike",
+    "Death Valley National Park"
+   ],
+   "latitude": "36.2502784729004",
+   "longitude": "-116.825836181641",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Badwater Basin",
+   "seasonDescription": "Visiting in the summer means mostly staying in your vehicle and enjoying the view of the salt flat. We do not recommend being outside of your airconditioned vehicle for longer than 15 minutes during the extreme summer heat.\u00a0",
+   "accessibilityInformation": "Badwater Basin can be viewed from your vehicle in the parking area. Exiting your vehicle and accessing the wooden boardwalk can be done by a short, paved ramp. The wooden boardwalk is older wood, so it is not entirely level. Beyond the short wooden boardwalk, the salt flat has been flattened like hard packed sand for 1/4 mile.\u00a0",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "Pets are only permitted along roads, to campgrounds, picnic areas, and other developed areas of the park, but they must be restrained or kept on a leash no longer than 6 feet at all times.<br /> <br /> Other than service animals, pets are not allowed inside most buildings or on trails (including to Zabriskie Point), but you also can not leave them in your car while you are away. Most pet owners find that both their pets and themselves are happier if the pets are left at home or in a kennel.",
+   "timeOfDayDescription": "Daytime is the most popular time to visit. Sunrise and Sunsets from here are usually spectacular, as there is a large horizon.",
+   "feeDescription": "Included with entrance fee into Death Valley or approved pass. Please display your pass in your vehicle's windshield.",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "false",
+   "activities": [
+    {
+     "id": "0B4A5320-216D-451A-9990-626E1D5ACE28",
+     "name": "Scenic Driving"
+    }
+   ],
+   "activityDescription": "Badwater Basin can be viewed from your vehicle in the parking area. Many visitors hike out onto the salt flat. There is no designated trail, but we advise visitors to choose a path where others have already walked to minimize damage. Badwater Basin is also a nice spot for night sky viewing and photography.\u00a0",
+   "locationDescription": "From Highway 190 at Furnace Creek, travel 17 miles south on Badwater Road to the Badwater Basin parking area.\u00a0",
+   "doFeesApply": "true",
+   "longDescription": "A visit to Badwater Basin is an otherworldly experience! This large salt flat is home to the lowest elevation in North America, at - 282 feet (-86 m) below sea level. Enjoy the view from your vehicle during the summer, or during cooler months, take a walk out onto the salt flat. A short 1/4 mile (400 m) walk will bring you to the salt polygons that Death Valley is famous for. These large salt formations, in the shape of a large polygon, form a unique landscape that appears to stretch on forever.\u00a0",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "FB3641FE-67A3-4EC7-B9C4-0A0867776798",
+     "name": "Ancient Seas"
+    },
+    {
+     "id": "9F6A7003-59D6-4438-935F-760FD04C1073",
+     "name": "Foothills, Plains and Valleys"
+    },
+    {
+     "id": "F0F97E32-2F29-41B4-AF98-9FBE8DAB36B1",
+     "name": "Geology"
+    },
+    {
+     "id": "087E5290-E130-49C1-ADFB-DAFB0644DBE4",
+     "name": "Mineral Deposits"
+    },
+    {
+     "id": "1CF1F6BB-A037-445B-8CF2-81428E50CE52",
+     "name": "Lakes"
+    },
+    {
+     "id": "A7359FC4-DAD8-45F5-AF15-7FF62F816ED3",
+     "name": "Night Sky"
+    },
+    {
+     "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+     "name": "Scenic Views"
+    }
+   ],
+   "durationDescription": "Badwater Basin is located 30 minutes south of the Furnace Creek Visitor Center. Most visitors will choose to drive to Badwater, view or hike on the salt flat, and then return north on Badwater Road the way they drove in. This would require the minimum time of one hour. If you are interested in hiking longer, just add the amount of time you would like to spend on the salt flat.\u00a0",
+   "arePetsPermitted": "false",
+   "timeOfDay": [
+    "Day",
+    "Dawn",
+    "Dusk"
+   ],
+   "duration": "1-2 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "7EFB3E51-75EE-4359-AA8F-32D5CD82D449",
+   "url": "https://www.nps.gov/thingstodo/hiking-visiting-with-pets.htm",
+   "title": "Hiking/Visiting with Pets",
+   "shortDescription": "Due to the extreme weather, it is not usually a good idea to bring a pet to Death Valley if you want to do any exploring out of your vehicle. If you are traveling through the park with a pet, and want to know where they are allowed to go, this is where to find that info! Stick to the roads, developed areas, and campgrounds. Pets are not permitted in the Wilderness or out of the areas listed above.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/8E8EC2EE-FAF1-5942-ACE449F77F6AC44C.jpg",
+     "credit": "",
+     "altText": "A man walks a dog on a leash down a dirt road in a desert setting.",
+     "title": "",
+     "description": "",
+     "caption": "",
+     "crops": [
+      {
+       "aspectRatio": "3",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/8E8EC2EE-FAF1-5942-ACE449F77F6AC44C.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/8E8EC2EE-FAF1-5942-ACE449F77F6AC44C.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA,NV",
+     "parkCode": "deva",
+     "designation": "National Park",
+     "fullName": "Death Valley National Park",
+     "url": "https://www.nps.gov/deva/index.htm",
+     "name": "Death Valley"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "Pets",
+    "dogs",
+    "wilderness",
+    "Death Valley National Park",
+    "hiking"
+   ],
+   "latitude": "",
+   "longitude": "",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "",
+   "seasonDescription": "It is difficult to travel with a pet in Death Valley National Park if you plan to spend time away from your vehicle. Summer temperatures can be deadly, and pets should NEVER be left in a car, where temperature rises quickly.\u00a0",
+   "accessibilityInformation": "Options for areas to recreate with pets include accessible paved roads, as well more rugged gravel and dirt roads.",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "Pets are allowed in the park, but only in developed areas such as campgrounds and along roads.\u00a0",
+   "timeOfDayDescription": "",
+   "feeDescription": "Included in park entry fee.",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "true",
+   "activities": [
+    {
+     "id": "BFF8C027-7C8F-480B-A5F8-CD8CE490BFBA",
+     "name": "Hiking"
+    }
+   ],
+   "activityDescription": "",
+   "locationDescription": "",
+   "doFeesApply": "true",
+   "longDescription": "<h2>Pets in the Park</h2> <p>Although pets are welcome in Death Valley National Park, there are many restrictions\u00a0for the safety of park resources, wildlife, other visitors, and even your pet. You may take your pet on roads and to developed areas such as campgrounds and\u00a0picnic areas, but they must be restrained or kept on a leash no longer than 6 feet (2 m) at all times. Pets are not allowed inside most buildings or on trails (including the paved trail to Zabriskie Point). Do not leave your animal in your vehicle. These restrictions do not apply to service animals.\u00a0<br /> <br /> <strong>Pets can go (on a leash no longer than 6 feet):</strong></p> <ul> <li>along roads</li> <li>in campgrounds</li> <li>in picnic areas</li> <li>in other developed areas</li> </ul> <p><br /> <strong>Pets can NOT go (even if carried):</strong></p> <ul> <li>on trails</li> <li>in\u00a0the Wilderness</li> <li>inside most buildings</li> <li>out of developed areas</li> </ul> <p><br /> <strong>Pets can have a negative impact on the park.</strong>\u00a0Dogs in particular may\u00a0scare or chase wildlife, pollute water sources and can become defensive and dangerous in strange surroundings. Domestic animals can spread diseases to wildlife, and vice versa. Pet owners are responsible for cleaning up their pet's feces and disposing of it properly.</p> <p><strong>The desert can be a dangerous place for pets.\u00a0</strong>Coyotes have been known to lure unsuspecting pets away, resulting the the death of the pet. Rattlesnakes may alert humans to keep a safe distance, but most pets are unaware of the danger. Spiny plants and hot, rough ground surfaces can be painful or damaging to your pet's bare foot pads. Desert heat and aridity can take a toll on pets and humans. Remember to always provide drinking water and\u00a0<strong>never</strong>\u00a0leave your pet alone in a closed vehicle, which can quickly become deadly hot.</p> <h2>Walking your Pet in the Park</h2> <p>Almost all national parks prohibit pets on trails and in the Wilderness, but pets are allowed on roads. Walking your dog along one of Death Valley's many scenic backcountry roads can be a rewarding alternative to trails, and in many cases provides similar scenery to that seen on trails. Many of the minor dirt roads receive light traffic, are surrounded by wilderness and seem like two parallel footpaths. Just remember to take your pet safely off to the roadside when a vehicle comes along.</p> <h3><strong>Suggested Walks</strong></h3> <h4><strong>Near developed areas</strong></h4> <ul> <li> <p><strong>Furnace Creek Airport Road:</strong>\u00a0Starting near the Visitor Center, this level, 1 mile (1.6 km) paved road edges the golf course and leads\u00a0to the airport. WARNING: coyotes are regularly seen in this area.</p> </li> <li> <p><strong>Bicycle Path to Harmony Borax Works:</strong>\u00a0Paralleling Hwy 190 north of the Furnace Creek Visitor Center for 1 mile (1.6 km), this is the <u>only</u> trail in the park open to pets. The interpretive trail around Harmony Borax Works ruins is <u>closed</u> to pets, but those looking for a longer walk can continue on the unpaved Mustard Canyon Road.</p> </li> <li> <p><strong>Stovepipe Wells Airport Road:</strong>\u00a0From the Stovepipe Wells Campground entrance this unpaved road heads across the valley floor to the airport and provides access to the Cottonwood Canyon Road.</p> </li> </ul> <h4><strong>In the backcountry</strong></h4> <ul> <li> <p><strong>Twenty Mule Team Canyon Road:</strong>\u00a0This 3 mile (4.8 km), one-way dirt road passes through colorful, other-worldly badlands. Vehicles are restricted to traveling in only one direction, but hikers can choose to turn around at any time.</p> </li> <li> <p><strong>Titus Canyon Road:</strong>\u00a0The hike up the narrows of Titus Canyon is one of the most popular in Death Valley and because it is on a dirt road you can bring your pet along. The first 1.5 miles (2.4 km) is the narrowest, but you can continue as far as you want along the road. This area boasts spectacular scenery and excellent native bighorn sheep habitat; make sure you keep your pet under tight control to avoid endangering these iconic animals.</p> </li> <li> <p><strong>Echo Canyon Road:</strong>\u00a0Although the first part of this road is\u00a0open desert, if you have a high-clearance, 2WD vehicle you can drive 3 miles (4.8 km)\u00a0to the canyon mouth, then walk with your pet through the 2 mile (3.2 km) long canyon narrows to a natural arch.</p> </li> <li> <p><strong>Chloride City Road:</strong>\u00a0This mid-elevation road is a good option when the temperatures are starting to get too warm in the valley. From the Daylight Pass Road, walk the narrow dirt road winding through desert hills to Monarch Canyon (2 miles/3.2 km).</p> </li> </ul> <h4><strong>Other nearby public lands</strong></h4> <p>Death Valley National Park is surrounded by public lands that have less restrictive rules regarding pets. Contact the Bureau of Land Management (BLM) in Ridgecrest, CA or Battle Mountain, NV and the U.S.Forest Service / Inyo National Forest in Lone Pine or Bishop, CA for current regulations.<br /> \u00a0</p> <h2>Staying Overnight with a Pet</h2> <p><strong>Pets are allowed in all park campgrounds</strong>, but must be restrained at all times. No more than 4 pets per campsite area allowed. Pet owners should be good neighbors by keeping their pets quiet, cleaning up pet feces, and never leaving their pets unattended. Food and water bowls must\u00a0<u>not</u>\u00a0be left outside.</p> <p><strong>Pet-friendly lodging in the park is available</strong>\u00a0at Stovepipe Wells Village and Panamint Springs Resort, but extra fees are charged. Only service animals are\u00a0allowed in guest rooms at The Oasis at Death Valley.</p>",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "0D00073E-18C3-46E5-8727-2F87B112DDC6",
+     "name": "Animals"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "true",
+   "timeOfDay": [],
+   "duration": "",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "1227F8C1-DC4E-434B-A1F2-CD0620A33681",
+   "url": "https://www.nps.gov/thingstodo/mountain-biking.htm",
+   "title": "Mountain Biking",
+   "shortDescription": "Hundreds of miles of dirt roads are available for mountain biking exploration.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/19ED3478-B3BF-20C6-2A148D64D7B288A0.jpg",
+     "credit": "NPS/K. Moses",
+     "altText": "A mountain biker rides down a dirt road toward the camera between yellow hills with few plants.",
+     "title": "Mountain Biking",
+     "description": "",
+     "caption": "Hundreds of miles of dirt roads with little traffic offer great opportunities for mountain biking.",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/19ED3478-B3BF-20C6-2A148D64D7B288A0.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/19ED3478-B3BF-20C6-2A148D64D7B288A0.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA,NV",
+     "parkCode": "deva",
+     "designation": "National Park",
+     "fullName": "Death Valley National Park",
+     "url": "https://www.nps.gov/deva/index.htm",
+     "name": "Death Valley"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "Death Valley National Park",
+    "Mountain Biking"
+   ],
+   "latitude": "",
+   "longitude": "",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "",
+   "seasonDescription": "",
+   "accessibilityInformation": "Death Valley road surfaces vary widely. Roads range from graded gravel to unmaintained tracks with washboard and boulders. Check with a ranger to learn the current conditions of the road(s) along your proposed trip before heading out.\u00a0",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "",
+   "timeOfDayDescription": "",
+   "feeDescription": "Fee included in general park entry fee.",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "true",
+   "activities": [
+    {
+     "id": "7CE6E935-F839-4FEC-A63E-052B1DEF39D2",
+     "name": "Biking"
+    }
+   ],
+   "activityDescription": "",
+   "locationDescription": "",
+   "doFeesApply": "true",
+   "longDescription": "Mountain biking is an exciting way to get up close and personal with Death Valley. While bikes are not allowed on hiking trails in the park, there are hundreds of miles of little-trafficked incredible dirt roads awaiting exploration! Whether you're looking for an easy cruise or a more technical ride, Death Valley has a road for you!\u00a0<br /> <br /> Heading out on a multi-day bikepacking trip? Be sure to fill out a <a href=\"https://www.nps.gov/deva/planyourvisit/wilderness-permits.htm\">Wilderness/Backcountry Use Permit</a> on our park website, or at Furnace Creek Visitor Center.\u00a0 <h3><strong>Suggested Rides</strong></h3> <p><em>(All distances given are one-way)</em></p> <h4>Easy</h4> <p><strong><u>Salt Creek Road</u></strong><br /> <strong>Start:</strong> 13.5 mi/ 21.7 km west of Furnace Creek on Hwy.190<br /> <strong>Distance:</strong> 1.2 mi/ 1.9 km<br /> <strong>Road type:</strong> mostly level graded dirt road<br /> <strong>Level of use: </strong>moderate</p> \u00a0 <p><strong><u>20-Mule Team Canyon Road</u></strong><br /> <strong>Start:</strong> 4.5 mi/ 7.2 km east of Furnace Creek on Hwy.190<br /> <strong>Distance:</strong> 3 mi/ 4.8km (<em>Note: this can be made into a loop)\u00a0</em><br /> <strong>Road type</strong>: graded dirt road with hills<br /> <strong>Level of use:</strong> medium<br /> <br /> <span style=\"color: rgb(34, 34, 34); font-family: inherit; font-size: 1.25rem; font-weight: 700;\">Moderate</span><br /> <strong><u>Hole-in-the-Wall Road</u></strong><br /> <strong>Start:</strong> 6.5 mi/ 10.5 km east of Furnace Creek on Hwy.190<br /> <strong>Distance:</strong> 4 mi/ 6.4 km<br /> <strong>Road type:</strong> loose gravel<br /> <strong>Level of use:</strong> low<br /> <br /> <strong><u>Skidoo Road</u></strong><br /> <strong>Start: </strong>9.5 mi/ 15.3 km south of Hwy.190 on Emigrant Canyon Road<br /> <strong>Distance: </strong>7 mi/ 11.3 km<br /> <strong>Road type:</strong> wash-board gravel, some elevation<br /> <strong>Level of use: </strong>low</p> <p><strong><u>Aguereberry Point Road</u></strong><br /> <strong>Start:</strong> 12 mi/ 19.3 km south of Hwy.190 on Emigrant Canyon Road<br /> <strong>Distance:</strong> 6 mi/ 9.7 km<br /> <strong>Road type:</strong> gravel, some rocky areas and elevation<br /> <strong>Level of use:</strong> low<br /> <br /> <strong><u>Lake Hill Road</u></strong><br /> <strong>Start: </strong>3 mi/ 4.8 km east of Panamint Springs on Hwy.190<br /> <strong>Distance:</strong> 5 mi/ 8km<br /> <strong>Road type:</strong> rutted gravel with sand and dips<br /> <strong>Level of use:</strong> low</p> <h4>Difficult\u00a0</h4> <p><strong><u>West Side Road</u></strong><br /> <strong>Start: </strong>6 mi/ 9.7 km south of Hwy.190 on Badwater Road<br /> <strong>Distance:</strong> 40 mi/ 64 km<br /> <strong>Road type: </strong>level with wash-board and gravel\u00a0<br /> <strong>Level of use: </strong>medium</p> <p><strong><u>Trail Canyon Road</u></strong><br /> <strong>Start:</strong> West Side Road<br /> <strong>Distance:</strong> 8 mi/ 12.9 km<br /> <strong>Road type:</strong> rough uphill into canyon with rocky spots<br /> <strong>Level of use:</strong> low</p> <p><strong><u>Greenwater Valley Road</u></strong><br /> <strong>Start:</strong> 7.5 mi/ 12.1 km south of Hwy.190 on Dante\u2019s View Rd<br /> <strong>Road Distance:</strong> 30 mi/ 48.3 km<br /> <strong>Road type:</strong> slightly uphill with gravel\u00a0<br /> <strong>Level of use:</strong> low</p> <p><strong><u>Titus Canyon Road</u></strong><br /> <strong>Start:</strong> 2.7 mi/ 4.3 km east of park boundary on Nevada Hwy. 374<br /> <strong>Distance: </strong>28 mi/ 45 km<br /> <strong>Road type:</strong> steep grades, loose gravel<br /> <strong>Level of use:</strong> medium</p> <p><strong><u>Cottonwood Canyon Road</u></strong><br /> <strong>Start: </strong>2.5 mi/ 4 km west of Stovepipe Wells<br /> <strong>Distance: </strong>18 mi/ 29 km\u00a0<br /> <strong>Road type:</strong> gentle grade, sometimes deep sand at start, rocky in canyon<br /> <strong>Level of use:</strong> low<br /> <br /> <strong><u>Racetrack Road</u><br /> Start: </strong>Ubehebe Crater\u00a0<br /> <strong>Distance:</strong> 27 mi/ 34.5 km<br /> <strong>Road type:</strong> sharp rocks, gravel and washboard\u00a0<br /> <strong>Level of use:</strong> medium</p> <p><strong><u>Hidden Valley Road</u></strong><br /> <strong>Start:</strong> Teakettle Junction, on the Racetrack Road<br /> <strong>Distance: </strong>10 mi/ 16.1 km<br /> <strong>Road type: </strong>gravel<br /> <strong>Level of use:</strong> low</p>",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+     "name": "Scenic Views"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "true",
+   "timeOfDay": [
+    "Day"
+   ],
+   "duration": "",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "514953DC-162C-4B3A-B732-3A5BAA4DBB9F",
+   "url": "https://www.nps.gov/thingstodo/cycling.htm",
+   "title": "Cycling",
+   "shortDescription": "Whether you prefer flat and straight or mountainous and curvy, Death Valley has paved roads suitable for all levels of cycling enthusiasts.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/E6DD58EB-D179-997C-A908DDD066A5747D.jpg",
+     "credit": "NPS/Kurt Moses",
+     "altText": "Three cyclists ride on a paved road with desert plants on either side, and mountains in the distance",
+     "title": "Death Valley Cyclists",
+     "description": "",
+     "caption": "Cyclists enjoying the views along one of the many paved roads in Death Valley.",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/E6DD58EB-D179-997C-A908DDD066A5747D.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/E6DD58EB-D179-997C-A908DDD066A5747D.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA,NV",
+     "parkCode": "deva",
+     "designation": "National Park",
+     "fullName": "Death Valley National Park",
+     "url": "https://www.nps.gov/deva/index.htm",
+     "name": "Death Valley"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "Death Valley National Park",
+    "Cycling"
+   ],
+   "latitude": "",
+   "longitude": "",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "",
+   "seasonDescription": "",
+   "accessibilityInformation": "Most paved roads in the park have little or no shoulder.",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "",
+   "timeOfDayDescription": "",
+   "feeDescription": "Fee included in general park entry fee.",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "true",
+   "activities": [
+    {
+     "id": "7CE6E935-F839-4FEC-A63E-052B1DEF39D2",
+     "name": "Biking"
+    }
+   ],
+   "activityDescription": "<h3>\u00a0</h3> <h4>\u00a0</h4>",
+   "locationDescription": "",
+   "doFeesApply": "true",
+   "longDescription": "Exploring Death Valley on two wheels instead of four is a great way to experience the park! With hundreds of miles of roads, cyclists have many adventure options. Bicycles can be used on all park roads that are open to public vehicular traffic; they are not allowed on closed roads, service roads, off roadways, in the wilderness, or on any trails. Most park roads are narrow and/or have high speed limits, so for your safety, please ride single-file and wear bright clothing. <h3>\u00a0</h3> <h2><strong><span style=\"color: rgb(34, 34, 34); font-family: Georgia, Times, \"Times New Roman\", serif; font-size: 1.5625rem; letter-spacing: -0.25px;\">Suggested Rides</span></strong></h2> <h2>\u00a0</h2> <h4>Easy</h4> <u>Bicycle Path</u><br /> Start: Furnace Creek Visitor Center<br /> Distance: 1 mile (1.6 km), one way to Harmony Borax Works<br /> Road Type: paved path<br /> Level of use: moderate <h2>\u00a0</h2> <h4>Moderate\u00a0</h4> <u>Ubehebe Crater</u><br /> Start: Grapevine Ranger Station<br /> Distance: 11.6 miles (18.7 km), round trip<br /> Road Type: paved<br /> Level of Use: moderate <h2>\u00a0</h2> <h4>More Difficult</h4> <u>Artist\u2019s Drive</u><br /> Start: 9 miles (14.5 km) south of Hwy.190 on Badwater Road<br /> Distance: 9 miles (14.5 km), one-way<br /> Road Type: paved with hills<br /> Level of Use: high<br /> <br /> <u>Dante's View</u><br /> Start: 8 miles (12.9 km) south of Hwy 190 on Furnace Creek Wash Rd (Trailer parking area)<br /> Distance: 12 miles (19.3 km), round trip<br /> Road Type: paved with steep final climb<br /> Level of Use: moderate",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+     "name": "Scenic Views"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "true",
+   "timeOfDay": [],
+   "duration": "",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "94CD408C-6E8C-442C-9704-6EE97836D233",
+   "url": "https://www.nps.gov/thingstodo/check-out-devils-golf-course.htm",
+   "title": "Check Out Devils Golf Course",
+   "shortDescription": "An immense area of rock salt eroded by wind and rain into jagged spires. So incredibly serrated that \"only the devil could play golf on such rough links.\" Listen carefully and you'll hear sounds like tiny pops and pings. The sound is literally billions of tiny salt crystals bursting apart as they expand and contract in the heat.",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/162730F7-F970-C54D-A02174A779C39A25.jpg",
+     "credit": "NPS / E. Hoerner",
+     "altText": "Sharp, eroded salt formations stretch into the background.",
+     "title": "Devils Golf Course",
+     "description": "",
+     "caption": "Jagged peaks of salt form the forbidding landscape here.",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/162730F7-F970-C54D-A02174A779C39A25.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/162730F7-F970-C54D-A02174A779C39A25.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA,NV",
+     "parkCode": "deva",
+     "designation": "National Park",
+     "fullName": "Death Valley National Park",
+     "url": "https://www.nps.gov/deva/index.htm",
+     "name": "Death Valley"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "geology",
+    "desert",
+    "Death Valley National Park",
+    "salt"
+   ],
+   "latitude": "36.28649721926617",
+   "longitude": "-116.82645679990988",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "",
+   "seasonDescription": "Plan to visit in the cooler late fall, winter, and early spring months.<br /> <br /> From mid-May to mid-September, this area can be extremely hot with temperatures reaching 120 F or higher.",
+   "accessibilityInformation": "The salt formations can be seen from the car; the dirt road and parking area is made from compacted gravel suitable for most vehicles.",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "You may take your pet along roads, to campgrounds, picnic areas, and other developed areas of the park, but they must be restrained or kept on a leash no longer than 6 feet at all times.<br /> <br /> Pets are not allowed inside most buildings or on trails, but you also can not leave them in your car while you are away as they can quickly become deadly hot. Most pet owners find that both their pets and themselves are happier if the pets are left at home or in a kennel.",
+   "timeOfDayDescription": "With a large horizon, this place can be an excellent sunrise, sunset, night sky viewing, and daytime activity.<br /> <br /> Please note that this is not a camping location.",
+   "feeDescription": "Access included with park entry fee and acceptable national park passes. Please display your pass in your vehicle's windshield.",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "false",
+   "activities": [
+    {
+     "id": "0B4A5320-216D-451A-9990-626E1D5ACE28",
+     "name": "Scenic Driving"
+    }
+   ],
+   "activityDescription": "The Devils Golf Course is best viewed from the parking area. The sharp salt formations can be dangerous to try to walk around on and are also fragile and can be easily damaged.<br /> <br /> Please note that despite the name, this is not a place to practice your golfing skills -- leaving golf balls out in Wilderness areas is littering.\u00a0",
+   "locationDescription": "Badwater Road is 20 minutes (13mi / 21km) south of Furnace Creek. The unpaved access road is typically passable to sedans and mid sized RV's. Buses and large RV's over 30 ft not recommended.",
+   "doFeesApply": "true",
+   "longDescription": "<p>An immense area of rock salt eroded by wind and rain into jagged spires. So incredibly serrated that \"only the devil could play golf on such rough links.\"\u00a0Listen carefully and you'll hear sounds like tiny pops and pings -- the sound is literally billions of tiny salt crystals bursting apart as they expand and contract in the heat.</p> <p>\u00a0</p>",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "F0F97E32-2F29-41B4-AF98-9FBE8DAB36B1",
+     "name": "Geology"
+    },
+    {
+     "id": "087E5290-E130-49C1-ADFB-DAFB0644DBE4",
+     "name": "Mineral Deposits"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "false",
+   "timeOfDay": [
+    "Day",
+    "Night",
+    "Dawn",
+    "Dusk"
+   ],
+   "duration": "",
+   "credit": "",
+   "relevanceScore": 1.0
+  }
+ ]
+}

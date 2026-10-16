@@ -1,0 +1,905 @@
+{
+ "_meta": {
+  "endpoint": "campgrounds",
+  "park_code": "goga",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 5,
+  "fetched_at": "2026-10-15T18:18:49"
+ },
+ "data": [
+  {
+   "id": "E432BD79-E5A8-4989-8F03-ADF9683A95A2",
+   "url": "https://www.recreation.gov/camping/campgrounds/232491",
+   "name": "Kirby Cove Campground",
+   "parkCode": "goga",
+   "description": "Kirby Cove is the most popular campground in the Marin Headlands, with spectacular views of San Francisco and the Golden Gate. Enjoy a wooded setting, seclusion and protected campsites which were recently restored for all to enjoy. Campsites are available for use only by prior reservation but anyone can walk down the road to enjoy the vistas and picnic on the bluffs or beach. Campground is open March-November. $40.00/per campsite per night.",
+   "latitude": "37.827897174",
+   "longitude": "-122.490380233",
+   "latLong": "{lat:37.827897174, lng:-122.490380233}",
+   "audioDescription": "",
+   "isPassportStampLocation": "0",
+   "passportStampLocationDescription": "",
+   "passportStampImages": [],
+   "geometryPoiId": "BD85EC5C-CD43-4CD4-901E-C8460348DA73",
+   "reservationInfo": "Reservations can be made up to six months before your arrival and may extend up to two days beyond this 6-month booking window. Each overnight site permits a maximum of 10 people. The Day Use Site permits a maximum of 35 people. You can reserve directly from this page via a partnership with recreation.gov by clicking the green 'reserve' button. A recreation.gov account is required to make a reservation. Reservations for an overnight site are $40/night. For a group site, it is $75/night. There is no water at the campground. Bring your own water, soap, and hand sanitizer.",
+   "reservationUrl": "https://www.recreation.gov/camping/campgrounds/232491",
+   "regulationsurl": "http://www.recreation.gov/camping/kirby-cove-campground/r/campgroundDetails.do?contractCode=NRSO&parkId=70972",
+   "regulationsOverview": "Pets are prohibited, except trained guide and service animals. Sleeping in vehicles is prohibited. Please thoroughly extinguish campfires before leaving the site unattended.",
+   "amenities": {
+    "trashRecyclingCollection": "No",
+    "toilets": [
+     "Vault Toilets - year round"
+    ],
+    "internetConnectivity": "No",
+    "showers": [
+     "None"
+    ],
+    "cellPhoneReception": "Yes - year round",
+    "laundry": "No",
+    "amphitheater": "No",
+    "dumpStation": "No",
+    "campStore": "No",
+    "staffOrVolunteerHostOnsite": "No",
+    "potableWater": [
+     "No water"
+    ],
+    "iceAvailableForSale": "No",
+    "firewoodForSale": "No",
+    "foodStorageLockers": "Yes - year round"
+   },
+   "contacts": {
+    "phoneNumbers": [
+     {
+      "phoneNumber": "415-331-1540",
+      "description": "",
+      "extension": "",
+      "type": "Voice"
+     }
+    ],
+    "emailAddresses": [
+     {
+      "description": "",
+      "emailAddress": "goga_info@nps.gov"
+     }
+    ]
+   },
+   "fees": [
+    {
+     "cost": "40.00",
+     "description": "Tent Only Nonelectric, each site can accommodate up to 10 people.",
+     "title": "Overnight Site Fee"
+    },
+    {
+     "cost": "75.00",
+     "description": "Group Picnic Area, a day-use only site that can accommodate up to 35 people.",
+     "title": "Group Picnic Fee"
+    }
+   ],
+   "directionsOverview": "From HWY 101, take exit 442 onto Alexander Avenue. Follow signs for Marin Headlands, and then turn left onto Bunker Road. Travel through the Baker-Barry Tunnel and continue straight until you can turn left onto McCullough Road. Continue uphill until you hit the traffic cricle, and take the 2nd exit onto Conzelman Road. Travel downhil until you reach Battery Spencer. The dirt road to Kirby Cove will be behind the white service gate. Park in the parking lot at Kirby Cove.",
+   "directionsUrl": "",
+   "operatingHours": [
+    {
+     "exceptions": [
+      {
+       "exceptionHours": {
+        "wednesday": "Closed",
+        "monday": "Closed",
+        "thursday": "Closed",
+        "sunday": "Closed",
+        "tuesday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed"
+       },
+       "startDate": "2026-12-01",
+       "name": "Closed for Season.",
+       "endDate": "2027-03-11"
+      }
+     ],
+     "description": "Kirby Cove Campground is open Spring - Fall. While you can still hike down to the cove during winter months, the campsites are not open for reservations during that time.",
+     "standardHours": {
+      "wednesday": "All Day",
+      "monday": "All Day",
+      "thursday": "All Day",
+      "sunday": "All Day",
+      "tuesday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day"
+     },
+     "name": "Kirby Cove Campground"
+    }
+   ],
+   "addresses": [
+    {
+     "postalCode": "94965",
+     "city": "Sausalito",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Kirby Cove Campground",
+     "type": "Physical",
+     "line3": "Marin Headlands",
+     "line2": "Conzelman Road"
+    },
+    {
+     "postalCode": "94123-0022",
+     "city": "San Francisco",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Golden Gate National Recreation Area",
+     "type": "Mailing",
+     "line3": "Fort Mason",
+     "line2": "Building 201"
+    }
+   ],
+   "images": [
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Kirby Cove",
+     "altText": "A bleached piece of driftwood on the soft sand with gentle waves caressing the shoreline.",
+     "caption": "The sandy shore of Kirby Cove.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/D1D3A13A-1DD8-B71B-0B38FAFC86751842.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Kirby Cove at night",
+     "altText": "A colorful display of the Golden Gate Bridge lit up against the purple and blue night sky.",
+     "caption": "Nighttime view of the Golden Gate Bridge.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/D213E3D2-1DD8-B71B-0BE1211B72F2453D.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Trees at the cove",
+     "altText": "A view of the Golden Gate Bridge through the trees at Kirby Cove.",
+     "caption": "The bridge through the trees.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/D23E5DAA-1DD8-B71B-0B369A0DFE2B999D.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "City at sunset",
+     "altText": "San Francisco skyline against an orange sky and cloud cover framed below the Golden Gate Bridge.",
+     "caption": "City at sunset.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/D3439CAA-1DD8-B71B-0B5FDEA72C0E7AD2.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Campfire",
+     "altText": "A group of campers sit around the orange glow of a campfire in a fire pit.",
+     "caption": "Cozy campfire",
+     "url": "https://www.nps.gov/common/uploads/structured_data/D35C54F3-1DD8-B71B-0B1439DF030892D4.jpg"
+    }
+   ],
+   "weatherOverview": "Temperatures are mild year-round. Expect lows from 50-55 degrees and highs from 60-65. Fog is prevalent in the summer months from May - Sept. It is best to bring clothing that can be layered.",
+   "numberOfSitesReservable": "6",
+   "numberOfSitesFirstComeFirstServe": "0",
+   "campsites": {
+    "totalSites": "6",
+    "group": "1",
+    "horse": "0",
+    "tentOnly": "5",
+    "electricalHookups": "0",
+    "rvOnly": "0",
+    "walkBoatTo": "0",
+    "other": "0"
+   },
+   "accessibility": {
+    "wheelchairAccess": "Sites 2, 5, and the Day Use Site.",
+    "internetInfo": "",
+    "cellPhoneInfo": "",
+    "fireStovePolicy": "Campfires are only permitted in provided fire rings. Gas stoves are permitted. Firewood must be brought from outside the park. Gathering on site is not allowed. Fire Danger: During Extreme Fire Danger Red Flag Days and \"Spare the Air\" Days, all fires will be banned. Only self-contained gas stoves will be permitted at designated campgrounds and picnic areas. We will email fire danger information (if applicable on the date of your reservation) to the email address you provide to recreation.gov upon making your reservation.",
+    "rvAllowed": "0",
+    "rvInfo": "No RVs or trailers.",
+    "rvMaxLength": "0",
+    "additionalInfo": "We no longer provide wheelbarrows at the campground.",
+    "trailerMaxLength": "0",
+    "adaInfo": "The Day Use Site is available as an accessible picnic site for persons with a disability or otherwise limited physical mobility. Sites 2 and 5 are available as accessible campsites for persons with a disability or otherwise limited physical mobility. If you want access to the lower gate so that you can drive closer to your ADA accessible campsite, please contact (415) 331-1540 for assistance.",
+    "trailerAllowed": "0",
+    "accessRoads": [
+     "Unpaved Roads - All vehicles OK in good weather"
+    ],
+    "classifications": [
+     "Limited Development Campground"
+    ]
+   },
+   "multimedia": [],
+   "relevanceScore": 1.0,
+   "lastIndexedDate": ""
+  },
+  {
+   "id": "CF4FCDE0-60FD-42DE-9A64-816E3601A562",
+   "url": "https://www.recreation.gov/camping/campgrounds/258815",
+   "name": "Hawk Campground",
+   "parkCode": "goga",
+   "description": "Hawk Campground is the most remote campground and is located above Tennessee Valley and offers sweeping views of the Marin Headlands. The site is a 2.5 mile uphill hike from the Tennessee Valley Trailhead parking lot, or a 3.5 mile uphill hike from the Miwok Trailhead. There are 3 sites that can accommodate 4 people each. Maximum stay is three nights per year. Campsites are available March-November. $25.00/per campsite per night",
+   "latitude": "37.854152594",
+   "longitude": "-122.520632833",
+   "latLong": "{lat:37.854152594, lng:-122.520632833}",
+   "audioDescription": "",
+   "isPassportStampLocation": "0",
+   "passportStampLocationDescription": "",
+   "passportStampImages": [],
+   "geometryPoiId": "D723D2A3-44CC-4C5D-90D5-B74F9D07A97B",
+   "reservationInfo": "Reservations can be made up to six months before your arrival and may extend up to two days beyond this 6-month booking window. You can reserve directly from this page via a partnership with recreation.gov by clicking the green 'reserve' button. A recreation.gov account is required to make a reservation. Campsites are $25 per night. There is no water at the campground. Bring your own water, soap, and hand sanitizer.",
+   "reservationUrl": "https://www.recreation.gov/camping/campgrounds/258815",
+   "regulationsurl": "https://www.nps.gov/goga/planyourvisit/outdooractivities.htm",
+   "regulationsOverview": "No pets. No wood or charcoal fires allowed; gas camp stoves are permitted. 3 vehicles per reservation. Please pack out all trash.",
+   "amenities": {
+    "trashRecyclingCollection": "No",
+    "toilets": [
+     "Portable Toilets - year round"
+    ],
+    "internetConnectivity": "No",
+    "showers": [
+     "None"
+    ],
+    "cellPhoneReception": "No",
+    "laundry": "No",
+    "amphitheater": "No",
+    "dumpStation": "No",
+    "campStore": "No",
+    "staffOrVolunteerHostOnsite": "No",
+    "potableWater": [
+     "No water"
+    ],
+    "iceAvailableForSale": "No",
+    "firewoodForSale": "No",
+    "foodStorageLockers": "Yes - year round"
+   },
+   "contacts": {
+    "phoneNumbers": [
+     {
+      "phoneNumber": "415-331-1540",
+      "description": "",
+      "extension": "",
+      "type": "Voice"
+     }
+    ],
+    "emailAddresses": [
+     {
+      "description": "",
+      "emailAddress": "goga_info@nps.gov"
+     }
+    ]
+   },
+   "fees": [
+    {
+     "cost": "25.00",
+     "description": "Primitive Campsite",
+     "title": "Fees"
+    }
+   ],
+   "directionsOverview": "Hawk Camp is located in the Marin Headlands north of San Francisco. From the Marin Headlands Visitor Center it's a strenuous 4-mile hike up the Miwok/Bobcat Trail or a 3-mile hike from the Tennessee Valley trailhead. Driving: Take exit 445B toward Mill Valley/Stinson Beach. Continue and turn left onto Tennessee Valley Road. This road will end at the Tennessee Valley Trailhead parking lot. From here, locate the white service gate near the stables and hike up Marincello Trail to the Hawk Camp Trail.",
+   "directionsUrl": "https://www.nps.gov/goga/planyourvisit/upload/map_MAHE_150429web.pdf",
+   "operatingHours": [
+    {
+     "exceptions": [
+      {
+       "exceptionHours": {
+        "wednesday": "Closed",
+        "monday": "Closed",
+        "thursday": "Closed",
+        "sunday": "Closed",
+        "tuesday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed"
+       },
+       "startDate": "2026-12-01",
+       "name": "Closed for season.",
+       "endDate": "2027-03-10"
+      }
+     ],
+     "description": "Hawk Campground is open Spring - Fall.",
+     "standardHours": {
+      "wednesday": "All Day",
+      "monday": "All Day",
+      "thursday": "All Day",
+      "sunday": "All Day",
+      "tuesday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day"
+     },
+     "name": "Hawk Campground"
+    }
+   ],
+   "addresses": [
+    {
+     "postalCode": "94965",
+     "city": "Sausalito",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Hawk Campground",
+     "type": "Physical",
+     "line3": "Golden Gate National Recreation Area",
+     "line2": "Marin Headlands"
+    },
+    {
+     "postalCode": "94123-0022",
+     "city": "San Francisco",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Golden Gate National Recreation Area",
+     "type": "Mailing",
+     "line3": "Fort Mason",
+     "line2": "Building 201"
+    }
+   ],
+   "images": [
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "View from Hawk Camp",
+     "altText": "Yellow wildflowers grow under a cloudy, blue sky.",
+     "caption": "The vista high atop Hawk Camp.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/CA121BEF-1DD8-B71B-0B0F09B0E84C0793.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Walking the ridge.",
+     "altText": "Two hikers walk the ridge along the exposed fire road to Hawk Camp under a cloudy, blue sky.",
+     "caption": "Two hikers walk the fire road.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/CA34C1AF-1DD8-B71B-0B0FBCDC7EC1E2B2.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Tent at Hawk Camp",
+     "altText": "A gray and white single-person tent pitched at a campsite at Hawk Camp.",
+     "caption": "A campsite with cypress trees in the distance.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/CA53528A-1DD8-B71B-0BA3ADC9582AEB8B.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "View from the top.",
+     "altText": "A trail winds its way along a ridge line next to a jagged stump under cloudy, blue skies.",
+     "caption": "The winding path from Hawk Camp.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/CB2C2FD0-1DD8-B71B-0BEBF0F970E299D0.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Hikers on their way to Hawk Camp",
+     "altText": "Hikers walk along the trail that winds its way up a hill with green scrub plants on either side.",
+     "caption": "Walking up the ridge.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/D3A58CA1-1DD8-B71B-0B80312AD8A30499.jpg"
+    }
+   ],
+   "weatherOverview": "Temperatures are mild year-round. Expect lows from 50-55 degrees and highs from 60-65. Fog is prevalent in the summer months from May-Sept. It is best to bring clothing that can be layered. Lightweight summer clothes are rarely comfortable to wear at Hawk Campground.",
+   "numberOfSitesReservable": "3",
+   "numberOfSitesFirstComeFirstServe": "0",
+   "campsites": {
+    "totalSites": "3",
+    "group": "0",
+    "horse": "0",
+    "tentOnly": "3",
+    "electricalHookups": "0",
+    "rvOnly": "0",
+    "walkBoatTo": "3",
+    "other": "0"
+   },
+   "accessibility": {
+    "wheelchairAccess": "No wheelchair access.",
+    "internetInfo": "",
+    "cellPhoneInfo": "There is limited cell service at the campground, and no cell service at either of the recommended parking areas (Tennessee Valley Trailhead parking lot or the Miwok Trailhead parking area.)",
+    "fireStovePolicy": "No fires allowed. Gas camp stoves are permitted.",
+    "rvAllowed": "0",
+    "rvInfo": "No trailers or RVs.",
+    "rvMaxLength": "0",
+    "additionalInfo": "Bring your own water and pack out your trash.",
+    "trailerMaxLength": "0",
+    "adaInfo": "Hawk Campground is only reachable by one of two hiking routes, a strenuous 4-mile up the Bobcat Trail from the Miwok Trailhead or a 3-mile hike from the Tennessee Valley parking lot.",
+    "trailerAllowed": "0",
+    "accessRoads": [
+     "No Roads"
+    ],
+    "classifications": [
+     "Primitive Camping Areas"
+    ]
+   },
+   "multimedia": [],
+   "relevanceScore": 1.0,
+   "lastIndexedDate": ""
+  },
+  {
+   "id": "0FAC4543-542C-4B14-9930-27EA43E2E842",
+   "url": "https://www.recreation.gov/camping/campgrounds/10067346",
+   "name": "Haypress Campground",
+   "parkCode": "goga",
+   "description": "Haypress Campground is nestled within the coastal scrub of Tennessee Valley, near Mill Valley. The hike to this campground is 0.7 miles from the Tennessee Valley Trail head parking lot, and is an ideal campground for first-time backpackers. Haypress campers often enjoy hiking to Tennessee Beach, where they can admire its dramatic geology and colorful sand. Campground is open March-November. $25.00/per campsite per night",
+   "latitude": "37.860780174",
+   "longitude": "-122.546441233",
+   "latLong": "{lat:37.860780174, lng:-122.546441233}",
+   "audioDescription": "",
+   "isPassportStampLocation": "0",
+   "passportStampLocationDescription": "",
+   "passportStampImages": [],
+   "geometryPoiId": "4E477025-0BAF-4738-BBEE-56CC7B9FE15C",
+   "reservationInfo": "Reservations can be made up to six months before your arrival and may extend up to two days beyond this 6-month booking window. You can reserve directly from this page via a partnership with recreation.gov by clicking the green 'reserve' button. A recreation.gov account is required to make a reservation. Reservations for an overnight site at Haypress Campground are $25/night. For the group site, it is $75/night. There is no water at the campground. Bring your own water, soap, and hand sanitizer. We urge visitors to continue to practice\u202fLeave No Trace principles, including packing out their trash, to keep outdoor spaces safe.",
+   "reservationUrl": "https://www.recreation.gov/camping/campgrounds/10067346",
+   "regulationsurl": "https://www.nps.gov/goga/planyourvisit/outdooractivities.htm",
+   "regulationsOverview": "No wood or charcoal fires allowed; gas camp stoves are permitted. No pets allowed. No car camping. Maximum stay is 3 nights per year. 4 people per overnight site, 25 people per group site. Please pack out trash.",
+   "amenities": {
+    "trashRecyclingCollection": "No",
+    "toilets": [
+     "Vault Toilets - year round"
+    ],
+    "internetConnectivity": "No",
+    "showers": [
+     "None"
+    ],
+    "cellPhoneReception": "No",
+    "laundry": "No",
+    "amphitheater": "No",
+    "dumpStation": "No",
+    "campStore": "No",
+    "staffOrVolunteerHostOnsite": "No",
+    "potableWater": [
+     "No water"
+    ],
+    "iceAvailableForSale": "No",
+    "firewoodForSale": "No",
+    "foodStorageLockers": "Yes - year round"
+   },
+   "contacts": {
+    "phoneNumbers": [
+     {
+      "phoneNumber": "415-331-1540",
+      "description": "",
+      "extension": "",
+      "type": "Voice"
+     }
+    ],
+    "emailAddresses": [
+     {
+      "description": "",
+      "emailAddress": "goga_info@nps.gov"
+     }
+    ]
+   },
+   "fees": [
+    {
+     "cost": "25.00",
+     "description": "Primitive Campsite\nPrimitive Group Campsite",
+     "title": "Overnight Site Fee"
+    },
+    {
+     "cost": "75.00",
+     "description": "Reservations for the group site at Haypress Campground, which can accommodate up to 25 people.",
+     "title": "Group Site Fee"
+    }
+   ],
+   "directionsOverview": "From US-101 N. take exit 445B toward Mill Valley/Stinson Beach. Continue straight until you can turn left onto Tennessee Valley Road. This road will dead-end at the Tennessee Valley trailhead parking lot. From here, hike on Tennessee Valley Trail to Haypress Camp Trail.",
+   "directionsUrl": "",
+   "operatingHours": [
+    {
+     "exceptions": [
+      {
+       "exceptionHours": {
+        "wednesday": "Closed",
+        "monday": "Closed",
+        "thursday": "Closed",
+        "sunday": "Closed",
+        "tuesday": "Closed",
+        "friday": "Closed",
+        "saturday": "Closed"
+       },
+       "startDate": "2026-12-01",
+       "name": "Closed for season.",
+       "endDate": "2027-03-11"
+      }
+     ],
+     "description": "Haypress Campground is generally open Spring - Fall.",
+     "standardHours": {
+      "wednesday": "All Day",
+      "monday": "All Day",
+      "thursday": "All Day",
+      "sunday": "All Day",
+      "tuesday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day"
+     },
+     "name": "Haypress Campground"
+    }
+   ],
+   "addresses": [
+    {
+     "postalCode": "94965",
+     "city": "Sausalito",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Haypress Campground",
+     "type": "Physical",
+     "line3": "Golden Gate National Recreation Area",
+     "line2": "Marin Headlands"
+    },
+    {
+     "postalCode": "94123-0022",
+     "city": "San Francisco",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Golden Gate National Recreation Area",
+     "type": "Mailing",
+     "line3": "Fort Mason",
+     "line2": "Building 201"
+    }
+   ],
+   "images": [
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Haypress Campground",
+     "altText": "The lush green environs of Haypress with a slat-rail fence and blue tent in the foreground.",
+     "caption": "Fenced off campsite at Haypress.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/CF3C369D-1DD8-B71B-0B66AC5BA1CD1279.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Setting up camp",
+     "altText": "Campers sit at a picnic table next to a food storage box with their tent behind them.",
+     "caption": "Getting cozy at the campground.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/CF887FB7-1DD8-B71B-0B2DD606CE518FD4.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Fence line",
+     "altText": "A fence line disappears into the distance next to a green tent below a Eucalyptus stand.",
+     "caption": "Fence line",
+     "url": "https://www.nps.gov/common/uploads/structured_data/CFB9E81A-1DD8-B71B-0B9B51F330F11AA4.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Hiking to Haypress",
+     "altText": "Three hikers walk along the exposed trail to Haypress Campground under cloudy, blue skies.",
+     "caption": "Hiking to Haypress",
+     "url": "https://www.nps.gov/common/uploads/structured_data/CFE39E1B-1DD8-B71B-0B5F88912ACA2735.jpg"
+    },
+    {
+     "credit": "Lara Volski NPS",
+     "crops": [],
+     "title": "Haypress Meadows",
+     "altText": "A low wooden fence separates green grass.",
+     "caption": "A view of the group campsite at Haypress",
+     "url": "https://www.nps.gov/common/uploads/structured_data/31CA720B-08EF-3C39-2065A9B5731C84CC.jpg"
+    }
+   ],
+   "weatherOverview": "Temperatures are mild year-round. Expect lows from 50-55 degrees and highs from 60-65. Fog is prevalent in the summer months from May - Sept. It is best to bring clothing that can be layered.",
+   "numberOfSitesReservable": "6",
+   "numberOfSitesFirstComeFirstServe": "0",
+   "campsites": {
+    "totalSites": "6",
+    "group": "1",
+    "horse": "0",
+    "tentOnly": "5",
+    "electricalHookups": "0",
+    "rvOnly": "0",
+    "walkBoatTo": "5",
+    "other": "0"
+   },
+   "accessibility": {
+    "wheelchairAccess": "No wheelchair access.",
+    "internetInfo": "",
+    "cellPhoneInfo": "",
+    "fireStovePolicy": "No wood or charcoal fires allowed; gas camp stoves are permitted.",
+    "rvAllowed": "0",
+    "rvInfo": "No RVs or trailers.",
+    "rvMaxLength": "0",
+    "additionalInfo": "",
+    "trailerMaxLength": "0",
+    "adaInfo": "Haypress Campground is accessible by a 0.7 mile hike from the Tennessee Valley parking area.",
+    "trailerAllowed": "0",
+    "accessRoads": [
+     "No Roads"
+    ],
+    "classifications": [
+     "Primitive Camping Areas"
+    ]
+   },
+   "multimedia": [],
+   "relevanceScore": 1.0,
+   "lastIndexedDate": ""
+  },
+  {
+   "id": "2AFC7456-747A-4F35-8572-418E6E103989",
+   "url": "https://www.recreation.gov/camping/campgrounds/272229",
+   "name": "Bicentennial Campground",
+   "parkCode": "goga",
+   "description": "Bicentennial Campground is the easiest to reach campground in Golden Gate, approximately 100 yards from the parking area near Battery Wallace. The campground is a great location for those wanting to camp near the city. There is a moderate short hill to climb to/from the campground from the parking area. It is downhill to the site and uphill back to the parking area. Open Year Round. $25.00/per campsite per night",
+   "latitude": "37.8245721146",
+   "longitude": "-122.52672547",
+   "latLong": "{lat:37.8245721146, lng:-122.52672547}",
+   "audioDescription": "",
+   "isPassportStampLocation": "0",
+   "passportStampLocationDescription": "",
+   "passportStampImages": [],
+   "geometryPoiId": "4AF06FA2-820E-4646-9C4A-77B5F1FCF8E9",
+   "reservationInfo": "Reservations can be made up to six months before your arrival and may extend up to two days beyond this 6-month booking window. You can reserve directly from this page via a partnership with recreation.gov by clicking the green 'reserve' button. A recreation.gov account is required to make a reservation. The reservation fee at Bicentennial Campground increases to $25 on January 1. There is no water on the campground, so bring your own water, soap, and hand sanitizer. We urge visitors to continue to practice\u202fLeave No Trace principles, including by packing out their trash, to keep outdoor spaces safe.",
+   "reservationUrl": "https://www.recreation.gov/camping/campgrounds/272229",
+   "regulationsurl": "https://www.nps.gov/goga/planyourvisit/outdooractivities.htm",
+   "regulationsOverview": "Maximum stay is three nights per year. No pets allowed. No car camping. 3 people per overnight site. Check fire restrictions, such as Red Flag Warnings or Spare the Air Days, before grilling.",
+   "amenities": {
+    "trashRecyclingCollection": "Yes - year round",
+    "toilets": [
+     "Vault Toilets - year round"
+    ],
+    "internetConnectivity": "No",
+    "showers": [
+     "None"
+    ],
+    "cellPhoneReception": "Yes - year round",
+    "laundry": "No",
+    "amphitheater": "No",
+    "dumpStation": "No",
+    "campStore": "No",
+    "staffOrVolunteerHostOnsite": "No",
+    "potableWater": [
+     "No water"
+    ],
+    "iceAvailableForSale": "No",
+    "firewoodForSale": "No",
+    "foodStorageLockers": "Yes - year round"
+   },
+   "contacts": {
+    "phoneNumbers": [
+     {
+      "phoneNumber": "415-331-1540",
+      "description": "",
+      "extension": "",
+      "type": "Voice"
+     }
+    ],
+    "emailAddresses": [
+     {
+      "description": "",
+      "emailAddress": "goga_info@nps.gov"
+     }
+    ]
+   },
+   "fees": [
+    {
+     "cost": "25.00",
+     "description": "Tent Only Site",
+     "title": "Tent Only Nonelectric"
+    }
+   ],
+   "directionsOverview": "Upon entering the Marin Headlands via the Baker-Barry Tunnel, drive until you reach Field Road. Turn left onto Field Road, drive less than 0.5 miles uphill and make the first left turn you can, followed by a right. You will see signs for Bicentennial Campground. Either parallel park on the road or in the small dirt pull-out.",
+   "directionsUrl": "",
+   "operatingHours": [
+    {
+     "exceptions": [],
+     "description": "Bicentennial Campground is currently open and reservations can be three weeks in advance. Recreate responsibly, only camp with members of your household, and stay home if sick.",
+     "standardHours": {
+      "wednesday": "All Day",
+      "monday": "All Day",
+      "thursday": "All Day",
+      "sunday": "All Day",
+      "tuesday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day"
+     },
+     "name": "Bicentennial Campground"
+    }
+   ],
+   "addresses": [
+    {
+     "postalCode": "94965",
+     "city": "Sausalito",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Bicentennial Campground",
+     "type": "Physical",
+     "line3": "Marin Headlands",
+     "line2": "Conzelman Road"
+    },
+    {
+     "postalCode": "94123-0022",
+     "city": "San Francisco",
+     "stateCode": "CA",
+     "countryCode": "US",
+     "provinceTerritoryCode": "",
+     "line1": "Golden Gate National Recreation Area",
+     "type": "Mailing",
+     "line3": "Fort Mason",
+     "line2": "Building 201"
+    }
+   ],
+   "images": [
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Camping at Bicentennial",
+     "altText": "Campers make use of the food storage boxes and picnic tables at the campground.",
+     "caption": "Settling into the campground.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/CD83477D-1DD8-B71B-0B4DD961D23A8721.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Picnic table",
+     "altText": "Campers sit contentedly at the picnic table with a gray sky above them.",
+     "caption": "Gray skies, happy campers.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/CDB7D5C0-1DD8-B71B-0B78246DC3E03322.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Setting up camp",
+     "altText": "Campers set up a tent in a dry, grassy field with green cypresses behind them.",
+     "caption": "Setting up camp.",
+     "url": "https://www.nps.gov/common/uploads/structured_data/CDD849DE-1DD8-B71B-0BF112C422227372.jpg"
+    },
+    {
+     "credit": "NPS Photoe",
+     "crops": [],
+     "title": "View of the Golden Gate Bridge",
+     "altText": "The view of the Golden Gate Bridge from the campground.",
+     "caption": "View of the Golden Gate",
+     "url": "https://www.nps.gov/common/uploads/structured_data/CDF4975C-1DD8-B71B-0BEFF5BA1B26DD0E.jpg"
+    },
+    {
+     "credit": "NPS Photo",
+     "crops": [],
+     "title": "Enjoying the campsite",
+     "altText": "Campers have their tent set up next to a picnic table covered in food and supplies.",
+     "caption": "Ready to relax",
+     "url": "https://www.nps.gov/common/uploads/structured_data/D37FA7CA-1DD8-B71B-0B92DFC568B4C600.jpg"
+    }
+   ],
+   "weatherOverview": "Temperatures are mild year-round. Expect lows from 50-55 degrees and highs from 60-65. Fog is prevalent in the summer months from May - Sept. It is best to bring clothing that can be layered.",
+   "numberOfSitesReservable": "3",
+   "numberOfSitesFirstComeFirstServe": "0",
+   "campsites": {
+    "totalSites": "3",
+    "group": "0",
+    "horse": "0",
+    "tentOnly": "3",
+    "electricalHookups": "0",
+    "rvOnly": "0",
+    "walkBoatTo": "3",
+    "other": "0"
+   },
+   "accessibility": {
+    "wheelchairAccess": "Wheelchair access is limited, as there are no paved areas in the campground.",
+    "internetInfo": "",
+    "cellPhoneInfo": "",
+    "fireStovePolicy": "No campfires allowed; gas camp stoves are permitted. Grills are provided on site to use with charcoal only.",
+    "rvAllowed": "0",
+    "rvInfo": "No RVs or trailers.",
+    "rvMaxLength": "0",
+    "additionalInfo": "",
+    "trailerMaxLength": "0",
+    "adaInfo": "Bicentennial Campground is not accessible by car. While the campground itself is flat, there is a steep 300 yard walk down to the campground.",
+    "trailerAllowed": "0",
+    "accessRoads": [
+     "Paved Roads - All vehicles OK"
+    ],
+    "classifications": [
+     "Limited Development Campground"
+    ]
+   },
+   "multimedia": [],
+   "relevanceScore": 1.0,
+   "lastIndexedDate": ""
+  },
+  {
+   "id": "E6330478-44B8-4112-A944-5B146F5BD0FC",
+   "url": "https://presidio.gov/explore/attractions/rob-hill-campground",
+   "name": "Rob Hill Campground",
+   "parkCode": "goga",
+   "description": "Open for public tent camping from April 1 to October 31, Rob Hill offers 4 (2 are accessible) group campsites that each can welcome up to 30 people. Sites must be reserved in advance through Recreation.gov. In addition to providing easy access to Presidio trails and views, each campsite comes with amenities like picnic tables and grills, as well as access to indoor restrooms.",
+   "latitude": "37.7963921158",
+   "longitude": "-122.476059459",
+   "latLong": "{lat:37.7963921158, lng:-122.476059459}",
+   "audioDescription": "",
+   "isPassportStampLocation": "0",
+   "passportStampLocationDescription": "",
+   "passportStampImages": [],
+   "geometryPoiId": "DCD2AFF9-1703-44D2-A8BE-E2303DDE59BF",
+   "reservationInfo": "",
+   "reservationUrl": "",
+   "regulationsurl": "",
+   "regulationsOverview": "",
+   "amenities": {
+    "trashRecyclingCollection": "",
+    "toilets": [],
+    "internetConnectivity": "",
+    "showers": [],
+    "cellPhoneReception": "",
+    "laundry": "",
+    "amphitheater": "",
+    "dumpStation": "",
+    "campStore": "",
+    "staffOrVolunteerHostOnsite": "",
+    "potableWater": [],
+    "iceAvailableForSale": "",
+    "firewoodForSale": "",
+    "foodStorageLockers": ""
+   },
+   "contacts": {
+    "phoneNumbers": [],
+    "emailAddresses": []
+   },
+   "fees": [
+    {
+     "cost": "92.00",
+     "description": "Rob Hill Group Campsite",
+     "title": "Rob Hill Group Campsite"
+    }
+   ],
+   "directionsOverview": "",
+   "directionsUrl": "",
+   "operatingHours": [
+    {
+     "exceptions": [],
+     "description": "Group camp sites are open for public tent camping from April 1 to October 31.",
+     "standardHours": {
+      "wednesday": "All Day",
+      "monday": "All Day",
+      "thursday": "All Day",
+      "sunday": "All Day",
+      "tuesday": "All Day",
+      "friday": "All Day",
+      "saturday": "All Day"
+     },
+     "name": "Rob Hill Campground"
+    }
+   ],
+   "addresses": [],
+   "images": [
+    {
+     "credit": "Presidio Trust",
+     "crops": [],
+     "title": "Rob Hill Campground",
+     "altText": "Two green tents sit in a campsite near a firepit, surrounded by trees.",
+     "caption": "Rob Hill Campground",
+     "url": "https://www.nps.gov/common/uploads/structured_data/4ABB5317-09F0-679A-070BE58523CA7AA3.png"
+    }
+   ],
+   "weatherOverview": "Temperatures are mild year-round. Expect lows from 50-55 degrees and highs from 70-75. Fog is prevalent in the summer months from May-Sept. It is best to bring clothing that can be layered.",
+   "numberOfSitesReservable": "0",
+   "numberOfSitesFirstComeFirstServe": "0",
+   "campsites": {
+    "totalSites": "0",
+    "group": "0",
+    "horse": "0",
+    "tentOnly": "0",
+    "electricalHookups": "0",
+    "rvOnly": "0",
+    "walkBoatTo": "0",
+    "other": "0"
+   },
+   "accessibility": {
+    "wheelchairAccess": "",
+    "internetInfo": "",
+    "cellPhoneInfo": "",
+    "fireStovePolicy": "",
+    "rvAllowed": "0",
+    "rvInfo": "",
+    "rvMaxLength": "0",
+    "additionalInfo": "",
+    "trailerMaxLength": "0",
+    "adaInfo": "",
+    "trailerAllowed": "0",
+    "accessRoads": [],
+    "classifications": []
+   },
+   "multimedia": [],
+   "relevanceScore": 1.0,
+   "lastIndexedDate": ""
+  }
+ ]
+}

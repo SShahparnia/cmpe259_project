@@ -1,0 +1,88 @@
+{
+ "_meta": {
+  "endpoint": "feespasses",
+  "park_code": "muwo",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 1,
+  "fetched_at": "2026-10-15T18:18:36"
+ },
+ "data": [
+  {
+   "parkCode": "muwo",
+   "isFeeFreePark": false,
+   "isInteragencyPassAccepted": true,
+   "cashless": "No",
+   "feesAtWorkUrl": "https://www.nps.gov/muwo/learn/management/yourdollarsatwork.htm",
+   "entranceFeeDescription": "$15.00 per adult (16 years and older). Purchase in advance with your parking/shuttle reservation or upon arrival at the Muir Woods Visitor Center. Parking/shuttle reservation fees are separate from entrance fees and are required for all vehicles and shuttle riders. Visit GoMuirWoods.com to reserve parking/shuttle tickets and pre-purchase entrance fees.",
+   "entrancePassDescription": "",
+   "isParkingFeePossible": false,
+   "parkingDetailsUrl": "",
+   "timedEntryHeading": "",
+   "timedEntryDescription": "",
+   "isParkingOrTransportationFeePossible": false,
+   "paidParkingHeading": "Parking/shuttle Reservations Required. Visit GoMuirWoods.com",
+   "paidParkingDescription": "Parking/shuttle reservation fees are separate from entrance fees and are required for all vehicles and shuttle riders. Visit GoMuirWoods.com to reserve parking/shuttle tickets and pre-purchase entrance fees.",
+   "customFeeHeading": "Parking/Shuttle Reservations Required",
+   "customFeeDescription": "Parking/shuttle reservation fees are separate from entrance fees and are required for all vehicles and shuttle riders.",
+   "customFeeLinkUrl": "https://GoMuirWoods.com/",
+   "customFeeLinkText": "Reserve parking/shuttle and pre-purchase entrance fees at GoMuirWoods.com",
+   "contentOrderOrdinals": {
+    "entranceFee": 1,
+    "timedEntry": 3,
+    "paidParking": 4,
+    "customFee": 2
+   },
+   "relatedMultiSitePasses": [],
+   "fees": [
+    {
+     "entranceFeeType": "Entrance - Per Person",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "15.00",
+     "timedEntryShortDescription": "",
+     "description": "$15 per person 16 years of age and older. Entrance fees may be purchased in advance with your parking/shuttle reservation or upon arrival to the park. Parking/shuttle reservations are required for all vehicles and shuttle riders visiting Muir Woods National Monument. Reservation fees are separate from entrance fees. Please visit GoMuirWoods.com for parking/shuttle reservations.",
+     "informationUrl": "",
+     "id": "5122952F-8BE9-4223-B614-30DAEE5DC855",
+     "npsGovPurchaseUrl": ""
+    }
+   ],
+   "passes": [
+    {
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "45.00",
+     "image": [
+      {
+       "credit": "",
+       "title": "",
+       "altText": "",
+       "caption": "",
+       "url": "https://www.nps.gov/customcf/structured_data/images/add_image.png"
+      }
+     ],
+     "description": "This pass is good for 12 months. It admits the pass holder and three persons (16 and older) to Muir Woods. A physical card can be purchased at Muir Woods -OR- a digital version of the Muir Woods Annual Pass can be purchased on recreation.gov. Parking reservations are required for all visitors.",
+     "paymentDescription": "",
+     "category": "Annual Entrance - Park",
+     "informationUrl": "",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/2866",
+     "id": "19B5C1D2-5F43-4F38-B8B1-9FFA6D9895BA",
+     "npsGovPurchaseUrl": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,280 @@
+{
+ "_meta": {
+  "endpoint": "feespasses",
+  "park_code": "yose",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 1,
+  "fetched_at": "2026-10-15T18:18:30"
+ },
+ "data": [
+  {
+   "parkCode": "yose",
+   "isFeeFreePark": false,
+   "isInteragencyPassAccepted": true,
+   "cashless": "Yes",
+   "feesAtWorkUrl": "",
+   "entranceFeeDescription": "We accept major credit cards and mobile payment services (we do not accept cash) when you arrive. If you are arriving in a private vehicle, you only need to pay the vehicle fee (not the $20 per-person fee; non-residents pay an addition $100 per-person fee). All park entrances (except Hetch Hetchy) are open 24 hours per day. America the Beautiful\u2014National Parks and Federal Recreational Lands Annual Passes do cover park entrance fees (but not reservation requirements or fees if they are in place).",
+   "entrancePassDescription": "The Yosemite Annual Pass provides free entrance to Yosemite for 12 months from the date of purchase for US citizens and residents.",
+   "isParkingFeePossible": false,
+   "parkingDetailsUrl": "",
+   "timedEntryHeading": "",
+   "timedEntryDescription": "",
+   "isParkingOrTransportationFeePossible": false,
+   "paidParkingHeading": "",
+   "paidParkingDescription": "",
+   "customFeeHeading": "",
+   "customFeeDescription": "",
+   "customFeeLinkUrl": "",
+   "customFeeLinkText": "",
+   "contentOrderOrdinals": {
+    "entranceFee": 1,
+    "timedEntry": 3,
+    "paidParking": 2,
+    "customFee": 4
+   },
+   "relatedMultiSitePasses": [],
+   "fees": [
+    {
+     "entranceFeeType": "Entrance - Private Vehicle",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/74296",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "35.00",
+     "timedEntryShortDescription": "",
+     "description": "This fee is valid for seven consecutive days for a non-commercial car, pickup truck, RV, or van with 15 or fewer passenger seats. This fee covers the vehicle and everyone inside of it. Per-person nonresident fees still apply.",
+     "informationUrl": "",
+     "id": "21DC5E58-2493-4157-8226-56907BF94730",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Entrance - Motorcycle",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/74296",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "30.00",
+     "timedEntryShortDescription": "",
+     "description": "Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers. Per-person nonresident fees still apply.",
+     "informationUrl": "",
+     "id": "94CBF683-E82B-4641-B20A-C53991BD3EC9",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Entrance - Per Person",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "20.00",
+     "timedEntryShortDescription": "",
+     "description": "This fee is valid for seven consecutive days for people entering on foot, a bicycle, a horse, or a non-commercial bus or van. People 15 years and younger are free.",
+     "informationUrl": "",
+     "id": "12356273-E71D-4A65-AE39-F1F096B266AE",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Entrance - Non-commercial Groups",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "300.00",
+     "timedEntryShortDescription": "",
+     "description": "The per-person fee is $20 to a maximum of $300 per vehicle. People 15 years and younger are free.",
+     "informationUrl": "",
+     "id": "3ABA71A0-1A53-4ABE-8C9C-C51FB021BB53",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Entrance - Education/Academic Groups",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "0.00",
+     "timedEntryShortDescription": "",
+     "description": "An educational fee waiver is available for educational and scientific groups that are accredited or tax-exempt for educational purposes planning a trip for educational or scientific purposes related to Yosemite that is not primarily recreational.",
+     "informationUrl": "https://www.nps.gov/yose/planyourvisit/waivers.htm",
+     "id": "35F309C9-7FA7-46C8-A883-56460B1BF67A",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Commercial Entrance - Per Person",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "20.00",
+     "timedEntryShortDescription": "",
+     "description": "The fee is $20 per person for any resident 16 years or older. For any nonresident the fee is $100 per person for anyone 16 years or older. This fee is valid for seven consecutive days.",
+     "informationUrl": "https://www.nps.gov/yose/getinvolved/dobusinesswithus.htm",
+     "id": "7B90A789-E049-473F-99F8-9656B54399EA",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Nonresident",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "100.00",
+     "timedEntryShortDescription": "",
+     "description": "Each non-US resident aged 16 and older visiting Yosemite National Park must pay a $100 nonresident fee (in addition to the standard entrance fee), unless admitted with an Annual or America the Beautiful Pass. This includes nonresidents entering as part of a commercial tour group, commercial use authorization (CUA) group, or concessioner tour group.",
+     "informationUrl": "",
+     "id": "293A9709-1E94-4A7D-9731-33A1E8AF54E6",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Commercial Entrance - Mini-bus",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "200.00",
+     "timedEntryShortDescription": "",
+     "description": "This fee is valid for seven consecutive days. For any nonresident there is an additional fee of $100 per person for anyone 16 years or older. A commercial use authorization is required.",
+     "informationUrl": "https://www.nps.gov/yose/getinvolved/dobusinesswithus.htm",
+     "id": "DF855124-63E2-444E-823C-0FCC1291E3D2",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Commercial Entrance - Motor Coach",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "",
+     "recGovPurchaseUrl": "",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "300.00",
+     "timedEntryShortDescription": "",
+     "description": "This fee is valid for seven consecutive days. For any nonresident there is an additional fee of $100 per person for anyone 16 years or older. A commercial use authorization is required.",
+     "informationUrl": "https://www.nps.gov/yose/getinvolved/dobusinesswithus.htm",
+     "id": "487C2AD4-A136-4FAD-8D05-BAC7A38798E6",
+     "npsGovPurchaseUrl": ""
+    }
+   ],
+   "passes": [
+    {
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "70.00",
+     "image": [
+      {
+       "credit": "NPS/Rob Lester",
+       "title": "Yosemite Annual Pass",
+       "altText": "Black bear lying down in a forest staring at the viewer",
+       "caption": "Black bears live in the forests of Yosemite",
+       "url": "https://www.nps.gov/common/uploads/entrance_pass/39C1FC96-B80B-0C86-AECDAF028F85A3F6.jpg"
+      }
+     ],
+     "description": "Annual pass providing free entrance to Yosemite for 12 months from the date of purchase for US citizens and permanent residents.",
+     "paymentDescription": "",
+     "category": "Annual Entrance - Park",
+     "informationUrl": "",
+     "recGovPurchaseUrl": "",
+     "id": "BE7DF217-7B08-4E1F-9903-CA448948F086",
+     "npsGovPurchaseUrl": ""
+    }
+   ]
+  }
+ ]
+}

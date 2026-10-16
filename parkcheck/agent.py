@@ -40,6 +40,8 @@ def client():
 
 def _chat(model, messages, tools=None, tool_choice=None):
     kwargs = {"model": model, "messages": messages}
+    if cfg.REASONING_EFFORT:
+        kwargs["reasoning_effort"] = cfg.REASONING_EFFORT
     if tools:
         kwargs["tools"] = tools
         kwargs["tool_choice"] = tool_choice or "auto"
@@ -82,7 +84,7 @@ def run(query, config="A", history=None, today=None, keep_tool_results=True):
         "timestamp": dt.datetime.now().isoformat(timespec="seconds"),
         "snapshot": cfg.SNAPSHOT_DATE, "config": conf.name, "config_label": conf.label,
         "model": conf.model, "use_tools": conf.use_tools, "query": query,
-        "history_turns": len(history or []),
+        "history_turns": len(history or []), "reasoning_effort": cfg.REASONING_EFFORT,
         "answer": None, "tool_calls": [], "tool_results": [], "steps": 0,
         "prompt_tokens": 0, "completion_tokens": 0, "error": None,
     }

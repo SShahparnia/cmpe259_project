@@ -1,0 +1,76 @@
+{
+ "_meta": {
+  "endpoint": "alerts",
+  "park_code": "goga",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 5,
+  "fetched_at": "2026-10-15T18:18:48"
+ },
+ "data": [
+  {
+   "id": "6F8CFD40-EE5A-4440-BB28-498468594BD0",
+   "url": "https://www.nps.gov/goga/learn/news/alcatraz-island-to-temporarily-close-for-dock-repairs-this-fall.htm",
+   "title": "Alcatraz Island to Temporarily Close in Fall for Dock Repairs",
+   "parkCode": "goga",
+   "description": "Date Posted: 9/28/2026 Alcatraz Island, part of the Golden Gate National Recreation Area, is scheduled to temporarily close beginning on Oct. 26, 2026, while crews replace pilings that secure the ferry dock to the island. Repairs are expected to be completed by Nov. 18, 2026. For more information, please see news release linked here.",
+   "category": "Park Closure",
+   "relatedRoadEvents": [],
+   "lastIndexedDate": "2026-10-05 00:00:00.0"
+  },
+  {
+   "id": "674E3DF9-F21B-4F65-A716-97FC2D47102A",
+   "url": "https://www.parksconservancy.org/projects/china-beach",
+   "title": "China Beach Construction & Seacliff Avenue Closures Fall - Winter 2026",
+   "parkCode": "goga",
+   "description": "Park's China Beach renovation of bathhouse, lower terrace, and picnic areas is in progress. See 'more' for link to Phase 3 of China Beach project below. SFPUC waterline replacement project will cause parking restrictions, lane closures, and access controls along Sea Cliff Avenue. Visitors should expect SFPUC project on Sea Cliff Avenue to impact access to China Beach. See link to SFPUC project below: https://www.sfpuc.gov/construction-contracts/construction-projects/seacliffpumps.",
+   "category": "Park Closure",
+   "relatedRoadEvents": [
+    {
+     "title": "China Beach Construction & Seacliff Avenue Closures Fall - Winter 2026",
+     "id": "674E3DF9-F21B-4F65-A716-97FC2D47102A",
+     "type": "roadevent",
+     "url": "https://www.nps.gov/goga/planyourvisit/conditions.htm"
+    }
+   ],
+   "lastIndexedDate": "2026-09-08 00:00:00.0"
+  },
+  {
+   "id": "B831CEB1-40B7-455C-9E09-644D8291FC7A",
+   "url": "https://www.nps.gov/goga/learn/news/larceny-from-autos-at-ggnra.htm",
+   "title": "Auto-Theft Warning - Only Bring What You Need to the Park",
+   "parkCode": "goga",
+   "description": "You can prevent vehicle break-ins in parking lots and scenic overlooks. Before leaving your car for even a short period of time: 1) Remove all valuables, 2) Lock your doors. 3) Take your wallets, purses, backpacks, keys, key fobs, cell phones, and electronics with you. Read article for more details.",
+   "category": "Caution",
+   "relatedRoadEvents": [],
+   "lastIndexedDate": "2026-08-24 00:00:00.0"
+  },
+  {
+   "id": "39588841-35E4-456D-80E0-192D0F295883",
+   "url": "https://www.nps.gov/goga/learn/management/fire_beachfireregs.htm",
+   "title": "Ocean Beach Fire Season in Effect through October 31, 2026",
+   "parkCode": "goga",
+   "description": "Fires allowed ONLY in park provided concrete fire rings between Stairwells 15 and 20. Do NOT make fire rings using rocks, logs or other items. When the Bay Area Air Quality Management District declares a Spare the Air Day, NO campfires, beach fires, or outdoor grills are allowed in the park. For more information, visit the beach fire regulations link below.",
+   "category": "Information",
+   "relatedRoadEvents": [],
+   "lastIndexedDate": "2026-08-06 00:00:00.0"
+  },
+  {
+   "id": "58E30F52-2D8A-44AE-902D-651FA61A04F4",
+   "url": "",
+   "title": "Upper Fort Mason Roads and Parking Area Closures Fall 2025 - Fall 2026",
+   "parkCode": "goga",
+   "description": "Roads and parking areas at upper Fort Mason will have closures during utilities and seismic retrofit projects. Closures planned Fall 2025 through Fall 2026. Lots will be fenced and used as staging areas for projects occurring at Fort Mason. Signs will be posted in advance of utilities work as project progresses through each area at Fort Mason. Read signs and do not park in posted areas. Vehicles will be towed at owner's expense.",
+   "category": "Information",
+   "relatedRoadEvents": [
+    {
+     "title": "Parking Closure of Fort Mason Lots Until December 2026",
+     "id": "58E30F52-2D8A-44AE-902D-651FA61A04F4",
+     "type": "roadevent",
+     "url": "https://www.nps.gov/goga/planyourvisit/conditions.htm"
+    }
+   ],
+   "lastIndexedDate": "2026-07-21 00:00:00.0"
+  }
+ ]
+}

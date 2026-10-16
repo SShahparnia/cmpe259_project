@@ -1,0 +1,303 @@
+{
+ "_meta": {
+  "endpoint": "thingstodo",
+  "park_code": "muwo",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 3,
+  "fetched_at": "2026-10-15T18:18:35"
+ },
+ "data": [
+  {
+   "id": "61512DAD-643F-4BC7-88C1-11AB1038723C",
+   "url": "https://www.nps.gov/thingstodo/muir-woods-birdwatching.htm",
+   "title": "Muir Woods Birdwatching",
+   "shortDescription": "Birdwatching in Muir Woods",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/FA88C31E-0A1E-F1F0-B5FB8580A15CB9EB.jpg",
+     "credit": "Kirke Wrench",
+     "altText": "Close up photograph of a brown with white spots, blacked eyed Northern Spotted Owl",
+     "title": "Northern Spotted Owl",
+     "description": "",
+     "caption": "Northern Spotted Owl",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/FA88C31E-0A1E-F1F0-B5FB8580A15CB9EB.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/FA88C31E-0A1E-F1F0-B5FB8580A15CB9EB.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    },
+    {
+     "states": "CA",
+     "parkCode": "muwo",
+     "designation": "National Monument",
+     "fullName": "Muir Woods National Monument",
+     "url": "https://www.nps.gov/muwo/index.htm",
+     "name": "Muir Woods"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [],
+   "latitude": "37.892711535662656",
+   "longitude": "-122.57236255502237",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Muir Woods National Monument",
+   "seasonDescription": "",
+   "accessibilityInformation": "<h4>Accessible Features</h4> <ul> <li> <p><a href=\"https://www.nps.gov/goga/planyourvisit/accessibility-definitions.htm\">Designated Accessible</a>\u00a0Parking</p> </li> <li> <p>Assistive Listening Devices</p> </li> <li> <p>Accessible Restrooms</p> </li> <li> <p>Segments of Accessible Trails</p> </li> <li> <p>Braille Brochure and Trail Map</p> </li> <li> <p>Large Print Brochure</p> </li> <li> <p>Accessible Cafe and Gift Shop</p> </li> <li> <p><a href=\"https://www.nps.gov/goga/planyourvisit/accessibility-definitions.htm\">Usable</a>\u00a0Visitors Center</p> </li> <li> <p><a href=\"https://www.nps.gov/goga/planyourvisit/visual.htm\">Audio Described Brochures and Waysides</a></p> </li> <li> <p><a href=\"https://www.nps.gov/muwo/planyourvisit/muir-woods-asl.htm\">American Sign Language Orientation Videos</a></p> </li> <li> <p><a href=\"https://www.nps.gov/goga/learn/photosmultimedia/audio.htm\">Click here to download an audio described version of the Muir Woods Brochure.</a></p> </li> </ul> <h4>Service Animals</h4> Service Animals, as recognized by the Americans with Disabilities Act, are allowed: <p>Service animals are defined as animals that are individually trained to do work or perform tasks for people with disabilities. Examples of such work or tasks include guiding people who are blind, alerting people who are deaf, pulling a wheelchair, alerting and protecting a person who is having a seizure, reminding a person with mental illness to take prescribed medications, calming a person with Post Traumatic Stress Disorder (PTSD) during an anxiety attack, or performing other duties. Service animals are working animals, not pets. The work or task a dog has been trained to provide must be directly related to the person\u2019s disability. Animals whose sole function is to provide comfort or emotional support do not qualify as service animals under the ADA.<br /> <br /> For more information on the DOJ ADA Revised Service Animal Regulations, please click <a href=\"https://www.nps.gov/goga/planyourvisit/service-animals.htm\"><b>here</b></a>.</p> <h4>Upon Arrival</h4> <p>As you arrive at Muir Woods, proceed to the main parking lot follow the signs to the accessible parking stalls located closest to the Visitor Center and park entrance. Accessible restrooms are located across from the parking stalls. The surface material within the entry plaza is a compacted mix of recycled asphalt and dirt. The surface is firm and stable. There are several accessible benches located in the entry plaza.</p> <p>\u00a0</p> <h4>In the Park</h4> <p>Once you arrive, head towards the Visitor's Center. Here is where you can request assistive listening devices for our Ranger Led Tours and Mp3 players containing an audio description of the Muir Woods Brochure and waysides along the Main Trail. The Visitors Center also provides a copy of the Muir Woods Brochure in Braille along with a Braille Trail Map. After stopping at the Visitors Center, follow the raised accessible boardwalk. This boardwalk is part of the Muir Woods Main Trail. If you follow the raised boardwalk to the right it will lead to an accessible gift shop, caf\u00e9 and restroom facility. Signage is provided. If you choose to continue into the Redwood Forest, the accessible boardwalk will continue for several hundred feet to the Pinchot Tree Area. There are several informational waysides along the boardwalk. If you proceed past the boardwalk you will encounter an asphalt trail which is usable; however, it contains potholes and severe cracks due to heaving tree roots. As funding and resources allow, we will continue to replace the existing asphalt with an accessible raised boardwalk.</p>",
+   "isReservationRequired": "true",
+   "ageDescription": "This is an all ages activity.\u00a0",
+   "petsDescription": "Pets are not allowed in Muir Woods National Monument.",
+   "timeOfDayDescription": "",
+   "feeDescription": "There is an entrance fee to\u00a0<a href=\"https://www.nps.gov/muwo/planyourvisit/fees.htm\">Muir Woods National Monument.</a><br /> <br /> In addition, parking <a href=\"https://www.nps.gov/muwo/planyourvisit/know-before-you-go.htm\">reservations </a>are required.\u00a0",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "false",
+   "activities": [
+    {
+     "id": "5A2C91D1-50EC-4B24-8BED-A2E11A1892DF",
+     "name": "Birdwatching"
+    }
+   ],
+   "activityDescription": "",
+   "locationDescription": "",
+   "doFeesApply": "true",
+   "longDescription": "The old growth forest of\u00a0<a href=\"https://www.nps.gov/muwo/naturescience\">Muir Woods</a>\u00a0represents a fragmented island of the redwood stands that existed 150 years ago. Muir woods is now the last remaining contiguous stand of old growth coast redwoods in Marin County. Underneath the dappled sunlight, high in the branches of these giants, federally threatened species such as the\u00a0<a href=\"https://www.nps.gov/rlc/pacificcoast/northern-spotted-owls.htm\">northern spotted owl\u00a0</a>nests. Marin County is home for a fairly large population of these small owls that have found themselves spotlighted in the media. At least 69 bird species occur within Muir Woods, the majority of which are small neotropical migrants such as the Pacific-slope flycatcher, winter wren, golden-crowned kinglet, and chestnut-backed chickadee.<br /> <br /> \u00a0",
+   "reservationDescription": "Parking <a href=\"https://www.nps.gov/muwo/planyourvisit/know-before-you-go.htm\">reservations </a>are required to visit Muir Woods National Monument.\u00a0",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "957EF2BD-AC6C-4B7B-BD9A-87593ADC6691",
+     "name": "Birds"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "false",
+   "timeOfDay": [
+    "Day"
+   ],
+   "duration": "1-2 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "A60B04D1-1AF0-4448-B391-5939F499E656",
+   "url": "https://www.nps.gov/thingstodo/whale-watch-from-muir-beach-overlook.htm",
+   "title": "Whale watch from Muir Beach Overlook",
+   "shortDescription": "Whale Watch from Muir Beach Overlook",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/FBC3E7D5-DD44-A879-40542A53AF05518E.jpg",
+     "credit": "Chad Beale",
+     "altText": "The narrow, wooden fence lined path down to the Muir Beach Overlook",
+     "title": "Muir Beach Overlook",
+     "description": "",
+     "caption": "The path to the Muir Beach Overlook",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/FBC3E7D5-DD44-A879-40542A53AF05518E.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/FBC3E7D5-DD44-A879-40542A53AF05518E.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    },
+    {
+     "states": "CA",
+     "parkCode": "muwo",
+     "designation": "National Monument",
+     "fullName": "Muir Woods National Monument",
+     "url": "https://www.nps.gov/muwo/index.htm",
+     "name": "Muir Woods"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [],
+   "latitude": "37.86305618286133",
+   "longitude": "-122.58577728271484",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Muir Beach Overlook",
+   "seasonDescription": "Whales migrate through this area during winter months.\u00a0",
+   "accessibilityInformation": "<p>Avoid the overlook trail if you're scared of heights. Cliffs along the Rocky Point coast are isolated and very dangerous. Use caution when hiking<br /> <br /> Cell phone coverage is not reliable. Rescue crews are further away.<br /> <br /> The overlook picnic site is scenic but windy, so remember to carry layers and hold on to your paper plates!</p> <h4>Accessible Features</h4> <ul> <li>Designated Accessible Parking</li> <li>Accessible Vault Toilet</li> <li>Accessible Picnic Tables</li> <li>Tactile / Braille Topographic Model</li> <li>Accessible Pathways</li> </ul> <h4>Upon Arrival</h4> <p>There are two designated accessible parking spaces located within the parking lot.</p> <h4>Inside the Park</h4> <p>Adjacent to one of the designated accessible parking spaces is an accessible vault toilet. There is an accessible outdoor route leading to the information kiosk. Past the information kiosk you will find a large scale tactile topographic model which contains Braille labels. There is also a series of information panels. There are several accessible picnic tables all located on accessible outdoor routes. Some portions of the trails are generally accessible while others contain very steep terrain and stairs</p>",
+   "isReservationRequired": "false",
+   "ageDescription": "All Ages are welcome to watch for whales!",
+   "petsDescription": "Dogs are allowed On-Leash.\u00a0<br /> <br /> Visit our <a href=\"https://www.nps.gov/goga/planyourvisit/dog-friendly-areas.htm\">website </a>for more information.",
+   "timeOfDayDescription": "",
+   "feeDescription": "",
+   "age": "0",
+   "arePetsPermittedWithRestrictions": "true",
+   "activities": [
+    {
+     "id": "0B685688-3405-4E2A-ABBA-E3069492EC50",
+     "name": "Wildlife Watching"
+    }
+   ],
+   "activityDescription": "Watch for whales and other wildlife from the Muir Beach Overlook.",
+   "locationDescription": "",
+   "doFeesApply": "false",
+   "longDescription": "Muir Beach Overlook is one of the many spots along the parks' coast for whale lovers to catch a glimpse of these giant marine mammals as they swim by during their winter migrations.",
+   "reservationDescription": "",
+   "season": [
+    "Winter"
+   ],
+   "topics": [
+    {
+     "id": "980D1693-65BF-4F29-8182-7BAC9796E605",
+     "name": "Whales"
+    }
+   ],
+   "durationDescription": "",
+   "arePetsPermitted": "true",
+   "timeOfDay": [
+    "Day"
+   ],
+   "duration": "0-2 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  },
+  {
+   "id": "731EB52F-F00F-42DE-915C-15A49249FD44",
+   "url": "https://www.nps.gov/thingstodo/hike-the-main-trail-at-muir-woods.htm",
+   "title": "Hike the Main Trail at Muir Woods",
+   "shortDescription": "Visit the historic, infamous redwood forest at Muir Woods!",
+   "images": [
+    {
+     "url": "https://www.nps.gov/common/uploads/cropped_image/B19FEC97-94B8-EE6A-7C2759241BAB57A5.jpg",
+     "credit": "John Costner",
+     "altText": "Looking down the established wooden boardwalk of the trail, surrounded on either side by redwoods",
+     "title": "Muir Woods Main Trail",
+     "description": "",
+     "caption": "Muir Woods Main Trail",
+     "crops": [
+      {
+       "aspectRatio": "1.78",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/primary/B19FEC97-94B8-EE6A-7C2759241BAB57A5.jpg"
+      },
+      {
+       "aspectRatio": "1",
+       "url": "https://www.nps.gov/common/uploads/cropped_image/secondary/B19FEC97-94B8-EE6A-7C2759241BAB57A5.jpg"
+      }
+     ]
+    }
+   ],
+   "relatedParks": [
+    {
+     "states": "CA",
+     "parkCode": "goga",
+     "designation": "National Recreation Area",
+     "fullName": "Golden Gate National Recreation Area",
+     "url": "https://www.nps.gov/goga/index.htm",
+     "name": "Golden Gate"
+    },
+    {
+     "states": "CA",
+     "parkCode": "muwo",
+     "designation": "National Monument",
+     "fullName": "Muir Woods National Monument",
+     "url": "https://www.nps.gov/muwo/index.htm",
+     "name": "Muir Woods"
+    }
+   ],
+   "relatedOrganizations": [],
+   "tags": [
+    "Muir Woods",
+    "GGNRA",
+    "trail",
+    "hiking"
+   ],
+   "latitude": "37.89270521216732",
+   "longitude": "-122.57235064287106",
+   "geometryPoiId": "",
+   "amenities": [],
+   "location": "Muir Woods Main Trail",
+   "seasonDescription": "",
+   "accessibilityInformation": "<b>Muir Woods Main Trail Overview</b><br /> Distance: 2.0 mi (3.2 km)<br /> Elevation Gain: 30 ft<br /> Time: 2 hours<br /> Trailhead: Muir Woods Visitor Center<br /> Slope: Avg 2% Max 19%<br /> Side Slope: Avg 2% Max 19%<br /> Width: Avg 37\" Min 48\"<br /> Trail Surface: Firm<br /> <br /> <b>Safety</b><br /> Stay on the established trail. Keep an eye out for poison oak.<br /> Dress in layers and be prepared for varying weather conditions. Sunny days along the coast can turn windy, foggy, and cold very fast.<br /> <br /> <b>Parking</b><br /> There is trailhead parking at Muir Woods including 8 ADA accessible spots. Parking at Muir Woods requires a reservation.<br /> <br /> <b>Bathrooms</b><br /> Accessible restrooms can be found adjacent to the Muir Woods entrance plaza and behind the Cafe and Giftshop.<br /> <br /> <b>Water</b><br /> Drinking water may be found adjacent to the Muir Woods entrance plaza, behind the Cafe and Giftshop, and along the trail at the Fern Creek trail junction. Avoid becoming dehydrated or experiencing heat exhaustion. Drink plenty and drink often; pace yourself; rest in the shade; and eat salty snacks.",
+   "isReservationRequired": "false",
+   "ageDescription": "",
+   "petsDescription": "The Main Trail is closed to dogs. Please remain on the established trails. Off-trail travel harms plants and causes erosion.",
+   "timeOfDayDescription": "<a href=\"https://www.nps.gov/muwo/index.htm\">Muir Woods National Monument</a> is open generally from 8am to 5pm. Please check the parks website/location for more details. Due to ocal and state health regulations, these hours may vary.\u00a0",
+   "feeDescription": "This trail is part of Muir Woods National Monument and requires an entrance fee.\u00a0",
+   "age": "",
+   "arePetsPermittedWithRestrictions": "false",
+   "activities": [
+    {
+     "id": "BFF8C027-7C8F-480B-A5F8-CD8CE490BFBA",
+     "name": "Hiking"
+    }
+   ],
+   "activityDescription": "Walk along the established trail and boardwalk through the majestic Muir Woods.\u00a0",
+   "locationDescription": "Muir Woods' main trail begins at the visitor center and follows Redwood Creek on both sides of the stream. Large redwood trees line this trail from the very beginning. Though a level, easy stroll, the walk can be shortened by crossing at the second or third bridge to return. The path consists of firm surfaces, a mixture of wooden boardwalk, asphalt paving, and packed native soil.",
+   "doFeesApply": "true",
+   "longDescription": "Muir Woods' main trail begins at the visitor center and follows Redwood Creek on both sides of the stream. Large redwood trees line this trail from the very beginning. Though a level, easy stroll, the walk can be shortened by crossing at the second or third bridge to return. The path consists of firm surfaces, a mixture of wooden boardwalk, asphalt paving, and packed native soil.<br /> <br /> \u00a0",
+   "reservationDescription": "",
+   "season": [
+    "Winter",
+    "Spring",
+    "Summer",
+    "Fall"
+   ],
+   "topics": [
+    {
+     "id": "0D00073E-18C3-46E5-8727-2F87B112DDC6",
+     "name": "Animals"
+    },
+    {
+     "id": "4DC11D06-00F1-4A01-81D0-89CCCCE4FF50",
+     "name": "Climate Change"
+    },
+    {
+     "id": "41B1A0A3-11FF-4F55-9CB9-034A7E28B087",
+     "name": "Forests and Woodlands"
+    },
+    {
+     "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+     "name": "Scenic Views"
+    },
+    {
+     "id": "5BE55D7F-BDB6-4E3D-AC35-2D8EBB974417",
+     "name": "Trails"
+    }
+   ],
+   "durationDescription": "Depending on where you turn around, this trail's length can be 0.5 miles to 2 miles or more.",
+   "arePetsPermitted": "false",
+   "timeOfDay": [
+    "Day"
+   ],
+   "duration": "1-2 Hours",
+   "credit": "",
+   "relevanceScore": 1.0
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "_meta": {
+  "endpoint": "alerts",
+  "park_code": "muwo",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 4,
+  "fetched_at": "2026-10-15T18:18:35"
+ },
+ "data": [
+  {
+   "id": "B127187F-76DD-4147-8AB5-CEC00AA6700D",
+   "url": "https://www.nps.gov/goga/learn/news/larceny-from-autos-at-ggnra.htm",
+   "title": "Auto-Theft Warning - Only Bring What You Need to the Park",
+   "parkCode": "muwo",
+   "description": "You can prevent vehicle break-ins in parking lots and scenic overlooks. Before leaving your car for even a short period of time: 1) Remove all valuables, 2) Lock your doors. 3) Take your wallets, purses, backpacks, keys, key fobs, cell phones, and electronics with you. Read article for more details.",
+   "category": "Caution",
+   "relatedRoadEvents": [],
+   "lastIndexedDate": "2026-08-24 00:00:00.0"
+  },
+  {
+   "id": "326C8534-A2CE-4452-879E-1088DFCE26F5",
+   "url": "https://www.nps.gov/muwo/planyourvisit/know-before-you-go.htm",
+   "title": "Parking Reservations Always Required",
+   "parkCode": "muwo",
+   "description": "Reservations are required for all personal vehicles and shuttle riders visiting Muir Woods. You can make your reservation by visiting www.gomuirwoods.com. Visit our \"Know Before You Go\" webpage to learn more important details before your visit.",
+   "category": "Information",
+   "relatedRoadEvents": [],
+   "lastIndexedDate": "2025-12-22 00:00:00.0"
+  },
+  {
+   "id": "73DF9D84-F5DA-43A8-B5A3-8323A625B2F1",
+   "url": "",
+   "title": "No Cell Service at Muir Woods",
+   "parkCode": "muwo",
+   "description": "There is NO cell service at Muir Woods. We discourage scheduling a rideshare service to leave the park. When hiring a taxi, visitors have the option of negotiating a flat rate or using the meter. Under some circumstances a flat rate may be cheaper.",
+   "category": "Information",
+   "relatedRoadEvents": [],
+   "lastIndexedDate": "2025-12-22 00:00:00.0"
+  },
+  {
+   "id": "A997D7EC-AB45-43A4-B910-74D691996AA8",
+   "url": "https://www.parks.ca.gov/?page_id=471",
+   "title": "Mount Tamalpais State Park - Trail Conditions",
+   "parkCode": "muwo",
+   "description": "Many trails in Muir Woods connect to trails in Mount Tamalpais State Park. For up-to-date information about trail conditions within State Park boundaries, check the Mount Tamalpais State Park Info page (click more) and scroll down to Trail Updates.",
+   "category": "Information",
+   "relatedRoadEvents": [],
+   "lastIndexedDate": "2023-04-20 15:52:27.0"
+  }
+ ]
+}

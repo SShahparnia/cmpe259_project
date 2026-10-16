@@ -1,0 +1,136 @@
+{
+ "_meta": {
+  "endpoint": "feespasses",
+  "park_code": "jotr",
+  "params": {},
+  "snapshot": "2026-10-15",
+  "total": 1,
+  "fetched_at": "2026-10-15T18:18:43"
+ },
+ "data": [
+  {
+   "parkCode": "jotr",
+   "isFeeFreePark": false,
+   "isInteragencyPassAccepted": true,
+   "cashless": "Depends on Location",
+   "feesAtWorkUrl": "",
+   "entranceFeeDescription": "Visitors have multiple entrance fee and pass options depending on how they arrive and if they are part of a commercial tour group or not. The most common entrance fee is the Private Vehicle Pass, valid for 7 days. This covers the cost for anyone who is riding in the vehicle. In addition to the 7-day passes, the park also has an annual pass good for 1 year and honors federal interagency passes, including the America the Beautiful Pass.",
+   "entrancePassDescription": "",
+   "isParkingFeePossible": false,
+   "parkingDetailsUrl": "",
+   "timedEntryHeading": "",
+   "timedEntryDescription": "",
+   "isParkingOrTransportationFeePossible": false,
+   "paidParkingHeading": "",
+   "paidParkingDescription": "",
+   "customFeeHeading": "",
+   "customFeeDescription": "",
+   "customFeeLinkUrl": "",
+   "customFeeLinkText": "",
+   "contentOrderOrdinals": {
+    "entranceFee": 1,
+    "timedEntry": 1,
+    "paidParking": 1,
+    "customFee": 4
+   },
+   "relatedMultiSitePasses": [],
+   "fees": [
+    {
+     "entranceFeeType": "Entrance - Private Vehicle",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "Entrance fees can be purchased on recreation.gov, or in-person at an entrance station or visitor center. The park's entrance stations are cashless and will only accept credit or debit cards.",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/74286",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "30.00",
+     "timedEntryShortDescription": "",
+     "description": "7-day vehicle permit, admitting the passengers of a single, non-commercial vehicle on the day of purchase and for the next six days.",
+     "informationUrl": "",
+     "id": "7B7735C8-93C7-4219-BF6C-50501E687F0B",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Entrance - Motorcycle",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "Entrance fees can be purchased on recreation.gov, or in-person at an entrance station or visitor center. The park's entrance stations are cashless and will only accept credit or debit cards.",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/74286",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "25.00",
+     "timedEntryShortDescription": "",
+     "description": "Valid for 7 days. Admits up to 2 private, non-commercial motorcycles with up to 4 total passengers.",
+     "informationUrl": "",
+     "id": "92B7E52F-214E-4DB1-A1C4-9106A8154082",
+     "npsGovPurchaseUrl": ""
+    },
+    {
+     "entranceFeeType": "Entrance - Per Person",
+     "startDate": {
+      "month": 1,
+      "holiday": null,
+      "day": 1
+     },
+     "paymentDescription": "Entrance fees can be purchased on recreation.gov, or in-person at an entrance station or visitor center. The park's entrance stations are cashless and will only accept credit or debit cards.",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/74286",
+     "timedEntryLocation": "",
+     "endDate": {
+      "month": 12,
+      "holiday": null,
+      "day": 31
+     },
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "15.00",
+     "timedEntryShortDescription": "",
+     "description": "7-day entrance fee, per person on foot or bike.",
+     "informationUrl": "",
+     "id": "F6045D98-FDB9-47FC-AE27-67D3BFABCFB1",
+     "npsGovPurchaseUrl": ""
+    }
+   ],
+   "passes": [
+    {
+     "exceptions": "",
+     "payGovPurchaseUrl": "",
+     "cost": "55.00",
+     "image": [
+      {
+       "credit": "NPS / Hannah Schwalbe",
+       "title": "Joshua Tree Annual Pass",
+       "altText": "A plastic card with a photo of Joshua trees and the night sky and \"2017 Annual Pass\"",
+       "caption": "The Joshua Tree National Park 2017 Annual Pass. The photo on the annual pass changes every year and it is determined by an annual photo contest.",
+       "url": "https://www.nps.gov/common/uploads/entrance_pass/A29EC31F-04AD-22A8-EAC0975D043813E9.jpg"
+      }
+     ],
+     "description": "This pass is valid for 12 months from the month of purchase. It covers the entrance fee to Joshua Tree National Park for the pass signee and accompanying passengers entering in a single, non-commercial vehicle. Joshua Tree Annual Passes are available at park entrance stations and visitor centers.",
+     "paymentDescription": "The pass can be purchased on recreation.gov or in person at park visitor centers and entrance stations. The entrance stations are cashless and only allow for credit card purchases.",
+     "category": "Annual Entrance - Park",
+     "informationUrl": "",
+     "recGovPurchaseUrl": "https://www.recreation.gov/sitepass/74286",
+     "id": "A4891A96-80A2-4A55-850F-7D144AE57636",
+     "npsGovPurchaseUrl": ""
+    }
+   ]
+  }
+ ]
+}

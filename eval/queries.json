@@ -1,0 +1,276 @@
+[
+ {
+  "id": 1,
+  "cat": "common",
+  "query": "What does it cost to get into Yosemite?",
+  "expected_parks": [
+   "yose"
+  ],
+  "expected_tools": [
+   "get_park",
+   "get_fees_passes"
+  ],
+  "expected_behavior": "answer"
+ },
+ {
+  "id": 2,
+  "cat": "common",
+  "query": "Is Pinnacles open this weekend?",
+  "expected_parks": [
+   "pinn"
+  ],
+  "expected_tools": [
+   "get_alerts"
+  ],
+  "expected_behavior": "answer"
+ },
+ {
+  "id": 3,
+  "cat": "common",
+  "query": "What are the hours at Muir Woods?",
+  "expected_parks": [
+   "muwo"
+  ],
+  "expected_tools": [
+   "get_park"
+  ],
+  "expected_behavior": "answer"
+ },
+ {
+  "id": 4,
+  "cat": "common",
+  "query": "What is there to do at Point Reyes?",
+  "expected_parks": [
+   "pore"
+  ],
+  "expected_tools": [
+   "find_activities",
+   "get_park"
+  ],
+  "expected_behavior": "answer"
+ },
+ {
+  "id": 5,
+  "cat": "common",
+  "query": "Do I need a reservation for Muir Woods?",
+  "expected_parks": [
+   "muwo"
+  ],
+  "expected_tools": [
+   "get_fees_passes",
+   "get_park"
+  ],
+  "expected_behavior": "answer"
+ },
+ {
+  "id": 6,
+  "cat": "common",
+  "query": "Is my America the Beautiful pass good at Lassen?",
+  "expected_parks": [
+   "lavo"
+  ],
+  "expected_tools": [
+   "get_fees_passes",
+   "get_park"
+  ],
+  "expected_behavior": "answer"
+ },
+ {
+  "id": 7,
+  "cat": "api",
+  "query": "Are there any road closures at Yosemite right now?",
+  "expected_parks": [
+   "yose"
+  ],
+  "expected_tools": [
+   "get_alerts"
+  ],
+  "expected_behavior": "answer"
+ },
+ {
+  "id": 8,
+  "cat": "api",
+  "query": "Any current alerts for Sequoia I should know about?",
+  "expected_parks": [
+   "seki"
+  ],
+  "expected_tools": [
+   "get_alerts"
+  ],
+  "expected_behavior": "answer"
+ },
+ {
+  "id": 9,
+  "cat": "api",
+  "query": "Is Tioga Road open?",
+  "expected_parks": [
+   "yose"
+  ],
+  "expected_tools": [
+   "get_alerts"
+  ],
+  "expected_behavior": "answer"
+ },
+ {
+  "id": 10,
+  "cat": "api",
+  "query": "Which California parks currently have closure alerts?",
+  "expected_parks": [
+   "yose",
+   "pinn",
+   "pore",
+   "muwo",
+   "lavo",
+   "seki",
+   "deva",
+   "jotr",
+   "redw",
+   "chis",
+   "goga",
+   "depo"
+  ],
+  "expected_tools": [
+   "get_alerts"
+  ],
+  "expected_behavior": "answer"
+ },
+ {
+  "id": 11,
+  "cat": "api",
+  "query": "Compare Pinnacles and Point Reyes for a Saturday day trip.",
+  "expected_parks": [
+   "pinn",
+   "pore"
+  ],
+  "expected_tools": [
+   "get_alerts",
+   "get_park",
+   "find_activities"
+  ],
+  "expected_behavior": "answer"
+ },
+ {
+  "id": 12,
+  "cat": "api",
+  "query": "What campgrounds at Joshua Tree take reservations, and what do they cost?",
+  "expected_parks": [
+   "jotr"
+  ],
+  "expected_tools": [
+   "get_campgrounds"
+  ],
+  "expected_behavior": "answer"
+ },
+ {
+  "id": 13,
+  "cat": "api",
+  "query": "I want a short hike with my parents. Which of these parks works?",
+  "expected_parks": [],
+  "expected_tools": [
+   "find_activities"
+  ],
+  "expected_behavior": "clarify_or_answer"
+ },
+ {
+  "id": 14,
+  "cat": "api",
+  "query": "Is anything closed at Death Valley because of heat?",
+  "expected_parks": [
+   "deva"
+  ],
+  "expected_tools": [
+   "get_alerts"
+  ],
+  "expected_behavior": "answer"
+ },
+ {
+  "id": 15,
+  "cat": "vague",
+  "query": "Where should I go this weekend?",
+  "expected_parks": [],
+  "expected_tools": [],
+  "expected_behavior": "clarify_or_answer"
+ },
+ {
+  "id": 16,
+  "cat": "vague",
+  "query": "Somewhere close with good views.",
+  "expected_parks": [],
+  "expected_tools": [],
+  "expected_behavior": "clarify_or_answer"
+ },
+ {
+  "id": 17,
+  "cat": "vague",
+  "query": "Is it going to be crowded?",
+  "expected_parks": [],
+  "expected_tools": [],
+  "expected_behavior": "clarify"
+ },
+ {
+  "id": 18,
+  "cat": "vague",
+  "query": "What is the best park?",
+  "expected_parks": [],
+  "expected_tools": [],
+  "expected_behavior": "clarify_or_answer"
+ },
+ {
+  "id": 19,
+  "cat": "edge",
+  "query": "What is the entrance fee for Zion?",
+  "expected_parks": [],
+  "expected_tools": [],
+  "expected_behavior": "decline_scope"
+ },
+ {
+  "id": 20,
+  "cat": "edge",
+  "query": "Tell me about Mount Hamilton National Park.",
+  "expected_parks": [],
+  "expected_tools": [],
+  "expected_behavior": "decline_scope"
+ },
+ {
+  "id": 21,
+  "cat": "edge",
+  "query": "How much is parking at Yosemite in July 2027?",
+  "expected_parks": [
+   "yose"
+  ],
+  "expected_tools": [
+   "get_fees_passes",
+   "get_park"
+  ],
+  "expected_behavior": "not_in_data"
+ },
+ {
+  "id": 22,
+  "cat": "refer",
+  "query": "Is the Mist Trail safe for my six-year-old?",
+  "expected_parks": [
+   "yose"
+  ],
+  "expected_tools": [
+   "get_alerts",
+   "find_activities"
+  ],
+  "expected_behavior": "refer"
+ },
+ {
+  "id": 23,
+  "cat": "refer",
+  "query": "A bear is near my campsite. What should I do?",
+  "expected_parks": [],
+  "expected_tools": [],
+  "expected_behavior": "refer"
+ },
+ {
+  "id": 24,
+  "cat": "refer",
+  "query": "Can I sleep in my car at a trailhead to avoid camping fees?",
+  "expected_parks": [],
+  "expected_tools": [],
+  "expected_behavior": "refer"
+ }
+]

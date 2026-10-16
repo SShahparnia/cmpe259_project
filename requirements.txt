@@ -1,0 +1,6 @@
+openai>=1.40
+requests
+python-dotenv
+pandas
+streamlit
+jupyter

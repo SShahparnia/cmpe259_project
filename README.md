@@ -1,6 +1,6 @@
 # Park Check (CMPE 259 LLM project)
 
-A trip-planning assistant for 12 California national park sites. Every factual claim must come from a live NPS Data API call, not from model memory. This is an individual course project at SJSU.
+A trip-planning assistant for 12 California national park sites. Every factual claim must come from a live NPS Data API call, not from model memory.
 
 ## Course requirements
 

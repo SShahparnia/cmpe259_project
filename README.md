@@ -21,7 +21,7 @@ yose Yosemite, pinn Pinnacles, pore Point Reyes, muwo Muir Woods, lavo Lassen Vo
 ## Architecture
 
 - `park_check.ipynb` is the main notebook. Its `%%writefile` cells generate the `parkcheck/` package. **Edit code in the notebook cells, not in the generated .py files**, or the two will drift apart. If you edit a .py file directly, copy the change back into the matching cell.
-- `parkcheck/config.py`: keys from `.env`, model IDs, prices, `SNAPSHOT_DATE`, `OFFLINE`, `MAX_STEPS=5`, `TEMPERATURE=0`. Other modules read settings at call time (`cfg.X`).
+- `parkcheck/config.py`: keys from `.env`, model IDs, prices, `SNAPSHOT_DATE`, `OFFLINE`, `MAX_STEPS=5`, `TEMPERATURE=0`, `REASONING_EFFORT="none"`. Other modules read settings at call time (`cfg.X`).
 - `parkcheck/parks.py`: the `PARKS` dict, `PARK_CODES`, and `resolve_parks(text)`.
 - `parkcheck/nps.py`: `nps_get(endpoint, park_code)` with a disk cache at `nps_cache/<date>/<endpoint>/<code>.json`, plus pagination and retry. `detect_auth_mode()` tries the `X-Api-Key` header and then the `api_key` query param. `prefetch_snapshot()` fills the cache.
 - `parkcheck/tools.py` has five tools. Their JSON schemas constrain `park_code` to an `enum` of the 12 codes:
@@ -55,9 +55,34 @@ A vs B isolates retrieval. A vs C isolates model size. Use one provider only.
 - Pin exact model ID strings in the README.
 - Keep `.env` out of git.
 
-## Status
+## Progress (as of October 15, 2026)
 
-Done (Parts 0 to 8): setup, lookup table, cached client, endpoint verification, 5 tools, prompts, tool loop, configs, smoke tests, the 24 queries, the JSONL runner, and auto metrics (park_recall, tool_match, bad_calls, cost, latency). So far this has only been tested offline with mock data. The first live run may surface field name mismatches, especially in `/feespasses`, whose item schema the OpenAPI spec leaves untyped.
+### Before check-in 1 (Parts 0 to 8)
+
+- Collected 34 sources on RAG, tool use, hallucination, evaluation and prompt injection in `references.md`.
+- Built the `parkcheck` package from the notebook: the cached NPS client, the 12 park lookup table, the 5 tools, the shared prompts, the tool calling loop and the 3 configs.
+- Wrote the 24 test queries in `eval/queries.json`, the JSONL runner and the automatic metrics (park_recall, tool_match, bad_calls, cost, latency).
+- All of this was first tested offline with mock data.
+
+### Check-in 1
+
+- **First live run.** The NPS key works with both auth styles. I saved one snapshot of all 12 parks and 5 endpoints to `nps_cache/2026-10-15/` (60 responses, no errors). All 5 tools ran on all 12 parks without failing, and the untyped `/feespasses` schema is handled by the generic shaping in `get_fees_passes`.
+- **Bug found and fixed.** The gpt-5.6 models reject function tools on `/v1/chat/completions` unless `reasoning_effort="none"`, so Configs A and C crashed on every query. I added `REASONING_EFFORT = "none"` to `config.py` and apply it to all 3 configs so the A vs B comparison stays fair. With this setting, temperature 0 is accepted too.
+- **Evaluation.** I ran all 24 queries through all 3 configs offline on the saved snapshot (72 runs, 0 errors, $0.32 total). Raw logs are in `results/runs_2026-10-15_rerun.jsonl` and the metrics are in `results/auto_metrics_2026-10-15.csv`. An earlier run of the same evaluation is kept in `results/runs_2026-10-15.jsonl`.
+
+| Config | Park recall | Tool match | Bad calls | Mean latency | Cost per query |
+|---|---|---|---|---|---|
+| A grounded (gpt-5.6-terra) | 0.93 | 0.89 | 0 | 2.47 s | $0.0097 |
+| B no retrieval (gpt-5.6-terra) | n/a | n/a | 0 | 2.55 s | $0.0022 |
+| C small model (gpt-5.6-luna) | 1.00 | 1.00 | 0 | 3.40 s | $0.0013 |
+
+- **What the answers show.**
+  - Config B answers from memory. For "Is Tioga Road open?" it said the road is "typically closed by mid-October", while A and C checked the alert feed and told the user to confirm with the park.
+  - C mentioned the new $100 nonresident fee at Yosemite from the live data and A left it out, even though C costs about 7 times less.
+  - A's misses were the vague short hike question (q13, no tool calls) and the Mist Trail safety question (q22, refused without checking alerts).
+  - C scored 0.93 park recall in the earlier run and 1.00 in the rerun, so its tool use varies a little between runs even at temperature 0.
+- **Data gaps found.** Yosemite has 0 alerts in this snapshot, Channel Islands and Devils Postpile have no things-to-do, and 5 parks have no entrance fees in `/parks`. These will be used in the missing data safety test.
+- **Check-in 1 report** is in `docs/checkin1_report.docx`.
 
 ## Next steps
 

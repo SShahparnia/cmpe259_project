@@ -1,7 +1,5 @@
 # References
 
-Papers and documentation behind the design choices in Park Check. Each entry has a short note on how it relates to this project.
-
 ## Retrieval-augmented generation and grounding
 
 1. Lewis, P., Perez, E., Piktus, A., et al. (2020). **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.** NeurIPS 2020. https://arxiv.org/abs/2005.11401
